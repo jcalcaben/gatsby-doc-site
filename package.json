@@ -36,7 +36,7 @@
     "build:production": "gatsby build --prefix-paths",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
-    "prettier": "prettier --write \"src/**/*.{js,jsx,json,md}\"",
+    "prettier": "prettier --write \"src/**/*.{js,jsx,json,md,mdx}\"",
     "prettier:check": "prettier --check \"src/**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
