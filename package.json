@@ -51,7 +51,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn prettier:check"
+      "pre-push": "yarn pretty-quick --check \"src/**/*.{js,jsx,json,md,mdx}\""
     }
   }
 }
