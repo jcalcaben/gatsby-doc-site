@@ -3,7 +3,7 @@ name: Deploy site to gh-pages
 on:
   push:
     branches:
-      - "gh-8/auto-deploy-master-branch"
+      - "master"
 
 jobs:
   build-test-deploy:
