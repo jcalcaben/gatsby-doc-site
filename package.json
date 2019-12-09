@@ -51,7 +51,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn pretty-quick --staged --check --pattern \"src/**/*.{js,jsx,json,md,mdx}\""
+      "pre-push": "yarn pretty-quick --check --pattern \"src/**/*.{js,jsx,json,md,mdx}\""
     }
   }
 }
