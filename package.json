@@ -22,7 +22,9 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "husky": "^3.1.0",
+    "prettier": "^1.19.1",
+    "pretty-quick": "^2.0.1"
   },
   "keywords": [
     "gatsby",
@@ -35,9 +37,10 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "prettier": "prettier --write \"src/**/*.{js,jsx,json,md}\"",
+    "prettier:check": "prettier --check \"src/**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "prettier --check \"src/**/*.{js,jsx,json,md,mdx}\""
+    "test": "yarn prettier:check"
   },
   "repository": {
     "type": "git",
@@ -45,5 +48,10 @@
   },
   "bugs": {
     "url": "https://github.com/jcalcaben/gatsby-doc-site/issues"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "yarn prettier:check"
+    }
   }
 }
