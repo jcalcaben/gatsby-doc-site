@@ -4,7 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "../header"
 
-import defaultStyles from './app.module.css';
+import defaultStyles from "./app.module.css"
 
 const App = props => {
   const data = useStaticQuery(graphql`
@@ -22,7 +22,7 @@ const App = props => {
   const siteTitle = title || data.site.siteMetadata.title
 
   return (
-    <div className={defaultStyles.root} >
+    <div className={defaultStyles.root}>
       <Header siteTitle={siteTitle} />
       <div className={defaultStyles.content}>
         <section>Left sidebar</section>
