@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 import App from '../../components/App'
 import SEO from '../../components/seo'
@@ -15,6 +16,11 @@ const PageLayout = props => {
             </App>
         </>
     );
+}
+
+PageLayout.propTypes = {
+    title: PropTypes.string,
+    children: PropTypes.node
 }
 
 export default PageLayout;

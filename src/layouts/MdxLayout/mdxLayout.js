@@ -6,9 +6,9 @@ import { MDXRenderer } from "gatsby-plugin-mdx"
 import App from '../../components/App';
 import SEO from '../../components/seo';
 
-import Layout from "../../components/layout"
-
-const MdxLayout = ({ data: { mdx } }) => {
+const MdxLayout = (props) => {
+  const { data } = props;
+  const { mdx } = data;
   return (
     <>
       <SEO title={mdx.frontmatter.title} />
@@ -31,8 +31,12 @@ export const pageQuery = graphql`
   }
 `
 
-Layout.propTypes = {
-  data: PropTypes.node.isRequired,
+MdxLayout.propTypes = {
+  props: PropTypes.shape({
+    data: PropTypes.shape({
+      mdx: PropTypes.node.isRequired
+    })
+  })
 }
 
 export default MdxLayout
