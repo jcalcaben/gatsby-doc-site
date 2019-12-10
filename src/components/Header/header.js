@@ -1,14 +1,14 @@
 import PropTypes from "prop-types"
 import React from "react"
 
-import Home from './home';
+import Home from "./home"
 
 import defaultStyles from "./header.module.css"
 
 const Header = ({ siteTitle }) => {
   return (
     <header className={defaultStyles.root}>
-      <Home to="/"/>
+      <Home to="/" />
       <div>Tabs Content</div>
       <div>{siteTitle}</div>
       <div>Search</div>
