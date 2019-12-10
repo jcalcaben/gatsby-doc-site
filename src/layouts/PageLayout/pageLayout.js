@@ -1,26 +1,23 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React from "react"
+import PropTypes from "prop-types"
 
-import App from '../../components/App'
-import SEO from '../../components/seo'
+import App from "../../components/App"
+import SEO from "../../components/seo"
 
 const PageLayout = props => {
+  const { title, children } = props
 
-    const { title, children } = props;
-
-    return (
-        <>
-            <SEO title={title} />
-            <App title={title}>
-                {children}
-            </App>
-        </>
-    );
+  return (
+    <>
+      <SEO title={title} />
+      <App title={title}>{children}</App>
+    </>
+  )
 }
 
 PageLayout.propTypes = {
-    title: PropTypes.string,
-    children: PropTypes.node
+  title: PropTypes.string,
+  children: PropTypes.node,
 }
 
-export default PageLayout;
+export default PageLayout

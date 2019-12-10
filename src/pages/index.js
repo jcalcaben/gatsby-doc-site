@@ -3,11 +3,10 @@ import { Link } from "gatsby"
 
 import Image from "../components/image"
 
-import PageLayout from '../layouts/PageLayout';
+import PageLayout from "../layouts/PageLayout"
 
 const IndexPage = () => {
-
-  const title = "Home";
+  const title = "Home"
 
   return (
     <PageLayout title={title}>

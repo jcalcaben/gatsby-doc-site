@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import PageLayout from '../layouts/PageLayout';
+import PageLayout from "../layouts/PageLayout"
 
 const SecondPage = () => {
-  const title = "Page two";
+  const title = "Page two"
 
   return (
     <PageLayout title={title}>
