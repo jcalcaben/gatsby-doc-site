@@ -17,21 +17,20 @@ const App = props => {
     }
   `)
 
-  const { title, children } = props
+  const { title, slug, children } = props
 
   const siteTitle = title || data.site.siteMetadata.title
 
   return (
     <Provider>
       <div className={defaultStyles.root}>
-        <Header siteTitle={siteTitle} />
+        <Header siteTitle={siteTitle} slug={slug}/>
         <div className={defaultStyles.content}>
           <section>Left sidebar</section>
           <main>{children}</main>
           <section>Right sidebar</section>
         </div>
         <footer>Footer content</footer>
-      </div>
     </Provider>
   )
 }
