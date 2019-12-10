@@ -5,6 +5,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "../Header"
 
 import defaultStyles from "./app.module.css"
+import Provider from "@react/react-spectrum/Provider"
 
 const App = props => {
   const data = useStaticQuery(graphql`
@@ -22,15 +23,17 @@ const App = props => {
   const siteTitle = title || data.site.siteMetadata.title
 
   return (
-    <div className={defaultStyles.root}>
-      <Header siteTitle={siteTitle} />
-      <div className={defaultStyles.content}>
-        <section>Left sidebar</section>
-        <main>{children}</main>
-        <section>Right sidebar</section>
+    <Provider theme="light">
+      <div className={defaultStyles.root}>
+        <Header siteTitle={siteTitle} />
+        <div className={defaultStyles.content}>
+          <section>Left sidebar</section>
+          <main>{children}</main>
+          <section>Right sidebar</section>
+        </div>
+        <footer>Footer content</footer>
       </div>
-      <footer>Footer content</footer>
-    </div>
+    </Provider>
   )
 }
 
