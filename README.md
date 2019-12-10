@@ -4,7 +4,7 @@ A documentation site template built on top of Gatsby.
 
 [Production site](https://jcalcaben.github.io/gatsby-doc-site/)
 
-## Build
+## Build site
 
 1. Install the [Yarn package](https://yarnpkg.com/en/).
 
