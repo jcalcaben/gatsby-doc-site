@@ -6,6 +6,8 @@ import { MDXRenderer } from "gatsby-plugin-mdx"
 import App from "../../components/App"
 import SEO from "../../components/seo"
 
+import '../global.css';
+
 const MdxLayout = props => {
   const { data } = props
   const { mdx } = data
