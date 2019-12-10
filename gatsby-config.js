@@ -35,7 +35,7 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
-      }
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
@@ -43,6 +43,9 @@ module.exports = {
         name: "posts",
         path: `${__dirname}/src/markdown-pages`,
       },
-    }
+    },
+    {
+      resolve: "gatsby-plugin-react-svg",
+    },
   ],
 }
