@@ -21,13 +21,11 @@ const DataProvider = props => {
       }
       externalPages: allExternalPagesYaml {
         nodes {
-          categories {
+          title
+          name
+          sites {
             title
-            name
-            sites {
-              title
-              link
-            }
+            link
           }
         }
       }
