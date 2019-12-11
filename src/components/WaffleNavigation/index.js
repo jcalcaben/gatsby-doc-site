@@ -12,7 +12,7 @@ import Apps from "@adobe/spectrum-css-workflow-icons/dist/24/Apps.svg"
 const WaffleNavigation = props => {
   const { externalPages } = useData()
 
-  const [open, setOpen] = useState(true)
+  const [open, setOpen] = useState(false)
   const handleToggle = useCallback(() => {
     setOpen(prevState => !prevState)
   }, [])
