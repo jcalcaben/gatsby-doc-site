@@ -1,3 +1,3 @@
-import TreeNavigation from './treeNavigation'
+import TreeNavigation from "./treeNavigation"
 
-export default TreeNavigation;
+export default TreeNavigation

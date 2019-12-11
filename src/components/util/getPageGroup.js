@@ -23,4 +23,4 @@ const inGroup = (slug, group) => {
   return urlMatch || inChildPages
 }
 
-export default getPageGroup;
+export default getPageGroup
