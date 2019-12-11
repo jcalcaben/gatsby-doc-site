@@ -24,9 +24,10 @@ const TreeNavigation = props => {
   let listItems = undefined
   if (group) {
     listItems = group.pages.map(page => {
-      const branch = page.pages ? <Branch pageTree={page} /> : undefined
+      const branch = page.pages ? <Branch pageTree={page} slug={slug} /> : undefined
+      const listItemClass = slug === page.url? [classes.listItem, 'is-selected'].join(' '): classes.listItem;
       return (
-        <li key={page.url} className={classes.listItem}>
+        <li key={page.url} className={listItemClass}>
           <Link className={classes.link} to={page.url}>
             {page.title}
           </Link>
@@ -44,13 +45,14 @@ const TreeNavigation = props => {
 }
 
 const Branch = props => {
-  const { pageTree } = props
+  const { slug, pageTree } = props
 
   const listItems = pageTree.pages.map(page => {
     const branch = page.pages ? <Branch pageTree={page} /> : undefined
 
+    const listItemClass = slug === page.url? [classes.listItem, 'is-selected'].join(' '): classes.listItem;
     return (
-      <li key={page.url} className={classes.listItem}>
+      <li key={page.url} className={listItemClass}>
         <Link className={classes.link} to={page.url}>
           {page.title}
         </Link>
