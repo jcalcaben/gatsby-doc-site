@@ -12,9 +12,14 @@
 }
 
 .listItem {
-    margin: 5px 5px; 
+    margin: 5px 10px; 
 }
 
 .selectedItem {
+    composes: listItem;
+    color: red;
+}
 
+.link {
+    text-decoration: none;
 }
