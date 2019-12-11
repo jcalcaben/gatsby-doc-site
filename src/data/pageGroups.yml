@@ -5,7 +5,7 @@ groups:
     url: /
   - title: Another section
     name: section-2
-    url: /
+    url: /example/
   - title: Third section
     name: section-3
-    url: /
+    url: /nested/page/
