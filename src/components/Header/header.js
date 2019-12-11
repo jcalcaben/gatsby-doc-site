@@ -8,7 +8,7 @@ import TabNavigation from '../TabNavigation';
 import defaultStyles from "./header.module.css"
 
 const Header = ({ siteTitle, slug }) => {
-  const classNames = [defaultStyles.root, "spectrum--dark"];
+  const classNames = [defaultStyles.root, "spectrum--dark"]
   return (
     <header className={classNames.join(" ")}>
       <Home to="/" />

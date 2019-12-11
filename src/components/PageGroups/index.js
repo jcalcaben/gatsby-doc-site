@@ -1,3 +1,3 @@
-import PageGroupsProvider, {usePageGroups} from './pageGroups';
+import PageGroupsProvider, { usePageGroups } from "./pageGroups"
 
-export {PageGroupsProvider, usePageGroups};
+export { PageGroupsProvider, usePageGroups }

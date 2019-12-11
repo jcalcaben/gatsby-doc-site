@@ -1,3 +1,3 @@
-import TabNavigation from './tabNavigation'
+import TabNavigation from "./tabNavigation"
 
-export default TabNavigation;
+export default TabNavigation
