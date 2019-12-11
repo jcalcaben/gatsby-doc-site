@@ -2,12 +2,13 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Header from "../Header"
-import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
-import Footer from "../Footer"
-import defaultStyles from "./app.module.css"
-
+import Callout from "../Callout"
 import { DataProvider } from "../Data"
+import Footer from "../Footer"
+import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
+import Header from "../Header"
+
+import defaultStyles from "./app.module.css"
 
 const App = props => {
   const data = useStaticQuery(graphql`
@@ -31,7 +32,31 @@ const App = props => {
           <Header siteTitle={siteTitle} slug={slug} />
           <div className={defaultStyles.content}>
             <section>Left sidebar</section>
-            <main>{children}</main>
+            <main>
+              {children}
+              <div>
+                <Callout
+                  type={"tip"}
+                  header={"Good job!"}
+                  content={"We made a tip callout!"}
+                />
+                <Callout
+                  type={"info"}
+                  header={"Woah!"}
+                  content={"We made an info callout!"}
+                />
+                <Callout
+                  type={"warning"}
+                  header={"Dang!"}
+                  content={"We made a warning callout!"}
+                />
+                <Callout
+                  type={"error"}
+                  header={"Oops!"}
+                  content={"We made an error callout!"}
+                />
+              </div>
+            </main>
             <section>Right sidebar</section>
           </div>
           <Footer />
