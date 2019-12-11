@@ -5,7 +5,6 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "../Header"
 import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
 import Footer from '../Footer';
-import Provider from "../Provider"
 import defaultStyles from "./app.module.css"
 
 import { DataProvider } from "../Data"
