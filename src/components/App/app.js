@@ -6,7 +6,7 @@ import Header from "../Header"
 import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
 import defaultStyles from "./app.module.css"
 
-import { PageGroupsProvider } from "../PageGroups"
+import { DataProvider } from "../Data"
 
 const App = props => {
   const data = useStaticQuery(graphql`
@@ -24,7 +24,7 @@ const App = props => {
   const siteTitle = title || data.site.siteMetadata.title
 
   return (
-    <PageGroupsProvider>
+    <DataProvider>
       <GlobalSpectrumProvider size="medium" theme="light">
         <div className={defaultStyles.root}>
           <Header siteTitle={siteTitle} slug={slug} />
@@ -36,7 +36,7 @@ const App = props => {
           <footer>Footer content</footer>
         </div>
       </GlobalSpectrumProvider>
-    </PageGroupsProvider>
+    </DataProvider>
   )
 }
 
