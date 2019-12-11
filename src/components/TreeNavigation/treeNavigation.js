@@ -21,36 +21,29 @@ const TreeNavigation = props => {
 
   const group = getPageGroup(slug, pageGroups)
 
-  let listItems = undefined
-  if (group) {
-    listItems = group.pages.map(page => {
-      const branch = page.pages ? <Branch pageTree={page} slug={slug} /> : undefined
-      const listItemClass = slug === page.url? [classes.listItem, 'is-selected'].join(' '): classes.listItem;
-      return (
-        <li key={page.url} className={listItemClass}>
-          <Link className={classes.link} to={page.url}>
-            {page.title}
-          </Link>
-          {branch}
-        </li>
-      )
-    })
-  }
-
   return (
     <nav>
-      <ul className={classes.list}>{listItems}</ul>
+      <Branch slug={slug} pageTree={group} rootClass={classes.list} />
     </nav>
   )
 }
 
 const Branch = props => {
-  const { slug, pageTree } = props
+  const { slug, pageTree, rootClass } = props
+
+  const listClass = rootClass || classes.subList
 
   const listItems = pageTree.pages.map(page => {
-    const branch = page.pages ? <Branch pageTree={page} /> : undefined
+    const branch = page.pages ? (
+      <Branch pageTree={page} slug={slug} />
+    ) : (
+      undefined
+    )
 
-    const listItemClass = slug === page.url? [classes.listItem, 'is-selected'].join(' '): classes.listItem;
+    const listItemClass =
+      slug === page.url
+        ? [classes.listItem, "is-selected"].join(" ")
+        : classes.listItem
     return (
       <li key={page.url} className={listItemClass}>
         <Link className={classes.link} to={page.url}>
@@ -61,7 +54,7 @@ const Branch = props => {
     )
   })
 
-  return <ul className={classes.subList}>{listItems}</ul>
+  return <ul className={listClass}>{listItems}</ul>
 }
 
 export default TreeNavigation
