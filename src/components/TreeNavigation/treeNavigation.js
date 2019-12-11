@@ -6,6 +6,8 @@ import { useData } from "../Data"
 
 import { Link } from "gatsby"
 
+import getPageGroup from '../util/getPageGroup';
+
 const classes = {
   list: "spectrum-SideNav spectrum-SideNav--multiLevel",
   listItem: "spectrum-SideNav-item",
@@ -34,31 +36,6 @@ const TreeNavigation = props => {
       <ul className={classes.list}>{listItems}</ul>
     </nav>
   )
-}
-
-const getPageGroup = (slug, pageGroups) => {
-  let found = undefined
-  pageGroups.nodes.forEach(group => {
-    if (inGroup(slug, group)) {
-      found = group
-    }
-  })
-
-  return found
-}
-
-const inGroup = (slug, group) => {
-  const urlMatch = slug === group.url
-
-  let inChildPages = false
-
-  if (group.pages) {
-    inChildPages = group.pages.find(page => {
-      return inGroup(slug, page)
-    })
-  }
-
-  return urlMatch || inChildPages
 }
 
 export default TreeNavigation
