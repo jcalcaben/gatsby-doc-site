@@ -3,7 +3,7 @@ import React from "react"
 
 import Home from "./home"
 import Search from "../Search"
-import TabNavigation from '../TabNavigation';
+import TabNavigation from "../TabNavigation"
 
 import defaultStyles from "./header.module.css"
 
