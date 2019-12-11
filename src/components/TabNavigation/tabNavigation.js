@@ -6,7 +6,7 @@ import { navigate } from "gatsby"
 
 import "@spectrum-css/tabs"
 
-import getPageGroup from '../util/getPageGroup';
+import getPageGroup from "../util/getPageGroup"
 
 const classes = {
   list:
@@ -22,7 +22,7 @@ const TabNavigation = props => {
 
   const { pageGroups } = useData()
 
-  let currentGroup = getPageGroup(slug, pageGroups);
+  let currentGroup = getPageGroup(slug, pageGroups)
 
   const tabs = pageGroups.nodes
     .sort((a, b) => a.order - b.order)
