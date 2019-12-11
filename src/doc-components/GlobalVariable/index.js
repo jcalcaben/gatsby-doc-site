@@ -1,3 +1,3 @@
-import GlobalVariable from './globalVariable';
+import GlobalVariable from "./globalVariable"
 
-export default GlobalVariable;
+export default GlobalVariable

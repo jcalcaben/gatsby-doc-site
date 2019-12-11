@@ -1,12 +1,11 @@
 import React from "react"
 
-import data from '../../data/globalVariables.yml';
+import data from "../../data/globalVariables.yml"
 
 const GlobalVariable = props => {
+  const { name, children } = props
 
-    const {name, children} = props;
-
-    const value = data[name] || data[children] || name || children;
+  const value = data[name] || data[children] || name || children
 
   return <span>{value}</span>
 }
