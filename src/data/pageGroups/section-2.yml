@@ -1,10 +1,11 @@
 order: 2
-title: Section Two
+title: Setup
 name: section-2
-url: /example/
+url: /setup/
 pages:
-  - title: Example
-    url: /example/
-
-  - title: Normal markdown
-    url: /normal-markdown/
+  - title: Setup environment
+    url: /setup/
+  - title: Create a TOC
+    url: /navigation/
+  - title: Define global variables
+    url: /variables/

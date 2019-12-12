@@ -1,9 +1,13 @@
 order: 3
-title: Section Three
+title: Write
 name: section-3
-url: /nested/page/
+url: /workflow/
 pages:
-  - title: Nested page
+  - title: Use normal markdown
+    url: /normal-markdown/
+  - title: Reuse content
+    url: /import-mdx/
+  - title: Insert a note
+    url: /callouts/
+  - title: Nest a page
     url: /nested/page/
-  - title: Variables
-    url: /variables/

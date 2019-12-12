@@ -1,10 +1,12 @@
 ---
-title: Global variables
+title: Setup global variables
 ---
+
+<!-- imports -->
 
 import GlobalVariable from "DocComponents/GlobalVariable"
 
-## Declare and use global variables
+## Declare global variables
 
 Setting a global variable saves global search and replaces later. Declare global variables in the `/src/data/globalVariables.yml` file using the following syntax:
 
@@ -27,7 +29,7 @@ Setting a global variable saves global search and replaces later. Declare global
    ```yaml
    version: 1.0
    exampleVariable: This is an example variable
-   hackTeam: Jekyll's Hyde
+   hackTeam: Project Hyde
    ```
 
 1. Use the variable inline within your topic content. This example contains two variables.
@@ -39,3 +41,5 @@ Setting a global variable saves global search and replaces later. Declare global
    Sample response:
 
    This is version <GlobalVariable name='version'/> of a Doc site created by <GlobalVariable name='hackTeam'/> Hackathon team!
+
+<!-- link definitions -->
