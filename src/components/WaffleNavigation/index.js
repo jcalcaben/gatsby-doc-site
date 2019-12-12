@@ -48,7 +48,7 @@ const WaffleNavigation = props => {
     })
 
     return (
-      <ul className="spectrum-Menu" key={category.name}>
+      <ul className={`spectrum-Menu ${classes.menu}`} key={category.name}>
         <li role="presentation">
           <span
             className="spectrum-Menu-sectionHeading"

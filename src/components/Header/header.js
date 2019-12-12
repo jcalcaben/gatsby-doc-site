@@ -9,7 +9,7 @@ import WaffleNavigation from "../WaffleNavigation"
 import defaultStyles from "./header.module.css"
 
 const Header = ({ siteTitle, slug }) => {
-  const classNames = [defaultStyles.root, "spectrum--dark"]
+  const classNames = [defaultStyles.root, "spectrum--light"]
   return (
     <header className={classNames.join(" ")}>
       <Home to="/" />
