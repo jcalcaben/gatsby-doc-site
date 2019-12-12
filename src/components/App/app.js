@@ -41,13 +41,11 @@ const App = props => {
             onNavToggleClick={handleNavToggleClick}
           />
           <div className={defaultStyles.content}>
-            <Panel side={"left"} open={navOpen}>
+            <Panel open={navOpen}>
               <TreeNavigation slug={slug} />
             </Panel>
             <main>{children}</main>
-            <Panel side={"left"} open={navOpen}>
-              {"Right sidebar"}
-            </Panel>
+            <Panel>{"Right sidebar"}</Panel>
           </div>
           <Footer />
         </div>

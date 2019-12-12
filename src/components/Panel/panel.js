@@ -9,7 +9,7 @@ const classes = {
 }
 
 const Panel = props => {
-  const { children, open, side } = props
+  const { children, open } = props
 
   const classnames = [defaultClasses.root]
   if (open) {
