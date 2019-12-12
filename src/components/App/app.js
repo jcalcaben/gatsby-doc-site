@@ -10,6 +10,7 @@ import Panel from "../Panel"
 
 import defaultStyles from "./app.module.css"
 import TreeNavigation from "../TreeNavigation"
+import TableOfContents from "../TableOfContents"
 
 const App = props => {
   const data = useStaticQuery(graphql`
@@ -22,7 +23,7 @@ const App = props => {
     }
   `)
 
-  const { title, slug, children } = props
+  const { currentPageContents, title, slug, children } = props
 
   const siteTitle = title || data.site.siteMetadata.title
 
@@ -45,7 +46,9 @@ const App = props => {
               <TreeNavigation slug={slug} />
             </Panel>
             <main>{children}</main>
-            <Panel>{"Right sidebar"}</Panel>
+            <Panel>
+              <TableOfContents data={currentPageContents} />
+            </Panel>
           </div>
           <Footer />
         </div>
