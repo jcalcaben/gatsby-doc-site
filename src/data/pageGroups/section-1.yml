@@ -12,5 +12,5 @@ pages:
       - title: Import MDX
         url: /import-mdx/
         pages:
-          - title: Test
-            url: /
+          - title: Callouts
+            url: /callouts/
