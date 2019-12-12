@@ -21,11 +21,14 @@ const TreeNavigation = props => {
 
   const group = getPageGroup(slug, pageGroups)
 
-  return (
-    <nav>
-      <Branch slug={slug} pageTree={group} rootClass={classes.list} />
-    </nav>
-  )
+  if (group) {
+    return (
+      <nav>
+        <Branch slug={slug} pageTree={group} rootClass={classes.list} />
+      </nav>
+    )
+  }
+  return null
 }
 
 const Branch = props => {
