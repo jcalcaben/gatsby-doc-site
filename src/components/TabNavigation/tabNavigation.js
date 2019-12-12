@@ -27,7 +27,9 @@ const TabNavigation = props => {
   const tabs = pageGroups.nodes
     .sort((a, b) => a.order - b.order)
     .map(tab => {
-      const currentlySelected = currentGroup? currentGroup.name === tab.name: false;
+      const currentlySelected = currentGroup
+        ? currentGroup.name === tab.name
+        : false
       const tabClass = currentlySelected ? classes.selected : classes.listItem
 
       const indicator = currentlySelected ? (
