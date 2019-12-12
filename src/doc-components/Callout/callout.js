@@ -24,7 +24,7 @@ const spectrumTypeMap = {
 }
 
 const Callout = props => {
-  const { type, header, closeable, content } = props
+  const { type, header, closeable, children } = props
 
   const [open, setOpen] = useState(true)
   const handleClose = useCallback(() => {
@@ -51,7 +51,7 @@ const Callout = props => {
         aria-hidden="true"
       />
       <div className="spectrum-Alert-header">{header}</div>
-      <div className="spectrum-Alert-content">{content}</div>
+      <div className="spectrum-Alert-content">{children}</div>
       {closeButton}
     </div>
   ) : null

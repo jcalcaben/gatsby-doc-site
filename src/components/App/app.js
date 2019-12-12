@@ -2,7 +2,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Callout from "../Callout"
 import { DataProvider } from "../Data"
 import Footer from "../Footer"
 import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
@@ -32,31 +31,7 @@ const App = props => {
           <Header siteTitle={siteTitle} slug={slug} />
           <div className={defaultStyles.content}>
             <section>Left sidebar</section>
-            <main>
-              {children}
-              <div>
-                <Callout
-                  type={"tip"}
-                  header={"Good job!"}
-                  content={"We made a tip callout!"}
-                />
-                <Callout
-                  type={"info"}
-                  header={"Woah!"}
-                  content={"We made an info callout!"}
-                />
-                <Callout
-                  type={"warning"}
-                  header={"Dang!"}
-                  content={"We made a warning callout!"}
-                />
-                <Callout
-                  type={"error"}
-                  header={"Oops!"}
-                  content={"We made an error callout!"}
-                />
-              </div>
-            </main>
+            <main>{children}</main>
             <section>Right sidebar</section>
           </div>
           <Footer />
