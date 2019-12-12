@@ -1,0 +1,12 @@
+.root {
+  /* max-width: 360px;
+  min-width: 50px; */
+}
+
+.isOpen {
+  display: block;
+}
+
+.isClosed {
+  display: none;
+}

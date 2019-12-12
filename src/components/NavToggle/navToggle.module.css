@@ -1,0 +1,10 @@
+/* TODO: Can't figure out how to get this button sized/positioned correctly. */
+.root {
+  display: block;
+}
+
+@media screen and (min-width: 900px) {
+  .root {
+    display: none;
+  }
+}

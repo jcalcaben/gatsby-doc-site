@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useCallback, useState } from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
@@ -6,6 +6,7 @@ import { DataProvider } from "../Data"
 import Footer from "../Footer"
 import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
 import Header from "../Header"
+import Panel from "../Panel"
 
 import defaultStyles from "./app.module.css"
 import TreeNavigation from "../TreeNavigation"
@@ -25,17 +26,28 @@ const App = props => {
 
   const siteTitle = title || data.site.siteMetadata.title
 
+  const [navOpen, setNavOpen] = useState(true)
+  const handleNavToggleClick = useCallback(() => {
+    setNavOpen(!navOpen)
+  }, [navOpen])
+
   return (
     <DataProvider>
       <GlobalSpectrumProvider size="medium" theme="light">
         <div className={defaultStyles.root}>
-          <Header siteTitle={siteTitle} slug={slug} />
+          <Header
+            siteTitle={siteTitle}
+            slug={slug}
+            onNavToggleClick={handleNavToggleClick}
+          />
           <div className={defaultStyles.content}>
-            <section>
+            <Panel side={"left"} open={navOpen}>
               <TreeNavigation slug={slug} />
-            </section>
+            </Panel>
             <main>{children}</main>
-            <section>Right sidebar</section>
+            <Panel side={"left"} open={navOpen}>
+              {"Right sidebar"}
+            </Panel>
           </div>
           <Footer />
         </div>
