@@ -9,7 +9,7 @@ import GlobalVariable from "DocComponents/GlobalVariable"
 Setting a global variable saves global search and replaces later. Declare global variables in the `/src/data/globalVariables.yml` file using the following syntax:
 
 ```yaml
-<variable-name>: <some-variable>
+<variable-name>: <variable-value>
 ```
 
 ### To use a global variable in a topic:
@@ -37,4 +37,5 @@ Setting a global variable saves global search and replaces later. Declare global
    ```
 
    Sample response:
+
    This is version <GlobalVariable name='version'/> of a Doc site created by <GlobalVariable name='hackTeam'/> Hackathon team!
