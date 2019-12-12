@@ -12,6 +12,7 @@ const classes = {
   list: "spectrum-SideNav spectrum-SideNav--multiLevel",
   subList: "spectrum-SideNav",
   listItem: "spectrum-SideNav-item",
+  listItemSelected: "spectrum-SideNav-item is-selected",
   link: "spectrum-SideNav-itemLink",
 }
 
@@ -44,9 +45,7 @@ const Branch = props => {
     )
 
     const listItemClass =
-      slug === page.url
-        ? [classes.listItem, "is-selected"].join(" ")
-        : classes.listItem
+      slug === page.url ? classes.listItemSelected : classes.listItem
     return (
       <li key={page.url} className={listItemClass}>
         <Link className={classes.link} to={page.url}>
