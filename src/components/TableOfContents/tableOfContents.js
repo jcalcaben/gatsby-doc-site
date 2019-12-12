@@ -1,8 +1,4 @@
 import React, { useEffect } from "react"
-// import { useStaticQuery, graphql } from "gatsby"
-
-// import { useData } from "../Data"
-// import getPageGroup from "../util/getPageGroup"
 
 import "@spectrum-css/sidenav"
 import classes from "./tableOfContents.module.css"
@@ -12,10 +8,10 @@ const TableOfContents = props => {
 
   const toItem = section => {
     const subSections = section.items ? (
-      <ul>{section.items.map(toItem)}</ul>
+      <ul className="spectrum-SideNav">{section.items.map(toItem)}</ul>
     ) : null
 
-    // TODO: Apply isSelected logic.
+    // TODO: Apply isSelected logic/css "is-selected"
     return (
       <li
         className="spectrum-SideNav-item"
@@ -38,7 +34,9 @@ const TableOfContents = props => {
   return (
     <nav className={classes.root}>
       <h2 className="spectrum-SideNav-heading">Table of Contents</h2>
-      <ul className="spectrum-SideNav">{contents}</ul>
+      <ul className="spectrum-SideNav spectrum-SideNav--multiLevel">
+        {contents}
+      </ul>
     </nav>
   )
 }
