@@ -38,6 +38,9 @@ module.exports = {
         gatsbyRemarkPlugins: [
           {
             resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              className: 'header-anchor'
+            }
           },
           {
             resolve: `gatsby-remark-images`,
