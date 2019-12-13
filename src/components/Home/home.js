@@ -23,11 +23,12 @@ const Home = props => {
   return (
     <div className={defaultClasses.root}>
       <Link className={defaultClasses.link} to={to}>
-        <Img className={defaultClasses.image} fluid={data.placeholderImage.childImageSharp.fluid} />
+        <Img
+          className={defaultClasses.image}
+          fluid={data.placeholderImage.childImageSharp.fluid}
+        />
       </Link>
-      <div className={defaultClasses.siteName}>
-        {title}
-      </div>
+      <div className={defaultClasses.siteName}>{title}</div>
     </div>
   )
 }
