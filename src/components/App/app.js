@@ -6,7 +6,7 @@ import { DataProvider } from "../Data"
 import Footer from "../Footer"
 import GlobalSpectrumProvider from "../GlobalSpectrumProvider"
 import Header from "../Header"
-import Home from '../Home'
+import Home from "../Home"
 import Search from "../Search"
 
 import defaultStyles from "./app.module.css"
@@ -33,7 +33,7 @@ const App = props => {
       <GlobalSpectrumProvider size="medium" theme="light">
         <div className={defaultStyles.root}>
           <section className={defaultStyles.sidebar}>
-            <Home to="/" />
+            <Home title={data.site.siteMetadata.title} to="/" />
             <Search />
             <TreeNavigation slug={slug} />
           </section>

@@ -6,7 +6,7 @@ import Img from "gatsby-image"
 import defaultClasses from "./home.module.css"
 
 const Home = props => {
-  const { to } = props
+  const { to, title } = props
 
   const data = useStaticQuery(graphql`
     query {
@@ -26,7 +26,7 @@ const Home = props => {
         <Img className={defaultClasses.image} fluid={data.placeholderImage.childImageSharp.fluid} />
       </Link>
       <div className={defaultClasses.siteName}>
-        DevDocs | Prototype Site
+        {title}
       </div>
     </div>
   )
