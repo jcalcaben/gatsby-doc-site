@@ -9,5 +9,3 @@ pages:
     url: /import-mdx/
   - title: Insert a note
     url: /callouts/
-  - title: Nest a page
-    url: /nested/page/
