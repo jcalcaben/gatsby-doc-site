@@ -1,10 +1,20 @@
 .root {
     display: grid;
+    grid-template-columns: [sidebar] 3fr [gap] 1fr [main] 8fr; 
+    grid-template-rows: [primary] auto [footer] auto;
+    background-color: #ffffff;
+}
+
+.sidebar {
+    display: grid;
+    grid-template-rows: [brand] 48px [search] 48px [nav] auto;
+    grid-column: sidebar;
+    background-color: #F4F4F4;
+    min-height: calc(100vh - 75px);
 }
 
 .content {
     display: grid;
-    grid-template-columns: 3fr 7fr 3fr;
+    grid-column: main;
     min-height: calc(100vh - 120px);
-    background-color: #ffffff;
 }
