@@ -11,7 +11,6 @@ const Header = ({ siteTitle, slug }) => {
   return (
     <header className={classNames.join(" ")}>
       <TabNavigation slug={slug} />
-      <div>{siteTitle}</div>
       <WaffleNavigation />
     </header>
   )
