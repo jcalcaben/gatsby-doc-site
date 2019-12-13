@@ -1,11 +1,22 @@
 order: 2
-title: Setup
+title: Site
 name: section-2
 url: /setup/
 pages:
   - title: Setup environment
     url: /setup/
-  - title: Create a TOC
-    url: /navigation/
-  - title: Define global variables
-    url: /variables/
+    pages:
+    - title: Create a TOC
+      url: /navigation/
+    - title: Define global variables
+      url: /variables/
+
+  - title: Write
+    url: /workflow/
+    pages:
+      - title: Use normal markdown
+        url: /normal-markdown/
+      - title: Reuse content
+        url: /import-mdx/
+      - title: Insert a note
+        url: /callouts/
