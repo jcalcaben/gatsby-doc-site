@@ -1,6 +1,6 @@
 .root {
     display: grid;
-    grid-template-columns: [sidebar] 3fr [gap] 1fr [main] 8fr; 
+    grid-template-columns: [sidebar] minmax(250px, 300px) [gap] minmax(30px, 50px) [main] auto; 
     grid-template-rows: [primary] auto [footer] auto;
     background-color: #ffffff;
 }
@@ -10,12 +10,10 @@
     grid-template-rows: [brand] 48px [search] 48px [nav] auto;
     grid-column: sidebar;
     background-color: #F4F4F4;
-    min-width: 360px;
 }
 
 .gap {
     grid-column: gap;
-    min-width: 30px;
 }
 
 .content {
