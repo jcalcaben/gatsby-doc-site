@@ -3,6 +3,7 @@
     grid-template-columns: [sidebar] minmax(250px, 300px) [gap] minmax(30px, 50px) [main] auto; 
     grid-template-rows: [primary] auto [footer] auto;
     background-color: #ffffff;
+    max-width: 1940px;
 }
 
 .sidebar {
@@ -10,6 +11,7 @@
     grid-template-rows: [brand] 48px [search] 48px [nav] auto;
     grid-column: sidebar;
     background-color: #F4F4F4;
+    min-height: calc(100vh - 75px);
 }
 
 .gap {
@@ -19,20 +21,36 @@
 .content {
     display: grid;
     grid-column: main;
-    min-height: calc(100vh - 75px);
-    grid-template-rows: [header] 48px [mainContent] auto;
+    grid-template-rows: [header] 48px [mainContent] min-content;
     padding: 5px;
 }
 
 .topicContent {
-    display: grid;
-    grid-template-columns: 650px 250px;
+  display: flex;
 }
 
-@media screen 
-  and (min-device-width: 1600px) 
-  {
-      .topicContent {
-          grid-template-columns: 760px 250px;
-      }
-  }
+.main {
+  width: calc(100vw - 650px);
+  max-width: 1200px;
+}
+
+@media screen and (min-device-width: 1024px) 
+{
+    .main {
+      width: calc(100vw - 300px);
+    }
+
+    .topicContent {
+      flex-wrap: wrap-reverse;
+    }
+}
+
+@media screen and (min-device-width: 1440px) 
+{
+    .main {
+      width: calc(100vw - 650px);
+    }
+
+    .topicContent{
+    }
+}
