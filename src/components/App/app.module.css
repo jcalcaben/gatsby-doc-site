@@ -1,28 +1,32 @@
 .root {
-    display: grid;
-    grid-template-columns: [sidebar] minmax(250px, 300px) [gap] minmax(30px, 50px) [main] auto; 
-    grid-template-rows: [primary] auto [footer] auto;
-    background-color: #ffffff;
-    max-width: 1940px;
+  display: grid;
+  grid-template-columns: [sidebar] minmax(250px, 300px) [gap] minmax(30px, 50px) [main] auto;
+  grid-template-rows: [primary] auto [footer] auto;
+  background-color: #ffffff;
+  max-width: 1940px;
 }
 
-.sidebar {
-    display: grid;
-    grid-template-rows: [brand] 48px [search] 48px [nav] auto;
-    grid-column: sidebar;
-    background-color: #F4F4F4;
-    min-height: calc(100vh - 75px);
+.leftSidebar {
+  display: grid;
+  grid-template-rows: [brand] 48px [search] 48px [nav] auto;
+  grid-column: sidebar;
+  background-color: #f4f4f4;
+  min-height: calc(100vh - 75px);
+}
+
+.rightSidebar {
+  display: none;
 }
 
 .gap {
-    grid-column: gap;
+  grid-column: gap;
 }
 
 .content {
-    display: grid;
-    grid-column: main;
-    grid-template-rows: [header] 48px [mainContent] min-content;
-    padding: 5px;
+  display: grid;
+  grid-column: main;
+  grid-template-rows: [header] 48px [mainContent] min-content;
+  padding: 5px;
 }
 
 .topicContent {
@@ -30,27 +34,38 @@
 }
 
 .main {
-  width: calc(100vw - 650px);
+  width: 100%;
   max-width: 1200px;
 }
 
-@media screen and (min-device-width: 1024px) 
-{
-    .main {
-      width: calc(100vw - 300px);
-    }
+@media screen and (min-device-width: 800px) {
+  .topicContent {
+    flex-direction: column-reverse;
+  }
+  .main {
+    width: 100%;
+  }
 
-    .topicContent {
-      flex-wrap: wrap-reverse;
-    }
+  .rightSidebar {
+    display: block;
+  }
+}
+@media screen and (min-device-width: 1024px) {
+  .main {
+    width: calc(100vw - 300px);
+  }
+
+  .topicContent {
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+  }
 }
 
-@media screen and (min-device-width: 1440px) 
-{
-    .main {
-      width: calc(100vw - 650px);
-    }
+@media screen and (min-device-width: 1440px) {
+  .main {
+    width: calc(100vw - 650px);
+  }
 
-    .topicContent{
-    }
+  .topicContent {
+  }
 }
