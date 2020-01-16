@@ -5,7 +5,9 @@ import "@spectrum-css/table"
 import styles from "./table.module.css"
 
 const Table = ({ children }) => {
-  const classes = ["spectrum-Table", "spectrum-Table--quiet", styles.root].join(' ');
+  const classes = ["spectrum-Table", "spectrum-Table--quiet", styles.root].join(
+    " "
+  )
   return <table className={classes}>{children}</table>
 }
 
@@ -14,7 +16,7 @@ const TableBody = ({ children }) => {
 }
 
 const TableRow = ({ children }) => {
-  const classes = ["spectrum-Table-row", styles.tableRow].join(' ');
+  const classes = ["spectrum-Table-row", styles.tableRow].join(" ")
   return <tr className={classes}>{children}</tr>
 }
 
@@ -26,8 +28,14 @@ const TableHeaderCell = ({ children }) => {
   return <th className="spectrum-Table-headCell">{children}</th>
 }
 
-const TableCell = ({ children }) => {
-  return <td className="spectrum-Table-cell">{children}</td>
+const TableCell = props => {
+  const { children, rowspan, colspan } = props
+  console.log(props)
+  return (
+    <td className="spectrum-Table-cell" rowSpan={rowspan} colSpan={colspan}>
+      {children}
+    </td>
+  )
 }
 
 export { Table, TableBody, TableRow, TableHead, TableCell, TableHeaderCell }
