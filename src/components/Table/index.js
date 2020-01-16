@@ -24,13 +24,18 @@ const TableHead = ({ children }) => {
   return <thead className="spectrum-Table-head">{children}</thead>
 }
 
-const TableHeaderCell = ({ children }) => {
-  return <th className="spectrum-Table-headCell">{children}</th>
+const TableHeaderCell = props => {
+  const { children, rowspan, colspan } = props
+  return (
+    <th className="spectrum-Table-headCell" rowSpan={rowspan} colSpan={colspan}>
+      {children}
+    </th>
+  )
 }
 
 const TableCell = props => {
   const { children, rowspan, colspan } = props
-  console.log(props)
+
   return (
     <td className="spectrum-Table-cell" rowSpan={rowspan} colSpan={colspan}>
       {children}
