@@ -68,4 +68,8 @@ These Callouts also support **markdown**!
 
 However, they are supposed to be _simple_ message boxes, so should they?
 
+| Header 1 | Header 2     |
+| -------- | ------------ |
+| Content  | More content |
+
 </Callout>
