@@ -46,7 +46,8 @@ const WhatsNew = props => {
     if (lastUpdated < days && !isIncludeFile) {
       return (
         <li key={file.fields.slug}>
-          <Link to={file.fields.slug}>{title}</Link><span> - {lastUpdated} day(s)</span>
+          <Link to={file.fields.slug}>{title}</Link>
+          <span> - {lastUpdated} day(s)</span>
         </li>
       )
     }
