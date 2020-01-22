@@ -6,7 +6,7 @@ Hello world!
 
 **bold**
 
-*italics*
+_italics_
 
 `code`
 
@@ -16,6 +16,6 @@ code block
 
 [Link](/diagrams/)
 
-| Table Header | Header 2 |
-| --- | --- |
-| Content | Content 2 |
+| Table Header | Header 2  |
+| ------------ | --------- |
+| Content      | Content 2 |
