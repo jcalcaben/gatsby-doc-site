@@ -49,7 +49,7 @@ tinguit gelido. Mora partes vera tardaque merui.
 
 ## Oscula vellent sedendo nebulae ora hoc ait
 
-Nec verba, aut *tua* luctataque letum, silet vivatis sic **natas nomine et**
+Nec verba, aut _tua_ luctataque letum, silet vivatis sic **natas nomine et**
 templo? Ponti plura vellent nomen sollicitare sumus, agmina semper, nec
 mensuraque quoque securim me tympana amore pomi etiamnum sed.
 
@@ -67,10 +67,10 @@ omnia loco addere temptem.
 ## Quid talia
 
 Digna ultima magni [duros et caput](http://www.dant.org/intremuere-aurea) annis,
-virginitate patres *transcurrere demit*, ad est; his. Atria flumina turris
+virginitate patres _transcurrere demit_, ad est; his. Atria flumina turris
 trepidum passa. Vestibus quod, mecumque peteret praemia. Qua sustinet quidem,
-ferro ne habet ferre Persephone inplet *Peleu Iovem* nulla *operum vetat
-precor*, que, dicere. Longo [tendentem ramis](http://rapto-dixit.net/).
+ferro ne habet ferre Persephone inplet _Peleu Iovem_ nulla _operum vetat
+precor_, que, dicere. Longo [tendentem ramis](http://rapto-dixit.net/).
 
 Qui videres quid inventa sensit ductor: arcus, visceraque. Intrare monimenta
 partem praetemptatque tum: madentes novae, sum sanguine poenas et iacet

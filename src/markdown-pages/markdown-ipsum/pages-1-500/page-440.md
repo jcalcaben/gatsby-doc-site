@@ -4,7 +4,7 @@
 
 Lorem markdownum bellicus, boum propior sociati auxilioque rugas. Iterumque
 [Lapithae rogatque dotabere](http://pinusaetas.org/corpus.aspx) medias anguem,
-moenia *vixque*, hunc?
+moenia _vixque_, hunc?
 
     if (bare_copy != vistaVirtualization) {
         type_intranet_day += -3;
@@ -69,8 +69,8 @@ moventem.
 E tantum quis angit adversa laeva: non nec secretaque deos vestros se parentis.
 [Te uni](http://in.com/unum) auctor exosus videamus crines alios plenissima
 semine surgere est aethere Pisenore. Restant concussit sequitur cum spectare,
-virentem sociamque inane licebit dat agitataque huic. Numerum pontum, me *et
-tota* satus, **illa** nurus, incessit te pete male. Vixque stagnum, **vultumque
+virentem sociamque inane licebit dat agitataque huic. Numerum pontum, me _et
+tota_ satus, **illa** nurus, incessit te pete male. Vixque stagnum, **vultumque
 area**.
 
 ## Coeunt ita pollice cultor in nostris illa
@@ -88,11 +88,11 @@ Clymene extrahit paries, sit in vidisset adultera positis solus, illic me.
 Scire haec haec pallor! Erat erat sperat mea des quo Sicula arboris, usus adii
 caelestia nebulis? Somnus quae ipsaque quondam omnia coeunt concursibus illa
 memoranda umbras Cartheia, egit non, ave capillis suis horrida aeternum.
-Refugitque paene, se talia iam *et unda*, est pedes tetigit; poscimur iam
+Refugitque paene, se talia iam _et unda_, est pedes tetigit; poscimur iam
 curaque volenti sub. Lycus negate sanguine insons latos flamma, diro
 [visum](http://tepidi.net/cum-cum) emeritis montis mugitibus vivam postquam nec.
 
-Abeunt senemque totum grata Sole qui additus relicta *est* vult. Relictas
+Abeunt senemque totum grata Sole qui additus relicta _est_ vult. Relictas
 fateor, Laestrygonis labori corniger metuunt domum; ego motos. Optavit Arcadiae
 [posset](http://at.net/capitac.html). Fauni laurus deprensa, mordebat atque
 sollicitive amplectimur quo numquam quaeque virumque dictis. Tiresiae posses

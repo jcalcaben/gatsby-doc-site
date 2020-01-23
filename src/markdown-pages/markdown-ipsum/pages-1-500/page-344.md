@@ -15,8 +15,8 @@ supposito? Seque nos fuga, instabilemque aquis.
 
 ## Nuda posita talum
 
-Forma clamore *ad* dies illa lurida, simulac tamen suspendit. Veni mitescere
-aera distantibus caro superest *remanet*. Saepe fit qua quod ratem ut sine tota
+Forma clamore _ad_ dies illa lurida, simulac tamen suspendit. Veni mitescere
+aera distantibus caro superest _remanet_. Saepe fit qua quod ratem ut sine tota
 soceri cum rami videre templo ut Hylen. Puppim ex stant.
 
     if (username_online) {
@@ -37,10 +37,10 @@ soceri cum rami videre templo ut Hylen. Puppim ex stant.
 Famulis memorem **adfuit**, nonne: pulchro caelataeque herbis! Rigidis posito
 imperat invitis, periere auditaque sortes manibus anili, tumet timor ubi.
 
-*Costas votorum pandite* mulcebunt digerit fulvis, nomen solet: in ait. Salix
+_Costas votorum pandite_ mulcebunt digerit fulvis, nomen solet: in ait. Salix
 participes serpens: neve deo invitis ego, satus **semper** cornibus moraque aera
 anxia, sequar longa, contrarius. [Samius](http://www.quos-faucibus.net/) seu
-nunc ubi pectora tetigere Iliaden Tritona *Ismenides si se* frendens nescio
+nunc ubi pectora tetigere Iliaden Tritona _Ismenides si se_ frendens nescio
 maius pendens illius, postponere. Volitat eburnas cognatas in hospes dederat
 precibusque quis dispersa amo Phrygiae artus, tum medio in confudit acervos
 mactas. Sanguine mens caelo ventris Aesonis mecum!

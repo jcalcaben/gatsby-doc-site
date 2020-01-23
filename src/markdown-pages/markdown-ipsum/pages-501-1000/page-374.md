@@ -48,8 +48,8 @@ veniente tantorum domino condeturque elisi reddere cerebro maciem: donec.
 Spolieris praecipitem in Byblis, vestros umerique fugiebant Circes descendunt
 osculaque.
 
-Iuvenes vagantem ignarus *cerae*. Honores peream Argolica fulva nostros, multum
-*fatus* fingit, primoque labare.
+Iuvenes vagantem ignarus _cerae_. Honores peream Argolica fulva nostros, multum
+_fatus_ fingit, primoque labare.
 
 Vera mei non haec inde, **quoque annos**, acerbo iuvenumque patet, seposuisse
 recessit! Rubescere oblitis in manibus pollice fratre suem?

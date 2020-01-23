@@ -3,7 +3,7 @@
 ## Habenas nostra quemquam ad optas pugna linguas
 
 Lorem markdownum redditur ianua, quoque, esset regnat, contenta abire, harenam.
-Artus his Lycaei regis et admonita natos, in et **amat viscera** fertur *iura*:
+Artus his Lycaei regis et admonita natos, in et **amat viscera** fertur _iura_:
 refers.
 
 1. Laboribus Amphrysi virum
@@ -30,8 +30,8 @@ ubi, mittam ab laboris facias ingentia resonant auctor consumptaque.
 
 Mihi longis, Phoebi et aera dubiaeque lympha Nilus. Uno Olympus hunc mucro in
 tuumque solidissima nemo ingenti, qua in manus corpus? Tartareas caruit; non
-libido minata tuta: qua medii cum: horrendus. Litis *redditus puer*
-suppliciumque quod veneratus cunctis taedia splendidior regia, *hospes et*.
+libido minata tuta: qua medii cum: horrendus. Litis _redditus puer_
+suppliciumque quod veneratus cunctis taedia splendidior regia, _hospes et_.
 
 > Flores manifesta [pectus finire sitiemus](http://versusamavit.net/) augurium;
 > solebat est in Mnemonides cava decusque aurum, unda. Ita vocatus denique, at
@@ -49,7 +49,7 @@ Nunc vellem vult, este imas, a!
 > Atro ego, [puppis dictis](http://www.aquarumsaxo.io/hoc) habenas ferarum, per
 > regem et nisi genetrix. Hic valeant de erat **placuisse** producit?
 
-Utinam vagitque extemplo notas, *in flumine utinam* precibus. Circuit nec illam
+Utinam vagitque extemplo notas, _in flumine utinam_ precibus. Circuit nec illam
 lateque: ne taedae, neu frigidus? Cibos gaudia nutricis in bis anni cervix visa
 stupet priores? Telae quam vocabis fontis, [nec](http://moenia.org/neve.html)
 malo saxum formae Nox quamcumque commenta decoris reserata nudis debueram,

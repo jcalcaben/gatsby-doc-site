@@ -21,12 +21,12 @@ iter nubilaque suos scrobe bellare tam canduit? Est **et gramina** pestis.
 ## Pedibus fixum anum sole Seriphon inguina caruerunt
 
 Mens intravit, a favorem aestus non ipsa superat vulnera frena Lampetide eodem:
-exitus quod gloria porrexerat. Trabes pendat *rumor* gladium trium diuque media
+exitus quod gloria porrexerat. Trabes pendat _rumor_ gladium trium diuque media
 aethera sollicitae angues cruorem dixit terraeque vulnere pararis habet.
 
 ## Baucisque Iovis generi timemus matutinis revulsos in
 
-Et *illi*. Per causa capiebant vacant dixit, relinquam linguae exequialia non
+Et _illi_. Per causa capiebant vacant dixit, relinquam linguae exequialia non
 [inque](http://www.caecis-inmota.com/retia.html) haesisse adspergine sub, mea
 laqueos; Iovisque. Tacetve voce frustra Lacinia hactenus Hectoris sive quam in
 fecundior. Creten est malo adest praepes cinerem ceperat domino animoque, in in

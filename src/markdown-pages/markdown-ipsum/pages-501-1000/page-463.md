@@ -55,5 +55,5 @@ Quid utque tritis iocosa, et opem amanti properabat genitore si corpore amore
 hora zephyri parenti quodcunque scitatur senserat. Beroe sacro; vidit, sparsit
 **usus**! Et vite amare, nec adferre lucida, Erymantho ut Uranie tenero deos,
 tendimus sidera [hortaturque terga dea](http://www.silvismedia.net/ad-ad) murum!
-Perforat *manum*, est facit, quo nec; gloria [qui](http://et.net/fueratsulcis),
+Perforat _manum_, est facit, quo nec; gloria [qui](http://et.net/fueratsulcis),
 temo sine recondidit passura. Conrepta habet limitibus cognita tribuam de veras.

@@ -24,9 +24,9 @@ Iuppiter.
 
 ## Precantem fecit
 
-Iecur nocuit: te vapor; quid nova tibi haec *bubo* dolet. Circumspice tamen
-*Hippotadaeque furit*? Fatifero ferox, ad plaga in lateque pater tenet agricolis
-umerique prius resurgere petit Iunonis *opus* barba *sequenti*. Dicta in tamen
+Iecur nocuit: te vapor; quid nova tibi haec _bubo_ dolet. Circumspice tamen
+_Hippotadaeque furit_? Fatifero ferox, ad plaga in lateque pater tenet agricolis
+umerique prius resurgere petit Iunonis _opus_ barba _sequenti_. Dicta in tamen
 creatus sub longis feroces. Epulis placuit **mutata**.
 
 ## Nobilitate Atridae et alto refelli navita

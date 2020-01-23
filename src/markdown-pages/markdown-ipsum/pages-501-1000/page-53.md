@@ -21,7 +21,7 @@ cum ad sacra, Achaidas, nec. Radiis si nymphas nostro, pax fuit!
                 53, 1);
     }
 
-*Quae plura* frangit. Quod non at iaculo, ante tetigit, praeter in doluit cauda?
+_Quae plura_ frangit. Quod non at iaculo, ante tetigit, praeter in doluit cauda?
 
 1. Tunc quas posce aequora quam morsu ambobus
 2. Et nata sanguinis nimium ferens postquam pisce

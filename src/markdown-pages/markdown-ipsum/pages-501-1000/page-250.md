@@ -9,7 +9,7 @@ abstrahere profundi incertas harenis.
 Cursus referret sed ostendisse thalamos vindice, somnum arbutus adicit.
 Deposuitque pulsa nec deus nec terra haec, nox retro.
 
-> *Quam fluctus* bibit, eripiunt nata. Ver relictum mutatus tua litus et aere
+> _Quam fluctus_ bibit, eripiunt nata. Ver relictum mutatus tua litus et aere
 > populos virgineum liceat pater; Aeeta locis tenet contemptaque damno.
 
 ## Clymeneia queat certe scelus somnos Agyrtes ibi
@@ -26,7 +26,7 @@ et tempus ambitiosus o. Crantor ecquid, nympha.
 Dummodo nunc nutu Phrygiisque carmine, studiumque habitabat mensis, me. Uva
 statuunt, venit facies gemmis [in](http://www.dignos.com/puppis) est sicut
 tumescere crimina secum peragat ut vapor; est. Virgine equarum obliquo dabitur,
-nam Daedale conspicit *pavit*, quis usque petita o morsa adeunt me soror?
+nam Daedale conspicit _pavit_, quis usque petita o morsa adeunt me soror?
 Nominat Stygio.
 
 **Exspatiata** hospes et sparsos non enim **addidit angusta forma** porrigitur

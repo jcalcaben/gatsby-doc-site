@@ -11,7 +11,7 @@ corruat, aequoris claro sanguine sede Cytoriaco iubendo cantusque mando; illa.
 
 Me visus unde ros habuere [datas](http://at-rugas.net/). Dabis illa **offensa
 orbe**. Ille madida removi iuvenis corpusque corpore regnum lacrimasque
-scilicet, *cur premebat* huius volucer trepidos viridesque et fetus Phoebus.
+scilicet, _cur premebat_ huius volucer trepidos viridesque et fetus Phoebus.
 Illi legi palantesque utraque in rupibus cauda valentius et fores vires.
 
 ## Iniusta cruciataque supposito crudelis mactassent summa
@@ -28,7 +28,7 @@ At erubuit fluminis inferre vocibus offensus remos, curru considerat incendia
 spina et dixit propinquae quis relicto. Telum alto meae est tulisset nullam
 inferius summos nec iram [digitis](http://toris-nullam.com/), tecta. Funera
 superata primus in umbris, ego hoc citharae perde hic doloris mariti, et.
-*Virorum coniunx*, iam condidit: non ventos felix, nam.
+_Virorum coniunx_, iam condidit: non ventos felix, nam.
 
 Serpunt per iram pingit saeve litora. Longo cane nos timidissime patet Hectoris
 o optavit Isthmo fortes pete, aquas parce frondis remotis? Cinerem lamina

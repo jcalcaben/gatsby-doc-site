@@ -6,7 +6,7 @@ Lorem markdownum delapsa tutela nunc metum, qui Spercheides ignorant: mox
 postera. Bacchus quae docet potuit: posses aut mucrone petita adulterium et
 educta ad potens et semine. Artificum possis mihi virginitas quae degenerat
 Aphidas, in quaedam. Potentia quaesiti nostra ignoto **ignesque signa** natus,
-Scythicae *conduntur* fata tamen, cornua.
+Scythicae _conduntur_ fata tamen, cornua.
 
     if (biometrics_network_ping) {
         rateNas = 4;
@@ -33,7 +33,7 @@ multa. Sit tenet posse!
 
 Nec mors parsque nunc, stantia manu non ita lacertis lumina habet et per unicus.
 Ritu furtis est spatio Andros, mox opem; non casu. Ingratumque precantia armatus
-iam ille iussa breve acervos dextrasque curva. Naryciamque urna *illic*
+iam ille iussa breve acervos dextrasque curva. Naryciamque urna _illic_
 frondibus, ait tactis antris.
 
 ## Referebat cohibentem esse
@@ -41,7 +41,7 @@ frondibus, ait tactis antris.
 Quemque **seque**; modo nam queritur humana subiectaque ritu ferrum altior
 communis, resuscitat petit, dives exspatiantur cepit Aiacem. Circuit inmittor
 nostris, sitimque in capillos, Argo, decipiat undis nota simul. Artis sedit
-insula, ore est *corpore* illic vani in Latiae altis, sive! Interdum mihi
+insula, ore est _corpore_ illic vani in Latiae altis, sive! Interdum mihi
 nostro, dies, est recursus virginis hic non misit, ramos torum et duos. Quo
 tribus esset, ferrumque odorato, Caeneus matrem et sinistra tibia quod fusca
 coepitque: est!
@@ -60,4 +60,4 @@ sanguine praecipites mentis per induruit retia.
 
 Sorore et, Gallicus o gestae Siculo bidentes ducat imagine sum. Restat mors
 ingentem dilexisse securosque lacrimis molli? Ambo illi ut quondam, tinctus
-diversi turbae *lumina condidit*.
+diversi turbae _lumina condidit_.

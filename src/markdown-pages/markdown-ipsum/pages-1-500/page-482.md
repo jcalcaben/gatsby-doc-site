@@ -2,9 +2,9 @@
 
 ## Cupidi uteroque vitulus Phoebus vincula
 
-*Lorem markdownum dolentes* tempora possit linguae et uritur oculis, ad. Amico
+_Lorem markdownum dolentes_ tempora possit linguae et uritur oculis, ad. Amico
 et mandata dominae vulnera mora [quoque ad](http://parte.com/ei) vivacia **longo
-tabellas quodque** tempus novi coniuge. Saliunt frondesque est *deo* exercet
+tabellas quodque** tempus novi coniuge. Saliunt frondesque est _deo_ exercet
 manuque; ferarum dic ipse Coae [at](http://positaeque-viaque.com/sunt-parte).
 Vestrae modis pluvialis ordine inventa quodsi se oetaeas verba; inane solet; sit
 esset Helicen se erat rigidis tardius.
@@ -32,7 +32,7 @@ utque parabant; has haec pro Vidi pennis [prohibebere](http://pia.org/quae)?
 
 ## Humus aliisque
 
-Pereat adspicit. *Demptos quae*.
+Pereat adspicit. _Demptos quae_.
 
 1. Sed non
 2. Fortisque stipitis terra facit fortemque Gorgonis torvi
@@ -40,13 +40,13 @@ Pereat adspicit. *Demptos quae*.
 
 ## Contagia egreditur latos idem sepulcris lepus Iuppiter
 
-*Alvum* prior et Phoebus, [tuis timeam](http://quondam-prius.org/) prius; nec
+_Alvum_ prior et Phoebus, [tuis timeam](http://quondam-prius.org/) prius; nec
 avi; est ovis famem. Quae miratus perterrita silvis. Iam nec maior viri usque,
 inprudens, vidit intrasse quondam; quae quod secutum frustra telas contrarius
 vivere.
 
 Hoc et erat; sagittis oneri protinus dextera numen; fore moxque; dis satus
-occuluit neque, vulnera. Ede haec; in poma. Pisa ubi Boeotia terra *qua*, si me
+occuluit neque, vulnera. Ede haec; in poma. Pisa ubi Boeotia terra _qua_, si me
 arvo verboque laedere mater Demoleonta amplius, sit contra. Visus Aeolidae
 tumuerunt mollibat. Effigiem o greges regalia per clausum fugisse purpureasque
 rector retentis femina instabilis examinat Ossaeae virgo!

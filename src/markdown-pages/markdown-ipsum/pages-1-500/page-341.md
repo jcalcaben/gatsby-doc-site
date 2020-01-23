@@ -5,7 +5,7 @@
 Lorem markdownum ictus: vultum succincta; extento longius moratur. [Iam
 inplet](http://scrobe-nomen.net/) vestem discumbere caruit, hanc ligavit rabiem
 que. Lamentabile genus filia ita plus circa locus valido vicisse attolle, non
-arcus, *cur*, ipsa sua. Summos praebentem fluctus dum salutem obside salutat
+arcus, _cur_, ipsa sua. Summos praebentem fluctus dum salutem obside salutat
 quaerit minimas.
 
 1. Sub multa ad arborei crimina
@@ -28,10 +28,10 @@ est. Vulnera rara; corpora sanguine.
 
 Xanthos succutiturque defendere Eurynomes Veneris: regere et Laomedonteis nata;
 his fessis. Commisso contra magnumque adspice [paventes](http://murisrogat.io/)
-horrida demum, quo est vincere deus *quos*. Deposuit Tereusque vires levem,
+horrida demum, quo est vincere deus _quos_. Deposuit Tereusque vires levem,
 submittere ora, o aura iuvenem lassus. Virginibus reppulit solita Aethalion
 concutio nisi sed mota iracundique omnes Ianigenam imagine vivo, sonat.
-*Diversaque* sinisterior genetivaque cui est praeruptam, et fert illae dederat.
+_Diversaque_ sinisterior genetivaque cui est praeruptam, et fert illae dederat.
 
     var uddiBugP = 3;
     contextual_bcc += flat(motherboardAlgorithm, adwareBasic);

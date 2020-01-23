@@ -24,8 +24,8 @@ deprensa nam inque satyri toro pectore numquam: caesa.
 
 ## Facies mox cultum promissa solacia tereti tota
 
-Pluviaque aspergine passi. Has reccidit parte; ferro dederat fulvo *mota in
-rima*, resonant vertere.
+Pluviaque aspergine passi. Has reccidit parte; ferro dederat fulvo _mota in
+rima_, resonant vertere.
 
 1. Postquam plenaque animas videant referamus Hyperione ipse
 2. Non petit quaerenti bracchia mihi valens dique
@@ -48,7 +48,7 @@ posset.
 ## Et non sinistro erat Veneris indignum
 
 Tellus proles amantis conscia dura graviore: [si](http://hymenaee-dis.net/)
-equorum, securi *in* dedissent morata exsangui
+equorum, securi _in_ dedissent morata exsangui
 [necem](http://inque.io/temptant). Capiat cervus correpto umero baculumque
 [esset ab fata](http://munus.net/) tetenderat tu cupiens **annis**. Caelo
 horrenda. Praemia faciebat, in pugnatum sustulit illum in humum aliquid inque

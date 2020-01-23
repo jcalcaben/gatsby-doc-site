@@ -4,7 +4,7 @@
 
 Lorem markdownum cristae simulatas dempto Hypseus tellure est non animo draconi
 possent urebant. Telae ad plurimus signaque corpora quid pio in Procris fallunt
-tu rupem *tum*. At rex natarum his comas custodia, est heres retexuit pontus
+tu rupem _tum_. At rex natarum his comas custodia, est heres retexuit pontus
 tabe capillis. Mediis et novemque dolor locum Procne luce **fatidicamque** novo
 cumulusque claviger et fatendo et.
 
@@ -28,9 +28,9 @@ pater comminus urbes sanguinis concita petit.
 
 ## Luminis sonos
 
-Horas *imagine sit medium* est malorum sanguine superasse soror magna potius
-**neque urbem** quae fretum post, *suo tela*. Bisulco plangere Marte; *et iacet
-lugebisque* Peleusque eburno proditione tenuisse quater Erectheus ipso carinae.
+Horas _imagine sit medium_ est malorum sanguine superasse soror magna potius
+**neque urbem** quae fretum post, _suo tela_. Bisulco plangere Marte; _et iacet
+lugebisque_ Peleusque eburno proditione tenuisse quater Erectheus ipso carinae.
 Sum pactaque novissimus omnes, auferat subit: rogum voluptas? Adhuc felix
 viriles concitat mira fata orbis, volucres vulnere consequitur pubis. Enim
 ortum, victus, et amorem timore, et deus quae quibus.
@@ -55,5 +55,5 @@ veloces, gravidis di horum mactatur, in quae
 Fuerant saepius aut vocor, regebat longaque et Corythi natum. Nam suaque, et sed
 sparsaque illa incaluit, subito luctataque mori? Mihi exosus! Quippe infelix
 vultibus nostrae dum tamen hoc negat invidiosus dextera sidereis inscius fluet
-Hiberis *illa* tamen si desinite mollibus Polymestoris. Cum *concedite*
+Hiberis _illa_ tamen si desinite mollibus Polymestoris. Cum _concedite_
 Temesesque nec demas aequa fudit, blanditur saxumque Marte?

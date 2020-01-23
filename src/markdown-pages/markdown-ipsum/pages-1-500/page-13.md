@@ -2,9 +2,9 @@
 
 ## Est siquid claudor gravi
 
-Lorem markdownum *arvum*; ubi mihi aperire conligit. Habet ante *prima
-conpescuit tellus*, deficeret [elusam](http://vitulos.com/clavigeri) pro arborea
-*quateret pennis habitusque* mirum, orat lumina. Nec metam agris, est nitebant
+Lorem markdownum _arvum_; ubi mihi aperire conligit. Habet ante _prima
+conpescuit tellus_, deficeret [elusam](http://vitulos.com/clavigeri) pro arborea
+_quateret pennis habitusque_ mirum, orat lumina. Nec metam agris, est nitebant
 gestu misereri; a, quas effetum percussae salices. Quidem corpora nunc captus!
 
 - Comites vadit ruinae
@@ -12,8 +12,8 @@ gestu misereri; a, quas effetum percussae salices. Quidem corpora nunc captus!
 - Post equorum sanguine
 - Phaethon mei meo
 
-Mentis nescitve ille, et tempora inopi, ense *glandes* Procnes canenti delenit
-externis vestro et exponit? Tui per solio: fateor *videt* Ismenis vix fratrum
+Mentis nescitve ille, et tempora inopi, ense _glandes_ Procnes canenti delenit
+externis vestro et exponit? Tui per solio: fateor _videt_ Ismenis vix fratrum
 artus.
 
 Cursu creatas, visendae quae, spumisque, onerataque maior umbra forte cum
@@ -27,7 +27,7 @@ Per vestrae [iacent quod](http://et.net/vela), sua deae labores Saturnius arsit,
 indignantesque deorum si mille, et gemmis! Desierant lumina scalas **iussisque
 quae matris** ventisque fragiles alite pectora facit lacus ut docuique qui.
 
-*Fronte* gemmata nec meritum deae! Coniunctior [ac
+_Fronte_ gemmata nec meritum deae! Coniunctior [ac
 si](http://www.suo.com/semper) vertice ingens clipeumque noceat, nec illa mente
 galeam.
 
@@ -42,7 +42,7 @@ Tenebat incepto longo, loricaeque hoc nubila conveniunt rictus, ripam revocantis
 conplexibus testatus, pes. Timeri veteris Iunone cava ulla pretium et altis
 carmina quibus legit excipitur bello concussa. Se spatio cecidit Dorylas
 proceres succensa pronus premis gaudetque et frondes **vultus** latius
-Apollinis. Quilibet dum terram! **Nec** matris Tempus, et sed *me paruerit*,
+Apollinis. Quilibet dum terram! **Nec** matris Tempus, et sed _me paruerit_,
 languescuntque bracchia: vocor tutus.
 
 Quae adversum! Illi tauros Ixione Scorpius foedera; et in urnisque, si corpus

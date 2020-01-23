@@ -3,13 +3,13 @@
 ## Repulsa qui volat tepidos bacchae quem vipereos
 
 Lorem markdownum opem [cavata](http://www.sternuntur.net/saevusego.html): dum
-*dedit*, auctore, quod. Sed ferax clarus datque portans damno conata sententia,
+_dedit_, auctore, quod. Sed ferax clarus datque portans damno conata sententia,
 referens **corpus**, sideribus videt verba. Primoque relicto vestrum suum capiti
 increpuit, discordibus curvi, pulcherrime, mihi liquidas fleturi Euandri!
 
 Potest et perque, mihi vulnera moras, despectat inquit
 [nec](http://superi-sedes.io/phoebum.aspx) quae scelus furentem patrium ipse:
-facio vos *tantique*. Numina pulmone iram vel, neque. Forma ille caeloque: inque
+facio vos _tantique_. Numina pulmone iram vel, neque. Forma ille caeloque: inque
 mihi; lepori obstantis Dixerat. Candida quas, quo inpedientibus aperit
 stimuletur Ampyca quas Minos me ad manu.
 
@@ -42,27 +42,27 @@ Et Echo ut verus furentem spoliare oculisque his ut spectantis arduus
 lacrimaeque sedes subito usa niveum quidem. Atque requirit ille sequentia unaque
 spretarumque inde cortice, mihi excubias superest esset Parin multoque iacens
 complexa tibi reminiscitur. Hosti neque sole nescit sui arbitrium curam, litora.
-Metu *ut Clymene color* ruinae vaporibus habebant iram me eris nam litora, age.
+Metu _ut Clymene color_ ruinae vaporibus habebant iram me eris nam litora, age.
 
 ## Quo nec illa odorant conspecta Claninque quo
 
 Habuisse corpora, senex urbem dentes exploratis clipeoque barba, natumque putat
-conubia, nostro *humo* laeva, imitata. Fallacia largoque, tollens et laudata
+conubia, nostro _humo_ laeva, imitata. Fallacia largoque, tollens et laudata
 stamina atque qui contraque alto: in fregit conata devastata iraeque. Praelatum
 et quae facies, **quicquam ab** toto vos Arachnes biceps terrae salutifer, amat
 tantum amore ferens? Nocendi mixtae.
 
 Mea prorae adeunt, et anus ab mundus certamine infelix undis sum, est veros
 quaerit accessit cani. Alii regis pellor corpus vertuntur manifestaque regis, ab
-suis, illis quoque ferre Delonque *Nonacria muneris* in loqui. Pudori telum
+suis, illis quoque ferre Delonque _Nonacria muneris_ in loqui. Pudori telum
 plaudenda exierat, est ore credit deque haerebat me.
 
-Color tertius carebis, recisum rastrique sed dextram, incubat cum *pallor*.
-Radiis tinguatur virgineos Stygii mento *ultima exuit*, ad ora has glaebam cum
+Color tertius carebis, recisum rastrique sed dextram, incubat cum _pallor_.
+Radiis tinguatur virgineos Stygii mento _ultima exuit_, ad ora has glaebam cum
 et! Pampinus illam aliquid solvit furens, consequitur ventura ab Gaudia tulit
 perlucida veniebat caduca, inmittite. Convicia vellentem odio lacrimaeque ille
 undis iactarique pariterque omnia.
 
 Deducitur fetus, clara lina sentis, est novus dabunt vestrumque, laesaque de
-ausis de. Metuque Alpheos umquam ortum procul *est cadentibus* saxum sequar
+ausis de. Metuque Alpheos umquam ortum procul _est cadentibus_ saxum sequar
 Delphi ursae ille clamore tremens hasta.

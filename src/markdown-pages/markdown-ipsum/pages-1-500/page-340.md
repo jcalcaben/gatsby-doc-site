@@ -4,9 +4,9 @@
 
 Lorem markdownum vidi qua caesariem tantus Hippodamas subvolat nymphe, facitote
 [Lucifer](http://ut.org/tribuam.aspx), fidesque, sui undam. Sub duri; Ditem
-faciente magnaque *haberet* Iamque: mittunt **deterritus** pellibus? Lacertis
-hoc nitidum [tellus](http://www.obstipuere.org/aliquid.php). Trita spe, *qua
-concidit* acceptus.
+faciente magnaque _haberet_ Iamque: mittunt **deterritus** pellibus? Lacertis
+hoc nitidum [tellus](http://www.obstipuere.org/aliquid.php). Trita spe, _qua
+concidit_ acceptus.
 
     vista.onForumTask(framework_netmask, constant_kibibyte / beta);
     rom(1 + kbpsSiteBar, variable);
@@ -15,7 +15,7 @@ concidit* acceptus.
     outboxBing = tweakRowImap;
     cron = jquery(5);
 
-Vias color Niseia quater requiem scopulis filius, erat *illa colle* cassis Diti
+Vias color Niseia quater requiem scopulis filius, erat _illa colle_ cassis Diti
 partem aguntur Thybris passu dextra. Inque grata non quoque nam aratro ore! Die
 colorem Numam: aede orantem minuunt, ubi est esses niveo vita Phoebus ignibus
 credar huc cacumina! Virgo multorum spectans spicea tibi suaque sceptri, in
@@ -28,7 +28,7 @@ Peneosque terruit?
 
 Vacet petis, est suum Oriens sacra siccoque tuta te et abstrahere venit
 **silicem te** virginibus timor;
-[guttura](http://at.org/postquamexpediunt.aspx)! *Tenuisset datae finiat*
+[guttura](http://at.org/postquamexpediunt.aspx)! _Tenuisset datae finiat_
 inutilior caelo tum quidem illo dei talibus Veneris perosus, de omnia purum.
 Silvas velle Oeneus forte ab ducere ut superasset serrae.
 

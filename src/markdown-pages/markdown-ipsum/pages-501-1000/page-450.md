@@ -15,11 +15,11 @@ incerti.
             + 97;
     var extranet = defragmentWindows(accessMouseNybble, bin);
 
-Hostibus *gelidas*, iam elisarum o proxima pulchra, aequora est altis qua
-haerens vertigine, et omnes *solutis* ducere? Inventa nimiumque neque pestifer
-*purpureus pastor* praemia Gryneus Proetum [natorumque traduxit
+Hostibus _gelidas_, iam elisarum o proxima pulchra, aequora est altis qua
+haerens vertigine, et omnes _solutis_ ducere? Inventa nimiumque neque pestifer
+_purpureus pastor_ praemia Gryneus Proetum [natorumque traduxit
 fortius](http://iunctis.io/) gestanda visuraque. Brevis sit frangit: quaque
-conde dulcia et *tyranni* obscuraque euntem simul. Citra risi, feta medio,
+conde dulcia et _tyranni_ obscuraque euntem simul. Citra risi, feta medio,
 Minervam sacra quoniam e.
 
 ## Dextera Cretaei serpere

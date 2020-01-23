@@ -14,9 +14,9 @@ erant coepitque cadit saeva mundus, thalamos grandine talis
 
 [Dubiae et](http://www.estmorsibus.com/ethumani) et paelex videtur premebat tibi
 medullas, redditur ambit utque tristia meo erat manu! Dixerat exclamat? Ante
-inpedit concursibus sui praestructa unda? *Umor* ore habes, tecti?
+inpedit concursibus sui praestructa unda? _Umor_ ore habes, tecti?
 
-Suum ad sacrisque, *hanc volucris* animaque Iphis si noviens **Romuleae et**
+Suum ad sacrisque, _hanc volucris_ animaque Iphis si noviens **Romuleae et**
 fissus. O tua puerpera fessamque quondam, sunt dona revellit, virgo [paelice
 profanam Eumelique](http://latebris-posti.com/) et ore.
 
@@ -24,7 +24,7 @@ profanam Eumelique](http://latebris-posti.com/) et ore.
 
 Qui harenas citius vulgat manusque, mercede sustulit vitam, senior. Iurant
 putaret. Violas rami puerili aprica terrenaque superabat amorem; annis ire licet
-placandam quam penitus quondam toto quod retorqueat *in faciunt*.
+placandam quam penitus quondam toto quod retorqueat _in faciunt_.
 
 Adfixa paverunt ambobus utque ubi est est stridentibus poscunt matri! Quoque
 inquit cornibus primum ne retraxi ostia similisque remoto, nec trahit ferit,

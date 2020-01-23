@@ -28,8 +28,8 @@ evicere. Senectus arva dis raptor lacusque: crine [ac
 quid](http://leve.net/sinemihi.php) saxo, et servatus dolore cadat rostro
 colloque reducit, verus.
 
-Matertera *cute*, dixisse, credere, dixisse argenteus timori diem Nerea
-stagnumque pedes; *amictus* advehar tumulumque super quattuor. Huic motis explet
+Matertera _cute_, dixisse, credere, dixisse argenteus timori diem Nerea
+stagnumque pedes; _amictus_ advehar tumulumque super quattuor. Huic motis explet
 qui quae contraria et limine in miserandus vultumque audire, ex! Tum ita munere
 scelus ritu et origine stupet; illud pro et clipeum clipeo falcis pendentem
 tumulo intellectumque superis dubitare.
@@ -37,9 +37,9 @@ tumulo intellectumque superis dubitare.
 ## Spumantia tamen
 
 Ferit usus sua signavit picem **inmota** quidque ornatos si tenero percussit
-Peripha crines deae. Non illa *rauca arsuris* vidi benefacta; borea tecum montis
+Peripha crines deae. Non illa _rauca arsuris_ vidi benefacta; borea tecum montis
 inpervius [admovit](http://www.tinxitomnis.net/echodixit) nostri dignus nec
-inimica! Vidit stamina bellum; et puer *cecidisse equos Vertumnus* candore
+inimica! Vidit stamina bellum; et puer _cecidisse equos Vertumnus_ candore
 gradu, a avemque cera. Agenore inpediit tenent inplevitque Saturnia paulatim
 Euboico sedes rota coeperat tigres hic lacrimis nomen; subcubuisse nato
 sideribus qua passu.

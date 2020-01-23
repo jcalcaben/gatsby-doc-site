@@ -33,7 +33,7 @@ alta caduca minari. Iam annos, Elis res tolles cucurri quidem cruor; et superi
 si ira superare, porrigar. Cuspidis nec facta Diomede tangamque torquet, obice
 **supplicium nisi** stagnumque cadunt terrigenasque mors umquam agmine ferendam
 locum, quam. Satis in, retinere auro, antris verso summisque: nam tribus omnibus
-temploque pro, *suus*.
+temploque pro, _suus_.
 
 1. Manus fiducia pars coniunx fertur volat vertere
 2. Hoc ignes superant amplexa moror enim flammae

@@ -55,7 +55,7 @@ aequoris nube ne quoque coniunx, verborum. Et agit; mox si det longeque aliae!
 ## Inanis clarique reddidit aequora vertit
 
 Bubo cedere [Tantalus](http://se.org/fallaci-ut.aspx), carmine reclusit pollice,
-sub conantem amatis et regia. Alis virus *edentem* fratribus de saepe agere se
+sub conantem amatis et regia. Alis virus _edentem_ fratribus de saepe agere se
 metus Aurorae. Dedit speciem tamen. Buxi cum effundite incidit habuit quoque
 marmora paribus duxerat usque facta, tota tot ramis.
 

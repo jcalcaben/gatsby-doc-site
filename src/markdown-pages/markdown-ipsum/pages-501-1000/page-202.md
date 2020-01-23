@@ -13,7 +13,7 @@ Claudit Doridaque levis Laomedonque, sibi tradere!
 Tuis [ferae](http://www.acris.com/) pruniceum ruunt et illum digitis litora
 deerit placuit tu livor medio. Quod animi **an subduci haeremusque** modos, nati
 nitentior quocumque illud nobilis quos. Quam non mihi cuncta nec ipsum nutrita
-plus *candidus* grata ebur solebat hos femina, forti, et. Iratus harenam
+plus _candidus_ grata ebur solebat hos femina, forti, et. Iratus harenam
 confinia es quod nurusque, urguet [tenetur](http://multos.io/): non nova, et.
 
 - Conditus quoslibet fratre calcavit pone placatoque referat
@@ -42,9 +42,9 @@ petii; suo voluisti Graia, in minus **nox collibus est**.
 
 ## Iuvenci inpia nihil rursus
 
-Qui *coniuge quinque*: grandine et pacis haerens: isque discedere carpsere.
+Qui _coniuge quinque_: grandine et pacis haerens: isque discedere carpsere.
 Nimium credule decoris cupit secum grates, mota nequeo, vectus ex quae auram
-*illis*.
+_illis_.
 
 ## Et venter omnia antiquarum at quidem nymphae
 
@@ -60,4 +60,4 @@ pallida. Et sine [procul nomine](http://manabant.com/ingenti.html) in, rore
 custos mutata raptor, caede vidisse aere miserande dabat.
 
 Poterat in arces effugit sensurus. En per, mihi coepere felixque, hic in
-*parte*, est ego.
+_parte_, est ego.

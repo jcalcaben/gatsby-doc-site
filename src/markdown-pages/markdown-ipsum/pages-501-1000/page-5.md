@@ -5,10 +5,10 @@
 **Lorem** markdownum prioris litusque longum, subeant salignis animam placuisse
 et illam quis diligitur quae inclusum timentia; est. **Fugit mediisque** nimios
 fueris at dictis debere sinuantur nomina flagrantem **quatenus concipit** nulla
-*victa perque rapiunt* natos multi hos angue. Terra a maiora capiti gemitus dum
+_victa perque rapiunt_ natos multi hos angue. Terra a maiora capiti gemitus dum
 stagna pendent, exsangue.
 
-> Me plantis causa ego saxo *terque*, et umbra alimentaque pars ut nitens
+> Me plantis causa ego saxo _terque_, et umbra alimentaque pars ut nitens
 > plusque has impleverat Sparte amorem. Carentia erat; ita utque Apidani,
 > adspice dea Olenios **maesta**, Priami tangit tulit. Nostri Libys aduncis.
 > Refelli tenet Polydoreo nunc genitor castaque natura terrae placet in
@@ -21,7 +21,7 @@ Nobis turba sua est, velit est onusque cruentum. Fata hordea.
 
 ## Opaca pessima bonis restat harundinibus atque omnia
 
-Poenam arcum et *rediit* mittis, ossibus redimitus orantem orbem pectora Dryope
+Poenam arcum et _rediit_ mittis, ossibus redimitus orantem orbem pectora Dryope
 dolore domum, repellit. Amore ora solis cum, cum haec conexis vel comas. Non
 nunc ego tua velis: amans dabant. Quid dum ademptis sono.
 
@@ -41,6 +41,6 @@ omnes, imperiis.
 5. Cupidine cultu
 
 Ducere oppressos crimina letale melioribus nondum **iuvenum agresti Nessus**
-videt **Curibus penetrale**. Huic dextram, per dat questaque *tum* vesicam
+videt **Curibus penetrale**. Huic dextram, per dat questaque _tum_ vesicam
 cognovit posuisse in quis. Crepitantia modo **mihi ponto** egredior intellege
 sit uno, hos. Opem Gaudia contudit; me suam non maestis **contra**, quae.

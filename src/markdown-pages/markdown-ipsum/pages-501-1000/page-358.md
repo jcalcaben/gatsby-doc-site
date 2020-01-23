@@ -3,8 +3,8 @@
 ## Praemia foret pia habitant manus dum vero
 
 Lorem markdownum utque, pacis valent, dixit Iuppiter Lycabas meminisse senex:
-*Priamum noster*! Montani duos trahit erat aut vellere, tendit damnans. Et sede
-aera caelatus ulla *anxia Pittheus summas* habes alieni ut haud querellis undis;
+_Priamum noster_! Montani duos trahit erat aut vellere, tendit damnans. Et sede
+aera caelatus ulla _anxia Pittheus summas_ habes alieni ut haud querellis undis;
 nox. Nec pro patris et agebatur voluptas novitate. [In](http://et.io/) velle
 inmania fugias moenia.
 
@@ -31,8 +31,8 @@ inmania fugias moenia.
 ## Tellus voce ignotos flammas pressaeque ille succensaque
 
 [Quo ab](http://super.com/longosille) colorem hiberna circumfunditur silvas
-Doridaque subit tantus tangentia Te fluctus tamen grandia. Causa *movebo
-Iliaden*, Aetne Iovis sucus! Modo spectator est inania summa Anaxaretes retinet
+Doridaque subit tantus tangentia Te fluctus tamen grandia. Causa _movebo
+Iliaden_, Aetne Iovis sucus! Modo spectator est inania summa Anaxaretes retinet
 sustulit Achivi; neque saevit flumina. Petit nostri, nec vocem reduxit! Armiger
 suo pati umentes sciet, ubi sed; aequor at, suos.
 
@@ -64,8 +64,8 @@ Laboret tua vocas Cephisius sua iunctarum, insidiisque genitor motura,
 conspectum effluxere Phoebus ripae; quicquam. Vidit his dederat inquit est
 tellus Danais positus nomenque cognita supplex orbem?
 
-Puer *seque posita*: ambae lentum, arcus quis Timoli habet totidem, Oileos. Et
-nulla quoque per favilla lunam. Equos ulla rugis *totidemque fuerant*, dulces
+Puer _seque posita_: ambae lentum, arcus quis Timoli habet totidem, Oileos. Et
+nulla quoque per favilla lunam. Equos ulla rugis _totidemque fuerant_, dulces
 magna convicia et ferum Thracia. Non **Naxoque** quem ac caveo naturam dei
 supplex et putetis forte heros Atque instant dote antiqui fero toro terras.
 

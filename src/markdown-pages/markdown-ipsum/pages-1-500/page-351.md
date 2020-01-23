@@ -6,26 +6,26 @@ Lorem markdownum videamus; quam turbine pigetque ululatus remos; sed vero
 quisquam num pericula **tuque vix**. Norat dignus.
 
 Corpore Semeleia et peremi rogat ictus vestigia utque; gurgite sit. Bene
-moribunda abeunt, nec fatum feriuntque dolor metum *crudelis*. *Corpora*
-gaudete, *haec Iove* recurvam semper vectus, *duplicataque saxum quam* necetur
+moribunda abeunt, nec fatum feriuntque dolor metum _crudelis_. _Corpora_
+gaudete, _haec Iove_ recurvam semper vectus, _duplicataque saxum quam_ necetur
 inposita, pia danda tutus.
 
 ## Sepulchro deus iam dolet conspicit excutior vallem
 
 Nec Telamon vipereos, in tamen pulvere; paene
 [quae](http://membranaet.net/nec-fugat.html), quaque. Mihi fessis animus similis
-*sint quae ausis* quem fronte ore dextra, flamma requiritur mihi Alcyonae aura.
+_sint quae ausis_ quem fronte ore dextra, flamma requiritur mihi Alcyonae aura.
 
 ## Sub sic sedes mutabitur mandata pinna
 
 Si blanditiis virgo resupinus illac non nobis mirae virgo comitata suis sensus
 fulvis iubet ipse, conspecta sceleris altus. Achille succincta relinquent quid,
-tanta *equo erat tempore*, sim aequorque Acoetes laudat, tu.
+tanta _equo erat tempore_, sim aequorque Acoetes laudat, tu.
 
 Adiciunt quodque ilice solae cum mora, rubentis manebit fuerint pennis: quid
-quoque mensis. **Notatum alte vetus** et vulnera triumphos sociorum *iusta*.
-Tolluntur flumen clarum; telluris ante fusile meorum parvoque et *aliis
-pietate*, costis, poscit lassata cursu colit.
+quoque mensis. **Notatum alte vetus** et vulnera triumphos sociorum _iusta_.
+Tolluntur flumen clarum; telluris ante fusile meorum parvoque et _aliis
+pietate_, costis, poscit lassata cursu colit.
 
 ## Que bella
 

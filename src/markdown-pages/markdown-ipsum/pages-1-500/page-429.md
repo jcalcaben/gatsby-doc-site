@@ -6,8 +6,8 @@
 [hunc](http://nunc.io/fretum-classem.aspx) putares
 [non](http://adhaesit.com/defixa-oileos.aspx) dictis tamen ferroque namque,
 morsus: inpositaque movit. Cum exit. Hic in ulli iam anhelitus arbor certat
-sistere nymphae, monstri omnique et arbore cohors. Ait est *haec excessisse
-canis* talia pro, in [age animi it](http://www.qua.io/valet-sedare) dolentis
+sistere nymphae, monstri omnique et arbore cohors. Ait est _haec excessisse
+canis_ talia pro, in [age animi it](http://www.qua.io/valet-sedare) dolentis
 alter inmansuetumque peremi; sacris temptasse effugies. Pagasaeus victus:
 audistis repulsam ultra, vix nec mentisque sub paro fallebat praedae lacus.
 
@@ -74,6 +74,6 @@ valens in tali **decipis inpavidus** ne invenit **celatos**. Pronus
 [nece](http://oracula.net/parthaone.html), praepositam **evertere** exierat
 deferri!
 
-Sub collo, ipse in magni obstipuere fuga triumpha: adsensit *prohibete venere*.
+Sub collo, ipse in magni obstipuere fuga triumpha: adsensit _prohibete venere_.
 Sed tactu pectora! Tristique artus post, velociter viae opus arcusque trabesque
 Iapetionides maesto ad Tereus cancro!

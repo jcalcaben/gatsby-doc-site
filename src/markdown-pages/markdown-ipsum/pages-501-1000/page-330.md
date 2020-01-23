@@ -46,6 +46,6 @@ incola aetherias Achilles enumerare propior dixit data somnus? Quod Aiacis
 sedem; erat paratas; autumnus Cepheus, quoniam iacit troia vox merui consulit
 hanc a fluctus vestes. Ionium non tori pudore isto nihil sit.
 
-Dolore age nec esse date tamen *verba* cuncta
+Dolore age nec esse date tamen _verba_ cuncta
 [ipse](http://www.usum-nigram.com/)? Duos Lycaon experientia loco Chromiumque
 dextram intellectam cremavit inductaque lacrimavit; turris hi labori.

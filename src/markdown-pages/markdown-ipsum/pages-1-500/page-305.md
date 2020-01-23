@@ -23,10 +23,10 @@ locat.
 
 ## Ora aderat ut ora iura et sumo
 
-Dictis mota soporem caudas quaecumque, matresque ut quid litoreo, *moenia* vim.
+Dictis mota soporem caudas quaecumque, matresque ut quid litoreo, _moenia_ vim.
 Per fila rerum laedere. Orbi me gemitus fuit dilectus, et sororum Medon **ducit
 linquendus currunt** erat mittunt gemitus corpora
-[querulas](http://videresab.net/), domino. *Oculos* altaque honorum corripiens,
+[querulas](http://videresab.net/), domino. _Oculos_ altaque honorum corripiens,
 longa Quid tantum neve tergum, iam sui?
 
 > Subruit cum ab retroque minax. Sub vires terrae humum. Vita viam iamque tibi

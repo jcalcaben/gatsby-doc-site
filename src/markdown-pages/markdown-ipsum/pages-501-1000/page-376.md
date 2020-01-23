@@ -60,7 +60,7 @@ nuruumque, ad. Ante quod, cava.
 - Erigoneque Messenia diffusa et deus
 
 Accedere esse, indigno [suo](http://www.supersunt-memor.org/tenet) tempora
-tuaeque formaeque illa. Ducitur comitesque Perimelen *aera*: tremulis, tum
+tuaeque formaeque illa. Ducitur comitesque Perimelen _aera_: tremulis, tum
 tergum casu summus enim.
 
 Inpiger segetem anhelitus nasci et horridus datis dolor hostem Somnia ausis

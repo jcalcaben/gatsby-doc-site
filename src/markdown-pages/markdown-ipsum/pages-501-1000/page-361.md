@@ -24,7 +24,7 @@ superosque fretum, et corpora patriaque dedisset?
 
 ## Convertor effice bello Aeson omnia ut Interea
 
-Populorum *sola*, complexa, versata ad gratia illi Herse. Cuius pereo? Non
+Populorum _sola_, complexa, versata ad gratia illi Herse. Cuius pereo? Non
 plura, cur iactanti greges excipit plagae dixi amari tota cupidusque vacuae. In
 me, adde [circuiere rex nec](http://venit.com/squalidus), viscera si sonuit.
 Thestiadae inque, dicam Dite trepidans [verecundo
@@ -44,10 +44,10 @@ Caenea omnis posuit dederat en coniuge laniarat tamen an unius.
 
 ## Origine templis
 
-**In ad** cognita *superi* mali, nudaque obscenae in visus argumenta qui!
+**In ad** cognita _superi_ mali, nudaque obscenae in visus argumenta qui!
 Adsumere robore, carituraque moturaque nobis nec parentali sum coeamus. Prima
 pugnatque dumque, ab habuisse Lyaeus petit Hippodamen petebat, **mille**
-aetheriis *luna*.
+aetheriis _luna_.
 
 Mea nam sacrum terram e tamen **deficit** parente gemebundus occupat vocas
 levis, ut isse vitae digestum. Illi restet; color modo ait, artes Aetola iunget

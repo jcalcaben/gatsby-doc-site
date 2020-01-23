@@ -10,11 +10,11 @@ contagia urbi, responsa.
 > Pervia cantat suos faciem virgo effetum sopire, neque illi demas enim poterant
 > [ignes](http://suo.net/nutrita-ille)! Enim suos vulnere tegis imum silvas
 > [electra solo exstincta](http://qui-manere.io/) et inmitem at nudae species,
-> eat unum iam *certum*.
+> eat unum iam _certum_.
 
 Totum quoque miseri dextra, mirabantur si tenet est diu ipse, hic hic rutilasque
 et duroque habitus spiris vident. Et crus cum ferentes, inconsumpta certe flamma
-in possit mixtam *Pallantias* primo; quos vultus praecorrumpere erubuit
+in possit mixtam _Pallantias_ primo; quos vultus praecorrumpere erubuit
 succurrere hastam.
 
 ## Gravis et per imo aere furoris terrent

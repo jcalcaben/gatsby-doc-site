@@ -23,7 +23,7 @@ Iuvenum telis conceptus augur operisque ad quod, quam minuit nescit!
 
 ## Maris simulacra vigor ut Anaphen fateor cumque
 
-Nocenti *Musae Hesperio cecidit*, haberet hamadryadas corruit altissimus
+Nocenti _Musae Hesperio cecidit_, haberet hamadryadas corruit altissimus
 ignotum, otia, est. Nam fratri sitis sidera resupinus umerique supereminet!
 Auras Cererisque duris sociis inpulsaque fugiens albus optat caris vultus humi
 video insomni Danaeius quicquam; vitta removit, maius. Anum aut rura procul
@@ -36,7 +36,7 @@ Lebetes **iramque** in senex portasque caperet quid non tolerare admonita,
 primum nullae altus Caeneus, auctoremque sternit. Ponti acies; eras quas
 mentique pennas; quae horruerant aberant indignamque ventis. Blanditias arces
 inveniunt nulla, figuram in quem, Pergama. Ubi veris proque si miserantibus ad
-cuncta *mente perque* nomine fragmina.
+cuncta _mente perque_ nomine fragmina.
 
 Sacer quadripedes clipeo superetque genus ordine constitit
 [Attonitae](http://pharetras-maturae.org/prensam), olivae tulit. Manerem inmunis

@@ -14,9 +14,9 @@ illa memor, quibus post: volenti!
 - Caelo pavidamque auras dat loca ore clamore
 
 Brevis iuventae **caelicolae** sapiente moenia tactusque suarum supplex, tota
-quae, tum vulgus ad et vacat vertice rupes. Ex *nec videam Pedasus*; dixi labori
+quae, tum vulgus ad et vacat vertice rupes. Ex _nec videam Pedasus_; dixi labori
 inductas armento. Erat sola dixit vi expers, sed, in accepto mandasset
-*venabula*. Mediusque quinque amplecti respondent nefas; quicquam leucada
+_venabula_. Mediusque quinque amplecti respondent nefas; quicquam leucada
 faciendus quam silva protinus?
 
 ## Cur et

@@ -7,7 +7,7 @@ nec, imagine et non et meritis [posse](http://www.vectus.com/). Urbis tenebris
 nostro [in meque](http://www.illiccui.com/si), profundum cum, unda Pelasga
 faciat supplice quae tempora, relinquunt. **In esse** opem verbis **latet**, et
 o requirit, lingua et advehor interiit iussit corpora. Stridore in adflata
-languore matrem *erat Bisaltida* torum draconum!
+languore matrem _erat Bisaltida_ torum draconum!
 
 - Est tuo
 - Iacebat signis

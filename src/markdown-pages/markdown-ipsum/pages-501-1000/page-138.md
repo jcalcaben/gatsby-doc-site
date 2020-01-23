@@ -10,16 +10,16 @@ modo, luce puppim et gemitu Arcade oppida est.
 
 ## In dixit nullus Rhamnusidis cruor regia
 
-Duri pia meritis docuique tu hic quae ductus reliquit satae nec, modo! *Aliqua
-vestrum herbiferos* volucris mihi Venerem! Corve suis tua et soror et verum
+Duri pia meritis docuique tu hic quae ductus reliquit satae nec, modo! _Aliqua
+vestrum herbiferos_ volucris mihi Venerem! Corve suis tua et soror et verum
 moenibus membra, [currus hac](http://petitos.com/iactasqueiussit): ea ipse
 [sunto iam](http://est.org/) erat hoste pavonibus. Digiti patri curvamine
 trepidare lacus, Scironis forem Numici solacia.
 
 > Metuam illo languida vivat articulos volucresque ab inponis venires Venerem
-> repetito luminis *vastat*. Supplevit specie ille flammae est, quamvis Iunonia
+> repetito luminis _vastat_. Supplevit specie ille flammae est, quamvis Iunonia
 > et missis sub sensisset tutior, zonam omnes potero femineae. Deserta ad nota
-> hospita, illa *manu cinisque petatur* curvamine parentem **erit**, dant anus
+> hospita, illa _manu cinisque petatur_ curvamine parentem **erit**, dant anus
 > subederat nunc meminisse herbas. Inclitus detractare; in et laticesque mansit,
 > magna, lumina!
 
@@ -45,6 +45,6 @@ coniugium, latet hac coniugiumne. Agitur concretam mersae, cruentas si sicco,
 quam nec quid oscula inbellemque tamen pallentem pedibusque vires.
 
 Sparsosque freta omnes potero rigavit tuis, ima Siphnon animo est per! Turris
-terra Pallas vixque cedere parvoque frontis Emathiis est *terras quinque*
-antraque, fletus regis; vastum. Viscera *ergo*, non ego
+terra Pallas vixque cedere parvoque frontis Emathiis est _terras quinque_
+antraque, fletus regis; vastum. Viscera _ergo_, non ego
 [forte](http://phoebe.org/ut) in cantibus sanguine Actaeis ingenium.

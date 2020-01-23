@@ -19,14 +19,14 @@ deserit paulum.
 Porrigeret genus interiit urgetque et confido semper usum plantas. Iam Lycias
 natae cum traxit vetustos tum vidit de sedes duabus secundo uberaque: nostrae
 dicta: mentis parentis? Mollescat Egeriae **dumque**! Matri quod ligno **partem
-manum**, quem *oborto laevaque* dubius perspicit Neretum Sunt!
+manum**, quem _oborto laevaque_ dubius perspicit Neretum Sunt!
 
 ## Quamquam quantaque obnoxius aristis terris
 
 **Qui** habet, hos traxit talia, lascivaque penitus venae actis fides videri in
 parva, animi [sidera in](http://www.silvarum.com/). Rapido candor traiectum:
 [quoque](http://www.trepidareintus.org/lacrimaeque): infamia Faunigenaeque
-*cupit ambit euntem* in. **Utque avertit** illa dedit: nisi vela cuncta pectus.
+_cupit ambit euntem_ in. **Utque avertit** illa dedit: nisi vela cuncta pectus.
 Per est in, novo ferus, illa viri nate.
 
 - Cibique pariter per furtum Polyxena nequiquam corpusque

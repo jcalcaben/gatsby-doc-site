@@ -3,7 +3,7 @@
 ## Est telum me ieiunia sorori abstulit feritate
 
 Lorem markdownum aestuat. **De quid** virago robore. Hesperiae nomen rumpitque
-Lyrnesia est; ille ferro *referre quaeque* si repelli, fiunt omnia medio, in.
+Lyrnesia est; ille ferro _referre quaeque_ si repelli, fiunt omnia medio, in.
 
 ## Esse eripere eveniunt fontes flumina aut formae
 
@@ -16,7 +16,7 @@ adest notata: nec. Aequor quantum festa.
 ## Te dempto
 
 Felix [adversaque](http://www.rursusmembris.com/etsilva.php) Canentem
-*moderatus*: inania rex Scythicas, in coniugis marmoris quoque erat clara?
+_moderatus_: inania rex Scythicas, in coniugis marmoris quoque erat clara?
 Sidera [cursu et et](http://cara-chlamydem.com/posse.html) quoque gramina sumat
 quam per fuisset sub summis. Alis inposito nec, ab haud [intabescere
 ipsa](http://carne.org/equorum), pro.
@@ -37,7 +37,7 @@ iamque secreta, nulli plurimus fluunt. Aura cuius, pretiumque faciendo
 
 ## Cepit audentes et quod
 
-Sua Olympi carpit *sunt genitus amplexus*, cervix ignotosque et? Est ait teloque
+Sua Olympi carpit _sunt genitus amplexus_, cervix ignotosque et? Est ait teloque
 [vide](http://caliginerecentes.org/taedia) prioribus petit, caede, Libys
 stolidaeque aliae? Praecinctus crimen facit excipit, iram non genuisse mente cum
 lignum quod! Autumnos manus!

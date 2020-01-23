@@ -2,7 +2,7 @@
 
 ## Conplet finxit ubi et at
 
-Lorem markdownum illius contigit Chimaera te traxit rupit agitasse fuit, *erat*.
+Lorem markdownum illius contigit Chimaera te traxit rupit agitasse fuit, _erat_.
 Rector cum metuam dixere. Et laesaque quo tutoque celebrare **condere** pronas,
 latere motibus et nuntia de mox amicitur quod modo. Cum Iove deserit terris
 ambieratque mens parte coniunx neve, non loca, stetit in bracchia Athenae
@@ -25,7 +25,7 @@ Ipse pedibus pia haut hospes moveo
 [alii](http://verti-cretosaque.org/aeneadae-circumstetit.php): suam arma. Amat
 inquit rebar de vellent prius tenerum illuc Lucifer inpia Athenae campos
 ulterius isset ut. Illa et captatam, sentis altera, vel Haec nihil. Insolitus
-*moto* aequorei vertice bracchia ceditque, an idem altique, aera io tempore
+_moto_ aequorei vertice bracchia ceditque, an idem altique, aera io tempore
 collo, sunt redit nostrae habet. Puellis locuturum oculi sanguine.
 
 1. Quae marito pedum et sagitta

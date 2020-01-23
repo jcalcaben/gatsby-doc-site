@@ -3,7 +3,7 @@
 ## Me in ultor
 
 Lorem markdownum, tantum terrae: quid summorum inportunusque honesta genusque
-quoque sic. Saepe quod faciat cervi ebur *iuvenem*. Incipiat
+quoque sic. Saepe quod faciat cervi ebur _iuvenem_. Incipiat
 [quod](http://nonscylla.org/), innixamque honorem! Vidi non, ibi, eris nec;
 latratu labor **et et inmisit** desierim rogavit.
 

@@ -2,7 +2,7 @@
 
 ## Quas lumen
 
-Lorem markdownum auras inquit ambae in Graiumque membraque copia. *Sed natae*
+Lorem markdownum auras inquit ambae in Graiumque membraque copia. _Sed natae_
 occupat resupinus rex sit tuentem fidem illi talia pedum sunt vides vanum
 [naiadum sortita](http://cernit.io/) et tamen nunc! Sequuntur it quam prodere
 ultima simul trahit alimenta accedere sim dixit tempora maius: incautum
@@ -54,7 +54,7 @@ temporis adurat, terra et [annorum](http://it.io/subiereetiam).
 Vehit expositum, vultu possent; corpus neu agmen ille, narrasset obvia
 [terribilem](http://www.iovem-semineces.org/), an arboris, carior? Pruinae
 iuvenale longo, potes in passu cadunt saxea iste qui inpius tulimus, capillos
-dicta quo dubites iam, quas. Det admotis tui in *isset* collecti umor, senes
+dicta quo dubites iam, quas. Det admotis tui in _isset_ collecti umor, senes
 consistere anxia tu oscula sorores. Quondam aras, tamen emicuit, modicisque
 sistunt?
 
@@ -70,10 +70,10 @@ quoque, Bacchumque effecta et. Desierim cavis. Huic timor dona, aut foret,
 colonos: est [robora](http://www.ore.org/aurea-multaque) abesse dedit ubi
 habebat **hanc** corpore natum maris
 [taedia](http://www.alga.com/elateius-fodit). Secuta terraeque proxima
-circumstetit ipse et suas *placidos sed* primaque adferre poposcerat, cupit,
+circumstetit ipse et suas _placidos sed_ primaque adferre poposcerat, cupit,
 cum.
 
-> Ponentem facit, sic di *aetas*. Stamen per. Unde et verborum videat auctor, et
+> Ponentem facit, sic di _aetas_. Stamen per. Unde et verborum videat auctor, et
 > ales longius, est.
 
 Conata funera regnarat ei inquit genitor ad presso habet pastoria Liternum,

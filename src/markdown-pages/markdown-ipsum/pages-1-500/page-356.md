@@ -23,12 +23,12 @@ comitata genus](http://virgo-geri.org/coeometuens.php).
 
 ## Pascere signa mea suam iubendo traderet Latiis
 
-Plagarum quoque et et *sequar tenere*, est iusserat exorata torto corpore
+Plagarum quoque et et _sequar tenere_, est iusserat exorata torto corpore
 ovantem audita ipse verba suadet, deinde.
 [Quid](http://www.quae.net/quoque-quattuor.html) pondere significent refert
 terra Curetida. Parentis timidi cui vicit est aberant felix mater, sanguine
-detinuit imas superare videres mihi. Forte Iovis omnis oras non oris *tenebat
-est* carmen numeros, Latoidos vacuas iuvenaliter voce, erat Tyrrhenaque.
+detinuit imas superare videres mihi. Forte Iovis omnis oras non oris _tenebat
+est_ carmen numeros, Latoidos vacuas iuvenaliter voce, erat Tyrrhenaque.
 
 ## Conubia aestus
 

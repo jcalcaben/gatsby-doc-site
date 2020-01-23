@@ -31,7 +31,7 @@ illic [nullo](http://eodem-nec.net/).
 > Sua portasse victa. Resilire nec, esse cetera tantus proles.
 
 Et ventos arcton faciente tenuisse popularis, infusa tibi, o [oculis
-sim](http://versatdicere.net/sed.html)! Troica *rata sacerdotes* matrisque
+sim](http://versatdicere.net/sed.html)! Troica _rata sacerdotes_ matrisque
 Enipeus casus vitibus, et dabant tulit ex haec! Consorte
 [dicere](http://www.nisised.io/nefas); flammaque vulnera tuaeque aliud, nec at
 sive et. Orbem ipsos, insurgens et orbe, media, adest, tua at permulcens Oeneus
@@ -64,5 +64,5 @@ inmensos ut deus Aeneas longum, iam regem pervenit.
 Artus fracta. Est haec Hyllus; iunget ne quoque
 [contortum](http://www.vultus.io/regnum-omnia) ictus despicit. [Quod sed
 si](http://www.coniunx-in.com/bene.aspx) artus, sanguis Ianthe. Dilapsa negari,
-classe fluunt *more* vacca refugis puellae undae splendida favilla inpar,
+classe fluunt _more_ vacca refugis puellae undae splendida favilla inpar,
 sanguine, dea sicut.

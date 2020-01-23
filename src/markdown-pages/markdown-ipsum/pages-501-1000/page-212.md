@@ -2,10 +2,10 @@
 
 ## Nimius iuvenumque mitissima faterer
 
-Lorem markdownum alis diemque minanti verbisque erat lata. Est *vide ducum*
+Lorem markdownum alis diemque minanti verbisque erat lata. Est _vide ducum_
 crimine forsitan civibus solis adhibere rutilos muneris, est. Liventia partes.
 Iamque peragant urbe capiti supposita armorum. Tela his donec cohaeserat
-latebris, e *populabile*, et pius at acutae Nessus.
+latebris, e _populabile_, et pius at acutae Nessus.
 
 - Nec saevo
 - Fortunae voce cupressu
@@ -23,9 +23,9 @@ corpus namque non est dixit.
 Claudit fessam. Et dotalem [nec](http://creditferalia.org/submergere) passi
 [orbem cum cruciataque](http://tardius-vacuosque.net/pelagi.php) altae, animis
 commune Pholus attulit, esse iamque turbavit. Color res non, est partu humo, cum
-domum, ars creati fulmen Alcandrumque Aethiopesque *inhibere*. Dextra dum eget
+domum, ars creati fulmen Alcandrumque Aethiopesque _inhibere_. Dextra dum eget
 fugit simul, non ramos est primum, Parnasia **ne genitor** et et deserta vulnera
-naiadum; erant. Torpor et, vitam dedit sibi *cornu*, este!
+naiadum; erant. Torpor et, vitam dedit sibi _cornu_, este!
 
     if (gnuFddi(dlc_motion_target, online, wrapShareware) - architecture / 1) {
         hdvBankNic += -5;
@@ -69,7 +69,7 @@ aequoreae. Veniam pes gaudens timoris primosque Arctonque et serpens mugitus,
 qui ab Epidauria servati doctis Iovis.
 
 Esse animam tumultu, vera campos circumdata, pugnem memor pulsa fortissimus
-maius *dedit duobus tamen*. Nec loca Messenia, cum lavere pater illa, est tangit
+maius _dedit duobus tamen_. Nec loca Messenia, cum lavere pater illa, est tangit
 ut. Vires audita et erit ista, ut ripa pendebat discedentem venit alligat
 aurigam flectere ratos tantum edentem memores. Freta duce metitur absolvere
 solent ab sua alto notus dictis in alumnus, est nec novas venisset viridique.

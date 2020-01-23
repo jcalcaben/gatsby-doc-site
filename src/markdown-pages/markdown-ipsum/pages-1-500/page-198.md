@@ -3,14 +3,14 @@
 ## Soror ne qui huc
 
 Lorem markdownum forma, fratrum enim quis non; discordia decus: pro. Nostra
-valeant siqua vires, *clamat cum nimium* hoc perdiderim digerit prius nostri,
+valeant siqua vires, _clamat cum nimium_ hoc perdiderim digerit prius nostri,
 tot partes ignes inpune loqui! Contactu praecordia habent Ampycides et precor et
 sentit Abantiades lingua quoque, sequuntur veniebat positaque adorandum.
 
 ## Per Crete potes
 
 Arcu suasque rediit aegre obscurum petam ad **candida quoque**. Buxi Atque
-spargit: reddit. Quae mihi urbes iras, despexit *certe enim animique* inque
+spargit: reddit. Quae mihi urbes iras, despexit _certe enim animique_ inque
 carcere, roganti manus.
 
 ## At narres
@@ -20,7 +20,7 @@ Agnovere frustraque pollutosque rudis haererem at tremor tenent casus inpleat.
 vulnera tellusAndros crebri numina quis quod; in spatium quidem; vero. Necis in
 [columbas corpus](http://crescunt-ne.org/) ingens. Quid querellas custodia
 fassura umbras, ut sed census neque videre spatium Rhodopen socialia, nil suum
-super: tosta? Et viscera color: *mihi nec* effreno, Athos numen nocte vulgaris
+super: tosta? Et viscera color: _mihi nec_ effreno, Athos numen nocte vulgaris
 quod.
 
 1. Nomen vultuque tumultus mundi posse exturbare Musa
@@ -36,7 +36,7 @@ Suo nepos via vela pollutosque stat tantus corpore me cretus domitos linguae, in
 terras. Inustus venenum duas radice puer quicquam invitaque erat praesepibus
 gener. Obsuntque interea, in fieri, fornacibus vestigia Aesoniden victa ne partu
 veneris utque nisi cratera, sedebat atque. Pendentemque sidere constiterat
-decidere telum tecti mea, mea vertitur ille Parrhasis eadem cognoscere *ligno*,
+decidere telum tecti mea, mea vertitur ille Parrhasis eadem cognoscere _ligno_,
 sudem, qua.
 
 1. Ille raucum quod et diversa ordine abest
@@ -66,6 +66,6 @@ esse faciam. Navigat et terram negate cum! Est si longam.
             open, down_cifs, gopherRefresh)));
 
 Venas bella dextera ramis, [vita](http://denique-si.io/temone), est pinea quinta
-*radice*. Aderamus sistunt. Alma servet litoraque. Funda **lacrimis facis**,
+_radice_. Aderamus sistunt. Alma servet litoraque. Funda **lacrimis facis**,
 baculo. Fuit sed **pars glandes** forma neci dixit movebant sanguine, ore res
 duodena, pars inertem.

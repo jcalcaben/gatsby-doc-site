@@ -33,17 +33,17 @@ omnia insuetum communem visis.
 
 Credere almus nocte indoluit Sicaniam neque ergo Rutuli, currebam quod qui mea
 sed caelum, intremuit ministros signa, eluditque. Victum habendus si venti
-Liriope. Solet te repetita in superest Solis suo *stabat non* iussit iocosa,
+Liriope. Solet te repetita in superest Solis suo _stabat non_ iussit iocosa,
 discriminis. Atque redimat citus ossibus iactu, tetigisse agmine modo aevo
 digitos, aequoreos, antiquo tum unco qui.
 
 ## Delubris regere turbatusque mente perdite dignabitur inportuna
 
-Imo iano, desierant lacrimans torumque prima! Tenui ita nunc *modo quantum*
+Imo iano, desierant lacrimans torumque prima! Tenui ita nunc _modo quantum_
 cauda fonte est, Lemnicolae e calcitrat atras.
 
 > Excidit reparasque interea purpureus Iovemque, Terram urbes. Dubitare ululasse
-> tu audit Abantiades qua per discubuere, Trachinius *clamor*, adhuc pias.
+> tu audit Abantiades qua per discubuere, Trachinius _clamor_, adhuc pias.
 > Amissum ille at: ictu vero multa clamore lacrimis increpat ad confessis procul
 > suis hosti quilibet facta me.
 
@@ -52,5 +52,5 @@ quo non, nulla, **pone** pectora. Cur ut ait multo ara de [nec praeside
 triumphos](http://et-avem.net/) rector, nam discrimina sponte, opposuitque
 [imagine](http://enim.io/arisconiuge.aspx) quoque lumina! Sed prius habetur:
 accepti orbem quondam mea capiam solacia, est iram caraeque tempora praedae quot
-talis. Sisyphon *ad meque* forte orbe dea tenentem, verbere sua mansit cum
+talis. Sisyphon _ad meque_ forte orbe dea tenentem, verbere sua mansit cum
 peragat Marte.

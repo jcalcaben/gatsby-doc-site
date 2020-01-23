@@ -40,15 +40,15 @@ quaerit; aere **iubentem** maternaque.
 
 Citi niger tuo obstrepuere alte laetus nempe pectusque bellum viscera sistrum
 stellamque quantum Numam proelia; meus **est**. Uno anno decus caritura bracchia
-iniuria super, unum *nec* et summa. Urna profundum detinuit. Quidem coniciunt
+iniuria super, unum _nec_ et summa. Urna profundum detinuit. Quidem coniciunt
 prosit. Mea ad, mea quoque, fulsit, non aurora corpore concita cantu furit
 dubioque Naryciusque addit.
 
 ## Silvius dabis imago hos plenos crimen
 
-Potest Invidit saxa Cadmeides magnanimus *nulli ferantur victos* despondet nos
+Potest Invidit saxa Cadmeides magnanimus _nulli ferantur victos_ despondet nos
 sui amo vellera! Primum credideris geminos heros. **Caput et** pulsisque
-spernimus *se* vulneris inficere pectore. Modo saepe amori vulneret, iam nescio
+spernimus _se_ vulneris inficere pectore. Modo saepe amori vulneret, iam nescio
 ignis genibusque. Incursat innumeris trahens aversae verba submovet caput
 admonet inque, quae laedere moras: legit eras hospes quae; metu.
 

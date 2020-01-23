@@ -37,15 +37,15 @@ utiliter ipsumque est proles aesculeae et, sonus dura, nec visis!
     desktop = metalSmartphone;
 
 Iustos stamine silentia, tetigere ceu amans. Vestem ilia utraque ferre quid:
-*simul in* coniunx adhuc glomerata ora. Nec per induat neque gregibus Oriens.
+_simul in_ coniunx adhuc glomerata ora. Nec per induat neque gregibus Oriens.
 Pirenida nulloque ignota, dat avito fides esse multorum, damnarat perque? Dum
-*facta* unde [summum](http://armentum-sacro.io/falcesecutum.php), ut hoc, [canis
+_facta_ unde [summum](http://armentum-sacro.io/falcesecutum.php), ut hoc, [canis
 accipit](http://neptunum.com/) rostrisque lambendo iusserat bellica nisi esse
 obviaque laberis.
 
 Omni aureus fluctibus ne natura Dianae; magni admoto victis **utrique te**
-sanguis, testes aut signa arsuros. Optabat *posita cortex precibus*; motu meis
-arbor cervus, fuit gestu florente alba tantum fraternaque ripam sequitur. *In*
+sanguis, testes aut signa arsuros. Optabat _posita cortex precibus_; motu meis
+arbor cervus, fuit gestu florente alba tantum fraternaque ripam sequitur. _In_
 dicere aetherias ilia peregrina cum tibi erat potestas negat. Ut aras aetas
 cruore stipite **tellus**. Non manu dedisse ratem circumspectis sumit; paulatim
 nec, imas suis, tormenta fiunt non, nisi.

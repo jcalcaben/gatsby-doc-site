@@ -2,7 +2,7 @@
 
 ## Meae unam
 
-Lorem markdownum *in vertere ingens* ligavit velocibus miratur lacteus et
+Lorem markdownum _in vertere ingens_ ligavit velocibus miratur lacteus et
 iuvenis Cepheaque in. Ferre at non dixerat matre; perosa, tuas lumina esse
 iaculi.
 
@@ -37,11 +37,11 @@ Arabat innumeris operique at putes; spinosis illos admotumque numero postarum ad
 saepe **illud** tulit gestumque nefas armis, levem.
 
 Aeno aut nomen exstitit at libera reddat hasta, nec auro. Tollere feras, vidi
-confundimur collocat quaeque, *potiere illa* mora fecundo. Transit crederet
-servat turbam cum *modo dryades* innixus terras time pampineae ramos iniecique
+confundimur collocat quaeque, _potiere illa_ mora fecundo. Transit crederet
+servat turbam cum _modo dryades_ innixus terras time pampineae ramos iniecique
 legit caelestes sine.
 
 Daphnidis omnes tu sanguine adest, et viribus exspectat vel quae. Cinximus
-Veneris dique in sparsus proculcat condiderat natus? Equos *sume ut* facientibus
+Veneris dique in sparsus proculcat condiderat natus? Equos _sume ut_ facientibus
 ulterius est sed quem nequiret merito, vastique profanae lacerans magos. **Torvo
-fallere pulchroque** Dianae summas, at, *hos caelo* cruores urbis virgo.
+fallere pulchroque** Dianae summas, at, _hos caelo_ cruores urbis virgo.

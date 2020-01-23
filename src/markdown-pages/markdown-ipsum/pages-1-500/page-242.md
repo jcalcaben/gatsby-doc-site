@@ -2,7 +2,7 @@
 
 ## Plangere pharetras errore
 
-Lorem markdownum non caeli cacumina scopulis *adunca subsedit deflent* ignisque
+Lorem markdownum non caeli cacumina scopulis _adunca subsedit deflent_ ignisque
 ego credunt effectu ergo. Corpora parva.
 
 - Mihi sentit colla nec ordine sit bracchia
@@ -14,7 +14,7 @@ ego credunt effectu ergo. Corpora parva.
 ## Habebam paulatimque corrumpere aquosis
 
 Una atque valent si. Fame ramos erat crurumque illis ambos tulit corpora
-*habentia*, in aquis Anchisae, nec notare, dixerunt.
+_habentia_, in aquis Anchisae, nec notare, dixerunt.
 
 ## Ferro terras invitum
 
@@ -36,6 +36,6 @@ sparsit. Quid **una neque**, sumpsere inania.
 
 Minus sua tulit proferre reddita undas oblita vigilat. Vultus illa iacent
 geminus enim iustissimus fuit, ait munus capere, opus Medusa, cognovit velocior.
-Trepidante pullosque fuit. Nec **illa quassasque refer** in sustinet *glaebis*
+Trepidante pullosque fuit. Nec **illa quassasque refer** in sustinet _glaebis_
 gravitate, res quidque **Somni occuluere** gelidi ut lunaria facit ingentique?
 Anima unus, quotiens amissae, et et nefas haec.

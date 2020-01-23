@@ -3,7 +3,7 @@
 ## Fiducia emissumque cavis promptu cognosces aliquid contraria
 
 Lorem markdownum dedissent. O cum cineres, ut ducibus, modo barbara data cupiam
-gurgite selige *poteramus* pressa laudant in ignibus spumantis in? Radicis
+gurgite selige _poteramus_ pressa laudant in ignibus spumantis in? Radicis
 oscula, tenet crescitque nescio cui receptus ficta. Blanditiis undam doluere
 lentus, [et radicis](http://pennisque.io/quaerasverbere) in
 [capillos](http://sonuere.com/), veni subduci concurrit?
@@ -58,17 +58,17 @@ hoc dolori aurum.
 
 ## Sentire erant
 
-Quamvis quoque neu *sub avertitur* extulit mediis referebam volant, nutritaque.
+Quamvis quoque neu _sub avertitur_ extulit mediis referebam volant, nutritaque.
 Paret posuere quam iam linguis, nullo curae flavescit nostrae occiderat doctior
 puer. Tosta unda est bellum putavi pariterque, iram haedum vult natum? Concipias
 corpora recingitur onus tandem, spirantis succiduo animosus saxa tibi aether
-*magna*. Somnia parva terruit.
+_magna_. Somnia parva terruit.
 
 1. Dedit imis
 2. Media tu nunc molli
 3. Divulsere corpore omnibus capitum gemitus est dummodo
 4. Exhortatus factaque torus
 
-Saeva vocibus: dic tulit, quae mutata herbarum classem! Regia decipere *fatis*,
+Saeva vocibus: dic tulit, quae mutata herbarum classem! Regia decipere _fatis_,
 in modo pater in sed iam; est deorum inde, conplexibus Terram. Pompa simul
 precesque Isthmon spinis.

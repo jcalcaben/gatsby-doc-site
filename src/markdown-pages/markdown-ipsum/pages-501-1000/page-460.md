@@ -66,7 +66,7 @@ fatum raptore tardius maiora, tenera, reddidit. Non Iuno removi; fama troades?
     }
 
 Qua [lecta non lacerata](http://www.virtusest.io/ubi-est) Pyreneus **his
-caenumque Sparten** collo, non qui. *Acer* Iove, monilia hac separat crepuitque
+caenumque Sparten** collo, non qui. _Acer_ Iove, monilia hac separat crepuitque
 devovet in tellus Sole sensit ad laurea.
 
     passiveFrozen.utility -= rgb_slashdot +

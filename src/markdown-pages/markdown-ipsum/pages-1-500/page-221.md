@@ -5,7 +5,7 @@
 Lorem markdownum sanguinis naides dilectos numen ne glaebam navigat Epopeus;
 hac. Quod Aeaciden narravere iuventam: **caelum per** minoribus sum indicio, in.
 Mihi modis reddit ut Caicum in prodis dat Autonoeius purus. Vulnera egi domus
-*ante agrestem* dixisse hunc sensit, milite tela summa perculit, contraria
+_ante agrestem_ dixisse hunc sensit, milite tela summa perculit, contraria
 facies.
 
 ## Aeeta has femina victa ante
@@ -17,7 +17,7 @@ Nec pone corpore ponti iuvabat Atlantide et quotiensque tamen sed, non!
 
 ## Coniugis omnis enim possent arbitrio digitis aure
 
-**Ignis totis** sacris primum flemus? Ore quas nec *circumvolat* raptam. Qui
+**Ignis totis** sacris primum flemus? Ore quas nec _circumvolat_ raptam. Qui
 ramos si comitatur longe; suo **puer crevit**.
 
 - Quae clara ferebat caelestia est
@@ -36,7 +36,7 @@ referamus rigidos iussit totumque cuius, alterius.
 > Palmis ex haec frequens illis colla Anaxaretes irata: sono tremit ast iubas
 > fictaque si memor peractum solet longe adulterio. Nulla subiectis leonibus
 > coepi. Adest turba fides et medios et calido, tua accessi? Quid statuistis
-> attonito ossa quo dubiae credere. Thalamos erit arcanaque, monet *dederat*
+> attonito ossa quo dubiae credere. Thalamos erit arcanaque, monet _dederat_
 > inmanem; quis comes undis ubi omnes.
 
 ## Ostendisse memor alte quam acervos quam

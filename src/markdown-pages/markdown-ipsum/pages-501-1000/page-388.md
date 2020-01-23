@@ -22,11 +22,11 @@ arma [tardius et Phoebes](http://procul.io/) Aonides ferocia numinis, ad.
 
 ## Sequenti aethere et terras rerum
 
-Aura pedum at *medio* honore annum, et radice, quanta multo pectore; velamina
+Aura pedum at _medio_ honore annum, et radice, quanta multo pectore; velamina
 Mutinae non. Positosque solent mortale volet egressaque ducit. Et quod
 pharetramque collo causa maxima aut omnem conlectae in Vestae **obitum colebat**
 Turne. Deus anhelanti ferro tempore ponentem; Nereides conplevit flumen altera,
-auro mutat classis nectare; est cortice, *tellus*. Tandem et natae columnis
+auro mutat classis nectare; est cortice, _tellus_. Tandem et natae columnis
 sive, nubes canum [est incompta iamque](http://ducit-lacte.net/tamen) quaeque in
 nudus, est tenebrae o rates ait.
 
@@ -50,7 +50,7 @@ parvoque cedere [et non](http://abiit-vertere.org/non.aspx), Ino ignes abiturus
 mactassent. Fugientem victoria doleas; cubat moderantum forte, et tepido naides
 sententia adspicias **ex** vulnere, ab Procris. Amorem locique ponit accipitrem
 placitas cum atque ipsis vincta Hippalmon posset volatu. Faces coniugialia
-diemque suorum, poenae *patrem*, est modo et soceri fuit virtute Troezenius.
+diemque suorum, poenae _patrem_, est modo et soceri fuit virtute Troezenius.
 Quid alte mihi quique, excipit caelatus aristas pronepos corpora convicia tu
 nunc corpora.
 
@@ -61,6 +61,6 @@ hiatus vir inplerat Graias, grates expellitur quibus coepto. Fidem desuetas.
 Boum ames solane, rore invenit; liquidi utrique quas.
 
 Regia quid caecoque affata indefletaeque cum procul, in **patiar distulit**
-monstris vestes. Sumite *si* iuvenes vitane. *Posset* annua Camenae, deum.
+monstris vestes. Sumite _si_ iuvenes vitane. _Posset_ annua Camenae, deum.
 Aspera fixis maiora mea occuluit et ecce Romanae aequi, spectari frustraque
 venerantur magno si premeretur Aeacides.

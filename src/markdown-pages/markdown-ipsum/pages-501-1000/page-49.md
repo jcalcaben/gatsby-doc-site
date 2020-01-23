@@ -33,7 +33,7 @@ Perluit irata tepescere.
 
 ## Vatemque difficile conscia reparasque conspecta enim avi
 
-Mavors *Inachus ve hic* aeno Aeolidae Actaeona, paludibus nisi aut, rubet
+Mavors _Inachus ve hic_ aeno Aeolidae Actaeona, paludibus nisi aut, rubet
 pulchroque pudibundaque fessam referuntur. Corruit tibi dilectus, tenebat
 obstipuere, solent amor quoque Ligurum adfata **festumque**; locumque? Si medio,
 in [ramo aura](http://saepe.io/sed.aspx) quam formicas fugis, caput piorum.
@@ -58,7 +58,7 @@ hunc adparuit aberat creatis Crotonis.
 
 Nec volat mihi res cursu, quis gelido putabat forma scorpius varios fluctusque,
 ire hoc, lea. Astris si solum frustraque dulcedine bracchia potest quam nobis
-genitor ferro. Si comas gurgite esse *corpus obsessa haustus* comitique id rari
+genitor ferro. Si comas gurgite esse _corpus obsessa haustus_ comitique id rari
 qua bucera quoque hastam Proximus. Maius et latos Fortunae, fitque de tibi,
 flammamque dabat, signo, petitum et aves adsuetus quique formosus! Valles dare
 illa cursu aetas instat, efficient ut intus.

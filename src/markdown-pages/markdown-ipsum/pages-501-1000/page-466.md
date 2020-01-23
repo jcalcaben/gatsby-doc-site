@@ -2,7 +2,7 @@
 
 ## Fecerat ingredior se paravi in
 
-Lorem markdownum *illa*; hic terris triennia precari; erat! Pondera falsus
+Lorem markdownum _illa_; hic terris triennia precari; erat! Pondera falsus
 virgaque **sermonibus vidit se** supplex mentas. Omnibus dum stupuit Troezena
 inceptos limosaque longis in sentit pennis fortis currus!
 
@@ -16,7 +16,7 @@ mentitus illis priore, referitur procul.
 > Est corpus terris iacebant, iuvenes sagittam nuncupat. Nymphis est similemque
 > inerant ipse iubent [excipit caietam](http://patitur.org/), alis esse, animus.
 > Minervae sua. Regna dissimulator huius munimina fuit: fiuntque altus ab
-> fraudes. Et tantum ulla memini invidiosa laeva *quoque ipse Capysque* egressus
+> fraudes. Et tantum ulla memini invidiosa laeva _quoque ipse Capysque_ egressus
 > Troes.
 
 ## Cadentibus animosa tonitribus adiciunt aevo
@@ -28,7 +28,7 @@ Alas adhuc!
 ## Scelus concretaque inque furores limite
 
 Hic Haemus proditione mihi umquam herbas, nec in illa prope capillis hasta.
-Inmissos pectora deus venio *in feliciter* eburnea, et natus vocatur trux
+Inmissos pectora deus venio _in feliciter_ eburnea, et natus vocatur trux
 quamvis? Cervice et quibus facite, nec quoque mihi bene. Me audaces gloria,
 Iovis illic dicunt electra fungis quoque Diana paludibus, manes **diversa
 olentia iamque** amissum. Et crimina metuam, Minturnaeque est oraque praecipites
@@ -56,7 +56,7 @@ digiti.
 - Plus corpus tactosque vicibus quoque ac
 - Ceciderat urbem
 
-Aura ulla, bella secum studiis. Parentes *esse acerque atricolor* ite stipe,
+Aura ulla, bella secum studiis. Parentes _esse acerque atricolor_ ite stipe,
 tota quam, cruentas cessit institerant manu palmiferos vestis effugit senserat
 distantibus suis. Spemque nescis adspexit: figura illa, in ligatis, ventis, illa
 Panchaia sextae suos quodcumque; prosit inquit. Tamen saxo est nostras, et que.

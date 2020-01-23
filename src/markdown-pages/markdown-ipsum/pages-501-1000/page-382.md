@@ -4,8 +4,8 @@
 
 Lorem markdownum palmae munus coniurataeque nobis laniaverat baculumque erat,
 letum magnis, spumisque veri. Sic et caeloque bella, putavi figuras vocabula
-vertitur, **et presso Silvius** redditur: sed *polis*? Viribus sacros magis
-praeceps uvis in *totaque* praeterit foret; at. Summo accinctus culmine insula
+vertitur, **et presso Silvius** redditur: sed _polis_? Viribus sacros magis
+praeceps uvis in _totaque_ praeterit foret; at. Summo accinctus culmine insula
 ut Baccheaque in damno sanctique potum. Duae magna de tamen quid, humi
 Patraeque!
 
@@ -15,7 +15,7 @@ Patraeque!
 
 Superata utiliter messes. Neve Delon in cortice famuli corpore; torvi hinc;
 nequiquam letique; his occupat, cultusque annos pererrato? Moresque fata inpia
-**ante**; at luna quoque rogat lustrabere facto; sic! *Orsa et* perque Monychus
+**ante**; at luna quoque rogat lustrabere facto; sic! _Orsa et_ perque Monychus
 in figit ad saepe dares, tumescere cum. Cum rapta rapiuntque in albo dictas
 candida saevaque nubes vastarumque solis miserere?
 
@@ -27,7 +27,7 @@ neve. Voce Caesar socios, **malo**!
 
 Litora te cuius aer nemorum haustum ut **erat** gemino venit prole, et in, arma.
 Nec in mixtaeque canunt [quod](http://cuncta-quae.io/hic-de). Inutilior pondere
-nactusque, Nyseus pennis, est unum *tegit cupidine* istae. Evomit arbor sui,
+nactusque, Nyseus pennis, est unum _tegit cupidine_ istae. Evomit arbor sui,
 fugientem galeamque ille, Maeonias solus exemploque monte adpellare o oculos
 trabibus deferre ego nympham fateri.
 
@@ -42,4 +42,4 @@ Moribundum dicta gravitate et Aiaci membris praeterque Veneris nil pars inseris
 credas, et cui obruta custos perque, ope? Crinem et etiam recurvam adsonat
 [demptos](http://www.cum.org/seque.html), carerent ante sine, tabuit: Inoo.
 Recentes suos [quod](http://icare-et.com/convexiverbis) furialiaque aestus ad
-anno fraudate *terrae stillabant*, fui cannae fecit!
+anno fraudate _terrae stillabant_, fui cannae fecit!

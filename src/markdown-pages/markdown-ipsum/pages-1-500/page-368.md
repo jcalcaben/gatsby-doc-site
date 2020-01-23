@@ -5,7 +5,7 @@
 Lorem markdownum crede concipiunt caelatus illis imitatus nubes **dolorque
 platanum**. Retinere et melior bovis haut medio tolerare agrestem, defluxere,
 patent? Cadit parva ea inhibere, aethera simulacra! Temeraria in deos nulloque
-*elimat*.
+_elimat_.
 
 1. Est sacra stridore inter
 2. Quid unda quantum optata duxit
@@ -15,8 +15,8 @@ patent? Cadit parva ea inhibere, aethera simulacra! Temeraria in deos nulloque
 
 ## Titan e aquae exarsit meroque loquetur aranea
 
-Genitoris motis *dant reluctanti* laevi Polymestora corpore lucoque hunc artes
-*probat*. Et venturi mitis: Orchamus, a luctus dotalem arabat oscula talibus
+Genitoris motis _dant reluctanti_ laevi Polymestora corpore lucoque hunc artes
+_probat_. Et venturi mitis: Orchamus, a luctus dotalem arabat oscula talibus
 ambobus. Cantus et deme nec et defendit loca, subiectaque sublime corpusque
 recingor et cum vultus lacrimas? Sic amor super quoque fatum, cum mirae in quia
 thalamos; totusque lapidosos magna, pharetrae
@@ -51,10 +51,10 @@ inmunibus renovatus et si geruntur namque reddat esse dies exercet.
 ## Haec mentis deum urbem pando
 
 Illa virginibus muneris, inque, sustinet. Mora nivis, aere aditus protinus
-partim nitidissimus saepe; est *quod non quod*, est tenet.
+partim nitidissimus saepe; est _quod non quod_, est tenet.
 
 Manes corpus vivere suo sacrifica ranas, terga citharam venenifero vivos.
 Fugientibus Niobe aliisque quoque urbis, sic [tot solacia
 palles](http://pectora-illis.net/)! Substravit Venus virginei etiam nubibus
 celerem discedit mihi praeter suasit amplectimur capillos: Dixerat. Nec pater
-**alas** occupat mox causa **moverat**. Tibi ventos *mugitu*.
+**alas** occupat mox causa **moverat**. Tibi ventos _mugitu_.

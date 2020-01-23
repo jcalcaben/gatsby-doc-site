@@ -4,7 +4,7 @@
 
 Lorem markdownum legerat decus circumque liquidum tamen religata urbe stivave
 [voco](http://regespeque.net/unde-qui.html), non. Vel furta lacertos, profatur
-manu aequoris minatur secantes *viribus*, non convicia neque bis.
+manu aequoris minatur secantes _viribus_, non convicia neque bis.
 
     realMoodle *= data_opacity_newbie - 95 * 100 + 5;
     ics_file_digital = lossy + 84 + 96;

@@ -70,7 +70,7 @@ Ego sponsa forma paciscitur oculos: fore date: culmine suam neque inmutat auras.
     }
     flashVci(boot, multicasting_ping(zoneApache, 2));
 
-Templis in stamine audaci quisquis suam postquam dignus persequar melius *ex
-dabat* que dum orbem insonuit. Tinguatur erat; caelo atque triplices arcus ne
+Templis in stamine audaci quisquis suam postquam dignus persequar melius _ex
+dabat_ que dum orbem insonuit. Tinguatur erat; caelo atque triplices arcus ne
 **potens dabit parantem** Caicum orbem, haec in debueram. Etiam defensatque
-tamen vacuas; dividite domum cyclopum *opusque*?
+tamen vacuas; dividite domum cyclopum _opusque_?

@@ -5,7 +5,7 @@
 Lorem markdownum patres; mundi fuit inque invadunt **monimenta mollibus** cum.
 In et voti popularis! Nec per tyranno vidit; alii duro reddi, a ad. [Qui magnum
 que](http://vocem-et.net/a-potest.html) furit quam ungula tollit arcum ore
-terras tetigere adeo ungues si vocas ut iter per deme *aesculeae*. Facto qui,
+terras tetigere adeo ungues si vocas ut iter per deme _aesculeae_. Facto qui,
 cum primus, et via comminus torvi simulatoremque pavido ventusve lumine scires
 ego draconum caris: aequi.
 
@@ -18,14 +18,14 @@ superet fecit, ortum quod, ut interea [turba misisset](http://quae.io/).
 
 ## Violentus ensem aestus sublime est tantum
 
-Facta *dum demissior* simul profecto o fulmina caliginis genitor nam. Currere
-glorior mihi et lignum, *hortamine undique*. Quoque easdem rapui tenuit egerit
+Facta _dum demissior_ simul profecto o fulmina caliginis genitor nam. Currere
+glorior mihi et lignum, _hortamine undique_. Quoque easdem rapui tenuit egerit
 patriam **telae**?
 
-Orbis praestate dantem, frondibus hostis obstantes *induta Nesseo*, nocte quam
+Orbis praestate dantem, frondibus hostis obstantes _induta Nesseo_, nocte quam
 iam urit praesentia asperitas tauros bracchia ignisque respondit. Coniugis
-quidem **laudatissima corpore tibi** quam *formae*! Cum vetat gentis, et, duas
-non *ire emittite dant*!
+quidem **laudatissima corpore tibi** quam _formae_! Cum vetat gentis, et, duas
+non _ire emittite dant_!
 
 ## Aut una ille silvarum tamen
 
@@ -50,7 +50,7 @@ Caeneus](http://conlapsa.net/sacraria-faciat): fonti nec alga! Verbisque
 Aulidaque quam, ingratus de vimina postquam relinquunt inplevit virginis, post
 facit sustinuisse dant!
 
-Sequerere diversa. Viribus Dianam *me occulte* resolutis et patri auraeque te
+Sequerere diversa. Viribus Dianam _me occulte_ resolutis et patri auraeque te
 glandiferam.
 
 Nimium quod varios; huic notum miseri, promptu ceu pignore tollens, secuti

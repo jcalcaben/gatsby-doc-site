@@ -4,7 +4,7 @@
 
 Lorem markdownum crudele facioque [stabat](http://fuit-domusque.org/nescit) en
 effluxere poteris Tydides pennas. Accipiunt Achille Pelea haec tempora tristia
-spectare taceam *magis*, per generosior dilectos audire qui. Resolvit motu ponit
+spectare taceam _magis_, per generosior dilectos audire qui. Resolvit motu ponit
 natura, facta cecidit pennas Eurytidos premente; tanta confinia, potuit tum,
 non.
 
@@ -63,7 +63,7 @@ quodcumque, tantus, censuque deum illa quodque dira.
 - Aethere et rabie
 - Glacialis vipereos et quem colentibus et clade
 
-Retexi curvat. Arte *tergo* rutilis: [cacumina](http://eripuit.net/) extemplo
+Retexi curvat. Arte _tergo_ rutilis: [cacumina](http://eripuit.net/) extemplo
 miscet harundine deviaque mora. [Socios illud est](http://colle.io/est) multi et
 cetera! Tua cum viri oscula materque virginis creditur antiquas Phoebi tollens:
 prohibent, et luctus avertere facit et spem praeruptam. Hanc cogeris caedisque
@@ -71,7 +71,7 @@ modo cardine primum agnorunt ex mulcet te deorum veluti, successibus tecta
 naufragus demunt ambiguum, advocat?
 
 Occiderat solebat, non quem scit modulatur. Sacris ille in inde Aesoniden
-sanguine Canentem modo parentem serior: *quas pressa*, ruit! Aethera fame
+sanguine Canentem modo parentem serior: _quas pressa_, ruit! Aethera fame
 instar, dum perque Menoetae cava, carent nomine quae tentoria nomina ac quoniam
 colla submoverat! Hinc suo lacubus corpusque viroque ducibus; nec latratu media
 iuventa auditaque hanc. Religione amnis loqueretur pinum moenia tenebant

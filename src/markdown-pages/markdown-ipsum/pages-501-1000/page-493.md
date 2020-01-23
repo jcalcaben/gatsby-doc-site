@@ -15,8 +15,8 @@ resolvit iurabat, est cepi solutis putavi totaque aut.
 
 Patefecit quoque, hastarum, os pectora Peleus me pressum arbor sororibus ratem
 me fessam bellatricemque vertice violenta causa, haec. Nudos nodosaque dictas
-sororum forcipe sanctae quondam post ulla iuncta teste teneat. *Moriensque
-temperat aliquod* super! Nactasque caesa, reieci animi causamque qui at quae
+sororum forcipe sanctae quondam post ulla iuncta teste teneat. _Moriensque
+temperat aliquod_ super! Nactasque caesa, reieci animi causamque qui at quae
 non; conlectus commota [molitor](http://autprimaque.net/illampenates).
 
 - Paventem cupidine flumina Asiae latum alterno rogat
@@ -32,8 +32,8 @@ egit. Columbas guttae petitam loquor! In aut virgineum notitiam fervet; neu
 felicia **fecunda nec docta** binominis et silvas, nec ferro tardos sui
 genualia!
 
-Est hoc non est maius prisco est ille iamque renovamine ulterius *corpus
-quandoquidem* fuit tinguet? Ille querulas et vultus victae ut furori amabam tu
+Est hoc non est maius prisco est ille iamque renovamine ulterius _corpus
+quandoquidem_ fuit tinguet? Ille querulas et vultus victae ut furori amabam tu
 ceditque tuba. Ubi partem altae nec rostro mille communia, e **licent
 precatur**. Stridore qui satis pavore perque peregrina contrarius Graios habent
 quoque, difficile, Atlantiades nova cornu crinem. Quam in ut erigor flumina
@@ -59,7 +59,7 @@ saxa.
 Adsuetos si annos, vivit decor et coniugio aquas [mactatur
 attollit](http://agmen-cuncta.org/intulit-sensit) ire resumit guttura pendebant
 posset. Petit gradus Alcmenae: incumbere adero dantem dira matertera matrem
-*serviet ulciscitur et*, spumeus auro ubi timeto et.
+_serviet ulciscitur et_, spumeus auro ubi timeto et.
 
 Pater candidioribus ad neque ratis inane scylla; ecquis gemitum vocavit
 desideret visibus fluctibus occiduae uni. Superorum vilior nec tuo dat

@@ -5,7 +5,7 @@
 Lorem markdownum cupies in argento comas desierant spectabere nurus, sed, te
 fors rectorque ad imagine versum, nostra? Contemptuque amomo deae [tempora
 pariter](http://bybliscalorem.org/), umida et meritis lento, sermone, ac.
-Voluptas ora adest tenus ipso; iudice trado dixit, *laudes*.
+Voluptas ora adest tenus ipso; iudice trado dixit, _laudes_.
 
 > Certa sed qui perosus conataeque iniusti, dedi vultum **Messenia dixi**
 > positis quam sub nec, quoniam. Uva hic neve nimiumque modo messis ait nectare
@@ -16,7 +16,7 @@ Voluptas ora adest tenus ipso; iudice trado dixit, *laudes*.
 ## Inpune pro move spatiosa fecere confudit turba
 
 Sibi vidit [strepitus](http://dea-multa.io/quo.php) vidimus, nec aquis ubi
-vulnera; lumina, annis currus. Nec *cum iste aurato* et fessa, famulosque
+vulnera; lumina, annis currus. Nec _cum iste aurato_ et fessa, famulosque
 turribus erat! Artes ducibus Iuno fluidove: ad feroxque volucres litus Aphidas,
 palles: precor **nutu**. Tribus altera, mala, cum colus, Stygiisque monuere sed
 mirum dierum. Te canis totis!

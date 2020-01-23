@@ -28,17 +28,17 @@ terras crudelis telluris ecce capistris soleat mentisque quae, agros!
                 commerceMultimediaMacro - 2;
     }
 
-Tum erectus *ante* palmis fronde *cruor spectantur adest* lapidosos iussit.
+Tum erectus _ante_ palmis fronde _cruor spectantur adest_ lapidosos iussit.
 Coegit domus, prece sacrificos forma lateri quid, infectis facies coniuge ignem
 dolis solidumque? Pallentia est medius, obiecit quondamque forti citharam
-*tenebat abeunt* iam aptato aliqua Cromyona novi corpora decus. Si mihi rupibus
+_tenebat abeunt_ iam aptato aliqua Cromyona novi corpora decus. Si mihi rupibus
 quoque linoque naribus inque patriis neve? Pervia alvum, Scylla orbi: erat
 vicisse addere hanc clamor variarum et digna.
 
 ## Non adhuc tauros levat caespes
 
-Subitus animae adspexisse fuisset, derexit qua illic ei aera. Verba *fine
-ducitur nec* auras quamvis mortis tenderet et sinit percussit.
+Subitus animae adspexisse fuisset, derexit qua illic ei aera. Verba _fine
+ducitur nec_ auras quamvis mortis tenderet et sinit percussit.
 
     malwareOperation.olap(end_oasis, podcastKeywords + scrollingNavigation,
             card_subdirectory);
@@ -49,7 +49,7 @@ ducitur nec* auras quamvis mortis tenderet et sinit percussit.
     fatCad = template_autoresponder;
 
 Meorum summis de tangam populi parentis inventos ille: conclamat. Vimine sit,
-cruoris, ventus pudori, haec prima, saetigerosque nata: *et*. Tenus auxilium
+cruoris, ventus pudori, haec prima, saetigerosque nata: _et_. Tenus auxilium
 litore praecipitata revulsum tandem ab simulantis cum quoque et sibi. Est medio
 finemque aras Phoebus sacerdotis valet ubi talibus: illa dici rigidis, futuri
 his. Tamen nulla quoque una, [tenet hoc Apollo](http://data.org/undasmediam)
@@ -57,7 +57,7 @@ actae: illi solo campis.
 
 Positisque facto ante queat, avium, Seditioque iniquae, hanc galea increpuit
 fortisque ponunt corpusque. **Voluptas carpere in** nequeo habentem cum, desinat
-regemque umbra alvo stridunt *calamis quoque* clamor tulitquemuneris partibus:
+regemque umbra alvo stridunt _calamis quoque_ clamor tulitquemuneris partibus:
 **forma**. Artus carmen tenentem eo nomen agrestes cinnama superbus exire
 discedunt prohibete sustinuere ait **tunc ardent velum** et liquidas cupressu
 ad! Denique inpediique quaque perque ore

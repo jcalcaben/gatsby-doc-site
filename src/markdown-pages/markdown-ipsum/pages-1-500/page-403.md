@@ -3,7 +3,7 @@
 ## Profecisse dixit
 
 Lorem markdownum, **est bella quoque**: forma arva amens timore nec flammamque
-Andros. Quid hic, *petunt unam arbor* Deoida nunc te, adeo maesta exiles,
+Andros. Quid hic, _petunt unam arbor_ Deoida nunc te, adeo maesta exiles,
 laetis.
 
 - Quod sit ferentem
@@ -30,10 +30,10 @@ Lucifer figuris ore pectora tegunt sonantem.
 - Subegit quae
 - Et matrem ore
 
-Dederam quam *precibusque* secabant quanto in exilium et me Iphi ducere vident
-Gradivo visum. Populos tuam *cuspide* imitante tendens, hic seque sit: ubi.
+Dederam quam _precibusque_ secabant quanto in exilium et me Iphi ducere vident
+Gradivo visum. Populos tuam _cuspide_ imitante tendens, hic seque sit: ubi.
 Ultima [rivo regia saltuque](http://circumdata-gemma.com/) actutum, novae
-clamoribus *ne sunt venata* iam arvis et. Exstinctum hortatus vulgaris boum
+clamoribus _ne sunt venata_ iam arvis et. Exstinctum hortatus vulgaris boum
 tantum, ad quies corpus [Eurydicenque
 demissior](http://meunde.net/adopertamlibet.html) duo amplexus quod. Incursurus
 auras.
@@ -42,6 +42,6 @@ auras.
 2. Tempore clara paterno in nymphe iniceret primis
 3. Ducat inpubesque ius est rogantem defluxere ducta
 
-Honorem et, mentisque parentis pater; virgine secumque est fugias *non* quique
+Honorem et, mentisque parentis pater; virgine secumque est fugias _non_ quique
 animas! Non spem, curat inhaeserat simul nam sedit ait meque! Medicamine incipit
-neque. Umbra *donec*, autumnos mens, pectusque et visaeque litora?
+neque. Umbra _donec_, autumnos mens, pectusque et visaeque litora?

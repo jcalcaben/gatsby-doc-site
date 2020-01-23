@@ -25,7 +25,7 @@ infans, cadet morientia sensit iuvenemque.
 
 ## Non cum
 
-Referat bis illuc blandas Baucisque *futuros* talaribus rura. Ipsa volans.
+Referat bis illuc blandas Baucisque _futuros_ talaribus rura. Ipsa volans.
 
 - Poma quoque
 - Munus tibi mihi per faterer calcitrat scire

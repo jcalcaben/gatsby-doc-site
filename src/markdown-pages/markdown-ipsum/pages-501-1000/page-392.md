@@ -44,5 +44,5 @@ iussa inaniter fecit: sit verbaque habebam summo.
 
 Si modo. Sub functa tuumque, vivos curvamine tener, nataeque tergo non levis.
 Dixit clausum cum subiere, Dianae gelidis darentur: serpentum et quod decipis
-natas, vultum. At Palladis erat, est in *reddere nimbos regis* contendite
+natas, vultum. At Palladis erat, est in _reddere nimbos regis_ contendite
 lactantes toto intenta vipereos altos rorantia neque.

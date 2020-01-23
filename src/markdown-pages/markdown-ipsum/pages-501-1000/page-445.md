@@ -2,9 +2,9 @@
 
 ## Ille pertimui proceres reseratis inmunis
 
-Lorem markdownum quaque nasci male *regna at arcu* vultibus praesagaque vivere.
+Lorem markdownum quaque nasci male _regna at arcu_ vultibus praesagaque vivere.
 Illo iam saepe in [atque](http://www.videtur.com/alterius-recalfecit) recurvas
-*dei animalia quoniam* in fixit et thyrso di fugiunt dignus nec lege.
+_dei animalia quoniam_ in fixit et thyrso di fugiunt dignus nec lege.
 
 1. Praepetis illa omnes Erysicthona tum electarumque liquidi
 2. A non habuere nece
@@ -17,7 +17,7 @@ Caune illud vertice litoraque in sine innumerosque amnes, trahens populo, quaque
 esse: instruit. Saltus moti regalia astra, tanta aut levis taedae: a, deus nec
 alter Autolyci. Celat gentem velamina laurus fetum asello lente ignes, et orbe,
 visa per inclinatoque pascere. Neque sibila, nec demisit faciem:
-[summum](http://www.rotarumper.net/anno) terra: aegre qui *tacet* profana
+[summum](http://www.rotarumper.net/anno) terra: aegre qui _tacet_ profana
 venitque, temptaminis copia. Boves deo creatas meae erant; plus quam per
 vetorque palato aliquid Pedasus perque mea avidos, unus.
 
@@ -30,7 +30,7 @@ vetorque palato aliquid Pedasus perque mea avidos, unus.
 
 Steterat figuris prolesque temptamenta invenio **litora excute populos**
 corpora, caesus Silenus iamque gravi! Porrigeret vulnera rogus. Ignota
-relinquit, tandem et in fecissent aerias *Helops ter* mihi omne; iaculum
+relinquit, tandem et in fecissent aerias _Helops ter_ mihi omne; iaculum
 eludere.
 
     var im = sdram + device + 5;

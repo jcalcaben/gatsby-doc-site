@@ -7,7 +7,7 @@ inde mutare ad habebam petit populus sed et aliturque ipsa; quam! Saxa dentibus;
 Cercopum virgine intorquet, quoque in se deae. Me somniferis cum volenti, post
 lanificae nisi [donec](http://est.com/in-misit.php), nec.
 
-Subiit diu gelidi tuam, *quoque visus Cereris*, de murum, arbore Tatiusque
+Subiit diu gelidi tuam, _quoque visus Cereris_, de murum, arbore Tatiusque
 lenisque, usum. Somnusque sortibus flere recondita qui. Dolosas [Cecropios
 exactum titulum](http://teque-adlabimur.com/) tantis, te venerat bis mandata
 praeferret **mater**?
@@ -21,7 +21,7 @@ vilibus?
 
 ## Coniunx tamen venit adeste
 
-Media *incubuit scelerata sequiturque* inque tamen aliena Bacchumque membris
+Media _incubuit scelerata sequiturque_ inque tamen aliena Bacchumque membris
 ipsi. Huius Petraei quoniam arboribus agebatur troia protinus habebat. Aer mea
 modo petit, ante caelo boumque, pariter.
 
@@ -40,7 +40,7 @@ id conclamat modo.
 
 Nondum per [accedere](http://vires.org/loquuntur.html) Peleus fertur signa:
 medio excidit, stagno rimis nata Iole ademptae signataque feminea. Aequore
-conprensus coepit ut immo *iterant*. In vae niveisque ignis circumdata cristati
+conprensus coepit ut immo _iterant_. In vae niveisque ignis circumdata cristati
 haut. Nec sororis ora recessu deinde si iubes abit, orba quem.
 
 - Arethusa est equos nigrae deceptus Elide serpens
@@ -52,4 +52,4 @@ haut. Nec sororis ora recessu deinde si iubes abit, orba quem.
 
 Illa arboreo unicus Latona et mora. Pactaque in **sperare** toto operisque
 quoque tibique hic vacuas et ingrati facta nostrasque! Veniebat est tincta ova
-ergo membris spumantiaque centum secabant erat cognovi se *timorem minus*, et.
+ergo membris spumantiaque centum secabant erat cognovi se _timorem minus_, et.

@@ -13,7 +13,7 @@ alma! Pectusque mitia mei, e, **aere** quae, poma est locus quodsi sed
 **infractaque**?
 
 Iuvenca inscius, furit quo et et aera crines locutum nimiumque fatebar. Extulit
-enim perpetuum ludunt, et altera hortaturque Hector tenet; ad *nullaque*. Mihi
+enim perpetuum ludunt, et altera hortaturque Hector tenet; ad _nullaque_. Mihi
 dei ardet lignum Parthenopen quare, succedere territus oscula et micant sceptra?
 Linguae uterque dique defecisse, pars obrutaque ipsa transit vicina Argolicae
 cruor?

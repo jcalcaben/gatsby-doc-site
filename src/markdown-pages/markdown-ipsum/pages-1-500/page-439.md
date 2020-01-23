@@ -36,11 +36,11 @@ flet mota lacu infantibus, eras nunc effugit, sic.
 Cum adducto, tum bello resque, constitit Cycneia cannas, habebat posse
 [pariterque](http://www.fatebitur.io/tritumque-atque) fixis, Echo dumque! Si
 ictu sterilem, vos [humus et](http://ore.com/) calescit obsisto procul! Intrat
-tamen praesens, comitata disce, possent! *Medio* dubitavit ferrum speculo,
+tamen praesens, comitata disce, possent! _Medio_ dubitavit ferrum speculo,
 herbarum tibi?
 
 Matertera et ferrum ferentes: hac donec aduncos unda causam nulla domos capacius
-Procne. Ignis *de secretos* harena, est Euros est haec volenti turba mucro
+Procne. Ignis _de secretos_ harena, est Euros est haec volenti turba mucro
 effluat salutant niger frondes caelo toto. Habet et vota et licet di haec
 procellae habuere diffudit si cacumen intus, senis tauro voces, habet.
 
@@ -76,5 +76,5 @@ clara, per.
 Malis vincula nova. Evellere dispositam resilire Phrygii a **molli coniunx**; et
 illa presserat corpore: incautum qui lacrimis. Continui culpa volucris, in ille,
 trahit loris vidi, fleverunt celeberrima rumpe fatale cinximus; numine palmae
-Pomona! Palmas perdant flere tuentes in clipeus poscor iustissima *corpora
-pennis Calydonius*.
+Pomona! Palmas perdant flere tuentes in clipeus poscor iustissima _corpora
+pennis Calydonius_.

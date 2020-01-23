@@ -2,7 +2,7 @@
 
 ## Fruetur montanis harenis electae titulus indueret pacis
 
-Lorem markdownum modo, domos **labens** freta, hic famem *arva* inclusit terruit
+Lorem markdownum modo, domos **labens** freta, hic famem _arva_ inclusit terruit
 coniunx, in Aeacidae omnes! Fine dixerat est arcem eripuit idque ut regnorum
 tendebat avulsumque vile, dignissima pugnant, genae **vixque** medius ignoto,
 mons. Pater currant auxilium avidusque recursus e capit nec dura diffugiunt.
@@ -30,10 +30,10 @@ coniugialia tamen in rem haec! Suis tuens capillos?
 
 ## Vigil putando populos vidit
 
-Graias parantis vestram. Talibus hastile primo; date partim, at *haec nonne
-ulla* pingebat dixit non virescere terra?
+Graias parantis vestram. Talibus hastile primo; date partim, at _haec nonne
+ulla_ pingebat dixit non virescere terra?
 
-*Excitat ratus* ortu prior, coniurata posito parum duris matris. Magnosque
+_Excitat ratus_ ortu prior, coniurata posito parum duris matris. Magnosque
 effugit antris et **fore alti Hectora** quam! Ab resumptis vanum paelicis
 vulnere qualiacumque natum, perpetuo legeret non arma Tarentum dubitat tangam
 diu terras.

@@ -9,8 +9,8 @@ moenia. Corythus ait opusque meumque, telluris arboreae Phoebes toto dictis. Et
 comes constitit fictumque undis neve magno valles, **ultima ait**.
 
 Meae illi meum has ereptus, captus umquam secundi euntis ut rustica!
-Lactantiaque nobis Hectora manusque: caeli ipse *neque* noctem Amphrisia
-potiuntur et Minos iaculum, *acta* tuo. Nata quos.
+Lactantiaque nobis Hectora manusque: caeli ipse _neque_ noctem Amphrisia
+potiuntur et Minos iaculum, _acta_ tuo. Nata quos.
 
     if (troll.mouseWaisDigital.website(hardCd, camera_mainframe +
             partition_template_p, power_mips_clean) > dma_process) {
@@ -29,13 +29,13 @@ Agreste [ille apparuit](http://www.taliavela.org/totisinpositos.html), enim puer
 tristia miserabile sumptis aquas sanior, sed templo caput: parente, esse.
 Aquosae pia fonti e ullus candida pectora in mihi **flebilis morari
 nepotemque**. Annos nexilibusque poenas comitantiaque mota. Fecit in et viaeque
-refert, Latia Aenean ut et florentia *pectus est parva*! Colla thalamo fortuna
+refert, Latia Aenean ut et florentia _pectus est parva_! Colla thalamo fortuna
 et reliqui Gradivus requiret ungues et gelido honoris scilicet cura ignoto,
 deciperetur admirabile.
 
 ## Propulsa siderea catenis ruris medio orandus Troiae
 
-Velis et quove pressit scitetur vidistis idque quo *quo pomaria cernit* ulla,
+Velis et quove pressit scitetur vidistis idque quo _quo pomaria cernit_ ulla,
 cycnorum. Eripitur **epulis**.
 
     point *= flowchartXml(bar, dvd_isp_heap(uat, play_gibibyte_file), access +
@@ -55,9 +55,9 @@ cycnorum. Eripitur **epulis**.
             meta_marketing * rootkitKeywords);
 
 Nec dum, habes ubi diras poscis tinguat, dextra filis quorum, cum nescia. Patrio
-modo? *Nymphae acies distentae* artifices miserandus tibi, dum carebunt
+modo? _Nymphae acies distentae_ artifices miserandus tibi, dum carebunt
 contingit: et stetit miscet moenia probabant patulo relicta. Di denique pingue
-in fulminis visae vestro, terris, *Deiphobum* Caesar visus. Ruit turis venientem
+in fulminis visae vestro, terris, _Deiphobum_ Caesar visus. Ruit turis venientem
 quoque tectis, quae barba foliis tradat Alpheias.
 
     servicesData.toolbarMailPort(1, sslBinary(typeExpansion + megabit,

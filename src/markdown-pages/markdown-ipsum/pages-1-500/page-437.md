@@ -4,9 +4,9 @@
 
 Lorem markdownum, senilem suos. Orbata paulumque: sua a virique [verbis populare
 ex](http://www.alte-creati.com/) terga Iovi malis magna, recidendum fores
-latratibus. *Illi matrem inrita*, aequora liquidissimus rubor; tinctis ante.
-Notatas retia virusque semper pectora, patris conquerar in artes. Herbas *est
-lusus*, mox se fati scopulos prisca.
+latratibus. _Illi matrem inrita_, aequora liquidissimus rubor; tinctis ante.
+Notatas retia virusque semper pectora, patris conquerar in artes. Herbas _est
+lusus_, mox se fati scopulos prisca.
 
     textEncodingRight.rpc_wddm += 26;
     var horizontal_boot_ivr = kvm;
@@ -30,7 +30,7 @@ bella praelatum moly at silvas quem, hic mei hora!
 
 ## Altum poenae erat
 
-Nymphae lupi res qui frondente suis; *probat fuit Cragon* de lustro, dona annum
+Nymphae lupi res qui frondente suis; _probat fuit Cragon_ de lustro, dona annum
 nigram mentem. Stygios mensis, erat coniunx forma, his oracula me proelia ambo
 clipei. Erat peremi rerum, severa, et **Thracum unam tantum** praecipites opem?
 Aestatem ambiguis, esse inque tum hunc iunctorum me puer
@@ -48,7 +48,7 @@ Aestatem ambiguis, esse inque tum hunc iunctorum me puer
 Interea imagine ferro, ora opusque? Isset iacit veluti per sua ruent pondere
 Gange ambagibus notior. Est orbe factorum **hic**, aestuat potero illi? Quos
 actis Parosque mille, [ita](http://intulittristis.com/), quoque auras: Hesperien
-poplite rigidis flumine hoc dixit de adhuc. Mala *modo*, auso longe **tellure
+poplite rigidis flumine hoc dixit de adhuc. Mala _modo_, auso longe **tellure
 adsis**, sibi nec violesque hunc quo conciperet addit.
 
 Fratris in nuntia tantaque sentire. Deos supremumque atros lapsu opes vestigia

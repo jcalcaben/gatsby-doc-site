@@ -43,7 +43,7 @@ contingere opesque Fando fides pabula?
 
 Hamis et filia: patulas onere cingo trepidans. Haut flebile, silentia iteratque
 super aries cruentae agnovit, fratrem ponti crudelis. Oneratos lacerti tum vanis
-notitiamque haerenti est est *aurata supplex* vitiaverat, lustravit coniunx in
+notitiamque haerenti est est _aurata supplex_ vitiaverat, lustravit coniunx in
 Anaphen. Rescierit a vanam removente cineri monstravit norat viribus petisses
 tamen Dryasque regna perfringit texerat.
 

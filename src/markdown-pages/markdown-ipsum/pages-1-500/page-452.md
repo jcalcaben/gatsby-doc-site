@@ -3,7 +3,7 @@
 ## Ingreditur pars pugnantem grandia inque nam inania
 
 Lorem markdownum coniunxque quoque positis tacitus serpens **lepus** praetulit
-quicquid, transitus Icarus *pietas nubere* incubuit. Male coniuge nimius, ad
+quicquid, transitus Icarus _pietas nubere_ incubuit. Male coniuge nimius, ad
 coniuge placet Cypro cursus nondum; sic de manu arma seu est, me. Quid cape hos;
 fulicisque et pavidae specus nec supplex parvi dedit, ignari.
 
@@ -15,7 +15,7 @@ fulicisque et pavidae specus nec supplex parvi dedit, ignari.
 ## Circumdatus concrevit Delphica inter
 
 Stygias et trunco retinebat ulnis ut lacerum Achilles, torvis declinat
-*geminos*. Non Veneris prodibant amnem. Vivere ab artus, arcu semper Cereris
+_geminos_. Non Veneris prodibant amnem. Vivere ab artus, arcu semper Cereris
 erigite coniuge instruxit praerupit aperti prima. Perfida vilisque vino; litus
 haud spissatus [est funere tanta](http://www.dicenti-delere.net/thermodonque)
 mihi, Romethiumque, tibi undae semper.
@@ -45,13 +45,13 @@ Adstitit est. Quondam sanguine puppes si lacerum fecere. Est levis temone.
 
 Stamina dedisti nil, animam, ore matrem **ideoque capienda** sinistro Talia
 tenetur puerpera. Concubitus conditur inpius instabilemque regna secretaque
-Aiax, haec imagine **margine**, loca cauda et iam comis, ulnis *e*. Infantem
+Aiax, haec imagine **margine**, loca cauda et iam comis, ulnis _e_. Infantem
 steterat in sinit coeperunt cibi, sed posses nubibus aequoris tamen! Conplentur
-*a* regnumque saepe negatur quamquam, sperataque memores. Est nomen gratia
+_a_ regnumque saepe negatur quamquam, sperataque memores. Est nomen gratia
 perdidit bracchia membra.
 
 Aut imagine carina. O Gorgonis Rhodon suo. Es media credidit vellet, optata
-Iovis Iove digni *velociter Hippotaden* mensae.
+Iovis Iove digni _velociter Hippotaden_ mensae.
 
 1. Relevat loco leto
 2. Illa ipsa
@@ -60,9 +60,9 @@ Iovis Iove digni *velociter Hippotaden* mensae.
 5. Similis aura sumit adeo plus vocisque et
 
 Parte retracto prospexit ulla electarumque Hecaben deam. Esse passus, feruntur
-vicit rura certa superatus natus est: Festa habere praeconsumere. Videntur *non*
+vicit rura certa superatus natus est: Festa habere praeconsumere. Videntur _non_
 visurus Liber dixit mortale staret spectat Proximus evanida [euntem
 enim](http://lacrimans-artus.com/bucina.php) quanta indignave. Cruor fecere
 senem auras probat duraque Medusae liquidis, hic et. Herbae mihi claudit Procnen
-tardarunt saepe *regna effuso coniuge* crurorem, mora [inseruitque omne
+tardarunt saepe _regna effuso coniuge_ crurorem, mora [inseruitque omne
 hoc](http://www.dixerat.io/sopita.html), ad tenet, luctibus.

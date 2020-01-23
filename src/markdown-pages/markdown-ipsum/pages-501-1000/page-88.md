@@ -18,14 +18,14 @@ ingens! Cuti laborum notat?
 ## Consuetas nolet crudelius deum auferat
 
 Per det adapertaque et quos, est maxima desint, non quantus lege senserunt
-fessa: pulvereamque. Missa dominaeque poplite *pectus* effusus delicuit sacri at
+fessa: pulvereamque. Missa dominaeque poplite _pectus_ effusus delicuit sacri at
 iubemur inpune. Exarserit calido, vicit hinc concipiunt annos lyraeque fonte
 enim est hac cetera, venae!
 
 Se nulla; **tum Ceres** metu sanguine Andraemone, perlucidus pontus. Sed rite
 putat hinc nebulas, Hesperidas Turno minantia herbas iuvenali viscera pugnat
 effugies. Iuvenali priscosque quod cruciatibus cuius Latinas ipsorum? Quod tua
-dilectaque prolem separat ad, *retexitur postquam*, aventi.
+dilectaque prolem separat ad, _retexitur postquam_, aventi.
 
 - Turribus quinque ille
 - Cum rigore stirpes crimen
@@ -35,5 +35,5 @@ dilectaque prolem separat ad, *retexitur postquam*, aventi.
 - Puta sibi nomina
 
 Qua nec nam **linguam et**, et ramis luna supplex eburnea Laiades Lycia abigoque
-vox arvis Ceyx! Meus fixis, taeda Iovis? Et erat sortis petit, *ille quae
-faciem*: dat patri.
+vox arvis Ceyx! Meus fixis, taeda Iovis? Et erat sortis petit, _ille quae
+faciem_: dat patri.

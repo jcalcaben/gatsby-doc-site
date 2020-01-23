@@ -4,8 +4,8 @@
 
 Lorem markdownum ludos, cortice cum robora, frustra frustra molem, pedibusve, et
 accipiunt silvas ferro, aut. Corpus depulsum. Luna eadem, solidam: medicamine
-iacent, dulcia cur vix! Ego mensis furtum *sub nunc* prensantem unde
-pudibundaque *Aeolidae*; et magna diu. Amazone arces harena **erat infans**,
+iacent, dulcia cur vix! Ego mensis furtum _sub nunc_ prensantem unde
+pudibundaque _Aeolidae_; et magna diu. Amazone arces harena **erat infans**,
 ulterius hoc aliquis comites intima.
 
     if (bps.frame_fsb.font_metadata_dongle(e_backbone_iphone, mnemonic)) {
@@ -22,7 +22,7 @@ Vero adspicio patuere, at [meliore meis illa](http://www.quoddixit.com/) per.
 Certo formam, ex veni terrae alter cineres Lapitheia Tempe Ne fluctibus Priamus.
 Umeris pedum, est regina nomen, quod, pes an labentibus leporem optas, inmittite
 abdita. Abit sermone in venit arti formosa exigere membris possent numerusque.
-Elige dat *ne* mortale dixit quodque Di hoste Titania Aetnaea.
+Elige dat _ne_ mortale dixit quodque Di hoste Titania Aetnaea.
 
 ## Quae illos nona patrio est audiat innocuae
 
@@ -52,7 +52,7 @@ pervenit! Obicit cum me aqua.
 
 Arma quod. Adhaesit Dianae eadem lina, vel spem cum totoque at praemia
 Siculaeque Panopeusque nempe, dona. **Argo** currebam siquidem vincite, barbara
-trabs illa caietam tuli dea *adurat certis*.
+trabs illa caietam tuli dea _adurat certis_.
 
 Leves virentem rector suspiria; et errat ducum, saxificos novercae frena ergo
 nam. Summo prima sustulit.

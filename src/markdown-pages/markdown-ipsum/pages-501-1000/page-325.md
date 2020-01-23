@@ -2,9 +2,9 @@
 
 ## Mea laevisque ventris sororum videntur aliudque instant
 
-*Lorem markdownum* et obsita victricia ne casas falsa placidi hinnitus tellure
+_Lorem markdownum_ et obsita victricia ne casas falsa placidi hinnitus tellure
 namque cervice migrare o animam summaque capillos dederat **convicia**. Ipse
-ignarus. Ubi mihi *ab* foliis vitam, iniustaque Oriente Scorpion Lucifer; Hic
+ignarus. Ubi mihi _ab_ foliis vitam, iniustaque Oriente Scorpion Lucifer; Hic
 [artibus gente](http://communemque.org/corpora) spectandique terra, Belo. Aera
 cedit cristis suae **tyranno**, Pelagonaque num, cum quam quoniam florem si
 natura Perimelen aquis liquor. Temptant pervenit tu domos recepit, sentite
@@ -48,9 +48,9 @@ ille ipse iniuria, tamen, nebulas dabat sua.
     var reader_zebibyte = 4;
     utf.tLogicEnd *= nybbleOpen(wamp);
 
-Illo ac *nomina* sedebat: Telamone non quasque satis Apolline receptus.
+Illo ac _nomina_ sedebat: Telamone non quasque satis Apolline receptus.
 Parthenopeia mater **patriumque**: posita togaque, annos dea lecta quibus
-colorum fulvos multarum, hoc *in artus*. Multifidasque arvis *quoque* delenda
+colorum fulvos multarum, hoc _in artus_. Multifidasque arvis _quoque_ delenda
 frena, opus vix obortae, sed late revocata quo. Te vaga habendus se culpa quid
 cervice horrida, ingestoque eadem, os si littera. Pylius postquam in proferre
 laborem.

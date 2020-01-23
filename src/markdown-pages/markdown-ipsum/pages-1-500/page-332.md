@@ -2,7 +2,7 @@
 
 ## Accepit ut differt post
 
-Lorem markdownum longa. Euntem erat avertit balatus his illam Delphice *facit*.
+Lorem markdownum longa. Euntem erat avertit balatus his illam Delphice _facit_.
 Astra latarumque: **qui Iovis**, Sithonios concipiunt deum. Inplerat dici avus
 socialis in virtute refert terque formosius alte aethera est amanti semina
 inpugnante; adfuit. Signa cruor, feroxque tulisse Colophonius unda parvas
@@ -29,7 +29,7 @@ perstas vicimus crebros ferrum **et** deque labare!
 
 Orbem Terram [petebatur](http://inhospita-admota.com/) supplex mercibus, herbis
 per; imbri parte capillos titubantis. Committitur labores vulnus egressu
-miraturus, pinna letum; fidem! Est maduere *tandem Medusae* Letoidos *ignes*
+miraturus, pinna letum; fidem! Est maduere _tandem Medusae_ Letoidos _ignes_
 cum.
 
     if (rate) {

@@ -33,7 +33,7 @@ mora patulas. Sensit depulerat, ab caeli sparso namque adventuque: munere.
 ## Admissum magnanimi litora
 
 Quos una tetigit arbor est incursu alis descenderat ultimus in et tibi diversa
-postquam *vulnus pectore*. Sedem frendens fida rapta volucrumque reliquit
+postquam _vulnus pectore_. Sedem frendens fida rapta volucrumque reliquit
 Ismenus erat penderet pendere, poplite crediderim fata? Inseruitque Aurora et
 submovit hostem sustinui; habe ubi sine quae recanduit ferebat rapit
 [Credulitas](http://www.revocataquedecipit.net/in.html) flammamque omnibus. Tot

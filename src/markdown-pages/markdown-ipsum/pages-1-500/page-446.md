@@ -4,7 +4,7 @@
 
 Lorem markdownum nomen, non aut serpens ianua frondis sunt, est. Prorae Phrygios
 clavigeram mundi consorte parabat nocte sum Herculei
-[mille](http://extrematriopeida.net/cave-pontus), se *dolor fluentum* ingenium
+[mille](http://extrematriopeida.net/cave-pontus), se _dolor fluentum_ ingenium
 **laceri manibus fuga**: est. Lapidosos umidus, loqui tellus capuloque flector
 imitatur et infans foramine undae, femineae per labentibus annos.
 
@@ -51,6 +51,6 @@ His prona relictis spatiosa metum Perseus? Adde haec, in tincto felices
 [lanigerosve fuit tollebar](http://tui-erat.net/ordine.html) quam, que!
 Furiisque praepes dextras non, est caeloque post cuspide Pario.
 
-*Nec cremabo* sequuntur parientem fecisse adultera furtoque coniunctior feras
-harum viscera, terretur vertere. Praesensque *evehor*. Columbas fruitur Romanae
+_Nec cremabo_ sequuntur parientem fecisse adultera furtoque coniunctior feras
+harum viscera, terretur vertere. Praesensque _evehor_. Columbas fruitur Romanae
 nigro valle: murmure satiatae: una tepente pollens sed?

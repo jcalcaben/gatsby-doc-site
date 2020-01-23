@@ -2,7 +2,7 @@
 
 ## Ea mater nec victus voluntas ait hi
 
-Lorem markdownum possit deceptam *choreas*, ut Lemnicolae parentis pars, foco
+Lorem markdownum possit deceptam _choreas_, ut Lemnicolae parentis pars, foco
 hic hic inde. Adapertaque ortas!
 
 1. Me quater me et flexere attrahite saecli
@@ -24,7 +24,7 @@ solum.
 
 ## Tetigere est est
 
-Arcisque medium; illa *Iuppiter*, viri faces. Diligis tresque corpora abluere
+Arcisque medium; illa _Iuppiter_, viri faces. Diligis tresque corpora abluere
 ipsa moriens tamen voces **tenebant**: Fame. Male color angues attollo, qui in
 haec caelestia morti habet, **ex**.
 
@@ -36,9 +36,9 @@ haec caelestia morti habet, **ex**.
 
 ## Cava fine quos ramis nigram sanguine prona
 
-Cumque stupet *valent sequiturque Andraemon* unco ducitur Nec ubi medios
+Cumque stupet _valent sequiturque Andraemon_ unco ducitur Nec ubi medios
 interea. Si has Achilles quisquis figurae. Bracchia quascumque haud viscera
-fames. *Est ferat praecordia* renovataque similis in illa voces spectans, ut
+fames. _Est ferat praecordia_ renovataque similis in illa voces spectans, ut
 mater: aut pocula odores clarique capiebant virgo occupat?
 
 ## Tum mirabile
@@ -53,6 +53,6 @@ nitentior ambitiosus minanti invecta, venturi et unum.
 
 Iacebas caluere io mihi, sed lege vitta quae lacrimarum
 [deorum](http://eratore.com/). Virtute remittant non. Non taeda ite, Eoo se
-medicamen Phoceaque subito sortita animae, Pelasgi, in! Plagae forsitan. *Domo*
+medicamen Phoceaque subito sortita animae, Pelasgi, in! Plagae forsitan. _Domo_
 pro, **transit**, iram nudus, et sepulcri turis purgamina felix prohibete manus
 pennis mota dis aequor hauriret.

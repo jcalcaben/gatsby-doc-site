@@ -4,7 +4,7 @@
 
 Lorem markdownum edita [vestes](http://www.tantum.com/martis-arcum.php) Region,
 cur cum legebant matres, corpus via signa, et. Ara amo solum; viri frater
-ibimus, altera reverentia, *inmeriti*!
+ibimus, altera reverentia, _inmeriti_!
 
 ## Gaudens dixit
 
@@ -16,12 +16,12 @@ barbarus, quorum non corpora per Aetnaea glans, et siccam dicentum origine
 mirabatur. En pugnae monstra?
 
 > **Quae** rapti flamina, in scelerato, adductaque viderunt vasto nec caelatus
-> cum parvum feros alta. Ego quam formosa *cervus*. Nutantem ait gaudet carmina.
+> cum parvum feros alta. Ego quam formosa _cervus_. Nutantem ait gaudet carmina.
 
 ## Telamon amor Thessalus crescit gravidae non
 
 Quo discurrunt natam Cecropide, et nectaris vox terra. In amor vidit fatemur
-cervus hastilia frondis. Et fessos indulgere; moderamine sed *adiit toto* altis
+cervus hastilia frondis. Et fessos indulgere; moderamine sed _adiit toto_ altis
 te amantis, attollit sibila. Pectus sede sunt harenas manus.
 
     vdsl_utility_code -= registry_scareware(eps - san);
@@ -42,7 +42,7 @@ herbas tibi latuit medio! Ad utque per, se periit, et secures vacuas vires.
 ## Ferunt spem intremuere quid
 
 Ad omnia resecare timoris filis, fieri dixit, de dentemque utinam in dixi vellet
-rerum nunc capulo capillis. Patria *parens et movitque* caelum et unius medulla
+rerum nunc capulo capillis. Patria _parens et movitque_ caelum et unius medulla
 carebis, vasta parentum picem. Mens axe resque tulit, derepta est coeunt
 vincant, cervice. Et illi imagine talia.
 

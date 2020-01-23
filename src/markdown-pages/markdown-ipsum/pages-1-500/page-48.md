@@ -4,14 +4,14 @@
 
 Lorem markdownum nacta pericula illi arida, mihi templi Eurypylusque protinus
 saxo quarum mora. Pacis exoratis Minyae, haeserat putares acumine curru
-contempsere ipse viam sustinui ipsi pavidam. Mens Medea illos ictu *ait
-hirsutaque undas*. Consule retegatur **tantae** suffuderat pictas verba, fuit
+contempsere ipse viam sustinui ipsi pavidam. Mens Medea illos ictu _ait
+hirsutaque undas_. Consule retegatur **tantae** suffuderat pictas verba, fuit
 angue saxeus Perseia oculis, certe ardua fervet ubi nostro sit est. Ista nepotes
 sed coniuncti Cretaei quibus protinus ait quod tympana sermone luteave.
 
 Primo si arida in de ipsa vulnera armentaque sceptrum tum. Sedem angues sparsi
 mea. Fidemque Lernaeae cognoscet Alcides. Inrita in mercede palmas. Fisso erit
-ursa saepe et cuius, subit *meruisse*; nec.
+ursa saepe et cuius, subit _meruisse_; nec.
 
 ## Ut suique cedere cruentum Picus
 
@@ -32,7 +32,7 @@ licet dolor.
 
 ## Habitantque pectore ita nemo fors atque solvit
 
-Obstitit per nova bis non! Visa *adesse urit*, et sanguine frigore sinistra
+Obstitit per nova bis non! Visa _adesse urit_, et sanguine frigore sinistra
 tardae ne **fides** porrigit, et. Viscera Lycormas vocavit? Nova peto prole ora
 nil Echionides facit, est temo ferox lenta lacessas matris canoro, male.
 

@@ -20,7 +20,7 @@ limine: formae.
 
 Incepto intellegit nostros cara furoris lumina; stirpe sceleratus, cui! Flebile
 membra mirantibus [centum](http://www.dedit.io/et.html). Ante nomenque corpore,
-verba deum, utrumque *longis*. Esse [fuit utrimque](http://www.e.com/) ausum,
+verba deum, utrumque _longis_. Esse [fuit utrimque](http://www.e.com/) ausum,
 voverat nostro; dat ille et rapui mentes, aut Iliades etiam Sardibus: arcem.
 
 In Thestias freta inspirat erat scripto ense haec nympham agmina Oriente Dryope.
@@ -33,7 +33,7 @@ spatio mundus nec sine sic, suum nec.
 Et colore de, ferro quas orbis nefas pro inambitiosa torrentur quo
 **distincta**, nigri non ministro decimo. Concrescere ferrum et ex nati praemia
 dedit, in toto; freta. Utro quicquid et hunc. **Inhaesuro o** sororia, cum
-volentem et reice seque, data invenio Hylonome; sub. *Petita induere visendae*
+volentem et reice seque, data invenio Hylonome; sub. _Petita induere visendae_
 litora saxum petunt consolenturne adplicor est, dumque.
 
     teraflopsRefresh.megapixelSwipe -= primary_bug;

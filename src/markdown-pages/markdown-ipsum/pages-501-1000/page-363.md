@@ -20,7 +20,7 @@ Amnis est.
 ## Atridae errat utque Proetidas illam studioque vides
 
 Unde placabilis circuit: intravit loci, tibi Troiani. Adest Iuppiter iungi ripa
-efficiet horas *rite*, suspicere me properata parte ea cardine Teleste. [Adspice
+efficiet horas _rite_, suspicere me properata parte ea cardine Teleste. [Adspice
 unde](http://quamausoniae.com/laude-excessere.html) fiducia fraudem.
 
 - Et mihi ut metu suis
@@ -35,8 +35,8 @@ urbis nostra decus, ex nec sum patet ipse, mox nunc.
 
 ## Aspicit umbris sedit se moratur
 
-Auro decem: longa non pondere tibi. Suo tuam umbra sit Troiae trahi *coniunx
-abluere*, viridi ponere, hunc nostras possem, at undis increpat.
+Auro decem: longa non pondere tibi. Suo tuam umbra sit Troiae trahi _coniunx
+abluere_, viridi ponere, hunc nostras possem, at undis increpat.
 
 1. Est corpora amnis ignorantia
 2. Invidiosior fruges vincetur et alter tenet sed
@@ -49,7 +49,7 @@ Ecce seductaque [crimen nimiumque
 defrenato](http://www.animos-errat.io/miserabile-perfudit) et inpiger veniunt;
 verbis en fata arcum territus, fecit collocat illic removere nostris! Et
 agitataque ursae venientique adsuetudine retemptantem tibia infelix tenentes,
-ictu. Illic *nostra* male venit exiguo debuit arcus artus aetheris Eridanum ex
+ictu. Illic _nostra_ male venit exiguo debuit arcus artus aetheris Eridanum ex
 pereunt Talibus sollicitare finis, aditus! Hector odit, nec Ulixe Iovis
 concubiturus Albula ut sinumque flumineis amores parentis viri? Quem alta, est
 non didicit perdite: oscula Phasias et, vestros novo boum, es.

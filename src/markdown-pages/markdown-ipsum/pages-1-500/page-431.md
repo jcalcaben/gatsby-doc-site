@@ -3,14 +3,14 @@
 ## Sanguine loquor cono deo nec si Maeonios
 
 Lorem markdownum, est dei, [tu ex humo](http://omnibus.io/) pater tecum
-primamque frena putat *ire*. Interea reponit; Dixit parte nimiumque conpleat
+primamque frena putat _ire_. Interea reponit; Dixit parte nimiumque conpleat
 caput praefoderat Sicaniam, cum sceleri flexit ius in datae, unicus? Recto
-nudos, continet inque esse nostra plurima: *idem* aut.
+nudos, continet inque esse nostra plurima: _idem_ aut.
 
 ## Nam neque unde ora reflectunt
 
-Felicior peto. Nulloque moderatior rubra *seque ut* dixit serpentum simul terras
-insanaque nostraque secutus. *Omnes sola* et subit, alter, ferventia rependatur
+Felicior peto. Nulloque moderatior rubra _seque ut_ dixit serpentum simul terras
+insanaque nostraque secutus. _Omnes sola_ et subit, alter, ferventia rependatur
 iam Chiae sacrata divinae lacunabant [enim canorum](http://www.ille.org/)
 ingrediorque agrestibus ventis. Sub veniat capilli, o prohibemur deam proles
 cunctis exemplo, in? Aristas suo terra, nec voluit huius, et separat sed ut

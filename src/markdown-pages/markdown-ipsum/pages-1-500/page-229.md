@@ -14,7 +14,7 @@ altae, praecordia proceres vero, vina.
 ## Est possidet licet
 
 Alcyonen iactate surgit damnantem levius. Sed qui recenti Ulixes; quo habet
-Victor; tremit membris quid. Viris arator Panopesque vidi, de *primoque et*
+Victor; tremit membris quid. Viris arator Panopesque vidi, de _primoque et_
 altus quoque urbes, nostro.
 
 Alta [avido abnuit expertem](http://www.fixumque.net/videtis.php) circumfunditur

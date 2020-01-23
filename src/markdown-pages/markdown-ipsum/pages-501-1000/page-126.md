@@ -43,7 +43,7 @@ Timuit primis comes, et quoque, limina est! Ore haud **iuvenem tamen**: et visa
 puerpera silvis. Habuere solebat gratam, volubilitas fiducia parvus miscentur
 exponimur demissam deflevere herbas.
 
-*Possideat curvique* iacet erat est raptatur, belloque aliter servor Calaisque
+_Possideat curvique_ iacet erat est raptatur, belloque aliter servor Calaisque
 praenuntia laedere ad adhuc in muneribusque. Puellis solidorum refert! Mittentis
 atque quarum, illa manu recepta videt; **aut** ore digna sitvs utraque hic
 radices.

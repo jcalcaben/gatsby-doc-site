@@ -2,7 +2,7 @@
 
 ## Fauce mediis ulcisci retinere marem nemus imum
 
-*Lorem markdownum illos*, id cede despicitur fortiter idem peiora sanguine
+_Lorem markdownum illos_, id cede despicitur fortiter idem peiora sanguine
 aequora. Numam igitur Olympus; cantatas passim; nec cur mali viribus axem mea,
 illas a. Color attollit nec oris intellegit, mollia gere fas terga inmaduit
 roboris sceleris **aureus**: puppis. Erat alumno: luminis huius cernes, nec
@@ -16,7 +16,7 @@ tactusque!
 
 Cornibus constitit ramum, sit silvas inter, via furtis tristes, est in posuere
 concita. At vincula turba tinxit, **alte** indetonsusque quod experientia odit
-*quaeritur caede*: veri rogant. Hanc verba frustra ratae tecto silva tangi
+_quaeritur caede_: veri rogant. Hanc verba frustra ratae tecto silva tangi
 olentes, modo hostibus [crimina scopulum](http://www.corpore.net/aras) frondes
 referre corpore ut ardore ignis choreas. Deae suas ter subegit macies auctore
 facta; orba ubi dictis sidereos corpore.
@@ -58,7 +58,7 @@ haec** grates **pendent**, caelestia.
     }
 
 Magis has quam duxere tela parensque et auro rictus non monstro pendentibus
-quaque, *fraternis*. Celerique virens linguisque **buxoque meruisse solvit**,
+quaque, _fraternis_. Celerique virens linguisque **buxoque meruisse solvit**,
 nec prius utque ademi hausit acceptos barbara, mihi et, praebita
 [insula](http://crudeles.io/delphine). Parant parientem se monstri, utve enim
 tempora vomit, virus! Panchaia nec; frondes et gurgite **Phoebeis incedere

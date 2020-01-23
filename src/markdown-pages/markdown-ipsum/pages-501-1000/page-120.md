@@ -16,9 +16,9 @@ renovataque plura dixere!
 ## Apri crimine diu
 
 Votaque labefecit coepere sermone, lacertis ubi tibi tetigere verba, vultus. Sub
-proelia dixit arboribus nam copia digitis Dryope. *Dum* paene Peneos filia iam?
-Nec haec umerique quondam planxitque illud avidamque habentem *intonat cum*,
-Telamone. Firmo ut nullo superesse rigidis *antro permaturuit sola* terga qui
+proelia dixit arboribus nam copia digitis Dryope. _Dum_ paene Peneos filia iam?
+Nec haec umerique quondam planxitque illud avidamque habentem _intonat cum_,
+Telamone. Firmo ut nullo superesse rigidis _antro permaturuit sola_ terga qui
 tertia tumulum meum, ubi ab capillos Peparethos dixit nocti.
 
     digital_pci.net_latency_raid = gopher_real;

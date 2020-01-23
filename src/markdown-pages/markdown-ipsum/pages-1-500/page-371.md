@@ -3,8 +3,8 @@
 ## Pars verso referat mutatis
 
 Lorem markdownum genibus fontemque crimina, solito cum solidae callidus. Apertos
-Alba iras inhospita natum luctor: desperat unda, illi tenues *tantus Quo
-protulit* nec iubent data filia deducunt. Arcus *en trunco* Cecropis et brevi
+Alba iras inhospita natum luctor: desperat unda, illi tenues _tantus Quo
+protulit_ nec iubent data filia deducunt. Arcus _en trunco_ Cecropis et brevi
 adclinavit Quas. Ipsis luna sonant et spe contagia duae omnes, albo timeas
 meritum incognita troades et clara! Hanc pellis.
 
@@ -29,7 +29,7 @@ meritum incognita troades et clara! Hanc pellis.
 
 Habebat cuius tum sed contentus per. Socii Ascaniumque nulla Saturnia harena,
 etiamnum superare simul plectrumque est positus. Primumque opus abundet
-compressit optime *cognovit corniger et* cladis, non fata rates adspexi fame.
+compressit optime _cognovit corniger et_ cladis, non fata rates adspexi fame.
 Sigeia Tusco, innumeras vel secretasque ruris; arcana quas aut? Vitarit bene,
 delendaque aliis; fugit, supplex tenus, celebri nepotem ima neque et docta,
 torum?
@@ -65,6 +65,6 @@ arces quae, sua hanc sepulcro.
 5. Presserat pretiosior est obvia nec manus et
 6. Modo parte vacca
 
-*Secretos vestigia ille* conexa findit haud exit optaris, everterit genitor, est
+_Secretos vestigia ille_ conexa findit haud exit optaris, everterit genitor, est
 membra, hoc lustrat dextram superasse, imae. Sanguine nunc transitus pavidam
 sacra **calido in** votis temeraria.

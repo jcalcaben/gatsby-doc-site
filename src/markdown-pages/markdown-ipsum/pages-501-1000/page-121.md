@@ -2,7 +2,7 @@
 
 ## In me si frondis sic
 
-Lorem markdownum Lucinam resonant *in* sospes sororis nebulae quod, coeperat. Et
+Lorem markdownum Lucinam resonant _in_ sospes sororis nebulae quod, coeperat. Et
 finita veneror aegre et iunctae, **ingemuit**.
 
     if (29 < sram) {
@@ -33,7 +33,7 @@ eratque.
 
 Sororis congestos haeret violabere dixit, notissima agit inceptaque reges,
 titulum hoc erat sufficit laudatae de fetus. Mihi clade nigram. Ne hanc abstulit
-igitur *miserere* et marmore densa?
+igitur _miserere_ et marmore densa?
 
 ## Praesepia auro mollis es muro custos anno
 
@@ -45,6 +45,6 @@ Ad felicia premit quae ferar addiderim [petentem
 curru](http://ut-clauso.io/truncoque-ablato.php); herbarum nec aversa omnis
 coniunx potest mille, meritique novandum laetos! Sumere versus et sequi!
 
-Noctisque da contegat mortalia *expalluit Alcyone*, est *plaustra diximus medio*
+Noctisque da contegat mortalia _expalluit Alcyone_, est _plaustra diximus medio_
 ignotas terra, es frontem certum nec veterum. Posita tum; auram deseruere
 mirantur virgam si equas frangitur.

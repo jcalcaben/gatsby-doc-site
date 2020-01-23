@@ -4,7 +4,7 @@
 
 Lorem markdownum, pubis quis constiterat fere protinus de tacito, numinis.
 Quadrupes munire nec visibus fluctus clementia subii lucos! Remoratur
-[recepto](http://clipei.org/ego) fecundique sinistra *arma*: illa Pyramus, gravi
+[recepto](http://clipei.org/ego) fecundique sinistra _arma_: illa Pyramus, gravi
 alas auras corpora.
 
 - Ceu ultus Tirynthia quibus loco suum iuvenem
@@ -23,7 +23,7 @@ sors potes nimia ubi potuisse, facta.
 
 E facies miratur. Nocuit ulla perit iamque atri aberant in esse et inarata,
 undaque ponto. Quid auras Iovis et indicium iovis; umbrae Iunone, ceu primum.
-Intrare mortales, *parva procis sumptaque* enim fuistis luna munere furtis
+Intrare mortales, _parva procis sumptaque_ enim fuistis luna munere furtis
 sanabilis confusura me humana Solem.
 
 ## Neque idem
@@ -53,6 +53,6 @@ Aurora montani diffusa adire sibila, mihi!
     memory = 1;
 
 Pars praecipitata agmina propiorque tuorum longae fontana fraudate? Do deos
-Herculis sed tum de fauces trepidant venerat lacerata. Ament tune *sed*, et
-comes! Ignota sanguine *concita*, ore levi qui bicoloribus fecit protinus.
+Herculis sed tum de fauces trepidant venerat lacerata. Ament tune _sed_, et
+comes! Ignota sanguine _concita_, ore levi qui bicoloribus fecit protinus.
 Reperitur poscimur et decipiet territa **putet** ait spatio inde.

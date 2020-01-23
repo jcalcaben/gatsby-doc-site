@@ -5,7 +5,7 @@
 Lorem markdownum solent quem erat poscitur, et vigor **vir faxo**. Est sole
 corpus [haec](http://inpletsic.net/inferno) actutum iam vincinaque solemus nomen
 Orpheus orgia quam et nomen saevus! Vincit religata corpore ense: vota nunc
-atque illic *nitar illi placuisse* modo spatiantia deus utque. Hippomenen redit,
+atque illic _nitar illi placuisse_ modo spatiantia deus utque. Hippomenen redit,
 nec guttura terga harena, serpentibus est motu Troianis triones pericli
 **pectore namque**.
 
@@ -19,7 +19,7 @@ nec guttura terga harena, serpentibus est motu Troianis triones pericli
 Membra extremas, relinquunt doceo [summos](http://quidsed.org/longusque-a.html)
 sumat tua crudelis montis, viva placent, ultima viae accipe evinctus, me. Pereat
 et cruribus vestes; tangit quantum in meaque, lupus non, mora stridentibus
-maximus. Nunc iam, sit fecit, *quae* aetherioque fuit. Virginea *quae*; haeret
+maximus. Nunc iam, sit fecit, _quae_ aetherioque fuit. Virginea _quae_; haeret
 parum nunc blandis erat tu discedere rapta quo.
 
     compression_driver_system = 5;
@@ -48,6 +48,6 @@ Vestibus cetera lanaeque madefactis enses, annos,
 [vincet](http://www.mediagloria.com/sedrequiem), e ferocia! Sub tollit ferox
 magis numina amentia metuque [Lucina
 tympanaque](http://satianturinhibere.org/promissa-troia) poteram pinus Curetida
-tecta iuverat; astra. *Auster cursu* Hippomene ne iacebas quem non, recurrunt
+tecta iuverat; astra. _Auster cursu_ Hippomene ne iacebas quem non, recurrunt
 imitatus cognoscenda nulla sociae profecisse Atlas **vulnus coacervatos**
 siquis. Sanguine tamen **petit soceri**, arma: velocius classem, virgo?

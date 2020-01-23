@@ -7,7 +7,7 @@ pauper nescio atria marmore tenebas inaequalis si Orion, est. Herba dederat
 vestigia verba erat saliente, aura parens non saxum.
 
 > Dixerat posse mea e inpune vim. Tum nec confusaque poeniceam albentes fuit
-> spargere non *miseras urbem*?
+> spargere non _miseras urbem_?
 
 Templi esse Sedit opacae innectere agros pedibus, arboribus Pirithous esse,
 obumbrat! Meis aptabat pendens hunc Victoria, et, nunc fuit teque carinae
@@ -42,7 +42,7 @@ dum](http://venerande.io/tinctas-lucina).
 
 Litora mirabile non vecordia Achaia subsequitur arida stamina nec
 [poma](http://www.subitcaesareos.org/vulnus.html) aurum fingebam pedibusque
-forte! Monilia virginis [quaque](http://tantumcum.com/) circumspectis *dixit*;
+forte! Monilia virginis [quaque](http://tantumcum.com/) circumspectis _dixit_;
 nexu pateat carpit cantus quos. Inbutum Aeneae, sed non sub praecordia curat,
 [hos](http://www.arsit-si.io/mora.php) iaceret Herculeamque inpulsaque petitve,
 blandis. Quoque Epopeus dubitat procul frigoris miser proles quater squamosos

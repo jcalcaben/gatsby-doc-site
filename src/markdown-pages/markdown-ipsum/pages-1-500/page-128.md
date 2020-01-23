@@ -35,14 +35,14 @@ Tyrios blanditiae mihi.
 Staminaque avidum haeremusque, dea qui reparet tecta, si fessas in clade.
 Rapidum curvae, de equarum movit, gratissime ingentes futuri. Haud omnes avidus
 creditur tori hic **bella** Scythiae Rhodopen relicta talia ignaram adhibet? Tua
-moventem protinus arcus, sive vara dementer saecula mittit, *coronae in adversi*
+moventem protinus arcus, sive vara dementer saecula mittit, _coronae in adversi_
 fratres. Viae steterant Libys.
 
 ## Metuitque in illac toto hoc oenea move
 
-Hoc alumno diversa hastae, urbi quem, utrimque *lacrimaeque miseri* vitiaverat
+Hoc alumno diversa hastae, urbi quem, utrimque _lacrimaeque miseri_ vitiaverat
 umeris, tetigere cognovit. A parari, eam velox, cur inquit fuerit morientes
-trementi iustae vix facitote *At nodis*. Tamen honorem: serta illo esset, arbor,
+trementi iustae vix facitote _At nodis_. Tamen honorem: serta illo esset, arbor,
 adorat velle, me spemque coniunx pullosque locum [desint
 insidias](http://www.inferior.io/tu). Fateor contingere venit Veneris e dicenti
 blandaque humani me hoc potest, contigit, haberet.
@@ -55,5 +55,5 @@ nulla vestrum in ferebat.
 2. Terunt demisere aeternus femineo ast sistite quis
 3. Tantum et sic erat terris tutus nos
 
-*Vidit sua data* in sacrilega videt eminet metum **plagae**, delamentatur.
+_Vidit sua data_ in sacrilega videt eminet metum **plagae**, delamentatur.
 Septem nescia Deiphobum omnia adiecerit, adsere nec hirsuta ergo.

@@ -29,10 +29,10 @@ captivo tu. Arma terrigenam, ad corpora cornua erat autumni taurum: foribus
 habuisse gaudia, post. Aedes suppressa vires! Quae ac talia mitior inplevere
 membris, minus sed silva nos iacet.
 
-Arva tamen potest, cedentem *ne* haec inquit **montibus puer**; plano. Igni
+Arva tamen potest, cedentem _ne_ haec inquit **montibus puer**; plano. Igni
 altera mors vicem vultusque frustra, illi nec utrimque ille, iam ignem non
 exserere flammas latuit coniunx. [Genetrixque](http://www.moderatior.io/) per
-precor suo solent, qua *ramum*, erat arbusta non puerpera, nostro Iovis, minuunt
+precor suo solent, qua _ramum_, erat arbusta non puerpera, nostro Iovis, minuunt
 parantem foret.
 
 ## Martius saepe herba voces
@@ -54,11 +54,11 @@ loqui dei nec mea: vix et aequore esse posuit tunc murmure simili modo.
 Tecta pariturae coniunx nymphe secura simulavimus facies super aut est obscurus
 petere semianimi matutina fletu, Sithonios indignata sed volucrem? Aras errorem
 Ammon opus. Materia serpentigenis Acrisium de rursus te lupos arcitenens in
-patria non furta valvis urbe *amictu capillis* iram tellus! Quibus conticuit
+patria non furta valvis urbe _amictu capillis_ iram tellus! Quibus conticuit
 vires horrescere supero, **ad coronam geruntur** iuris prole hausit monstrare
 aera nomen si viribus.
 
 Trepidus sub socer saepe, iussit ante placetque iuvenis iterum. Virorum pati
-eandem comitesque? Esse ipsi reddit. Viso pisa et Stygias *oculos*, aevo gemini
+eandem comitesque? Esse ipsi reddit. Viso pisa et Stygias _oculos_, aevo gemini
 hastarum accipiunt duos crudelis iniquae. Munus et nostri caput induxerat fontes
 parente stare, dis ferre interea, idem.

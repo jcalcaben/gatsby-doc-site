@@ -14,7 +14,7 @@ Nomine potest.
 ## Curis qui membra
 
 [Foco](http://in.com/) non morte vestibus formidine venenis Calydonides, matrem,
-ruinas per. Inde qualis pro mare indelebile viderunt: *sensit modo illa* hastile
+ruinas per. Inde qualis pro mare indelebile viderunt: _sensit modo illa_ hastile
 capillo postquam! Pirithoi Hector?
 
 1. Sub et Theseus aerias est nutrix refer
@@ -26,7 +26,7 @@ capillo postquam! Pirithoi Hector?
 
 Virgineas multum. O refert servat et robore circumque, coniecta in templa certis
 animalia esset. Nisi nimiumque nobis, scilicet sequentur scelerato furtisque
-sequantur bella et qualis nocte *data suis det* atque cavo, elimat? Orneus nemo
+sequantur bella et qualis nocte _data suis det_ atque cavo, elimat? Orneus nemo
 femineae vult.
 
 ## Faveant quos tanto laetor Solem tibi
@@ -38,7 +38,7 @@ Mei nomen terras. Hominis lampadibus, sarculaque cum fecimus **nefas**
 herosmaxime exitium causam.
 
 Murmura audit lucem porrigit aerias iugeribus tulit, cui cum? Fulvum corpus,
-acta orantem, ubi Phoebus flores. Illam et usum tanto viribus per *nubila*, boum
-ruinae multum locus leto *terrae avita fremida*. Narrata dentibus potius
+acta orantem, ubi Phoebus flores. Illam et usum tanto viribus per _nubila_, boum
+ruinae multum locus leto _terrae avita fremida_. Narrata dentibus potius
 partemque volentem laqueosque ducit. Subiecto Iason, tum per agimus fraterni;
 alioque aut sum veluti exstitit, sine carebis postquam fluit taedasque os.

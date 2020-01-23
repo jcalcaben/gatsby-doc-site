@@ -2,7 +2,7 @@
 
 ## Vidit lapillos umeros
 
-Lorem markdownum citra: *milite istas* famuli extimuit glans quaesitisque. Agmen
+Lorem markdownum citra: _milite istas_ famuli extimuit glans quaesitisque. Agmen
 indeploratum addenda vultuque lugebitis patriam captis labefactaque Polymestoris
 ducentem perpetuo antris. Ligdum parcum quibus agnovique nunc tradidit. Te rupta
 intrat, sub morae minoribus quamquam monstri: cum.
@@ -28,7 +28,7 @@ obstem dextra!
 **Cibi illa tot** rector arbore [septenis rudentes](http://summo.net/in.php)
 quoque ille. **Maxima iuro Somne**, et longum valet in medio, utroque ecce omen
 viam edere reddite boves. Vocat cineres viscera finire ima amicis pelagi utque!
-Tum voluptas satus. Desine Phoceus sentirent cultores Helopsque te *vitant a*
+Tum voluptas satus. Desine Phoceus sentirent cultores Helopsque te _vitant a_
 lurida fuit infundere pennis Iovis.
 
 - Unum molles ursi dubites patent tonitruque coniunx
@@ -38,11 +38,11 @@ lurida fuit infundere pennis Iovis.
 - Florentis postquam
 
 Dabat annos Phasias velocia! Nec ab a crudus nescia est casus hunc causa ardua
-traxit caput fronde sed Atrides mente protinus. In modo *in* geminam neque non
+traxit caput fronde sed Atrides mente protinus. In modo _in_ geminam neque non
 quercus teneros vox miscet sensit fuit? Vobis ausum; in vates sorores; simplex
 concava lumina nostrumque impetus, puta puerpera intendit cupidine.
 
 Agendum posset portat inmotosque Oenidae! [Furoris etiam
-sitiemus](http://www.leves-laniato.com/ipse) Invidit, quid *comae* bacaque tibi
+sitiemus](http://www.leves-laniato.com/ipse) Invidit, quid _comae_ bacaque tibi
 peto submersum. Vincinaque me collo, a tamen miseris, quoque! Aversata tenebas
 aures alimentaque serae, Zancle.

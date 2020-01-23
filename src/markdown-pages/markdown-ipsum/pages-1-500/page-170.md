@@ -2,8 +2,8 @@
 
 ## Cauda inmitis animisque tecta curat superi
 
-Lorem markdownum nascuntur nostri accensae adfata difficilem post *tricuspide*
-Numitorque forma, loco *est locique*. Mihi verba, illa erat suas vincat in dirae
+Lorem markdownum nascuntur nostri accensae adfata difficilem post _tricuspide_
+Numitorque forma, loco _est locique_. Mihi verba, illa erat suas vincat in dirae
 volucres caeca addidit: flos spatio! Virgo est aret amat cera [consueta quae
 nectare](http://ipsa.net/) agrisque Caeneus tradidit similis, iam pronus agitant
 et dabo adspicias precor. Calydonius neque, dum **auro concedant**: mollia

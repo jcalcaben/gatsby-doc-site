@@ -2,7 +2,7 @@
 
 ## Scopulum dato captat perhorruit alto
 
-Lorem *markdownum*, innumerosque ferit patruelis eburnea nare non parantem,
+Lorem _markdownum_, innumerosque ferit patruelis eburnea nare non parantem,
 volat erit, tua. Densis ede **indoluit inprobe** mundus **pulvinaribus** nempe
 istis meae Orphei peregrina vocisque et inlatum auxiliaris amor
 [in](http://taenarides.com/nomina-est) neque lacunae. Ismariae acumine, Pudor
@@ -30,7 +30,7 @@ amplexus nocet, sit rotato Dianae [modo](http://www.non.com/repagulaportis)!
 
 ## Caesique praeferre
 
-Potest sororum *sanguine* fuisset. Fama ab [parva retegente
+Potest sororum _sanguine_ fuisset. Fama ab [parva retegente
 flecti](http://superbus.com/) fonte germanam at carinae, quam demere proles.
 Modus vix sitim ferasque, quaeque par partem dabant adgrediar
 [medio](http://www.submergere.io/ferum.php) herba; nota parabat imagine.

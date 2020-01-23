@@ -4,8 +4,8 @@
 
 Lorem markdownum placeat solam auraeque dea tendens natura, non. Meritum latis
 arbor tura sacerdos natus, laeva parentem tanti primum corpore! Longus cum
-discedet que ora scelerisque in *villo perluit*. Nullus tutam. Fossa Aonio
-*ferunt et fronti*, mecum ad teste indignum per pars ablato!
+discedet que ora scelerisque in _villo perluit_. Nullus tutam. Fossa Aonio
+_ferunt et fronti_, mecum ad teste indignum per pars ablato!
 
 > Capillis alterno; iam pectora est undas vocant nostri misce facioque. Gramina
 > tarda facta pace culpavit.

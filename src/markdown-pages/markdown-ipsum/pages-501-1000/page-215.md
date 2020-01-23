@@ -23,12 +23,12 @@ ingens simul.
 ## Tu erat
 
 Thisbaeas mihi decurrere Cebrenida ponti sed matrum per, [et
-vagantes](http://sortis-nec.org/tota): quae illius, dixi *cingentibus* illi
+vagantes](http://sortis-nec.org/tota): quae illius, dixi _cingentibus_ illi
 sequiturque. Nepos volentem extulit si inpervius omnis mitescere ensis positas
 caelumque partem tamen est hunc. Echionio referam advertite: non utque unde:
 ipsa nox. [Attulerat imagine](http://www.lauro-quin.org/est) dicit.
 
-> Volucris quem, *spectantur probatur* colorem precibus sternit, inpia. Mira
+> Volucris quem, _spectantur probatur_ colorem precibus sternit, inpia. Mira
 > victa armenta non quid est formamque vultum! Fecerat minus celebrare
 > **loqueretur** nasci: nidus, nascentia habentem tum? Accipe **ferarum**,
 > accipiam, quam famaque circumstant amore protectum consurgere adhuc spectem
@@ -38,7 +38,7 @@ ipsa nox. [Attulerat imagine](http://www.lauro-quin.org/est) dicit.
 
 Ista enixa dubium calidus, Iunonem et ferarum et fuit nam requiritur auctorem
 nimis quibus: caput. Inde tyranni dedit, aliquis me Olympus refert nitentibus
-nocti, *dixit ceciderunt nomen* rationis fortuna astra. Auguris aequoreae
+nocti, _dixit ceciderunt nomen_ rationis fortuna astra. Auguris aequoreae
 quater. Dum animus mota, sua tantus, quae rapit, suo novem ominibus a dilatus.
 
     if (powerpoint > 945202) {
@@ -56,4 +56,4 @@ quater. Dum animus mota, sua tantus, quae rapit, suo novem ominibus a dilatus.
 
 [Nec sequerer](http://totum-cum.com/) neque ipse iudice fallere mollescat perde
 sua undas, et optato navita fonte, et. Quoque et fugiens Nyseus, quod Phasis
-insula putat totque sacerdos *quaesitus faciem*; ter.
+insula putat totque sacerdos _quaesitus faciem_; ter.

@@ -28,13 +28,13 @@ bracchia et quidem retro at diem.
 
 ## Animam illa nec qui tandem sacros inmittitur
 
-Votorum *aethera*; reus inmitem excutior tactu ictus sub Peleus aliis percussit
+Votorum _aethera_; reus inmitem excutior tactu ictus sub Peleus aliis percussit
 pectore manentem est. Iter aetas credis percussere caput **cinctum** proculcat
 [colla spectante Ismenis](http://factura.net/) subit. Telo cumque ligno.
 
-> Per metus sacerdos nutu corpora loci **funesta rigido eo** in. *Solem*
+> Per metus sacerdos nutu corpora loci **funesta rigido eo** in. _Solem_
 > caelitibus elementa quam! Ensem de potitus inguine, egregius sua abest, num
-> sit aquarum corporis! Pergama non via parvas dederat sacrum, femina: *non*
+> sit aquarum corporis! Pergama non via parvas dederat sacrum, femina: _non_
 > mihi Phlegraeon illo. Paelex pars, meo est repressit genibus datque haberet
 > coniunx, lusuque percussit fors, misisset!
 

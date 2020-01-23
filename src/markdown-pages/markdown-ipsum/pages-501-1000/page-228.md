@@ -54,8 +54,8 @@ iam hos molli sacrorum, sed in.
 ## Capellas perisset prehendit unam
 
 Quantum prosunt coniunx quaerere. Anguem me Dixerat artus auctor, et teneri
-vultibus, claudit sustineat! Nec ut vertice *tantis mihi*, Dianae grave est
-adsistere verbaque crearat, *est ausum inde*. Nupta me tuendos carinae haut,
+vultibus, claudit sustineat! Nec ut vertice _tantis mihi_, Dianae grave est
+adsistere verbaque crearat, _est ausum inde_. Nupta me tuendos carinae haut,
 [tractus](http://tuamvolans.io/siccat-praetemptatque.php), navis. Bacchus
 avulsumque agere celebrare frui carissime dumque, Parnaside caeli illo fixum
 imitamina.
@@ -63,7 +63,7 @@ imitamina.
 Esse libidine, temptat, mucrone, carent fidem linguisque [certe
 est](http://natiimago.org/eundem.php) domus claro mutato contrahit ignibus
 expers putetis. Iam numenque parenti viris Cyllenius per Tempe, equi habetur
-trahit. Senectus sustinet. Nullos erat ipsisque *passa morsu frementis* nulla:
+trahit. Senectus sustinet. Nullos erat ipsisque _passa morsu frementis_ nulla:
 rapta et victima siccata rami numen [tenebras](http://ubi.com/labentia.php), ad.
 
 Natis Cynthus conplexu valens superabitur eadem Asterien orgia armis nam

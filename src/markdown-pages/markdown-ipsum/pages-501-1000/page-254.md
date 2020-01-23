@@ -2,9 +2,9 @@
 
 ## Quae venit arentis heros cognoscere
 
-Lorem markdownum et clade consuescit serpente flesse telum. Cur nervo *templi*,
-est alta littera, [graves](http://membraerat.com/hinclevant.html), et *carinas
-conubia* igitur, per. Discedere ignis.
+Lorem markdownum et clade consuescit serpente flesse telum. Cur nervo _templi_,
+est alta littera, [graves](http://membraerat.com/hinclevant.html), et _carinas
+conubia_ igitur, per. Discedere ignis.
 
 ## In modo numina
 
@@ -17,7 +17,7 @@ laboris, iste? Subit misit, et o herbas gemitus Boebes.
 ## Vicimus voco vellet
 
 Recanduit iras. Mirumque illic; est habendi perdidimus gratissima perque
-Cupidinis, mecum *more*. Duraque prorumpit quoque. Ne ritus supplex et Vix
+Cupidinis, mecum _more_. Duraque prorumpit quoque. Ne ritus supplex et Vix
 Mercurio, o! Ignesque quis adgrediare cortex.
 
     var cybercrime = cad;

@@ -8,10 +8,10 @@ Acastus Hyperborea multarum? Duce [et fractus](http://vos-sol.org/) et hostem
 delere cum fretum speculatur voces pectore cernit. In ait [alimenta animae
 quid](http://www.insurgens.com/), tertius et Stygiis Venulus,
 [ire](http://www.plenaque-timoris.com/concava). Cursu pignus sunt ense Iunonem
-somnus gemino, et *graviore Venus*, sole.
+somnus gemino, et _graviore Venus_, sole.
 
 Conscia et vota tibi equas est defendit nec non Dianae Amycus tolerare se sine.
-Quam venerat *amictae* orbe incursu quantum penetrabit Miletida cuius colonos.
+Quam venerat _amictae_ orbe incursu quantum penetrabit Miletida cuius colonos.
 Fitque versum incedere fulmina, quem Aegides sua. Avibus regis!
 
 ## Me tamen penduntque fulmina exstimulata non Latona
@@ -20,7 +20,7 @@ Fitque versum incedere fulmina, quem Aegides sua. Avibus regis!
 summum aeratis decidit. **Vertit illa** famem absumpsit utrique Troiam.
 
 O Andros viribus litora phoenica, figura gramine licet Amyclide ferrum parte
-incipit decidere clausam *montis*; sunt, femineae. Hausimus vehit memor, [ille
+incipit decidere clausam _montis_; sunt, femineae. Hausimus vehit memor, [ille
 lustrat mentem](http://erat.io/) pugnabam resumpta miraris
 [quicquam](http://ius.net/cumiusta.html).
 
@@ -34,7 +34,7 @@ lustrat mentem](http://erat.io/) pugnabam resumpta miraris
 
 ## Noctis ipse Haemoniis tractu nutrici se fregit
 
-Semeles ad auctor Ianthe. *Subire misit usque*: prodidit Hecates quisque,
+Semeles ad auctor Ianthe. _Subire misit usque_: prodidit Hecates quisque,
 maturus perire, portus, ante crepitantis flatibus **et loco**!
 
 - Non cadunt Tatius capiebant recisum tantae stellarum
@@ -50,8 +50,8 @@ inter gerit modo **instar dat geratis** fingit te, sive lumina insuetum deducit:
 pares. Quae ratis, patria tetenderat, successurumque moenia; te holus locorum
 debebunt Perseus adopertaque et errore timido cadendum rarissima.
 
-Mihi risus *aere excutit* quicquam ira ossa et reliquerat membra amicitur
-fidissima umida *rauco vix* nostri pressa, in. Acutae ursos sollicitata, esset,
+Mihi risus _aere excutit_ quicquam ira ossa et reliquerat membra amicitur
+fidissima umida _rauco vix_ nostri pressa, in. Acutae ursos sollicitata, esset,
 notavi; adspice Caicum. Potuisse moderamine omnia Ampycides fore. Te stantemque
 malis omnibus, revellit ferebam: iam urbis, haec Aeneae nil cum ferunt tellus!
 **Caelumque** quem quique sensim caput pugnat summae, consuescit, ipse movit

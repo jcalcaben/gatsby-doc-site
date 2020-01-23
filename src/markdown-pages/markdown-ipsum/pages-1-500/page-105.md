@@ -19,7 +19,7 @@ fine ibimus aut Lyciamque et quae.
 
 ## Sed sonabat iuvat opposuitque omnia
 
-Medio de rami, est *palude*, doctae ille satus, fixurus ab te tantae conchas
+Medio de rami, est _palude_, doctae ille satus, fixurus ab te tantae conchas
 suas, cui quoque. Cornua in idem potest, iste veluti tangit nisi: et, quos,
 coronam.
 
@@ -35,7 +35,7 @@ coronam.
 
 Fratrum dabat. Male domos vestro sequenti ad gelidoque pulsant manus,
 **firmat**. Demissus carebat crine satis deponere absistit inrita temptabat
-*semper ridentem*! Auras commenta deprendere innumeras cum sua ruit bibulis
+_semper ridentem_! Auras commenta deprendere innumeras cum sua ruit bibulis
 leonis palmis! Fuit multorumque, ad medio fuerant concavat vasto vota quoque!
 
 Quod genitore, luctantia, deus ego latis. Imitetur digitosque obest.

@@ -10,7 +10,7 @@ prior moderamen hostilia perque, tu.
 > pectore, et sum Aeacidae [adunca](http://tamen.net/). Est Latiis qualis malo
 > illa nullum leto: tulisset mittit.
 
-Nitidis Aeson, erat dente te *sufficit* est, cornu vocem inmanis. Quaesita
+Nitidis Aeson, erat dente te _sufficit_ est, cornu vocem inmanis. Quaesita
 [sperne](http://ictus.com/) noxque et effudit fiducia comites mundi sint
 calculus inopem templa, ab una primasque
 [appellare](http://erectheas.io/inquit-avia). Oriens sic est e Berecyntia,
@@ -26,11 +26,11 @@ cecidere possedit superant urar constiterat piumque adest!
 
 Ensis dolos precatur etiamnum coniunx; seu ego imitetur Quirini me. Glaucus
 Caenis tradiderat haec carmina **gelidaeque** figuris acciperet vertex terra
-essem defensus exclamat. Vir *odit*, auras plangoris quoque emicat visaque,
+essem defensus exclamat. Vir _odit_, auras plangoris quoque emicat visaque,
 umbram herba: putant puer, creverunt et. Iniqui vim solvit spectat ultorque
 postquam natae densum, cum exstante retia adhuc. Herculeo navita!
 
-> Urbs discede! Noster *liquidas* erat iuvenale quove in parum, **arva**: fetus
+> Urbs discede! Noster _liquidas_ erat iuvenale quove in parum, **arva**: fetus
 > et nova pectusque poma submovet lata, [mihi](http://ferunt.io/utinde). Ceris
 > nobis, temperat quaeratur marisque tum non antro cava.
 
@@ -39,7 +39,7 @@ requiris nativo, geniti prensantem corpore. Litoreo dicitur quo sua pignoribus
 Aiax; rubor mihi [litora](http://www.diffugiunt.io/seque). **Nec profanos
 quamvis** fulminis. [Ora curvari circuit](http://www.comitata.com/) insisto
 nitentem de vecors, haereat caeli cum animis erit quae victima servat Telamonque
-tremulo feritatis. Io parabant qui *ut portare mutantur* agnovit, sceleratus
+tremulo feritatis. Io parabant qui _ut portare mutantur_ agnovit, sceleratus
 fraxinus custos.
 
     nntp_vdsl_ppp(component_default, hashtagTableWidget.bar(pram(apache,

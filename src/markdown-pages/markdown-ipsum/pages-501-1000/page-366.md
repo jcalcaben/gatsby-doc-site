@@ -5,7 +5,7 @@
 Lorem markdownum colunt tributum Iuppiter ipsum, templi. Signat quia? [Celebrare
 posito Abarin](http://caducasubi.com/temone); dei pedes picum Daphnes fecundaque
 Cyane; totaque. Liquidis lumen at genuit, est natus nomine spernit non vestem
-ire semper suorum membra pervenit traiecit! Torsit Nil in *instantes* populique
+ire semper suorum membra pervenit traiecit! Torsit Nil in _instantes_ populique
 talia, pro quoque erat, centum.
 
     if (responsive_repository > unfriendAdcFtp) {
@@ -34,7 +34,7 @@ talia, pro quoque erat, centum.
 ## Est fuge minatur
 
 Quibus lupos quoque spargit medio, neque oro maestus quo, adeste coniuge et quam
-modo postquam. *Tanti viribus sic* inguine visa est, ego nec usus lacerata in
+modo postquam. _Tanti viribus sic_ inguine visa est, ego nec usus lacerata in
 dixit dum tamen, ni, quem. Inpavidus vivunt quaerunt inquit et vulnera solvere
 casus clauserat probat. Etiam monstri, mox magna acerris nec **semper**: est
 extulit tibi vellem. Resoluta celerique domabile, ceciderunt proceres iam noctis
@@ -50,7 +50,7 @@ nudis gratia iussit, et cura medio hominis.
 **Et** oblita tristia, deprendit premente ensis, dextera vidit magno squamea,
 ferrumque? Statuam mihique; incaluit [quodque
 auxilioque](http://cacumine-atque.io/rebar-quondam): patent consistere illi
-instar hac ait [nutrici ultra](http://tam.com/arduus) nec parte *inque est*! Per
+instar hac ait [nutrici ultra](http://tam.com/arduus) nec parte _inque est_! Per
 rabie revertentes medium similis manent fissaque declinat, hoc vellem nam. Quis
 per te vult, tristi opus Peleusque Elide nec nec stellis mihi corpora ille
 celebrant, mentes intabescere parte.

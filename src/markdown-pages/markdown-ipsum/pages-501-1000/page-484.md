@@ -19,7 +19,7 @@ orantem vicimus?
 
 ## Frustra queri
 
-Vidit in laetitiae et altera, siccatque liquidas labori atque. *Draconem ipso*
+Vidit in laetitiae et altera, siccatque liquidas labori atque. _Draconem ipso_
 quam liceat longa splendidior fecit: plangor faveant haberi dominumque iuncta
 celeres repperit. Et Iovi tulimus, haec ita damnum, humus, vel genitas tangit.
 Adolescere hastam liquidas, plurima: fluctus ramo, hunc, singultuque esset
@@ -45,7 +45,7 @@ fugiens quae neptis dicitur inmedicabile.
 ## Repetendus vela
 
 Sine aevum pallidus regemque caput Iphigenia dare laboras, mox poplite sic
-tantis secura nec. Nec qui via quem bracchia, *pectora*, haec ramis harundine si
+tantis secura nec. Nec qui via quem bracchia, _pectora_, haec ramis harundine si
 cadunt: dempsisse segetes! Est non ruit, tibi Neoptolemum fudit, **nostros
 lupis** mundi? Gravis faciat gaudebat iste; quam opem oblitus adspicit usae,
 parvoque naiadum nostro, quis quae carmen. **Diversis maxime** declinet remige

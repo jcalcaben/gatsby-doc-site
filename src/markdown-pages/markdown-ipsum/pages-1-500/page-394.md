@@ -3,7 +3,7 @@
 ## Aequora et pugnat
 
 Lorem markdownum [violentique](http://nubila.org/inmanemque-nota) meorum: illam
-cui, non cursus procul *Imbreus* levi, quod, numerandos inhospita thalamis
+cui, non cursus procul _Imbreus_ levi, quod, numerandos inhospita thalamis
 salute. Inceptos transit frondibus tulimus fit risit fecistis et votis. Redigar
 sed neque aeris. Illa suis inhospita At manus quoque: caput quam nam Pallante
 virgine turpius Pergama veniam. Montanis vasto!
@@ -15,7 +15,7 @@ virgine turpius Pergama veniam. Montanis vasto!
 Non auctus virgo; et tanta toto, tela exul obnoxia natasque erectus auxilium,
 quoque ab iacentia. Est prius si operum tollebat alte autumnum clarus inque?
 Erat condor senior. Patitur ad fecunda orbus saepe agros adgnoscitque cadit
-omnes *placido* tua indueret creverat cum leves utramque. Labori omnibus
+omnes _placido_ tua indueret creverat cum leves utramque. Labori omnibus
 voluptas corpora et [quoque](http://segnem.net/solaque.php) homo nata fert
 poscimur tubere in rogabat.
 
@@ -24,7 +24,7 @@ poscimur tubere in rogabat.
 Inde ne hunc Cyclopum, de vidit dei namque, forma harpen ferox profundo
 percussit conpellat et quidem! Expellitque tamen adversam auras. Ducere est
 coniugis rutilasque velles solutum hunc nostri quisquis revellere longius. Hic
-*Pelasgos temptata missus* temperiem, matrona, famamque; subire tectum nubemque,
+_Pelasgos temptata missus_ temperiem, matrona, famamque; subire tectum nubemque,
 tempore venit quam gratus quam cursus. Rapit rari crescit imitante timida,
 lyncum consistere multorum, o!
 
@@ -40,7 +40,7 @@ Cervum calcata ait nomina dolore; sic nymphe tridente hostem enim agros,
 pulsabant puerum. Rogantis sine sentit axe, cum audetis vetui lacrimas vulnere.
 Me tibi est satos parente tenuit, tibi collo: est ille munire.
 
-Perdis una vel per anguem gaudere conlapsa decurrere sine *numen*, polenta. Quo
+Perdis una vel per anguem gaudere conlapsa decurrere sine _numen_, polenta. Quo
 pectore gladio conplexa **fratris consequitur ager** adsilientis denegat corpore
 crinibus Agenore, saligno et cultu. Rescindere **possent** parum causa dolorque
 mutataeque: contigit tremens, et? Frequens incisa.

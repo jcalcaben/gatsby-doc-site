@@ -28,7 +28,7 @@ damni negata protinus haec meae amanti nunc possum.
 
 ## Iunget maius
 
-Quisquis quisquam ostendit sonat illa. Est ast *ultima ad* artus victam Antaeo
+Quisquis quisquam ostendit sonat illa. Est ast _ultima ad_ artus victam Antaeo
 liquidis; [est](http://et.io/mihi). Poscor deae victam Asterien et omne fonte
 habes, sic Achaemeniden virens; phocae. Error fatale turbamque haud concipias
 petit partus, fores meo in.

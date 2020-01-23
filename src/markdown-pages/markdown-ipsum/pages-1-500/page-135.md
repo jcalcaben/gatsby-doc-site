@@ -2,13 +2,13 @@
 
 ## Porrigit oculis dolores
 
-Lorem markdownum sanguine piasque cum *avara* animo, vero. Arvo Lyciae si fidem:
+Lorem markdownum sanguine piasque cum _avara_ animo, vero. Arvo Lyciae si fidem:
 quid lapis lumina et [felicior
 parvumque](http://www.reducere-missi.io/pleno.php) summas et cum tenera ante
 tendit latebramque erigitur! Tethys [relabi](http://cumque.io/et-illa),
 flectitur Parosque, **vinxit lege**, tot ante copia caput signat quae. Sic
-pariter *desiderioque Phoebo*. Flet colubris nocet facundia coniunx nam munera
-fugit, *septem* meo Rhesi.
+pariter _desiderioque Phoebo_. Flet colubris nocet facundia coniunx nam munera
+fugit, _septem_ meo Rhesi.
 
 1. Philomela fuit sine triticeas horret omnes sinistra
 2. Sua semper virginis longoque durare
@@ -23,7 +23,7 @@ aberat](http://tabuerint-longaque.io/poscit.aspx)! Cum aut lacusque: hic poma
 felix dentes ferebam siste, sertaque crescunt in non, crinibus!
 
 Munera fuit ego campus spargere aliquem reverentia repugnat sanguine fuerat.
-Populifer rogabat Cynthia *vix* atque ait refert Antiphataeque oris consilii
+Populifer rogabat Cynthia _vix_ atque ait refert Antiphataeque oris consilii
 damnare Baucida. Animae trepidaeque lumen utrumque salici, cursus dedit
 veteremque adspicit feretrumque te tenera undae anus ferarum; eas.
 
@@ -35,7 +35,7 @@ vestigia atras. Silvas mons perterrita quique, colla relictus summasque sceptro.
 Iamque ipse dubiaque, ab est, vel non aratro pectora.
 
 > Vidisse ipse pignus Bacchi: vobis coepit, adiecit nostrumque me sed bracchia
-> fama priorem formas *et*. Diomedis communis ardua, ipsum nocet fertis tabo
+> fama priorem formas _et_. Diomedis communis ardua, ipsum nocet fertis tabo
 > signum opem **referam**; est modo malis sed tenet iuva querenti, nec. Qui acta
 > Apis classis postera rupem sic [sororem formam](http://capitolia.net/), tota
 > sacra vulnere conatoque corpora viscera, sunt queri! Et et membra fessusque

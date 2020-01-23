@@ -7,7 +7,7 @@ Lorem markdownum modo haerentem Satyri. Sunt est maxima, nactus arsit.
 Relicta iram, [tua](http://mihi-uterque.org/more.aspx) Peleus ab. In praesepe
 virginis, restet insanos [optandi vincula
 animam](http://www.longique.org/haeserat): illa congelat animal et aut ego
-*perstant* pulso.
+_perstant_ pulso.
 
 ## Undis digitoque anus peragebant dumque et nitidum
 
@@ -43,5 +43,5 @@ circumspicit Aenea colla tempora ara: a prosunt.
 Est arma diripuit quae, nos in Tmolus duros. Ala quod sparsaque publica petenti
 tuearis, adhuc sed caelestesque, causa se fuerant parte nympharum, miles.
 Totidemque fugientem, qui pectore, artus cava luco aeraque et. Iason Phoebus
-responsa dissociata *tenues dedit nec* nobis fovebat. Mite litusque habeo ab
+responsa dissociata _tenues dedit nec_ nobis fovebat. Mite litusque habeo ab
 ortu quod, formam parvos aquae intexere dixit est, est.

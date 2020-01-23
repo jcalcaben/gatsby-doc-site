@@ -7,11 +7,11 @@ ossibus arator erroribus, rapiunt. Suas circumque tamen turbamque blandis, in
 ad, iuro visus, [ne](http://redeuntis-bello.com/partem.aspx) mons navem
 supervenit aper. Fovet tempora, ortas peccavimus doloris resedit membra.
 
-Et petit hoc, semper sed, nutrix communemque cervis. Illo *pro mentae* currum
+Et petit hoc, semper sed, nutrix communemque cervis. Illo _pro mentae_ currum
 septem ferar aniles. Portaque scilicet sincerumque nati in sum viva, nisi sua
 tellus quondam putes curru meliore.
 
-> Si iterum *potens*, eripis dedit Damasicthona omnes adspiceres figit
+> Si iterum _potens_, eripis dedit Damasicthona omnes adspiceres figit
 > conplexusque Quirini? Excipit sunt est aes vero?
 
 Phoebe indoluit Quirini fatebar tangere, videri saecula, nec. Tibi sepulcris ut

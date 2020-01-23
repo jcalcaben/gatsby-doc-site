@@ -27,7 +27,7 @@ Neoptolemum mediam!
 ## Dona agro heu natae naiadum
 
 Cephaloque denique super ignea quoque, quam et oppida conspecta. Alatur
-*geminis* sollertius Penei potest cognovit, spectat, gaudia in cruori, aut
+_geminis_ sollertius Penei potest cognovit, spectat, gaudia in cruori, aut
 credere deieci virgineum. Unum mali parte sonus, dum meque **non retexitur
 festa** esse hoc flexerat cervicibus, sit iam.
 
@@ -53,5 +53,5 @@ fictilibus suspiria prodere. O cecidere pedum.
 
 Et remisit timuitque, profunda facietque antiquo
 [praedaeque](http://www.dulcedine-ante.net/) lolium tenebrasque Pentheus quamvis
-munus. Serpens nemo cum aere *splendida* custos ad rerum: amantem oracula
+munus. Serpens nemo cum aere _splendida_ custos ad rerum: amantem oracula
 geminasque vulnus unus.

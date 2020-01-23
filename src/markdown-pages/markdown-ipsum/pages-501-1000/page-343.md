@@ -40,10 +40,10 @@ alis populo quid arces.
 Si ad **dei** obstitit ubique: percepit qua inultam, haec nate. Quarum nec
 nymphae apta furoris: felix ponderis; posse lateo quoque Aegyptia lambentem
 sparsis silvas edocuit ardentem, taedas. **Ego** hiscere clipeo relinquam et
-tamen medioque, *in vulnera* axis, [et novi](http://permanet.net/omnibuscorpus)
+tamen medioque, _in vulnera_ axis, [et novi](http://permanet.net/omnibuscorpus)
 Numicius domus cum conscia illas.
 
 Ille utero, sunto, en, potest simul: quoque ante est geminos retro, saepe
-etiamnum mihi sistrorum! *Sic* custodes et *Regi* exclamat Claninque locus
+etiamnum mihi sistrorum! _Sic_ custodes et _Regi_ exclamat Claninque locus
 Aiacem micabant ferunt. Patruelibus sis, fidem crudele vix vicibus illa haec
 anxia recesserat agitantem conplecti silet.

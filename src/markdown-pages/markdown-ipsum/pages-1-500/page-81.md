@@ -46,7 +46,7 @@ Qui licet primoque subeant sis, cum saltus
 [Matri](http://nefuit.com/praescius.html) fulmina. Mutata quidem vultum,
 Echidnaeae tecumque illo, gemitus contentus. Brevis ducit caespite.
 
-Carne saevo si quoque totidem obstantia, *foresque* dixerat, cervus moveret onus
+Carne saevo si quoque totidem obstantia, _foresque_ dixerat, cervus moveret onus
 **imoque oves**. Lacrimante infamia **mactassent vernum** clauduntur in tempore
 tremor. At ergo: saxa Oceanum, vim levis puellae non. Aurea populos et auro
 reppulit sine ultima soceri, **a mensas** honore collumque medioque viri et pars

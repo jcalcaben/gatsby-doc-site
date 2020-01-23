@@ -27,8 +27,8 @@ diversae ego; caestibus.
 Quicquid [omnis](http://neciuppiter.com/nostris.html) Isthmo **movet invecta**
 si ferarum quoque flaventibus sibi Rhamnusia celerem; lavere manus dolores?
 Minitantem petite ossibus vacuo, consuescit non Eoo non penetrabile, est foedera
-vela Rhoetus erat *capere supponas* ingens mirantia. Fingam urna ista enumerare
-celat, mirantibus dies, medioque. Illa *serta* audiri sperata flumen requiescit
+vela Rhoetus erat _capere supponas_ ingens mirantia. Fingam urna ista enumerare
+celat, mirantibus dies, medioque. Illa _serta_ audiri sperata flumen requiescit
 nam veniamque!
 
 ## Sine animos flumina isdem
@@ -40,7 +40,7 @@ candida. Tactu iuncta.
 
 ## Subiecta tardantis flagrantemque examinat sui ecquid
 
-Ad paravi marinae, moenia *me* ferox cursus, Hylactor quin hostem est fuit, sub
+Ad paravi marinae, moenia _me_ ferox cursus, Hylactor quin hostem est fuit, sub
 tot raptis vinaque. Et tam oves! In petet supplex ultroque celeres et volucres
 deieci hostem, in inops! Haeret dominasque Aeolii deceperat nutu retexitur
 [operosae sermonibus utque](http://iasonhanc.com/); de **turis**! Cum nec vultus
@@ -52,6 +52,6 @@ coniunctaque.
 - Hyaenam terrena posset
 
 Suum et me fert et errasse quod ferarum mihi colitur, lucida illo. Loco parantem
-prior vultus *tegmina*, contineat, hoc est. Accedere Hypaepis:
+prior vultus _tegmina_, contineat, hoc est. Accedere Hypaepis:
 [idonea](http://quae.net/) te quot voce dissuaserat lapis adspiciam aquilam
 pietas.

@@ -2,7 +2,7 @@
 
 ## Mala verso mortis
 
-Lorem markdownum coepit madefactam vestras, nunc umbra *qui* adituque cervix;
+Lorem markdownum coepit madefactam vestras, nunc umbra _qui_ adituque cervix;
 spem sustinuere nec qui Horae. Non hanc arboreis qua fores **aris**: hoc mox
 pectore quoque! Vestras monstri fuit Cupidinis ab fores murmure: pavor et per
 thalamis timor.
@@ -31,7 +31,7 @@ thalamis timor.
 
 Habebam **frigore** stridore, in percusso obortas: taeda per **nata claro**,
 monte inquit, Aethiopum: movi. Esset optima bella monte paene tauri, caput
-discedentem *iniuria*. Habet est rogat ulnis movit non ignisque meruere
+discedentem _iniuria_. Habet est rogat ulnis movit non ignisque meruere
 civiliter iuppiter tanta generi per fibris, imitamina usque, ara gaudia! Vitam
 inprudens iacent Panes.
 
@@ -50,12 +50,12 @@ nescio.
 - Suos falsam vultus est ferre de cadis
 
 Inculpata iuvat. Coniuge ut singula placebant **dum**, quae **ieiunia** iam nec,
-mora dapes *in inerti* nobis tum, totumque. Melantho manabant quorum in palmis
+mora dapes _in inerti_ nobis tum, totumque. Melantho manabant quorum in palmis
 sibilat. Rege Theron, fassurae, obvertere tenet inquit, aut taurum frigus talum
 dextraque?
 
 Gerat sic per [superstes coniunx](http://pugnantem.org/utrumque.html) nollet,
-diligit, das cornua, nullique *veteremque vallis*: pectora. Qui templa indigenas
+diligit, das cornua, nullique _veteremque vallis_: pectora. Qui templa indigenas
 femina, marito, stante votoque [non](http://patraeque-populator.org/): hi quos
 minus, mentis. Strigis fera. Nos subito vidisse Phrygiis candida tum abesse
 iuvenes Caystro Acheloe, ieiunia longum!

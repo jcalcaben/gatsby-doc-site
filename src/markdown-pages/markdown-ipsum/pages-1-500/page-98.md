@@ -18,7 +18,7 @@ magnae erat! Unde est forma.
 
 Certe [nil](http://villaethyoneus.org/) ab
 [desine](http://alter-quantum.org/alternisi) care urbes sopor, curvo ille tantum
-petis est fieri isdem tamen *enim per Nesseis*. Illi ferunt sumus: neque qua,
+petis est fieri isdem tamen _enim per Nesseis_. Illi ferunt sumus: neque qua,
 osse causa his, nymphe undis sanguine.
 
     if (gopher >= -1 - key(opengl_ppi)) {
@@ -52,7 +52,7 @@ osse causa his, nymphe undis sanguine.
 Illis rebus dea quam rex gelidoque, habenas consorte tum concava noctem
 temptatis infectus, cum gaudet, ac oraque. Attritas erili indefessus neque
 tamen; expalluit fugae brevissimus capiti **saepe voce** gurgite illo maneas. Et
-medium natam pater collectum *mecum*, digitos et abripit misisset *iubas cum*.
+medium natam pater collectum _mecum_, digitos et abripit misisset _iubas cum_.
 Meo pulsa ad habet aether pietas, est **quisquis** viro comitante clarissimus.
 
 Spe et fugiant orbe Herculeos patiar amans ventris invita pro ad rabida poenam

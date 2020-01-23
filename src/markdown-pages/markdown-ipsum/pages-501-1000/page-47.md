@@ -12,7 +12,7 @@ rapiunt, [fuit multo](http://prae.io/illic.php), ceras.
 Saetigerosque caede in opus faterer primum desinis ire cum muneribus diverso
 sumit. Illo in quodcumque vagantem, deos metuit, pelago mediaque nostro regnata,
 **in**. Intumui viam ceris ter enim quo Aesoniden haec: spissa. Nunc inque
-*adiit* suum super veteres, nostris, [prima
+_adiit_ suum super veteres, nostris, [prima
 rursusque](http://sitspectantem.org/neeryx.php) fuit, est. Non qua ab saltumque
 telum ab male teli filia ab post.
 

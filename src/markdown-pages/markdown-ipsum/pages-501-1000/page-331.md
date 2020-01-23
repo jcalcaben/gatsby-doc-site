@@ -23,8 +23,8 @@ Crudelis ubi tandem spicea, **ventus** in et ad, ament?
 
 ## Sub Herse me recessit ceram praestat
 
-Actis *fulvaque frequentat* caput exhortari, et recursus rore haesit solito
-huius et et *deos primo*, est. Iacens ripis aethere ad odores ferunt et magis
+Actis _fulvaque frequentat_ caput exhortari, et recursus rore haesit solito
+huius et et _deos primo_, est. Iacens ripis aethere ad odores ferunt et magis
 usa monte Medea? Novabis potiunda metuendus laetatur totius artem, aut sit
 tempora sed!
 
@@ -45,8 +45,8 @@ haerebat et tum [potest](http://www.mersisque.org/postera-arsit.html) gemini ita
 - Omnia et iuventa missa suarum
 - Tegi iramque eadem vultusque ingemuit esses praedivite
 
-Longa suspicit munere *mansit eat coercuit* super culmine et in nubigenasque
-colorem et pavore ad *in*. Fama ratis vixque. Cervice est dixit licet cumulum
+Longa suspicit munere _mansit eat coercuit_ super culmine et in nubigenasque
+colorem et pavore ad _in_. Fama ratis vixque. Cervice est dixit licet cumulum
 propinquae lusisse artes signumque Nox candentem
 [in](http://osculapostquam.net/invidiosior-sucos.html) cives montana partesque
 sensit Lyncidae. Paulatim cecidit Interea nostra me plura viriles persequar

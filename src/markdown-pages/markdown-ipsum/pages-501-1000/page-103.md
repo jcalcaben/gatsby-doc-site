@@ -15,7 +15,7 @@ placido sumus, ille quo sit omnipotens nunc.
 > crescentis Theseus adest!
 
 Cumba alis quam moror Laomedonve capiat faber simul gemuit latratibus bibulas:
-Caicus summo, et, sic tergo quatit! Superbos *umbrae* renovamine generis
+Caicus summo, et, sic tergo quatit! Superbos _umbrae_ renovamine generis
 sententia quamlibet vidi tenuere arbor, umbras quandoquidem agmen corrumpere
 umoris deterruit quod?
 

@@ -14,19 +14,19 @@ silvisque silvasque clara Eurotan colebas speciem?
 
 ## Manu sunt tempora illo explicat atque
 
-Efficerentque illa credensque ora viscera oscula. *Ab* occiderat mixta fidem;
+Efficerentque illa credensque ora viscera oscula. _Ab_ occiderat mixta fidem;
 leti terrae inmensi Liber, ope antiqua posita; tuis videntem.
 
-Iamque novi quas venis manes, Pace responderat Caphereus, ille in *nostraque
-facies nubila*? Cum in usus admonita! Ut cruor telluris mensura velamina dira,
+Iamque novi quas venis manes, Pace responderat Caphereus, ille in _nostraque
+facies nubila_? Cum in usus admonita! Ut cruor telluris mensura velamina dira,
 me ingenium!
 
 ## Cohaeserat non subit quamquam
 
 Flumina civibus enim terram? Sua est et nervo recessus tenet temptasse inania
 effuge a in laudaret noctes, elatumque manibus inmotusque ignis telis.
-Delamentatur qualis [fidem divellite fingi](http://quoque.io/) tot *habetque
-Caeni*; sua nondum vulnere velut nostrumque velit iuvencae? Capillis est messis
+Delamentatur qualis [fidem divellite fingi](http://quoque.io/) tot _habetque
+Caeni_; sua nondum vulnere velut nostrumque velit iuvencae? Capillis est messis
 dicere atque; et umbra summo patefecit herede.
 
 1. Iamque terrae neu

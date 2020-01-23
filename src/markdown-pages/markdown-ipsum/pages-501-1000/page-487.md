@@ -4,7 +4,7 @@
 
 Lorem markdownum ferrataque erit, levavit relicto eo nisi tuo, ter tantique,
 vultus totiens imperio. Ulla reicerer hoc ipse, sine subito, at erit. Veniebat
-blanditur mortales leae, *praeda clipeum* nostris diremit. Cum qua consilii
+blanditur mortales leae, _praeda clipeum_ nostris diremit. Cum qua consilii
 lata.
 
 - Caeli sum somno auditur est timidusque adurat
@@ -16,7 +16,7 @@ lata.
 Referam laeva! Est iurat abstulerunt posse iam nec, clamoribus magno cessataque
 Haemonias quae credas. Medullis viridis siquid. Arces cum vestra sana, est mihi
 vulnus regia; pinu horrea concutit tibi nempe per: a anus aptarique! Effundite
-zephyris; sim adhuc non aurea *Oceano tua demissus* Thebas.
+zephyris; sim adhuc non aurea _Oceano tua demissus_ Thebas.
 
     if (gif_mnemonic(ppga_hard, gigaflops)) {
         drive_interface_vista.design_signature_flatbed.console_friendly_search(
@@ -58,5 +58,5 @@ At umbras, rura pars relictum: advertens **Euboicas tum**. Et arbore audire
 soporis spatioso, **vota domum sit** traxere forte hoc, auxilium, te!
 
 Doloris per recurvam gente ferebat excedere caedis moenibus carmen queant
-celeberrima *deus*, seraque. Et habuit suos non; deserere alter; est super
+celeberrima _deus_, seraque. Et habuit suos non; deserere alter; est super
 templa.

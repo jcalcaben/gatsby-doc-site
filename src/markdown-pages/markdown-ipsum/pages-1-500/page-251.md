@@ -23,7 +23,7 @@ Quod mali loca. Pelagi qui rursus sunt animalia nigraque tempore sub adpositis,
 
 ## Inmitem etiamnum viderat erres
 
-Sanguine iam et Lycaon *credidit* virides procubuit qua, orbe situs rutilos
+Sanguine iam et Lycaon _credidit_ virides procubuit qua, orbe situs rutilos
 rutilum salutifer marmore urbesque Te umbras novi supponas! Missus te nec nomina
 Alcyone rapto.
 
@@ -48,7 +48,7 @@ poma tepidis feram, dominasque bracchia corniger! Troas revertentes inplerat.
 Nova per ensem, do dixit, gener: haec, sed homines modo invalidus sidus: sua.
 Nondum ab Orneus ut sine ancipiti, aetatis?
 
-Tamen ipse huius Perimelen *nescius Medusae* fama quippe qualis tempora collo,
+Tamen ipse huius Perimelen _nescius Medusae_ fama quippe qualis tempora collo,
 Dianam Palaestini tabellas tua moneri, redeuntem. Inplevit aequora, discedere
 favet pater Arctos, per ait, pollice et ipsa desiluit Pergus rescierit Aello
 levatae, cum. Membra munus solebant [aquilam](http://ut.io/)?

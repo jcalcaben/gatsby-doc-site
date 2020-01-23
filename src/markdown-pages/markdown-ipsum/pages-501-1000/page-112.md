@@ -4,13 +4,13 @@
 
 Lorem markdownum licuit; tertius heu **ac limenque candore** veniente honoris.
 Troiana trita modo, res petito **tangit pastum** descendere sanguine coire.
-Memoraverit currus *absit*, Cecropios frontem vis iniuria, patriam fervoribus
+Memoraverit currus _absit_, Cecropios frontem vis iniuria, patriam fervoribus
 obversus turba.
 
 Deficiunt vidit inmissusque condita Europa tecta conplexaque ille quoque,
 elusaque pericula spretor origine parens et. Vires opem, nomina in fiunt quasi
-cui, si ad oro haec sed. Et sacris campus *electro*, omnis, furiis arma,
-*nereides quam* a! Solis Latona visu perspice.
+cui, si ad oro haec sed. Et sacris campus _electro_, omnis, furiis arma,
+_nereides quam_ a! Solis Latona visu perspice.
 
     var vci = scrolling;
     var ddrRemoteCd = cd_hardware_drive + -5 + socket_blob_disk + printerSector;

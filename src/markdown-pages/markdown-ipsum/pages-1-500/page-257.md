@@ -5,7 +5,7 @@
 Lorem markdownum iactanti vehebat. Trux sunt, hunc dextera dant iuvenis tyranni,
 queri thalamoque montes quodcumque. Facinus offensa patens, multos faciat
 Thisbes profecto crimen reliquit avidusque senior sensit venenis pietas.
-Genetrix fluitare *et casam* iacentes, tum signa bellum cum Virbius, pius quis
+Genetrix fluitare _et casam_ iacentes, tum signa bellum cum Virbius, pius quis
 te.
 
 1. Trunco leti perque dantur
@@ -25,7 +25,7 @@ fontibus quae.
 ## Pallebant repetens virginem maledicere luctantia curvari quatenus
 
 Charopem pulsa rictuque matrem, ut certe inmiti pectora temerarius in suae
-Thoona ambit quantum factus *pacaverat*. Similes **mirantur ebiberant superem**
+Thoona ambit quantum factus _pacaverat_. Similes **mirantur ebiberant superem**
 mentem Quas sidera auxilium crinibus certamen; sinuosa incumbit confessaque. In
 fuit spernit Stygio in cum ignis amatos exul: paruerant. Manebat contingere
 monuit facies sunt at amplexa curvataque Numitorque ingemuit tempore cur! Soror
@@ -39,8 +39,8 @@ multisque ad possent terram magnae et quam ipse recepto.
 6. Phasidos Pallas contraque
 
 In vati longi **teretes**, lacerto, factum lignoque videoque anguis; nutricis
-aliquem tempore concussaque levabas. Aris latos isdem nec nunc, Mater *dicere
-montes*, thalamo. Ipse borea Minyeia, haud iuvat postquam nequiquam pede superi
+aliquem tempore concussaque levabas. Aris latos isdem nec nunc, Mater _dicere
+montes_, thalamo. Ipse borea Minyeia, haud iuvat postquam nequiquam pede superi
 [me milite](http://aequorea.io/). In extemplo talis supersunt Et alendum Phocus
 ardetque undis, nequeunt hamatis pectore, illa. A sonat murice, pars, thalamos,
 et natus!

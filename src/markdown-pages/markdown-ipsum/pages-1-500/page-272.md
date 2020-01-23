@@ -30,13 +30,13 @@ ne super manum tacitae.
 > Vena tibi Tydidae septem sagittis Cephenum exhortor anilem hoc illuc ignoro,
 > figuras potest et pectore. Per [furialibus
 > abigoque](http://obscura.io/pia-nec) usus victricemque verba fors Peleus
-> teneri ferat negaverit. Propior qua tacta repulsa, arbore *perspicuus* iuveni
+> teneri ferat negaverit. Propior qua tacta repulsa, arbore _perspicuus_ iuveni
 > quid litora ait negaverit fronte tuorum sors sanguine uti tu praesignia.
 > Positis certo, hospitibus in dedi arma [starent](http://autpatriam.org/); fer
 > nefas.
 
 Hic nostra et animis sua illos, tuum caudice de [consuetas longo
-quem](http://et-corpora.org/quo.html) feres. Non suos ipsa castique *concessa*.
+quem](http://et-corpora.org/quo.html) feres. Non suos ipsa castique _concessa_.
 Fulmina in sidera lacrimaeque Sedit quoque et simul et nube praebere, securi
 colore.
 
@@ -47,8 +47,8 @@ rastra frondem! Mirabile odore, sit pectore
 [media](http://www.moverefumi.net/restat-audax.html) poena nisi non conciderant
 meorum ex saevarum animus Achaemenide Somne fundae. Nocent hausit si simul
 bifurcum; [tendit amor](http://parte-matre.net/ire) findit; diem tamen sed arma
-*lacrimas tacito* praesignis nostri.
+_lacrimas tacito_ praesignis nostri.
 
-Solidum *novissima aduncae rescindere* urget creatus causamque Tritonia resilit
+Solidum _novissima aduncae rescindere_ urget creatus causamque Tritonia resilit
 a mundo probetne. Noverit tenemur laberis protinus paventes praemia Viderat
 turribus si mando?

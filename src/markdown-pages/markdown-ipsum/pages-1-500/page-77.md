@@ -37,7 +37,7 @@ via taurum senatus, patent albis: cunctis fuga spatio.
 
 E felicem Echo iustos cognovit manus enim redibam, [si
 amantis](http://pennatis-ante.com/attonitamque-alii.html), socium ponit rectum
-comis *vela*. Saxo forum amnis adventum venatu natam, noli meum eripui Iason
+comis _vela_. Saxo forum amnis adventum venatu natam, noli meum eripui Iason
 arcum temptaret facientibus meoque et. Eurus consiste erat tumefecit socia
 faciemque est conatibus in socios!
 

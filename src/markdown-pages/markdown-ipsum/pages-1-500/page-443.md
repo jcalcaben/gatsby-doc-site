@@ -5,7 +5,7 @@
 Lorem markdownum ille suo peregrinum pietate Priami nullamque poscere domo,
 dona. Conplexusque aetate ad vires atque ferox liquido, placeat aere aptos multo
 Ceres da. Cereris spina silvas tineae imis Licha per, et placida pelagi
-ferventibus. Utque ursa reserata *plenaque artesque menti* inpune liberiore
+ferventibus. Utque ursa reserata _plenaque artesque menti_ inpune liberiore
 Phoebus prohibetque hominumque Ixione, sua mihi animumque.
 
     if (thin(lag.architecture_bare_ttl(ditheringPciIphone.keywords(
@@ -26,7 +26,7 @@ turba remitti! Poscit meque valvis, et verba spes et erat horridus vesci insula
 una adhuc in vultum? Silentia apertos aequare, et quod similemque, traiectus
 vincis sperare ab **idem placidoque**.
 
-Oblitus iaculum unicus; pro aut *proferri*, de gurgite te vulnere culpa
+Oblitus iaculum unicus; pro aut _proferri_, de gurgite te vulnere culpa
 intervenit iuncta. Dicimus Proteaque manus stridore haerentem micant tunc
 vocabula reddite tangit.
 

@@ -2,12 +2,12 @@
 
 ## Est umero leto cruore et capit sternis
 
-Lorem markdownum **puerosque** Achivi habebat palustribus motu; *et ista
-robusta*. Quis hoc, habere opus invecta; volantes erat,
+Lorem markdownum **puerosque** Achivi habebat palustribus motu; _et ista
+robusta_. Quis hoc, habere opus invecta; volantes erat,
 [inhibere](http://colla-limite.com/sanguine-indis.html) a candida heros: quo.
 Non dextera quamvis, in draconem posset, exspectatum nullus.
 
-Faciemque felicem Trachasque iubet, adest ut *genus rigorem*; remolliat cacumen,
+Faciemque felicem Trachasque iubet, adest ut _genus rigorem_; remolliat cacumen,
 molimine? Aspiciunt viator. Sub certet puer: quoniam Magnetas, partim: Abarin:
 movent miracula boni, cedere. Ab illa paret medios; tibi sed [rapitur
 anxia](http://pectora-sanguine.com/) sub. Phoebique polenta, genitor Pelasgos

@@ -3,21 +3,21 @@
 ## Corpore Cecropis et visa corpora cornua mea
 
 Lorem markdownum tenet mortalia; sonarent mare tenebo fatalem. Cum pisce segetis
-**corpus** qua *ignotissima*, ventis quod, praebere hinc. Undis tamen, Cinyran
+**corpus** qua _ignotissima_, ventis quod, praebere hinc. Undis tamen, Cinyran
 conubia: timenda curvataque adhuc, vos incipit turpis superas totidem armorum
 parte. Procnes iuvenem **dextra in sonus** mentitur ignare poste Imbreus, auras
-cum hac ratibusque *urnae parentum* tollere an **secura** umeris.
+cum hac ratibusque _urnae parentum_ tollere an **secura** umeris.
 
 ## Vagantes huius natantes pretioque moenia aut favillae
 
-Meropisque staret, hunc spectantur, *et* populo, iuvencos
+Meropisque staret, hunc spectantur, _et_ populo, iuvencos
 [vidit](http://armo.net/redeuntisnostra), morabar solitaque. Delata levi cepi
 **ventis**; pars fecit: ipsa conata postquam at. Nomen viderat: datque vela et
 Schoeneia seque ego **sequentur montis**! **Invocat** posuere ales movet quam
 manere iterque validos, campi magna quod similes; quod inscius utque?
 
 Plagas et hi sub primos auras minuunt micuerunt abdita fide, iuvat summa: aut
-me. Ergo triones Ceyce somni vidit, *et* a praesens talia terra quodcumque sibi
+me. Ergo triones Ceyce somni vidit, _et_ a praesens talia terra quodcumque sibi
 pudore iuveni?
 
 ## Quod age commune manemus liliaque mentis

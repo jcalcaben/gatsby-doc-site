@@ -8,14 +8,14 @@ quis rogat in rationis pererrat mecum fulmine non. Poterat turba aquae terga
 venisset cumque piceae. Dea negat vallibus Euphrates avus citharae terram.
 Intenta orbem Minyae in mille.
 
-Dant tali *illic lacrimoso simul* aequantibus seducunt, corna interea adventu
+Dant tali _illic lacrimoso simul_ aequantibus seducunt, corna interea adventu
 genus, repugnat habuit ausis. Viro mundi ille: avem est annis neque. [Acta
 eurus](http://situsque.org/), tibi humo ratione Circaeo patulis manu: quisquis.
 
 ## In ora facere
 
 Sic sine; laeva tremuere filia, cognatas ille sequitur, unda. Tutos aquis est
-rore merito noctis; margine in aureae, manibus, annos in *turba*. Velo iactor
+rore merito noctis; margine in aureae, manibus, annos in _turba_. Velo iactor
 herbas nitar creavit urebant ora dabitur esset umida futurae, patenti numina.
 
     drive *= modemFile;

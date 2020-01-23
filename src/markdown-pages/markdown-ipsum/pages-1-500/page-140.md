@@ -5,12 +5,12 @@
 Lorem markdownum natantibus boum consternatique tempore vulnusque Atlantis:
 placitas Veneris vulgasse Mygdoniusque palmas excepit? Ruat visendae Cereris
 meoque scitis laesa limina vastarumque fuerat dant pectus, sicut hoc vitat nec
-centum, vidi. Intulit robora omnes, contraque, in *cruorem vestigia* in nec
+centum, vidi. Intulit robora omnes, contraque, in _cruorem vestigia_ in nec
 dicitur avsis.
 
 Pede amet magnis genitor creator doleamne et iacentem sororem satyri te semina
 primaque dixit erat inpulerat coniuge ipsum precando sceleris. Mortalibus devia
-memoremque litora coacervatos *inpune* frequentat ages caelesti et recepto
+memoremque litora coacervatos _inpune_ frequentat ages caelesti et recepto
 possis tulisse, lapsu et! Unum obscura fontes lora tibia [ut pectusque
 Oetaeis](http://pars.com/ait) nostra fit.
 
@@ -39,7 +39,7 @@ Dixit matrem fervet; vultus pertimuit ambiguus succedere.
 > deorum Cicones litora corpora carens passim anum **requies esse** sputantem.
 
 Audita ostendisse Aeacus sollicitumque moenibus non tempore crudelis mihi,
-fulgentis moverat nati ecce *prima*. Strenuitas reddunt arboreae; nunc colit
-tutus dixit triplex cumque quaque. Victa *purgamina capiunt est*, ore foret
-servavit, mihi Ulixe causa agros Aeaciden sedebat. Ante mihi *errabant hunc*
-concurreret quae *Cinyras* vacuas, murmura praesentem, de?
+fulgentis moverat nati ecce _prima_. Strenuitas reddunt arboreae; nunc colit
+tutus dixit triplex cumque quaque. Victa _purgamina capiunt est_, ore foret
+servavit, mihi Ulixe causa agros Aeaciden sedebat. Ante mihi _errabant hunc_
+concurreret quae _Cinyras_ vacuas, murmura praesentem, de?

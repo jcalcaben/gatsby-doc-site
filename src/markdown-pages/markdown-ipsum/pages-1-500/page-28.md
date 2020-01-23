@@ -27,7 +27,7 @@ suis, e patrium male positoque: demisi.
 > vestibus domus, numinis stagna! Illis sed
 > [liquit](http://cortex-funera.net/nubemque.aspx) numquam, aura sub aera parte
 > aetherias. Elementa auratis auctor ergo praeclusaque concurrere urgues
-> responde utinam lenius, fuerat; cetera. Clamore post, nam *in* Noctis
+> responde utinam lenius, fuerat; cetera. Clamore post, nam _in_ Noctis
 > [socer](http://veluti.net/venturi), gravitate se utque, quod hunc quoque
 > [iuventus](http://altique.com/mentes-reduxi.aspx), ille famulae.
 
@@ -35,7 +35,7 @@ suis, e patrium male positoque: demisi.
 
 Aurora effugiunt, se sed potentes proles, rure patris plurimus, vacuas leto
 Olympum, fuit. Illud perfudit ruborem, quos erat et illa novissima concepta
-cruore diffidunt onus, *motae temo conpressit*.
+cruore diffidunt onus, _motae temo conpressit_.
 
     w = twitter.sector.copyrightIcq(recycleKeyboard.artificial_trinitron_quad(
             linkedin, worm, textAbend), 438970);

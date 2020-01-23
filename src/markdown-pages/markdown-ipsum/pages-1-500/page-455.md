@@ -26,7 +26,7 @@ In pignora haut? Colla tua parma mulcebat ab usum, tamen nec solis locutum.
 ## Est erit utque sacras priorem cui tamen
 
 Haec acta toto, illa famulis grandia, qui tandem omnes et voce quisque, et
-agmen. Reliquit *tenebris omnipotens*, per misso [Atlantis
+agmen. Reliquit _tenebris omnipotens_, per misso [Atlantis
 devexaque](http://gaudiaspatiosi.net/cretenqueet) cupit, credidit et, est! Frui
 fit nec, me tantum, paribus, mea hic forsitan! Laboribus nocent tardior timendo
 poenae arboris regionis manibus, et troia dextera totam, removente Oebalide
@@ -58,4 +58,4 @@ soporis, tu haec iacet **est** dum.
     var minimize = certificateRgb;
 
 Qui valuere petere **adeo Paridis Venus** volucres omnes ruit quae munera
-disces, aetas? *Genetricis quam*. Fit auxilio utve.
+disces, aetas? _Genetricis quam_. Fit auxilio utve.

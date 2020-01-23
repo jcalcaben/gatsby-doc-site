@@ -2,7 +2,7 @@
 
 ## Dea simul inritus
 
-**Lorem markdownum** euntem sed nostrum pacem falsum signis. Nitet sed, *dum* et
+**Lorem markdownum** euntem sed nostrum pacem falsum signis. Nitet sed, _dum_ et
 qui lentae inmanem hic mandata legit, alas. Ulla amoris sunt, anguiferumque
 fecimus rubescere colla posse: nunc lentis inploraret surgente unum radiantia,
 pauca! Tenere piget scit, aut silvas lingua stante et senex!
@@ -38,11 +38,11 @@ namque, e nam, inpulsos feruntur citharae!
 
 **Iam tu cessant** Acoetes, nube certum habet cum tui implesset rotatum:
 [honorati vultu sanguine](http://cum.org/ante.php) habenis detrahis subit! Tot
-sinat Padumque, caesumque *caput* exul iterum mare nam. Exstinguite tumidaeque
+sinat Padumque, caesumque _caput_ exul iterum mare nam. Exstinguite tumidaeque
 sano vidisse luctantia quoque tollentes certaque mirum Actaeona sensit iubete.
-Sit sinit deus quod profecit *murice se* Saturnia mirantis corpore ieiunia
+Sit sinit deus quod profecit _murice se_ Saturnia mirantis corpore ieiunia
 germanaeque; sic greges auctaque.
 
-Propiore non, iam loqui nec, ait mora male convicia truncos! *Hoc* Numicius et
+Propiore non, iam loqui nec, ait mora male convicia truncos! _Hoc_ Numicius et
 oculis colebat, ignes usum perfudit artus non pedes capillis Somnia, matrum.
 Mihi declinat.

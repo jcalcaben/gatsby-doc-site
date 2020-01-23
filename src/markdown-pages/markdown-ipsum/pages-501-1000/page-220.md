@@ -50,5 +50,5 @@ caeruleus quoniam sanctis. Ne unius letalibus arduus Lichae elidite sine habebas
 aperti portans! Hoc **qua et** tamquam viam. **Erat** suis semper superi mihi,
 occallescere mollibus invocat memor iactatibus ferret, loquor Penthea
 cunctatusque tauri caelo respondit? Congelat equi respexit libro Polydegmona
-forti hamata progeniem rigidis *Cephalus relicta* coniugiale, dixisse ad iners
+forti hamata progeniem rigidis _Cephalus relicta_ coniugiale, dixisse ad iners
 faciem: causa lucos.

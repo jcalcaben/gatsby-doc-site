@@ -14,21 +14,21 @@ Peremit modo tui pavet, dixerat?
 
 ## Illo apro aera saepe faciemque
 
-Sit utrumque contingere ostendunt unum obliquo tum eosdem iactanti *pertimui
-lora*: numinis. Omnia cecidisse ferrugine mediis genitor perque, est superabat
+Sit utrumque contingere ostendunt unum obliquo tum eosdem iactanti _pertimui
+lora_: numinis. Omnia cecidisse ferrugine mediis genitor perque, est superabat
 terrena nunc ferrum scelerata veteres festum, ipse. Enim gaudia regina: [fas
 Zancle et](http://acervos-quam.com/ictu.php) inrita tectis vestem pariterque
 Panaque non optas nihil spreto ferarum.
 
 ## Parentis tum sinu tergo in petunt hiscere
 
-Quam retorsit non petunt quidem confer, *deos quo* admonita, verba. Meriti
+Quam retorsit non petunt quidem confer, _deos quo_ admonita, verba. Meriti
 omnibus.
 
 ## O deinde aequora admonitus peremptam nomen tempore
 
 Eripuit sub est regnorum potest, **sed Picus glaebas** laniavit postquam omnis.
-Ad ut sentit victus, ora forti prodidit *frustraque deplangitur inferiaeque*
+Ad ut sentit victus, ora forti prodidit _frustraque deplangitur inferiaeque_
 appellantque!
 
 1. Habet quodque vestigia
@@ -39,9 +39,9 @@ appellantque!
 
 Fuerunt adicit abstitimus neque Atlas frustra ait animas sororis unda, nitentior
 et redeamus ramis placet meus clade. En o ignoto
-[iaculo](http://graiaset.net/estarva), quae Hymenaeon **Cycneia** metuit *sua*
-ambustique luctus *Phlegraeon*? Conspexi nostro nec quae lubrica habent tum
-tanget humi; lux. Est *deducit extremo* indotata os primum, cursus quo fuerant
+[iaculo](http://graiaset.net/estarva), quae Hymenaeon **Cycneia** metuit _sua_
+ambustique luctus _Phlegraeon_? Conspexi nostro nec quae lubrica habent tum
+tanget humi; lux. Est _deducit extremo_ indotata os primum, cursus quo fuerant
 gratulor. Est sua edidit, tum ait esse venientem qua modo e in et sum dependebat
 veteres.
 
@@ -51,5 +51,5 @@ veteres.
 - Fortunaque patresque forti debita at laudare Daedalus
 
 Nam pede sanguine praecipiti videt ensem opacas monuit manu celatur, blanda
-auras. Omen sanior nec *erat et parabat* matrem radiabant corpora; ora quid
+auras. Omen sanior nec _erat et parabat_ matrem radiabant corpora; ora quid
 quoque palato alimentaque vivo.

@@ -2,7 +2,7 @@
 
 ## Vinces glandes proxima nigro deserere et fugiunt
 
-Lorem markdownum imago adicit quam optavit mugitus, quamquam *qua magnaeque*;
+Lorem markdownum imago adicit quam optavit mugitus, quamquam _qua magnaeque_;
 inde. Est puellis tenet corruat amor, fatetur fugientibus fatebar Cycno titulum
 Ismario altaque postquam. Senilem adhuc **idque** vulnera gravem ebur velamina
 suus excitus pulcherrime Phoebus corpus, ait metuam, non sed!

@@ -43,12 +43,12 @@ volentes iamque.
 ## Male senes olorinis incana
 
 Et amictu, ab modo cuperem, **fere prius**, spectantis arces armis ensem iam:
-Dianam. Erit virides quod pronuba. *Et* mira dant animos non littera cervis
+Dianam. Erit virides quod pronuba. _Et_ mira dant animos non littera cervis
 linguae, sociis laetitiae temerat. Populos sed penatis illum.
 
 Ante magno ulla locum. **Cum donec**, factum pudet deae nexaque quoque clamat.
-Demunt sanguineaque agitur; est *aetas*, sensit quo, devorat ait coniuge
-uterque, *umorque*. Gravi turbamque mutare decepit: eurus mihi, caluere; aptos.
+Demunt sanguineaque agitur; est _aetas_, sensit quo, devorat ait coniuge
+uterque, _umorque_. Gravi turbamque mutare decepit: eurus mihi, caluere; aptos.
 Nunc sanguine, non suae latens sicut?
 
 - Achilles perstet testemque agat mens stantem thalamos
@@ -56,5 +56,5 @@ Nunc sanguine, non suae latens sicut?
 - Miserae pronus caelitibus me invictumque altus crimen
 - Pudore tibi
 
-Aquilonem attonitaeque eodem, surrexit tympana vacat *non urbis* longius, in.
+Aquilonem attonitaeque eodem, surrexit tympana vacat _non urbis_ longius, in.
 Ferrum aequales ora exsiccata milia, et per iam volutant mihi?

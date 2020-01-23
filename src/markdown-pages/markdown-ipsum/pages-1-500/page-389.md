@@ -10,9 +10,9 @@ Utque genitor retinebat Syringa: a nec lemnius: Eridanum primordia quam! Tulit
 nullos sceleris crura Styx; gramen quod, dies offer numina, silvis frondes
 remansit.
 
-Ergo quidem *fulmine videoque ore* debeat squamis deficiunt gratantur fera
+Ergo quidem _fulmine videoque ore_ debeat squamis deficiunt gratantur fera
 positique venter quati quoque capit quaerenti **non**. Nigra spectant summam ab,
-sive caeno hoc caespite mille, caelestia repandus Pergama *patrem*, se.
+sive caeno hoc caespite mille, caelestia repandus Pergama _patrem_, se.
 
 ## Thracum merui tollere ut tumulo scelerum Diana
 

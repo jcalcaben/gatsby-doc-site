@@ -4,7 +4,7 @@
 
 Lorem markdownum tremiscens Solis habuit; est
 [sibi](http://www.pendebant.com/bisaltida-quae), vix male partu fune taedae,
-nare equos harum torvis. Fraternaeque armos Idomeneus *discreta* aere segetes
+nare equos harum torvis. Fraternaeque armos Idomeneus _discreta_ aere segetes
 Chaonius parilique: renarro sollemni multi; causam loquuntur dolet dextera
 terras; deos. Inquit spinae hortaturque fluminis, sequenti dumque carpsere victa
 quod. Summaque illud vidit prius oborto velantque glandes ipse: laurumque nemus
@@ -12,11 +12,11 @@ et decebat invidet addiderim quam, et.
 
 Redde dumque et amoris notatam vultum, reos, conserto me, culmine. Generis vota
 figentem volumine Amnis deseret solvit facerem summo. Suspicit Cinyphius celeres
-*quotiens* Dianae, velut candidus: pectus quid.
+_quotiens_ Dianae, velut candidus: pectus quid.
 
 ## Hoc domo ordine
 
-Iuvenes eminet. Extulit esse pectora *delubra*, vos passuque, suis arce pondus,
+Iuvenes eminet. Extulit esse pectora _delubra_, vos passuque, suis arce pondus,
 Arne Aesaris!
 
 > Eandem pondus; illa tantum; satis medium biformis, Seriphi vetustas.
@@ -47,7 +47,7 @@ tempora? Totidemque ingemuit alte; metu ignes vale, **iam ex index**, aut.
 Insania cura vento monstra, animal? Hecabe verba quondam gentes est, ferreus
 inguinibus arce tam paelice Minos.
 
-> Nec bella, dum et, corpore tecto. Cum vino *quies Argus* telis et exponit
+> Nec bella, dum et, corpore tecto. Cum vino _quies Argus_ telis et exponit
 > quidem inpleat quodque veris. Retendit est multorum certare saepe Dardaniam,
 > nymphae una agit quaesitus.
 

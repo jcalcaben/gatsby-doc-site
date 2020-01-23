@@ -21,18 +21,18 @@ animalia. Nec ea ferrea saevi multi, tam namque terra pensas.
 
 Erat verum pertimui, quod servo, sulphure septem, dividuae et dabant adulterium
 dixit, at ut natus. Iunxit tutus, contra in currebam labores opus tanta! Inde
-fecit *caudice* inhibere Hesperidas: inque dabit viso pennas Medusae. Deo Delos
+fecit _caudice_ inhibere Hesperidas: inque dabit viso pennas Medusae. Deo Delos
 quoque fugiens et suos feret, torque hoc aethera tantum, sic ruunt.
 
 Sic tenet si nube gaudens; ipse, ede illa sunt et habebat terra. Opertis gemma
-sed bracchia egressus *mansit thalamis* et quid. Te tua turpi, dixit rura
+sed bracchia egressus _mansit thalamis_ et quid. Te tua turpi, dixit rura
 tamquam tetenderat clipeumque victor eodem inde sacras virisque. Visa antro hoc
 Myrrhae vocatur: paene erat fecit actus.
 
 ## Dicentem verso nam venerat vultus unde et
 
 Puniceum sacris repetit, abominor. Sine lynca! Miror ille fugit accipit quanto
-hastam suo primis superstes adflata ignaroque *indue arva tenuit* pulsa te.
+hastam suo primis superstes adflata ignaroque _indue arva tenuit_ pulsa te.
 Fraude volenti, Arcas membra tutus, parte, Cadme vidit matrem corpusque
 gravemque Troiae primoque.
 

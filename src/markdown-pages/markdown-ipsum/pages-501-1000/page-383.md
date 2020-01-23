@@ -18,7 +18,7 @@ volvitur.
 ## Ut finire amoris
 
 Quaque nisi fratre peregrina sanguine falcato inter nidus naides et. Animal
-caecum, duro! *Curvique ne sessile* Pasiphaen, in matris parva: ab est collo
+caecum, duro! _Curvique ne sessile_ Pasiphaen, in matris parva: ab est collo
 distinxit! Forte et portabant **vacuos**. Dilecte duo nocuit tetigit, inrita et
 dea Antenora flet vicit genuere crevit, glandes.
 
@@ -26,7 +26,7 @@ dea Antenora flet vicit genuere crevit, glandes.
 - Ab eram sinuatus
 - Et agit
 
-Ubi quod sinistro virgis stillanti labens. Cadme *inque* oranti dignissima diu
+Ubi quod sinistro virgis stillanti labens. Cadme _inque_ oranti dignissima diu
 quia natant tristis fusum singultibus cives: et, ante! Dixerat illa humi
 lacertis, ipsum etiamnum teneraque Epopeus.
 
@@ -54,7 +54,7 @@ lacertis, ipsum etiamnum teneraque Epopeus.
     }
 
 Gener ad **Piraeaque annos** plura aduncae annoso in canam o flavae lacertis,
-fidum exploratis nate posset ambustaque partem. Umbras *illam iubebat
-Apollineas* habuit minuuntur *quaeris*; turba lampadibus leves. Freti est et
+fidum exploratis nate posset ambustaque partem. Umbras _illam iubebat
+Apollineas_ habuit minuuntur _quaeris_; turba lampadibus leves. Freti est et
 quid verba [abactas](http://www.etiam-iuvat.com/) Fortunae laudatae non ille
 motu potentem cur ille supplex: ubi.

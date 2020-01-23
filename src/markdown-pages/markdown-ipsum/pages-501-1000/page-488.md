@@ -18,7 +18,7 @@ abit visa inania!
 ## Serpens vidit
 
 Et duplex hoc deus ferebam erat oriuntur supremum adventuque ignis fortissimus
-*litore*; ora aures iram. Viam fulminis volutant infelix est voles quoslibet
+_litore_; ora aures iram. Viam fulminis volutant infelix est voles quoslibet
 terret vix asello quos questus post: vos, praeter. Petiit deo eadem, **feminea
 socerumque** excipit arcus sibi favorem hoc hunc magis, fratri at figit. Illa
 sine undas, derectos incipit, condidit Spercheides ne magni est ima nisi.
@@ -30,7 +30,7 @@ In absens digitis, ferunt regia, tibi semper; multis dote demptis fuit hic?
 Saevus [sublimis tegit](http://in-altera.org/). [Nomine
 tibi](http://velamina-ad.com/), remissis illa aeque oculos tibi, [non
 Agenore](http://faciem.com/saevamque-cacumine.php) fessus, nepotibus thyrsos.
-Quod raptae oras corpora, viscata *Semele metuunt erat*! Ora cui, mihi pietas
+Quod raptae oras corpora, viscata _Semele metuunt erat_! Ora cui, mihi pietas
 murmur, audacia cacumine vestem ut umquam atavosque Aiacis.
 
 ## Mollem sua tumidus utilitas vixque

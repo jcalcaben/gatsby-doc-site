@@ -5,7 +5,7 @@
 Lorem markdownum erubuit usque. Lacrimis ab levis vocabat concurrere duxque
 praesagaque faciat Cytoriaco corpore. Carpit cum iter ripae India rogat et
 ususabstrahit infelix tollens et dedisti odium. Lumine carinam, generis tu
-quoque canor, [Cecropidas bifurcum](http://iram-mihi.net/) conlaudat *malignas*
+quoque canor, [Cecropidas bifurcum](http://iram-mihi.net/) conlaudat _malignas_
 ad datus. Testes iamque; quo balatum parvo velamina adflabitur malo, volenti.
 
 ## Ales nunc devexaque movitque hoc
@@ -32,7 +32,7 @@ nullum, caelum mille lynca Pleiadum; Latia.
 
 ## Fide felix recusat liceat
 
-Tenuissima se videt quisquis praecipuum dixit Sibyllae flebat *in veloci* dabat.
+Tenuissima se videt quisquis praecipuum dixit Sibyllae flebat _in veloci_ dabat.
 Mors diu, miratur tuo non ore verba est; facienda!
 
 1. Iuvenes nata et vulnere propior videtur
@@ -41,8 +41,8 @@ Mors diu, miratur tuo non ore verba est; facienda!
 
 ## Pollice viribus miserantibus Cadme de orbe rerum
 
-De eurytus *fas vixque thyrso*, orbe, praecordia creverat gente, corpora
-splendida bisulcam minimae vale. *Hunc raptos aditus* factorum monet **agam**
+De eurytus _fas vixque thyrso_, orbe, praecordia creverat gente, corpora
+splendida bisulcam minimae vale. _Hunc raptos aditus_ factorum monet **agam**
 confesso securosque arboreis facerent a desierat in fortibus resupinus subigebat
 [flammas](http://erat-inquit.com/educta)! Iam huic Aeacides: et cum nec, ut mora
 hoc solet numeri Tethyn, amarunt me reponere?

@@ -3,18 +3,18 @@
 ## Saevi sed memini ut Horis aperto cum
 
 Lorem markdownum servor caede, amorem, et clausis dies tum continget.
-*Leucosiamque* ipsa habebat in sanguine plaga tenuesque ex cruentae penetrabit
+_Leucosiamque_ ipsa habebat in sanguine plaga tenuesque ex cruentae penetrabit
 huic; et uncos Lyciamque aeris pestifero quorum Tyrioque. Clamore glomerataque
 caelo, fuit Latia sub: inpono vires meo tellus. Prima frondem! Mei in florilegae
 cervo emittite triplex iunctim!
 
 ## Vocato inploravere spernit pacatum
 
-Cadis pars quae traxere habuisse. *Modo haec* Iolen aevo armos pennis prole movi
+Cadis pars quae traxere habuisse. _Modo haec_ Iolen aevo armos pennis prole movi
 [misero](http://gravatuminmeriti.org/harundine.html): non per. Atque sedibus
 inguine **mirantur signatum** est: scelus a propior capillos; trabes **hinc**,
 Iamque niteant Cynthia aliisque in? Potes Babylonia pulsisque sexque hominum
-umeris exhortatur limina veris *patuere*?
+umeris exhortatur limina veris _patuere_?
 
 1. Metior quid falsae portat
 2. Sit ut cursus plectrumque est ossibus portus
@@ -45,4 +45,4 @@ austrum. Libratum Talia vulnera facta tenuissima terra. Sine laesa cursus, hic
 iugulum admoveam; non sex animosque cornua? Et [sed
 per](http://pondere.io/phinea) eram.
 
-Amissam *suam*! Venandi haec. Non lacrimas mox mersit Numici.
+Amissam _suam_! Venandi haec. Non lacrimas mox mersit Numici.

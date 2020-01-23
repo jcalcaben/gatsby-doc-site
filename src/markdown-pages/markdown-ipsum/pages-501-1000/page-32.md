@@ -8,7 +8,7 @@ rerumque petebar hanc ut operique, iam pariter quoque.
 
 ## Paene nefas sanguine forma
 
-Raptor quoque! *Generis non minatur* nescius ut regis Aeacon, iuvenali nomen.
+Raptor quoque! _Generis non minatur_ nescius ut regis Aeacon, iuvenali nomen.
 Esset quo gravidis magis.
 
     if (passive.outputMetadataStatus(5, rwMyspace, avatar) + -4 <=
@@ -43,14 +43,14 @@ fallitque](http://www.utraque.com/omnibus).
 ## Ad Amnis superi Nereides in verbis caelestique
 
 Sonti o postquam rubor manibusque fidissima sequar, data grave sanet onusque
-promittat *parvis* adoleret paucaque [rident](http://et.com/geminas). Posita
-inpubibus bubo illis liceret, negabit *quisque* auditas ferarum ab submisso illa
+promittat _parvis_ adoleret paucaque [rident](http://et.com/geminas). Posita
+inpubibus bubo illis liceret, negabit _quisque_ auditas ferarum ab submisso illa
 mandatam oscula. **Et** talia, et forsitan, et ponit, et o **currus in ruit**
 tuentur puer facinus. Male non inquit specta.
 
 > Suis vestem fervet Phrygiae et dicto, nec missus, a sertaque, Galanthis adacta
 > Lucifero. Potuit ab cuncta donata putat satis mihi Procri iuvenemque
-> tristisque age *sed altus suae* abdiderat crimine! Pia sonum arma: dolor
+> tristisque age _sed altus suae_ abdiderat crimine! Pia sonum arma: dolor
 > subita metu suadet flammas.
 
 Fata ipsum: ramis neu arboreis, cuncti et regia querno Aeneas et. Sola saxumque

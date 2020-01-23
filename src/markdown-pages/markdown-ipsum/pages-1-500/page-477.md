@@ -2,11 +2,11 @@
 
 ## Nullo quin viros genitor
 
-*Lorem markdownum ultoris* nocturnos micante venerande inmitibus motus colla sat
+_Lorem markdownum ultoris_ nocturnos micante venerande inmitibus motus colla sat
 arbor **nomina**; o [submovet](http://credens-domito.org/) per maneas mirantur
 genitor incognita. Sociis potentem iactatis positis lassaque veros: lacerto enim
 ait, qui non fidemque gravis, excutiuntque faciem **incerta**. Sentit medias
-*Laomedonteis cadme*. Ius nube dolendi nostrae subit nec aut superare memori
+_Laomedonteis cadme_. Ius nube dolendi nostrae subit nec aut superare memori
 paulatim loquor in quale. Mea tremulasque quos, hanc, est illa hanc suos memorem
 Herses gaudere.
 

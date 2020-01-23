@@ -25,7 +25,7 @@ In tam? Alta ipsum in albida ministri isdem Hersilien fortibus.
 ## Ordine causa
 
 Germane Aulide placidos flexus. A marem suos longo non! Poterunt forsitan
-*templo*, futura: verso fessa et devia demersit inpetus?
+_templo_, futura: verso fessa et devia demersit inpetus?
 
 - Nemorosam iactatis inpune et amor
 - Ammon parcum

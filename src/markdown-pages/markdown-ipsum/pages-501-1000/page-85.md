@@ -25,12 +25,12 @@ vult; laesi, sinu. Nec qui fuit domus est.
 ## Ebiberant ingeniis accessi patrios
 
 Cum gentis quoque! Potero varas pavido induta silvas, nutricisque parvo, et vela
-Argolicis sententia praebita nutrix fide *sceleris capillos* adest. Perfida
+Argolicis sententia praebita nutrix fide _sceleris capillos_ adest. Perfida
 ferit furialibus aura capientibus vocis si [mihi](http://et.net/quod)!
 
 > Coronis corporis, illic. Neve tueri, Coei bis vagitque Cypriae circumque
 > naufraga Ismarios at? Inanes leporem inmensos, velatus. Voce obstrepuere
-> *violentus*, exitus et fine.
+> _violentus_, exitus et fine.
 
 Dabuntur placet, primum; inopino India in Pavor cognorat; spes erat suae factum
 multae imagine regis Aegides magico. Parentis quamvis. Mox dedit partem,

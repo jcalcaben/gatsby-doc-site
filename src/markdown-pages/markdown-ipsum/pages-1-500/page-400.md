@@ -3,7 +3,7 @@
 ## Optatis copia tamen caelum probat servo suspirat
 
 Lorem markdownum seque. Multorum parvoque dixerat aestus. Putat et Pergama
-turba; sub veteres terras, di. **Dies mensis**, laboribus *aut qualem artibus*
+turba; sub veteres terras, di. **Dies mensis**, laboribus _aut qualem artibus_
 giganteis Peucetiosque subiti.
 
     if (-2 != lifo) {
@@ -43,7 +43,7 @@ Parva illo secum illo quid numerum geratis obortis sacris superant habet.
 Admoneo sed reddere genus exstanti domus dentibus sparsas ait ausum cerno
 cognita, trahitur erat.
 
-Illiusque *quis*, senectus est quem et tibi et viro Lampetide excute et est
-vosne bracchia. Hectora sponte. Iamque et Apollineas, *move mortis* imoque,
+Illiusque _quis_, senectus est quem et tibi et viro Lampetide excute et est
+vosne bracchia. Hectora sponte. Iamque et Apollineas, _move mortis_ imoque,
 convulso feruntur. Moneo it ducit longa et pater, tale petent modo nec viribus
 lacrimis.

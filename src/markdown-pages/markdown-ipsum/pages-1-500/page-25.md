@@ -39,8 +39,8 @@ haec laborem tibi ulnas praevertunt dotem.
 Data et creverat onerique relictum carchesia Perseia; sunt, violasse quod
 priameia quibus lapillos. Tua sed; cum movet aequore, in capit elisarum certe.
 Protinus habentem regis utinam illa quod visus ista Auguste unda deum mandate
-nescio, iura aequor? Poscitur captatur ignes aethera cavernas sedere *nec
-dignam* huc fetum felicia fert. Tulit quantum tibi per paulatim, per Cephisias
+nescio, iura aequor? Poscitur captatur ignes aethera cavernas sedere _nec
+dignam_ huc fetum felicia fert. Tulit quantum tibi per paulatim, per Cephisias
 redeamus adspexit negare relicto spargitque vero.
 
 ## In ille destruitis poenas tum mentisque tellure
@@ -56,7 +56,7 @@ Moderatius [Iovis](http://www.aevo-quae.org/non): vires umquam pumice? In
 diffudit membris sacerdos venit Macareus, erat vacuas linguaque caperet.
 
 > Saxo obstitit opertis patria, saevis dependent poteram femina praeteriti:
-> *futura*. Dixerat memoris mei.
+> _futura_. Dixerat memoris mei.
 
 Muris arbore perque: sibi abscessisse pontum fragor ortus decet, visuraque.
 Inquit regit et cursu pondere, qui tuus hoc parte **adunco demersus quae**.

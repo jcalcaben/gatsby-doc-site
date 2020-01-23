@@ -2,8 +2,8 @@
 
 ## Post ruit nemus ista pectora veneni
 
-Lorem markdownum profunda saxea nullis substitit verbis nat muris *secretaque
-cupidine* formosa. *Quos* manere maximus veteres versa pectora iunctorum esse
+Lorem markdownum profunda saxea nullis substitit verbis nat muris _secretaque
+cupidine_ formosa. _Quos_ manere maximus veteres versa pectora iunctorum esse
 recentia figurae quercum, fama. Tempore sola, proturbat Herses lumen simulacra
 latent ventis. Nutrimen nudaeque licet. Zona umeris resolvo repetoque arida,
 suas usus utque causa, te habendam.
@@ -34,7 +34,7 @@ Alcinoi labori sub, in essem a inter pectore pavonibus Acarnanum. De totis enses
 haec, tumulis revolutaque quod? Cura in testataque bracchia induitur nactasque
 ducentem manifesta. Fuit est vivere summoque facinus miscent totis: quoniam si
 sic fragore quam virgo **nudata pronos extentum** templo convicia Plurima. Comes
-videntur suadent Cecrope, et *mihi*, tersit se sceleratae mihi timetur,
+videntur suadent Cecrope, et _mihi_, tersit se sceleratae mihi timetur,
 advertite; reddidit coegit neque?
 
 Radiis dolor orbe leves gurgite portusque ramum ludit: auras nata **nate

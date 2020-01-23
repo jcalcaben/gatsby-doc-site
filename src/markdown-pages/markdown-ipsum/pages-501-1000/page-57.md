@@ -3,7 +3,7 @@
 ## Socium deflevere nollem
 
 Lorem markdownum suis certa aurora perque falsa unde metior sic; nusquam. Et
-*fatalia deposuisse* Hyantius, auro tantum ferrataque erat iamque. Trahit
+_fatalia deposuisse_ Hyantius, auro tantum ferrataque erat iamque. Trahit
 habebat **animosa**, non cupidine pendeat serpere, manus quia Daedalus quibus;
 sit magis confessus semimari, est.
 
@@ -13,14 +13,14 @@ sit magis confessus semimari, est.
 - Aut concita lucis
 - Sed metu illa dolor fiducia hoc annos
 
-Sic quae est tempora saxa iugo mihi habebat, usus *uno*, luctu post, ille. Quod
+Sic quae est tempora saxa iugo mihi habebat, usus _uno_, luctu post, ille. Quod
 quae diversa meritorum origine fumo quis tempora decus! Clymene corde famularia
 tamen vincla? Aera turpe, mihi contulerant tamen Liberfemineae tu tu senior arva
-ingemuit, margine! Inferias *Iunonem*.
+ingemuit, margine! Inferias _Iunonem_.
 
 ## Lecta nunc pectora qui
 
-Orbem *pugnae*. Ille usus in mihi Surrentino peti. *Ora viri vultus*, est vetat
+Orbem _pugnae_. Ille usus in mihi Surrentino peti. _Ora viri vultus_, est vetat
 inritamen soceri, tum per cum loquuntur! Populi similesque origine fraternis
 tenetque iam exuere, tuto admissum iuvenum induruit praecipuum et adopertam
 timidusque silvis illas!

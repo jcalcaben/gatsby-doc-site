@@ -3,8 +3,8 @@
 ## Quod chaos inclite suorum doleamne lecte cumque
 
 Lorem markdownum saxum armento, tum penna, illic dives. Quod nudae namque,
-Aiacis, verba, caligine petis maduere poteras duo sit visa, *disponunt
-mittantur*. Ut post adspiceres illa est spatium, caelestia plumis, abstemius
+Aiacis, verba, caligine petis maduere poteras duo sit visa, _disponunt
+mittantur_. Ut post adspiceres illa est spatium, caelestia plumis, abstemius
 audet, **tibi sub**. Peperisse pectora, Caesareos, et sensit addere. Sua media
 hausit super iaculum lauroque oscula in Cumaeae novercae, spectabilis tenet
 turbatis fluctus protinus parabat pia.
@@ -65,4 +65,4 @@ Parin perstat cura libat, inseris. Cypron se duorum, tam ipsos amore exoratis!
 Et invidiae pro ictus, sua fato nascentia, **nubigenas duabus**, famularia
 inicit. Praestans minor; inque tendens, sanguine et liquidas Perseu Ino felix
 nec. Tectis aether effigiem cum mentis iactura monitusque puer auxilium
-crescentesque *dixit*, tuta dedit, inops fuit.
+crescentesque _dixit_, tuta dedit, inops fuit.

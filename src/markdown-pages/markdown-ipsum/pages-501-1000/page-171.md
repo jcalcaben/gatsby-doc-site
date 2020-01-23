@@ -15,8 +15,8 @@ Phoebes tu blandis. Croceis pallentia petis ego bibendo, at te lato.
 
 Iam adsunt tamen aut sed luctus, luce praeda! Ora Agenore, virgo divum gratamque
 secum te duas oracula ait copia; vallibus. A manat sit flere agit rigidis
-Ianigenam limes Dixerat potuit moles. *Est nostro* animo partu dulces nisi vacca
-se Hectora fulgore suos; hiemes ex et *prisca clipei* et vastum!
+Ianigenam limes Dixerat potuit moles. _Est nostro_ animo partu dulces nisi vacca
+se Hectora fulgore suos; hiemes ex et _prisca clipei_ et vastum!
 
 ## Argumenta spirare ne nocte armo iacuit
 
@@ -42,7 +42,7 @@ genitor quod quam pedibus servire quod: meis pars canum comas oris.
 - Vulnera is quod haec rutilasque positus
 - Custode remisit damnosa collecti
 
-*Deum latet est* naribus navis atque credere excusat posuere flexit [sed
+_Deum latet est_ naribus navis atque credere excusat posuere flexit [sed
 Ditem](http://viresquodcumque.net/nequein.aspx) concutit spernit flagrantemque.
 Vestigia est haec adhuc Lucifer tenderet stant. Sanguine fulminis, oscula ala
 terra; **opem** summo honoris, tenus?

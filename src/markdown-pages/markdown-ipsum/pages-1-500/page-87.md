@@ -3,7 +3,7 @@
 ## Hoc inque tabellae tremuisse domum prendere herbarum
 
 Lorem markdownum veniet: lecto es [corpore ferae](http://www.pone.io/) sextae
-canibus: nec Venerem Marte conveniet *in sibi utque* quod? Illuc quantum, a
+canibus: nec Venerem Marte conveniet _in sibi utque_ quod? Illuc quantum, a
 sollerti suo, sed isset!
 
 ## Oculosque totidem mira ossa gressus num Ossaque
@@ -36,11 +36,11 @@ ignarus [in moriemur parantem](http://www.in.com/) ignarus.
 Planus oculos mutua iamque sed et gloria sortes, memoris caelo distabat rediit;
 non. Iamque variari, fluxit superas inmensum cuius lanugine inponere neque.
 Miluus navifragumque isdem incubuit, de nam nec ait, tempora, tum in? Effigiem
-sibi Aiax litora hic adit verba *cura prensoque* amantior eundi non vincula
+sibi Aiax litora hic adit verba _cura prensoque_ amantior eundi non vincula
 ripas; cum ter, curribus. Retentis iras diros opus velox Bisaltida quoque
 habebit.
 
-> Hic lecto Ismenus nomen! Pascere *vultus veri* rostrum quondam; inque orsa
+> Hic lecto Ismenus nomen! Pascere _vultus veri_ rostrum quondam; inque orsa
 > quot loca papilione perque.
 
 Plantis dictis et aut involvitur custos. Saepius sociasque tenentibus in

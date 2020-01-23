@@ -38,5 +38,5 @@ hiberna.
 
 Quam Minyae, inter neve simul primi summis quid nolit. Adest emissumque conubia
 est sed premit quarum inplerant deo medendi traxere. Sceleris vidit bella
-Appenninus agnovit *se* duxque aere Victor, sequitur tamen pater pharetramque
+Appenninus agnovit _se_ duxque aere Victor, sequitur tamen pater pharetramque
 curaque!

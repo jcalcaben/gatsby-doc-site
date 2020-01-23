@@ -2,13 +2,13 @@
 
 ## Orbem ab caerula figuras
 
-Lorem markdownum temptabat fulmine. Tenebrae et moenia *fatemur*. Et humanis
+Lorem markdownum temptabat fulmine. Tenebrae et moenia _fatemur_. Et humanis
 retro at bracchia, ne margine exsecrere tonitrua in Perseus. Praesepia luctusque
 acto Prochytenque tenet **ipsosque praefoderat anus** levavit laniavit Canache
 apulus duro velle tellus restabat adnuerat a arcus.
 
 Caedem ad **saepe quicquid** Region nescimus tulisti armis, tempora Egeriae
-*sanguine quodcumque altis* in verruntur umeros possunt contra tegmine. Fuit
+_sanguine quodcumque altis_ in verruntur umeros possunt contra tegmine. Fuit
 praenuntia et spargit lentis! Versabat femineae additur vincis et non qui, haec
 est muta sic, te ait, mensam exsiluisse haec? Aenae est ferunt **veniam vidit**,
 insidiisque procul in splendida pennis illum lumina ad ista?
@@ -40,7 +40,7 @@ lapis, non ille terga.
 
 ## Enim contigerat capiti temptat in apta haerebat
 
-Laetabitur et ferro pervenit, ille Alcmene. Vestigia *totiens insolitus timori*.
+Laetabitur et ferro pervenit, ille Alcmene. Vestigia _totiens insolitus timori_.
 Sub prioris ausi cum abesse inflata terrae plenissima, non est, facies. Nunc sua
 umeros, vetus anno, natam digiti, remoretur cum magno capillis dentibus suo pia.
 

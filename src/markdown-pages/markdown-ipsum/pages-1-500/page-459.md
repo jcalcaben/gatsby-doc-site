@@ -8,14 +8,14 @@ de etiamnum?
 
 ## Lenta et decipit hic signavit adulterium fracta
 
-Pennis nec *pressa cinis adspergine* caelarat iura, quas cum comitesque sitim.
+Pennis nec _pressa cinis adspergine_ caelarat iura, quas cum comitesque sitim.
 Sunt restat? Modo quos Heliadum atque, peregrinosque feratur promissae, iactura
 prohibebere? [Hortis](http://dolorverus.net/etexacta.html) creditur candor, vina
 caeli Sallentinumque ululavit nituntur indulsit, viribus, pomo saevique.
 
 ## Promittere enim fixa visa emi hamadryadas Hennaeis
 
-Numina horamque animum! *Se illuc tractare*: pallent et addit, corpora penates,
+Numina horamque animum! _Se illuc tractare_: pallent et addit, corpora penates,
 fortunaque. Insequitur munere videre seductas; fer succiso hostem. Cur regna
 dictae monitis, enim ille putat inposuere spectabat ferebant o Phlegyis potentia
 in videor in de agebatur scopulis.
@@ -35,9 +35,9 @@ in videor in de agebatur scopulis.
 
 ## Hiems viscera
 
-Genae silvae. Mea ardent *pugnat*, flectere, Pallade, inde avido, passam, hanc
+Genae silvae. Mea ardent _pugnat_, flectere, Pallade, inde avido, passam, hanc
 constiterat taurum. Consumpserat caeli, [pendere](http://morepro.net/carinas)
-vince nunc, insigne, *bubo non* succedere? Hersilien infestae currum posuisset
+vince nunc, insigne, _bubo non_ succedere? Hersilien infestae currum posuisset
 Alcithoe repleam quem pharetratus arida, voce arma nebulas? Qua deas nostris
 Giganteo latet penetrabile simul.
 
@@ -56,7 +56,7 @@ Giganteo latet penetrabile simul.
 
 Sed [ipse](http://inforte.io/tempora.aspx) at parcere recisum caput, et Caeneus,
 gemmae. Nymphas ebrietas quantum, sum suarum viros praeponere igne quodcumque
-flamma, modis *erat silvarum* utque, desolatas seu. Qua ille Parthaoniae quos
+flamma, modis _erat silvarum_ utque, desolatas seu. Qua ille Parthaoniae quos
 detegeret deosque paterna facit ubi fulmina, trepidoque inceptos equos, solet
 novam tutam Achaica. Intus ipse colitur noxque possedit avorum notae, vento
 cornibus annis, elegit mori matrem, Hector!

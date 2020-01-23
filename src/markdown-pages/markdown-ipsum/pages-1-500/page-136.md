@@ -29,7 +29,7 @@ Sed retro latentia spatium, cum fuit differt grator virgo seges; et a ignes
 vultum laqueique [illud](http://inque.org/). Dedit ausus natae; medio non Byblis
 et neci caput **dente Hecabe Enipeus** sorori. Viribus viscera per nullum
 imitator ligno constitit, sui ira nebulas sine; dona fatali tenet alipedi. Cum
-salire illo; poenae *dixit ignavos*, sortes non sua extimuit, suoque et in hic.
+salire illo; poenae _dixit ignavos_, sortes non sua extimuit, suoque et in hic.
 Nostraque sospes, iuncta et Iolaus perire, quae qua, ales rubet ex rebus.
 
 ## Est facinus dolor respiciens gravi similis dummodo

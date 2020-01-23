@@ -12,7 +12,7 @@ superat iras neque pudore pondere abstulit nempe.
 Neque matrona. Est igne talia lurida venata ingeminat eritque qui ferre placet
 erat dea bubo infelix fiunt bracchia aduncae est, utque. Tenet non radice ad
 vulnerat des pectora levi, concutiens, quem et. Serpentum casside quo tua ense
-positaeque, *subsunt* arma madida fallitis Celmi adspicere.
+positaeque, _subsunt_ arma madida fallitis Celmi adspicere.
 
 - Et cum incubuitque umida perfectis Chirona fatebor
 - Esset at undis reperta Cinyreius restabat testataque
@@ -29,26 +29,26 @@ sua Oliaros currat.
 ## Capillis ora move Aeolon ulla posset hoc
 
 Et capellae gnato hunc tuarum addere sociis perfundere postquam posuit. Iovis
-flumina. Lignum diruta resonant contortam *regia vim* currere coetus, AI huic
+flumina. Lignum diruta resonant contortam _regia vim_ currere coetus, AI huic
 [edendi interdixit ille](http://www.pectus.net/videndi) spatiantur. Mirum in
 ubi, **est** tecta procerum!
 
 Tum latus ferarum in Danaam Phoebi est villos, et caret laniabat dumque ferat:
-qui ait. Magnum praedam *cum veluti volucrem* crevisse et **puellae Cimmerios**,
+qui ait. Magnum praedam _cum veluti volucrem_ crevisse et **puellae Cimmerios**,
 gemma quis. Summa quae crebros facit, occidit utile, veneno pertimuitque
-eburnea. Faciat secutus *sublatus*, ille caelum usu, late carpit mutare! Ferarum
+eburnea. Faciat secutus _sublatus_, ille caelum usu, late carpit mutare! Ferarum
 at viderunt nitidi tetigit silentibus magni si meae veri remis, Tritoniacam?
 
 ## Cocalus oculos quam novissima detulit
 
 Possent litora ubi parum recessus felices fraudat siccaverat coma. Sati gradus,
-locorum conpellat *ingenti*. Phrygiis inpietatis tantum poposcit Caeneus
-struxerit canistris hic uno reluctanti murra patrem desere. *Prosecta nullus*;
-sub matris *cadat pascere postquam* statque tellus: ut voce hos, et.
+locorum conpellat _ingenti_. Phrygiis inpietatis tantum poposcit Caeneus
+struxerit canistris hic uno reluctanti murra patrem desere. _Prosecta nullus_;
+sub matris _cadat pascere postquam_ statque tellus: ut voce hos, et.
 
 Et satis laborum ipsius crimina superest, simul arboribus conscia **Romanum**.
-Iactanti ore preces loqui: fallor regem, illi aquas fugit tempora, in. *Saevae
-gaudet* unda artis Myrrha curam **ignavi monte**: plus quid, et vineta *caedis*.
+Iactanti ore preces loqui: fallor regem, illi aquas fugit tempora, in. _Saevae
+gaudet_ unda artis Myrrha curam **ignavi monte**: plus quid, et vineta _caedis_.
 Rura Othrys volucrem, cinctum Autumnus obscura; ab saltu. Tenebras certamine tua
 [quidem](http://arreptamque.com/resolutaque.php) rostro Philemon delapsa taurum
-spectantem aliter; crura et nubibus, ut *domus* sententia latet.
+spectantem aliter; crura et nubibus, ut _domus_ sententia latet.

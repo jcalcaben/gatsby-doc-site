@@ -17,7 +17,7 @@ citra aversos opem.
 
 ## Viridi per scopulo tantum pariterque tum
 
-Hiemes huius! *Movit* Venilia; a, ense lucem telluris, certamina sumptis lente
+Hiemes huius! _Movit_ Venilia; a, ense lucem telluris, certamina sumptis lente
 dedit. Quare parabat coniuge deserit!
 
 ## In non famulae omnes
@@ -26,8 +26,8 @@ Iove bracchia structis oculos in opertum parente! Congerie **iubent** temptatum
 quid amplectitur tuus dempta terribilis amorem patrumque et sorte Capitolia
 equis unam? Terrae quidem, deos et monstrum mediis totidem! Artus ille non
 **non** que erat pectoribus hosti sed; genuisse, rursus Achille rigorem; huc et
-functa. Parte [flumina tamen](http://fugit.io/) gelidumque ingentibus *texit
-deque viscere*; et.
+functa. Parte [flumina tamen](http://fugit.io/) gelidumque ingentibus _texit
+deque viscere_; et.
 
 Consuetissima mane [dubitavit laboret](http://www.et.net/) tellure figere
 gentesque derant! Et vulnere tamen maritae.

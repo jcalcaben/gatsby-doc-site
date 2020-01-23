@@ -5,7 +5,7 @@
 Lorem markdownum, ille obortae cum derigere est vota postquam subducere, sive
 arma [suo cladi Telethusa](http://www.sunt.com/coniecit.html)! Sua dum sustinuit
 honores ferri aurea talia praecordia Pegason adepta corpore vestigia Venus: dum
-et bracchia adhibet! Caeneus imago. Cortice tela iram, ex *nato ab* torum
+et bracchia adhibet! Caeneus imago. Cortice tela iram, ex _nato ab_ torum
 pariterque quod.
 
 ## Agros quae est validosque soceri capi tergo
@@ -40,7 +40,7 @@ sed, Hecateia.
 
 ## Mittere argumenta in formosus oculosque
 
-*Volenti* latus est dempto pennisque limum postquam se cursu ignemque!
+_Volenti_ latus est dempto pennisque limum postquam se cursu ignemque!
 Victrixque [inserui qua precor](http://torvoset.com/est) crearit annos, sed
 vidit erroris teres. Iuvat ferar altoque vere colla pontus haec poenas oculos
 tamen nunc, haesit protinus [me](http://toxea-bracchia.net/trachinius.php).
@@ -68,7 +68,7 @@ Futuri poteras amnes.
 
 ## Mentes aversos
 
-E ut hunc totiens datis, decolor in *eruiturque* nate lacrimarum tumidaque te
+E ut hunc totiens datis, decolor in _eruiturque_ nate lacrimarum tumidaque te
 labi? Tuos debuit claudunt vestigatque tamen: ipse leve Phrygum quo.
 
 Auferat qui pariterque quod hanc exsangues cadit munus tum sunt dolet, adacto
@@ -76,5 +76,5 @@ fas vincere audaci possem frustra, heros. Est somni; quod, passi, dei de vultu
 et.
 
 Caerulaque medium quae; sum promissa, non Quirine ecce: vestra quod anili
-Hyleusque ab gravi. Quidem quater direptos omnia forcipe, pro cui aut *solutus*;
+Hyleusque ab gravi. Quidem quater direptos omnia forcipe, pro cui aut _solutus_;
 oraque. Procrusten Helicen; ramos fulgentia lata.

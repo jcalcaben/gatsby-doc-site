@@ -7,11 +7,11 @@ infelix pectore gentemque arvo avibus Antimachumque nunc formosissima. Ille est
 vultu manu: avidoque dixerat altrice Elin: et margine.
 
 Totis urbis moturaque suo, **multorumque** indicii dexteriore guttae, germane,
-male volandi *iacuit*. Coniunx Stygius ortus ignes inmotosque quod meritum.
+male volandi _iacuit_. Coniunx Stygius ortus ignes inmotosque quod meritum.
 
 ## Te denique
 
-Tempora non domus sub; longae arcus, solque *fidissima figitque*, per. Fiet est
+Tempora non domus sub; longae arcus, solque _fidissima figitque_, per. Fiet est
 monstra petit. Patris locum huius iurgia reseret erat frutex pectus, **rus**
 adorat unum! Quamvis parentis pererrat cetera animus ait confudit quae lata meum
 semper. Dum fulgore et supplex genualia
@@ -24,9 +24,9 @@ iuvencis et senatus et.
 
 ## Sic miscuit velate
 
-Aut neque, qui tum feritatis senecta **risitque** in acrior functi *silent*.
+Aut neque, qui tum feritatis senecta **risitque** in acrior functi _silent_.
 Advertite quod dolor est linguam sinistro sacerdos haec Cadme voluptas
-insequeris praesagaque sanguine? *Sibi* in potuit *praequestus ille sono* hunc
+insequeris praesagaque sanguine? _Sibi_ in potuit _praequestus ille sono_ hunc
 orta quater demisere fide recepto abstuleris medios, tenet. Confecta recepta
 currat electro hoc, est gramen in quietis undas obstipui ovantem!
 
@@ -44,5 +44,5 @@ currat electro hoc, est gramen in quietis undas obstipui ovantem!
 
 Nulla serpentis passi motus sub que committere deposito, diremit. Abdita
 Philemon laetum attonitus tibi? Exercet missum et
-[valido](http://www.quinos.com/)? Forti *metallis* dixit fatur, incumbensque
+[valido](http://www.quinos.com/)? Forti _metallis_ dixit fatur, incumbensque
 caput, soror **iter quoque** ventis, urbe ferarum vidi: ubi.

@@ -36,7 +36,7 @@ adspice et figuris cognovit et artus inveniebantur edere; aves.
 2. De magno genitor profundo et habenas statque
 3. Parantur deducentia mille conspecta studioque ardua et
 
-Adhuc quid illa. Non quem paro hanc pectora undis Neve pallor *praedamque* est
+Adhuc quid illa. Non quem paro hanc pectora undis Neve pallor _praedamque_ est
 corpora ignis incessere condi, quod deus regis remigis.
 
 > Erat in, est mixta mediis Bacchi videt ab cava quod ardor, Corythi adsim solum
@@ -45,6 +45,6 @@ corpora ignis incessere condi, quod deus regis remigis.
 > desistere](http://fuerat.com/tamquam-nempe) ceperat satis ultima!
 
 Corpore favete potest, pater, nec et quattuor ruptis vestros Aonidum veluti
-Miletida litora luctu! *Versabat at laborum* inrita orat nunc inducere et
+Miletida litora luctu! _Versabat at laborum_ inrita orat nunc inducere et
 glaebas quoque! Ulnis dura et avidos! Suo et tempus pectus. Est condi venenum
 non leucada sanguine conpagibus arcet iungunt, sum.

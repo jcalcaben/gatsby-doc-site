@@ -48,4 +48,4 @@ ponti.
 3. Si sed Alcyone iurgia
 
 Carpit et **incertam similis expertus** mente alas vultu, illo beati potest. Et
-sedit corpora, *ab a* per, cernit a terras procul.
+sedit corpora, _ab a_ per, cernit a terras procul.

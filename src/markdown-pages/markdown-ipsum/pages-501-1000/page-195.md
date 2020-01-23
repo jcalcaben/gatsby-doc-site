@@ -8,7 +8,7 @@ Lorem markdownum valvae, saepe morte. Ore manu!
 > more](http://mox.net/ibat-ne). Ramis Thaumantea quodque: regia bacchae
 > Parrhasio, dum est. **Gelidaeque fusus** agrestibus **abibo**.
 
-Metusque fuit, fecit ferit memorant nostris. *Summae aurea fuisset* et lecto
+Metusque fuit, fecit ferit memorant nostris. _Summae aurea fuisset_ et lecto
 consolante terram quinque sub rotae ora includit; coactus armenti et.
 
     avatar = compatible;
@@ -40,7 +40,7 @@ adiuvet in locis venit: aperire etiam?
 
 Ingemuit usus deae denegat ne inter clarique imagine: mirantur excessere faciem,
 fallor sed tenebat potentem; et arva. Fortunata sollertia est coniuge sumere;
-**saxa subiectas tamen**. Posses iam vero trifida *torpor*; tenebras teguntur
+**saxa subiectas tamen**. Posses iam vero trifida _torpor_; tenebras teguntur
 arte erit, quas flere Romule fugaeque sub ipse Eurydices sedemque
 [cautum](http://www.plaga.org/parsnec)! Quis Cypriae regnumque est **iubas**
 Ilion, aequo contra: has. Contra conscia Ianigenam viriles fauces, Pandione

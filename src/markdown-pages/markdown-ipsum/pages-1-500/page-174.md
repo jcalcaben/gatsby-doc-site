@@ -19,7 +19,7 @@ dedit](http://sucoque.com/causatur-deriguit.html) in.
 
 Humum **grata** nece dedit parentis, simul dolor meritis non saeva stellatus.
 Sinat fugientem, colentibus, caerula celebrabere verbis se arce pallentia? Si
-coloribus angustum habuit quondamque *Aiacem* oneris. Si amor, penates oculis
+coloribus angustum habuit quondamque _Aiacem_ oneris. Si amor, penates oculis
 ter non: Echo adiuvet, tua inter pectora fragmina. Surrexit Alcmena antro
 introrsus aquoso, succedere avus esse victricia pressos, decursa.
 
@@ -44,7 +44,7 @@ introrsus aquoso, succedere avus esse victricia pressos, decursa.
     }
 
 Dum cicuta fronte, et neque sollicitumque illic respiciens nobis deum hostiliter
-superstes in victus populo! Quibus pollice victa; *quidem auctor* aeterna quos.
+superstes in victus populo! Quibus pollice victa; _quidem auctor_ aeterna quos.
 Ferox imperat Daedalon colla: portaque fallere abeunt cumulumque Icelon, cum
 Troada, Baucis. Et mota. **Tenent ad** sortita scopulis, sermone indigenae sumus
 **sic nostris**; essem iram manum se **clamore**.
@@ -53,7 +53,7 @@ Troada, Baucis. Et mota. **Tenent ad** sortita scopulis, sermone indigenae sumus
 
 Quas expositum quippe lumina quam somnos tergo. Deum formae, veneni, oculos
 **Celadontis alto**. Haud loca viriles iuvat, umbrosum iacuit, simplicitas
-cernit, vult ego quid *cunctisque lentas*. Magis soli undas anguigenae,
+cernit, vult ego quid _cunctisque lentas_. Magis soli undas anguigenae,
 conparentis en sole, adultera auras [timenda erant](http://iste.com/): non aera
 deam, umbras.
 

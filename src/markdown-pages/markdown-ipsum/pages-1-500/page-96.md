@@ -18,8 +18,8 @@ tum, ego.
 
 Bibisset lumina, [pars](http://genus.com/) morari, Danaas, opus fide cecidit
 lentum. Sentit est aegros locuta cupido; fremebant geminaque Tellus: tantique,
-neque truncaeque, terrarumque gemmas corque; leto. Vultus pulsis *et nomen
-amabam* natisque coniunx robustior talibus ora nulli; exitus?
+neque truncaeque, terrarumque gemmas corque; leto. Vultus pulsis _et nomen
+amabam_ natisque coniunx robustior talibus ora nulli; exitus?
 
 - Ipse non optas conlapsus nuntiat bibit te
 - Capillis pectusque
@@ -30,7 +30,7 @@ amabam* natisque coniunx robustior talibus ora nulli; exitus?
 ## Nymphae eritque refert est qui se Iovis
 
 Tuis Phoebo habitusque pelagi et Tyriis profunda rexerat gerens est annis
-incoluit? Frontemque dixit de mirabere, *flamma ignotosque* solidae suadent qui
+incoluit? Frontemque dixit de mirabere, _flamma ignotosque_ solidae suadent qui
 falsum laesae armis quod illa locum regi ramis ab patruus. Quaerenti remorata
 avarae et humum ossibus ponderibus et possem sceleris viscera: esse ducimus
 [foribus quos locus](http://troas-priscosque.com/moenianeque) quoque successibus
@@ -42,11 +42,11 @@ Movit victa fallitur ara vidit duobus Arethusae tantos et merui albus dicit quae
 omine gaudete fauces castae perpetuo ignorat pensa. Deorum monet adsumptumque
 quorum caerula fulmen in pastoribus sepulcrum mixtoque montibus quae
 [fortis](http://doctas.org/) nece quae quattuor arma. Lignum puer vota primus
-neque non *arcus tetigit permulsit* favilla vocari terreris, inquinat ostendit,
+neque non _arcus tetigit permulsit_ favilla vocari terreris, inquinat ostendit,
 concorditer vitae pressum et. Movit flumina denique!
 
 > Error et ratione sinitis deieci Ericthonio Proteus Perseia spatiantia abesto
-> *glomeravit*. Fluminaque canibus cum. Heu quae misce, fuga ubi turbarat tamen,
+> _glomeravit_. Fluminaque canibus cum. Heu quae misce, fuga ubi turbarat tamen,
 > parva datum, annis vitreis corpore viribus origo. **Si dentemque requieverit**
 > hebes Hecateia **radice at** grave quas undas; mei via [premens simulat
 > proceres](http://aut.org/parum.html).

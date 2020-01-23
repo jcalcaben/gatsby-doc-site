@@ -2,8 +2,8 @@
 
 ## Regi semel tantum
 
-Lorem markdownum remansit tanta omnia: illo huic ignotum, diurnis! Ad *imitamine
-sua ut* flavae, pars et defecerat manu Myscelus communiter spectatae **faece
+Lorem markdownum remansit tanta omnia: illo huic ignotum, diurnis! Ad _imitamine
+sua ut_ flavae, pars et defecerat manu Myscelus communiter spectatae **faece
 locuta Thesea** vulneris. Alvum visaque aquilonibus annum essem ipsa non tulerat
 senemque, eo ultro te vultum.
 
@@ -26,14 +26,14 @@ senemque, eo ultro te vultum.
     }
 
 **Quamvis vidisset** suoque; figit nec mihi flumine quae. Quae urbs per,
-Iuventae una esse conferat. *Qui* nihil. Alimenta Neptune putes et socii ab
+Iuventae una esse conferat. _Qui_ nihil. Alimenta Neptune putes et socii ab
 tellus examinat putetis **convellere tibi**; lupi. Pro quam prima supplex nefas.
 
 ## Quisquis petiitque vertet
 
 Sensit unde longeque, opus arbor inpiger timor tinguit, membraque ardentem
 adspexit dabitur lustraverat hoc gurgite, e aethera. Reddit radice non
-spumantiaque inplicuit dominus, et domos nam *tecta* Phoeboque lapis.
+spumantiaque inplicuit dominus, et domos nam _tecta_ Phoeboque lapis.
 
     var broadband = num_up_mac;
     cron_optical.smtpPermalink(key(1 - middleware, minimize_overclocking_ddr,
@@ -50,6 +50,6 @@ nec **corporibus exemit premens**, e!
 
 Pugnae tempore. Tectus [Ceres](http://possentmi.org/solari) texit metuunt
 excipit, per mihi ille nunc, illa. Ventusve et hunc Mopsopium pennis
-*immaduisse* quae talibus fontes longoque sine, est Iovi dextris stratum? Decor
+_immaduisse_ quae talibus fontes longoque sine, est Iovi dextris stratum? Decor
 ruborem Teleste, certaque, et lapsu, te Delphosque,
 [terris](http://potentibus.net/pater.html)?

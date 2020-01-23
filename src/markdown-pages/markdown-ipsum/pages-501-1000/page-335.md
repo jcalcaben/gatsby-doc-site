@@ -3,7 +3,7 @@
 ## Ego quodcumque sit terra est incalfacit sed
 
 Lorem markdownum erat cui versantes **ad totas** alio viximus; tetigit dolor.
-Iovis vota sive sonti *hoc*. Perstat retia; rogat iam palluit! Sustulit
+Iovis vota sive sonti _hoc_. Perstat retia; rogat iam palluit! Sustulit
 constitit quid saepe pressit, **Medusaeo**, robore omnia; atque et tellure
 quaeritur ferrum.
 
@@ -17,13 +17,13 @@ quaeritur ferrum.
 ## Sua pectus
 
 Putes non fulmina, spondere! Hectoris tenet micantes florem. Non enim, iuvenem
-pelle; non horto *Semeleia* inpavidus, Philomela.
+pelle; non horto _Semeleia_ inpavidus, Philomela.
 
 Sequitur summam heres nodosaque [fratres
 avertitur](http://reruminfamataeque.org/), careat? Terga vectus manus, [sol
 et](http://angues-defendere.org/) umbrae, aut est [votorum
 nostraque](http://tollitnovenis.org/) si fama domestica tum est; monimenta?
-Luctatur cuspidis ubi illis nubibus aquis, enim aestu *est* ruitque.
+Luctatur cuspidis ubi illis nubibus aquis, enim aestu _est_ ruitque.
 
 1. Magis quod esse reliquit asello
 2. Dicet oblivia
@@ -44,6 +44,6 @@ flosque favorque stant, Mycenae tecta tanti, cruore certo.
 6. Ebur et Dianae
 
 Quo aversum, certe summa galeae Cinyreia congelat caeleste! Honor in quam
-vestram. Et si facta contigit *in comitum derecti* motus dona hunc, cum quam
+vestram. Et si facta contigit _in comitum derecti_ motus dona hunc, cum quam
 celebrare ingratum memorabat si. Videtur nec caelo continet Emathiis narratur
 quod praecepta pectusque quassasque vitae, nostris Sedit corpora non.

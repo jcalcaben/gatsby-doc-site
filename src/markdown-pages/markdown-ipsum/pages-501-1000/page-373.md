@@ -2,7 +2,7 @@
 
 ## Fatentis primo Marte et strepitum
 
-Lorem markdownum ait aliquid; ait ore *pictis* iamque imoque desideret tardior
+Lorem markdownum ait aliquid; ait ore _pictis_ iamque imoque desideret tardior
 pestiferos curis. Est supplex flatuque cervus pariterque monte. Debueram
 spargere, est nec mendosa aura, nunc aurae cum tu parentem manusque. Qua Cyllene
 insecti pulvinaribus ibat, fundere, sum populus arcus Minervae illa cadit
@@ -21,8 +21,8 @@ gignis, vicinia. Grandaevumque notus candor neque et, virentibus facit qui
 ## Senectae mihi urbes etiam per adhibet fortis
 
 Unus est, tenens **ira excepto**: tamen ille aptos, hoc carmina addenda clara
-agmine Acrisioneas. Virtus passis; nec numen luce victa? Tollere longum, *non
-flenti* pedes hinc sed, est! Leoni ad incalfacit
+agmine Acrisioneas. Virtus passis; nec numen luce victa? Tollere longum, _non
+flenti_ pedes hinc sed, est! Leoni ad incalfacit
 [potitur](http://valens.com/sic), mea pariter, sit per hic corpusque possumus
 pennas, in tibi; scelus. Exacta felix exequialia nonus partimque dicitur deas
 qua simul relevere Dicta pugnant illum.
@@ -50,9 +50,9 @@ thyrsos, sui nec fore hosti naturae, apertos motos.
 Est alte utilitas praetentaque Pergus saxea esse quamquam cunctis unum: addunt.
 Ument reddat, des leonis viribus: motu mea, ipsa caeli, mandata suos necopinum
 vices. Praesagaque viro per cecini; ego tellus **uritur** iuvat. Oves laetoque
-segetes referre, vulnere quae *aeacides*, de. Materia annis cum, *et* Phrygiae
+segetes referre, vulnere quae _aeacides_, de. Materia annis cum, _et_ Phrygiae
 finem, tot quis perdis de.
 
-Fatebor olim precibus *vias caede*, data temperat, repelli et quidem. Cruore
+Fatebor olim precibus _vias caede_, data temperat, repelli et quidem. Cruore
 ignemque medium: Sipylus Aeacus memori et herbas plura longa; sociasque
 messoris.

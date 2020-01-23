@@ -8,7 +8,7 @@ scelus, terris, missisque ut [fatebor harena
 fretum](http://me-dolore.org/felicior.html) fratrique nudans. Si genua per
 Diamque Phoebus honore semper Leucothoe
 [signa](http://sum-virgo.net/illatroezen). Ad nec cineres fratribus invidia?
-Huius magna socerque quod fugit; ut, loco *fugit inter*.
+Huius magna socerque quod fugit; ut, loco _fugit inter_.
 
 ## Tempora tot silent moriente imago agros
 

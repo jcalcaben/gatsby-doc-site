@@ -5,7 +5,7 @@
 Lorem markdownum audaces sociis ut cupiens bracchia in alter horrenda domos; sed
 sed. Aut moderere subito; cum [fuit repperit
 mixta](http://sermone-donec.com/consule) cadit, tum. Et dure! Et divum gramina
-viscera navigiis in divis *aetas volenti est*. Aether est verbis viribus iners
+viscera navigiis in divis _aetas volenti est_. Aether est verbis viribus iners
 viret Lavini, si ecce concepta ante portus **more virtute** nullo Laomedonteis.
 
 - Summo ingemit illo volutant mavult
@@ -24,10 +24,10 @@ hos sentite quid dei doleam, quoque natus, Arestoridae aethera. Alcyonen sexque
 flectitur semina trepidus: ales tamen hirsuti harenam.
 
 Nulla fore praetereo ferunt Scythiam Perseus veros ter tuis, armiferos, et
-posito cuncti. Haut et nec aut tuo macies vestigia ceperat quo *et sanguine*
-iacuere, subsedit *enim* infernas de abit. Cillan ut de densas, e nunc ad rebar
+posito cuncti. Haut et nec aut tuo macies vestigia ceperat quo _et sanguine_
+iacuere, subsedit _enim_ infernas de abit. Cillan ut de densas, e nunc ad rebar
 luctuque, si. Clivo tot: adlevet lapidoso recenti, eadem usque alta: turbatis me
-ignibus at fuitque puppimque claro! Amor lapidem, *crudelis dira numina* mortale
+ignibus at fuitque puppimque claro! Amor lapidem, _crudelis dira numina_ mortale
 toris exanimem in vittis satyri, totum vestem obiecit, et tantorum.
 
 ## Patria rupit dares stirpes fonti ad tamen

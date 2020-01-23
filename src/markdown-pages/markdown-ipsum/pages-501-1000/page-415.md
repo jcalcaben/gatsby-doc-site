@@ -3,7 +3,7 @@
 ## Nati subiectaque deum nescia
 
 Lorem markdownum illic pro de ante rite ora quam tempora aera; castra Mycenida.
-*Et* fors suspiciens licebit; tam quod officiumque carissime fortissime, cum
+_Et_ fors suspiciens licebit; tam quod officiumque carissime fortissime, cum
 caelo in modo erat **temperie**.
 
 1. Iaculo ubi monilia murmure fugit
@@ -51,7 +51,7 @@ Ponto mirabile.
 
 ## Vosque simul
 
-Tua inemptum *quasi*: gressus ante hic nuper tangendo, et pressit pronus et,
+Tua inemptum _quasi_: gressus ante hic nuper tangendo, et pressit pronus et,
 adulterium curat. Hunc sole dolores cornu lymphis exaestuat tantaque amoribus in
 sintque **tecto os murum**.
 

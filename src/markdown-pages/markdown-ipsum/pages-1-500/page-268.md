@@ -16,14 +16,14 @@ ille illa ne.
 ## Quae sua indicii tollere quoque habebimus comitum
 
 Ducebas in misit inpar triplex vitta rubenti corpore **noster**: auferat.
-*Quadripedis* sidera sic aversos lacertis *laqueis meditataque* vulnera pocula,
+_Quadripedis_ sidera sic aversos lacertis _laqueis meditataque_ vulnera pocula,
 est saligno **honore**!
 
 ## Unde montis
 
 Superata virisque prodere reverentia Priamides altus nemorum parentes crescendo
-hunc nexus, heu *et fuisset*. Erycis non omnis magna vitane successerat ipsa
-quoque *asperitas et dictis*, utuntur penna ubi quae.
+hunc nexus, heu _et fuisset_. Erycis non omnis magna vitane successerat ipsa
+quoque _asperitas et dictis_, utuntur penna ubi quae.
 
 ## Altaria mihi virtus meus humi chlamydem me
 

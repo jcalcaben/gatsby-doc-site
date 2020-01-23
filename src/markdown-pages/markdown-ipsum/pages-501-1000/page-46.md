@@ -11,7 +11,7 @@ Erectheus, nostrisque pavet.
 3. Ad moras Cadmeida illic
 4. Victa ecce flammis
 
-Esse quinque resumere volat obliquo miscet sinit et *robore* quam vestro deus,
+Esse quinque resumere volat obliquo miscet sinit et _robore_ quam vestro deus,
 in pariter praeside de saepe? In maiora non ut ventis ut posuere quam, nunc
 volentem locique auspiciis.
 

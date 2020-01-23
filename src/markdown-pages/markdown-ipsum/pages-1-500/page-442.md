@@ -7,7 +7,7 @@ fistula capiti verticis. Moderatius doctus quemquam petatur, contingere milite.
 Quoque Numicius turbine terga latoque per montes taurum turbarat, in rostro per
 caelum nocent ligavit Ciconum requiritur. Timor permanet cingebat in mentis
 postibus receptus et ira tibi relatis Hectoris quisquis. Lacrimis gemini in sede
-imitata ferit: eras *quorum et petit*.
+imitata ferit: eras _quorum et petit_.
 
 > Quas licet! Pulvinaribus hanc epytus flavae, arva terras, integer rotisque
 > parum tendentem medio, aure iunonis.
@@ -17,7 +17,7 @@ imitata ferit: eras *quorum et petit*.
 Ornant muneris. Viriles et canistris lumina domus frondes, cupido mercede iusta.
 Dum lecti ipse: vetus tanti, flammifera mihi tribus tenuit in cernere nam. Suo
 in studiumque **genero incubuit**, contraque corpora ferarum iubemur. Texerat
-limosoque aliae clauduntur; hic circa *exarserit*, obicit mihi sensit, pugnem
+limosoque aliae clauduntur; hic circa _exarserit_, obicit mihi sensit, pugnem
 **Achaidas**, terram est.
 
     ddlNative(matrix_pcb(ios, time_data, core.name_gis_mini(remote_ups,
@@ -39,13 +39,13 @@ limosoque aliae clauduntur; hic circa *exarserit*, obicit mihi sensit, pugnem
 
 ## Precor stagnum haesurum fidere Thybris Clanis socium
 
-Mensis *volatile* exasperat erant tibi, et et sacrataque nec est. Qua Diana
+Mensis _volatile_ exasperat erant tibi, et et sacrataque nec est. Qua Diana
 **incedit**? Ipse Paraetonium illud in busta Rutulum specta docebo madentis in
 Capaneusque caelum, fronte coniuge. De tamen.
 
 > Dulichiae Inoosque vulnus numquam pennarum, costis celsum, modo labentibus.
 > Maeret saepe invia virgo cortice tempora nequeo vosque, obscura dextra? Tibi
-> ausis ego, omnes suos erit Arcadis ab prodidit *illam*. Arcadiae confundere
+> ausis ego, omnes suos erit Arcadis ab prodidit _illam_. Arcadiae confundere
 > tot, pro ille est iustamque iamque, [ego cava Indis](http://munusad.io/), duo.
 
 ## Tamen Naryciamque regia resedit oculis dixerat messes
@@ -63,7 +63,7 @@ prosunt. Crepuscula fuerunt in pendent purpura te induerat novo mutando civibus
 4. Aurorae veteres maestissimus valens Adoni nymphae sonum
 5. Egimus adfligi consilioque media
 
-*Haud adiacet*. Heu vultus quamvis asper nec silvas flammas de ferre **sponda**,
+_Haud adiacet_. Heu vultus quamvis asper nec silvas flammas de ferre **sponda**,
 semicaper precibus avertit? Ubi est! Generis exosus hebes actis Meleagros
 parantur Perseus daulida, dea radice, Auroram concrevit cruorem supervenit
 vulnere, at ultima. Opem est atque deum Nessoque, adsumere [albentibus

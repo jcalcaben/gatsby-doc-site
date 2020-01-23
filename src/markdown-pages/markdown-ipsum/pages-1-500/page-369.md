@@ -11,15 +11,15 @@ Lorem markdownum quoque coloris miseri. Fertur et tenuere: tene e Diamque secus?
 ## Pallae prodere fuit tangere ceditque
 
 Minus animam **volucrisque recurvam clangore** simulat luctibus aurum? Me vel
-ovantem comitum circum mitem **satyri pictos hiemem** furiisque mihi, *erat*.
+ovantem comitum circum mitem **satyri pictos hiemem** furiisque mihi, _erat_.
 Quem volanti meos seque quamquam diffugiunt undas fui laqueosque spernite
 dimovit populisque saevo reluctanti aquas, est.
 
 Dixerat supremo! Ore diu heres cum aut laceranda haec terram: deus [volat
 Iuppiter](http://si-senectae.org/caput-ceram.html). Hauriret pariter linquit
 sunt diu membris stridore animumque, cornua noxia Abarin tibi pariter me vitam
-colonus, *quaerit*. Dummodo fallere nulli is umbra meas quacumque gradus visaque
-ferro. Annis cultis qua ipse prima puer Terea Pallas *inane virque* iuventam
+colonus, _quaerit_. Dummodo fallere nulli is umbra meas quacumque gradus visaque
+ferro. Annis cultis qua ipse prima puer Terea Pallas _inane virque_ iuventam
 pater saniemque luce: enim soror, tuetur me.
 
 ## Et mea locum umeris nitidum ardescunt auras

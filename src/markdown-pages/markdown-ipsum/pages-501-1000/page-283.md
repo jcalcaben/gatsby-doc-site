@@ -4,7 +4,7 @@
 
 Lorem markdownum flagrantem fila in statione animum victum ligat habenis; est si
 traherent, fortis habebat tamen. Non cessant cura, ad armaque tellure hosti
-regis figuris at Latona, erat cum *prodibant*! Quorum fortissimus pectore
+regis figuris at Latona, erat cum _prodibant_! Quorum fortissimus pectore
 perdere pugnantem pecus medicina territa velut prospicit virgo cruore
 exspectatas suae saucia est potiunda manus. Conspicuus in inque pervenit iuro
 quod, quos amor pampineae Iliaden, seu sequi, quaecumque.
@@ -48,7 +48,7 @@ Cumaea silvis, venerantur raptaque! Praesagaque urbes, repperit hinc afflatibus
 
 ## Vulnere gravitate utque
 
-Ithaco *declivibus* iam! Manu **digitis** refert sponte et *tum* quod harenis
+Ithaco _declivibus_ iam! Manu **digitis** refert sponte et _tum_ quod harenis
 animalia alter et occupat insultavere silva iuvencae. Purpureus aequantibus in
 et torpet ab gemmata tacuit hic nostra, ab **tinxit vincis** pulcherrima.
 

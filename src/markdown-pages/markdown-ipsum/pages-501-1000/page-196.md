@@ -8,9 +8,9 @@ perstat differt petunt, cedere inops albis. In arma ripam?
 
 Non vis! Vale **telas non squamis** protervas si addidit reddere Colcha, adest
 minas sacerdos equus domus decorata, ad? Feroces notavit, Aglauros pressa medios
-in siccat resolutaque premat niveis natum laniato *venerat ultimus*? Lampadibus
+in siccat resolutaque premat niveis natum laniato _venerat ultimus_? Lampadibus
 sub; ramos unda praestate, ubi loqui tristitiam clipeum putes. In haec nostram
-nondum inobservatus falsa data propiusque canes, *ieiunia*.
+nondum inobservatus falsa data propiusque canes, _ieiunia_.
 
 ## In aristis defendere mirabile ut tacito hectora
 
@@ -54,8 +54,8 @@ utque quem cum tum nomen tempore lacerum illa video precantia somnos solo.
 > Vigilans eque regoque, **urbem** inpubesque nosset dextra quantum mensae
 > finitimosque errante et fluctus Iovis egredior palmiferos mihi?
 
-Ut candore **silva** conspicuus auctor *Lyciaeque isto* puteisque per. Serpens
+Ut candore **silva** conspicuus auctor _Lyciaeque isto_ puteisque per. Serpens
 quo Delosque serpit alter indice Alcyone bracchia ut vultus nubilus Cinyphius
-[moenibus](http://niobe-sine.org/nec) erat Thracum, non? *Phrygum Cycnus
-quasque* monendo vestras: miserae hanc iussit: tum flumina coniunx antiquus
+[moenibus](http://niobe-sine.org/nec) erat Thracum, non? _Phrygum Cycnus
+quasque_ monendo vestras: miserae hanc iussit: tum flumina coniunx antiquus
 positoque avitum moderator tibi mollescit.

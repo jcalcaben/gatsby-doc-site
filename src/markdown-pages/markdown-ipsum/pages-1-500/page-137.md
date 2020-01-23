@@ -3,14 +3,14 @@
 ## Perveniunt coniuge caede Thespiades et citra frondibus
 
 Lorem markdownum enim numerandos verba famem palpitat praestatque animal risit.
-Murmur media gloria, notavit *truncat munere*; abit operiri collum feros
+Murmur media gloria, notavit _truncat munere_; abit operiri collum feros
 summoque calescit quercus, ipsa. Est illuc favete decertare, nunc parenti dei
 Procne fertur **effetus**. Exclamat a dolet moenia procul accedere pronaque
 indulgere, arma praebet vidit vetetve et rupta voluisse subit, sed Quid. Sua
 duorum quantaque iacent factum vulnere altera, nuda versum, exsul nota **vita**
 est tegi crura!
 
-Poenas verba exul, quid primum si et amorem *stolidas* si *texta* subii extis
+Poenas verba exul, quid primum si et amorem _stolidas_ si _texta_ subii extis
 gratia clangore levitate sinu cum. Malum sub nos utque opus Bisaltida Cyllenius
 potiturque dedit ubi populus enses avidas, illa se valvae. Fores primosque
 indignum Mysum, meis donis nostri onusque et spargimur silvas deprendimur queri,
@@ -29,8 +29,8 @@ quam. Ubi ducat ingens aetatem?
 
 ## Aliter fas caesaries noceat expellam ore expulsa
 
-Utilius fama ambiguis: debita est qui *seu pectoris* ille arma, Latonam superi
-aliquid. Flamina *senatus geminos*! Ne ad vulnus cedit, ad quondam et excedere
+Utilius fama ambiguis: debita est qui _seu pectoris_ ille arma, Latonam superi
+aliquid. Flamina _senatus geminos_! Ne ad vulnus cedit, ad quondam et excedere
 motis. Equi ver inquit manent tempore animi silices pependit.
 
 1. Et aureae protinus et
@@ -41,11 +41,11 @@ motis. Equi ver inquit manent tempore animi silices pependit.
 
 ## Spem auras spatium insistere pendens feriente
 
-Freta colebatur urbis adiciuntque factum mortis Stygiisque adveniet *semper
-colla ne* supplex Aeacus imago. In tua oculos **ungues ut** non instabat fuit,
+Freta colebatur urbis adiciuntque factum mortis Stygiisque adveniet _semper
+colla ne_ supplex Aeacus imago. In tua oculos **ungues ut** non instabat fuit,
 ora arcum sic colla locuturum Giganteo faciat. Terrae in, et ecquem conpescit
 potentia et habitabilis radicibus, pluvialibus. Phrygiae crater excita ortuque
-conata requieque *coetus* antra palmas robora est secutum fronde positaeque,
+conata requieque _coetus_ antra palmas robora est secutum fronde positaeque,
 piscem finita Martis aufert in.
 
     cell_soft_mask = bezel_pda_template - dialogMemoryNybble + skinPower +

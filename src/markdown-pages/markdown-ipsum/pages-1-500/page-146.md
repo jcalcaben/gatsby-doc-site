@@ -22,14 +22,14 @@ sed, quem. Illa et ab, deus stabat: utque **fistula Nessus pro** domus est.
 ## Achaidas Niobe exemploque et nocte eminus femina
 
 Nam quoque permansit Latinis credit, manibus Latialis Schoeneia concita. Non
-Aethiopum illa, pectoris praerupta fulvo. Aere et fratrem ripaeque *faveatque
-saucia* ore, confugisse luridus. Posset dum cum, verba. Quoque quod secutum.
+Aethiopum illa, pectoris praerupta fulvo. Aere et fratrem ripaeque _faveatque
+saucia_ ore, confugisse luridus. Posset dum cum, verba. Quoque quod secutum.
 
 Oculis cupidine hausi nubes fecundique quondam licet, ostro, vitae telae.
 Currere per currere chlamydem [Ulixem hora
 puellae](http://sanguine-verba.net/revulsumstetit) ipsos radice sequeretur
 dedit. Nec medius illum, [qui et](http://pio-inpetus.org/) patrem mihi militia
-percussit expositum animo. Veterum utrumque gerentes parentes *illa* data, modo
+percussit expositum animo. Veterum utrumque gerentes parentes _illa_ data, modo
 in prius.
 
     class_log(mediaSubdirectory);

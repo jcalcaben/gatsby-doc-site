@@ -3,7 +3,7 @@
 ## Medii ipsa mirabile dixit retorsit poenae contrahitur
 
 Lorem markdownum tenet pennaeque quod quaerit. Ad facit obstipuit terris vineta,
-tradit opposuitque viscera frondibus Thracesque nisi *volucrum hos interea*.
+tradit opposuitque viscera frondibus Thracesque nisi _volucrum hos interea_.
 Conantur ne spectare omnibus, diva cum ubi egi Myrrha urbem!
 
 - Fuga dum pectus
@@ -27,7 +27,7 @@ Ascaniumque coissent vertice praefertur?
 ## Arcus Phoebus credere
 
 Sublatus nocent Delosque tangeret crus ab in, serrae muta tardus quique
-supplentur bracchia movebatur utinam mea litora. Quamvis *Crantor animus*.
+supplentur bracchia movebatur utinam mea litora. Quamvis _Crantor animus_.
 Positis modum senior flere borean invidiosior sedit alimentaque uvis memorabile
 silvas.
 
@@ -36,6 +36,6 @@ silvas.
 3. Que nullum matrem
 4. Videri amo erat potiere sub flammis
 
-Necetur illis, ora gaudere, rursus ducit et **tigride** Creteque *mater in
-lasso* vidi. Tamquam sit funes ille corpus ferre habuit nimiumque ex iuvencae:
+Necetur illis, ora gaudere, rursus ducit et **tigride** Creteque _mater in
+lasso_ vidi. Tamquam sit funes ille corpus ferre habuit nimiumque ex iuvencae:
 vellem illuc tegumen?

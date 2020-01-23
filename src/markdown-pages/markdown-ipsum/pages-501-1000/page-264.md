@@ -4,8 +4,8 @@
 
 Lorem markdownum, per illa **fratrem diffudit capit** me mane **fide** artus
 tenent uti pariente regia. Metu cepit bibit derepta limina fuit scire aliis fida
-vagata laesi. Est aut innuba ipsae, in ineunt moderamine *tendens sic
-trepidantem* potest beatus. **Clamanti nulla** amplexusque, quae *dum*, ignem.
+vagata laesi. Est aut innuba ipsae, in ineunt moderamine _tendens sic
+trepidantem_ potest beatus. **Clamanti nulla** amplexusque, quae _dum_, ignem.
 Et ut Perseia hominum capellae?
 
 Viae deditque [pace disces](http://necin.io/in.html) forem; et fer, venenis o et

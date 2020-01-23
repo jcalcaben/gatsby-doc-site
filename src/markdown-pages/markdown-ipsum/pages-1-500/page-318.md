@@ -5,7 +5,7 @@
 Lorem markdownum magnique quorum: rabiemque custodia. Cervix et parat
 supereminet nostras anilem deos manuque quercus mittit tori urbes. Capillos
 litore: quam passim **fecerat**, soli sui nec situsque hospes in aures incepto
-capillis. Saxi haec posset: *si Atridae agitur* quatiebant enodisque
+capillis. Saxi haec posset: _si Atridae agitur_ quatiebant enodisque
 [modo](http://www.arduus.net/deusdolos.html) ignarum, satiatur in. Solque mihi
 aut intremuit sororque aede greges qui at **baculum inque**.
 
@@ -29,11 +29,11 @@ Mentis adhaesit. Umbra Baucisque? Quisque genus, domum cum torique facit flamma
 Parnasos ipse. [Dona](http://romani.io/radios) ergo simul, te maternis, es
 cumque sensere.
 
-Nubigenas mella; crevit ferar tenues si, vana *petii tuae*. Nepoti viae perimat
-Arachnes *priorum*; aequora erit credideris tibi! Habitanda non deum permanet et
+Nubigenas mella; crevit ferar tenues si, vana _petii tuae_. Nepoti viae perimat
+Arachnes _priorum_; aequora erit credideris tibi! Habitanda non deum permanet et
 dixit concita, mea qua funeribus sertis qui et. In facies cum enim
 [cum](http://telamoniadesingemis.org/orbum.html) divis tectam tum, Tigris
-quantum tecto caeso nostris *illis*, qua et extemplo. Armos dat uris totis grave
+quantum tecto caeso nostris _illis_, qua et extemplo. Armos dat uris totis grave
 fonti optatis exstinctum membra per: erat.
 
 Ferinos squalidus conbiberat montis Miletida morientia quae. Numerant illi

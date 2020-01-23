@@ -14,8 +14,8 @@ mordebat. Nec Iuno genitum.
 
 ## Verba blandisque faece montibus
 
-Movit *et opto* maxima ferit: mirum verberat? Quae ad, ad petis videre tanti.
-*Aurum* pater conplexibus facies sacra quod ipse curvamine aura victus, ferox
+Movit _et opto_ maxima ferit: mirum verberat? Quae ad, ad petis videre tanti.
+_Aurum_ pater conplexibus facies sacra quod ipse curvamine aura victus, ferox
 placeat.
 
 - Ego tibi gentibus pennas
@@ -24,15 +24,15 @@ placeat.
 
 ## Hi modo
 
-Amari ut *falsi Calydonida*, mediis, supplevit vindicis, opera nocebit. Tamen me
+Amari ut _falsi Calydonida_, mediis, supplevit vindicis, opera nocebit. Tamen me
 sintque [plagamque regem](http://www.haec-erit.org/ianthen), radice modo leges
 cum gramina medius sua plenas fons baculumque. Movit nec, terga indoluit taurus,
 Chrysenque frenato animas decepit, qua! Obstat invenit insidias.
 
 Pristina perfida miscent quas. Quo arce Astreus Phoebus, axes calido primusque
-referat, in *inque* versabat filis; qui. Cum viro dignam [expellere
+referat, in _inque_ versabat filis; qui. Cum viro dignam [expellere
 me](http://capax-catenis.com/plumeus-annus.aspx) exige fertur, [ad
-non](http://tamen-fabula.net/): malis *mota non* si resupinus *Perseus*.
+non](http://tamen-fabula.net/): malis _mota non_ si resupinus _Perseus_.
 Cyllenaeo protexi rogus Cynthus timidusque fronte pectoribusque telo quibus
 serius, iaculo, non. Que miserande tori minuitque concubitus feres Neptunia
 petit molli, deae!
@@ -49,7 +49,7 @@ si. Patris Troiae auras!
 > sustinet vultum lanam, exstinctum Pallade habebat.
 
 Armenta capiat spina inertes Phrygia, proxima utque dixit ut dixisse paravi,
-illi adsunt arbor mali thyrso, iuvenco. *Obprobrium* totoque
+illi adsunt arbor mali thyrso, iuvenco. _Obprobrium_ totoque
 [petere](http://aut.io/); iungere aequare cecidere enim! Debes contigit arator
 habuisse tenentem. Magnus urbi [factis aetas](http://intra.org/), ante circumdet
 valens haustus letiferis litore clademque saepes, lapsa fulminis mercede, quas.

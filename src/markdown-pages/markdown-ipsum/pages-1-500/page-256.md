@@ -5,7 +5,7 @@
 Lorem markdownum ducitur. **Ovi pari** Minyeides certe ignis credunt ista,
 nequeo, ore extrema stat mortalia, dure et. Patuit pone ambo, vino parte deus
 Iovem, et sacroque cum io est aura artisque lactentem habitavit Dorylas;
-mutilatae. Accepto vertice, *vates*: parvo vero, modo erat!
+mutilatae. Accepto vertice, _vates_: parvo vero, modo erat!
 
     searchIpadLogic = exploitRegular;
     unc(87 + definition + virus, hardening_tag, quad);
@@ -20,7 +20,7 @@ Sine [terris caede cum](http://www.portabat-deo.io/) orbem delusum;
 nepotis. Requiem protinus videndo et hausit fecit dixit emittitque tamen enim
 [veniam](http://abesserequirenti.io/ipse.aspx) et, aera nec. **Obscurus
 fessusque refluum** vultum; lata mox modo sensit titulum iuvabat est scopulo
-dici undis! Iubae tua *finire*? Cupit quoque tumor remotam solutis.
+dici undis! Iubae tua _finire_? Cupit quoque tumor remotam solutis.
 
     veronica = hoc_desktop + bankruptcySampleTorrent;
     trackback_social.petabyte = -1;
@@ -52,7 +52,7 @@ omnes caelo, ad?
 Post saxo sacrilegi sumus quas copia, adhuc, [mea
 exstant](http://de-anno.net/authuc.html) litora. Ac magnorum nostris accipiam
 taedia recursus leviter, arces me, quo me habenti, ipso. Et causamque adventu
-toto foramina spinas ope, si quem atra *exspectare*; Troiae dextraeque subduxit
+toto foramina spinas ope, si quem atra _exspectare_; Troiae dextraeque subduxit
 fuit nihil [meus](http://laetitiamlabens.com/antesaecula.aspx). Timoli iamque:
 feroces a ut deus venit, est tectus, erat dentibus. Dictys et amnis adversum, et
 hastam potuit morte pectora [in](http://minus-perque.org/atquesubit) Primus

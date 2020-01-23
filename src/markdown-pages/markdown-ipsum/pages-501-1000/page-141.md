@@ -2,7 +2,7 @@
 
 ## Nec picta feritate lacrimis feris
 
-Lorem markdownum puto: spreto quam nec, una ferebat *lacus*. Per **nato** umbras
+Lorem markdownum puto: spreto quam nec, una ferebat _lacus_. Per **nato** umbras
 [laetaris debuit](http://camenaefatalis.org/namculpa), qui [tenet
 germanae](http://nefas.io/agnae.html) avumque stamen resupina.
 
@@ -25,9 +25,9 @@ Cycnum.
 ## Cum aer
 
 Sine non, erat suum caput fronte, Iphis ventis, pallidiora. O bimarem gerit eras
-petis; deque *fera* auctorem [posset visceribus morte](http://rex.com/) adamante
-sumitur ibat. Moles cernentem arte spinis annos ales, quod cum invenit *de
-iuvene lacertosi* suspicor auspicio.
+petis; deque _fera_ auctorem [posset visceribus morte](http://rex.com/) adamante
+sumitur ibat. Moles cernentem arte spinis annos ales, quod cum invenit _de
+iuvene lacertosi_ suspicor auspicio.
 
 1. Tulit est vicisti tibi
 2. Aut gruem
@@ -37,7 +37,7 @@ Se dextera ducem reliquit coniunx aura fixa adhuc tamen resumpta vetustos?
 Gravis sed est Eurystheus olim: tota fortuna. Erat proxima, equo, admovet in
 ardua, in ille. Miles sit [aequore](http://www.etquid.io/fateamur) partimque
 oracula mecum vocesque freto. Ad vocis Liberfemineae ipsam Abantiades arte
-herbae culpae, quoque, *asper cumque* referebat ille annos haec sunt ille!
+herbae culpae, quoque, _asper cumque_ referebat ille annos haec sunt ille!
 
 - Venit confinia arcum et quamvis longi tui
 - Est sibi sententia orbi montano texta siccata
@@ -47,7 +47,7 @@ herbae culpae, quoque, *asper cumque* referebat ille annos haec sunt ille!
 - Regina restitit quoque de erat
 
 Undis invectae, et redeunt deinde: et refers ista omnes sententia dives post
-nunc pars *carmina* intrat lumen tutus. Citharae et utque quo, ad haut. Lumina
+nunc pars _carmina_ intrat lumen tutus. Citharae et utque quo, ad haut. Lumina
 ad umentes **solutis** cerae pariter luctu in niveis isdem funera agmina post
 extremae defenditur sedem. Telephon lacertis Perseus est bracchia diu. Agros
 recalfecit tamen.

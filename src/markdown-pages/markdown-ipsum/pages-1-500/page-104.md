@@ -2,10 +2,10 @@
 
 ## Loco ex Cecropidum fratres tura silices
 
-Lorem *markdownum caelestibus siqua* nobiliumque **orbem** lympha manibus qui.
+Lorem _markdownum caelestibus siqua_ nobiliumque **orbem** lympha manibus qui.
 Eadem perque fores est iuvencae venit Medusae
 [ulcisci](http://aurasflumina.net/), capillis mensura marcida diuque. Conceptas
-Minoa manuque hominum *praeter* curae alumnae, sonus quoque se Macareus ferunt
+Minoa manuque hominum _praeter_ curae alumnae, sonus quoque se Macareus ferunt
 dixit quo iura. Refugit insula operire omnis.
 
     var unicode = 4;
@@ -45,4 +45,4 @@ nec fulvo, album plumis divus, mirum!
 
 Argolicas nec cannae dat parte quoque me premens dicite; fiducia, utiliter quos
 meruisse! Gentem continuere virgo, dum adhibete sensibus lingua celer patria
-*non*.
+_non_.

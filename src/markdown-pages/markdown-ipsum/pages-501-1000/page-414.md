@@ -32,7 +32,7 @@ veteremque habuere colloque est ubi umbrosa veluti perpetuum Peneide.
 
 ## Non in haec potentia quam
 
-Erat est *si locum pendere* longusque sacra qua est suum, omnem quaerentes saepe
+Erat est _si locum pendere_ longusque sacra qua est suum, omnem quaerentes saepe
 dare montibus magna cumulum mutavit. Amaris Tartara: mellis sub ex est nubes
 optima adlabimur dixit, poma. Construit sede sceptrum petentem ignibus roganti
 ter iuga, populique, flammiferas erexit aut?
@@ -56,8 +56,8 @@ ter iuga, populique, flammiferas erexit aut?
 
 ## Liceret auditurum formam laevo oris ego sub
 
-Quoque rates artus est mihi! Dat illa concordi, *tecta* potentior deseruit vivum
-mortalia certe, sinus *Saturnius hausit tetigit*, libandas. Et deciperetur
+Quoque rates artus est mihi! Dat illa concordi, _tecta_ potentior deseruit vivum
+mortalia certe, sinus _Saturnius hausit tetigit_, libandas. Et deciperetur
 miscent longe Charybdin bracchia saepe vel nec,
 [plura](http://www.nervo.org/exerces.html) trepidans? Rumpo monimenta Sabaea
 numina inserit utque! Totaque audet sive magni in equi sua peregrinum temptantes

@@ -5,10 +5,10 @@
 Lorem markdownum servatrix passis quaeque quoque, Pelion Minervam dedit,
 paulatim fontes crediderim vertere in illis caesique est. Narrat flectebat circo
 abunde porrigar: visa qua adloquitur sequitur ferit, **in** fuerat. Adsistere
-viri neci successu, *nec mater lumina* haec sola exitioque rursus et Dianae;
+viri neci successu, _nec mater lumina_ haec sola exitioque rursus et Dianae;
 Paridis. Nece videndum equis iam mutata est in esse fallacia iubet, et iacent in
-comas parte. Non **tela nec de** rege tum intremuere facies *mihi orbem
-sequuntur* Hippolytum mentita invidiosus omnibus dixit es.
+comas parte. Non **tela nec de** rege tum intremuere facies _mihi orbem
+sequuntur_ Hippolytum mentita invidiosus omnibus dixit es.
 
 Iuvenis optaris vidit Lampetie siquid longaeque secutus cur. Ille quem paribus
 caput populusque nigra: magna deos, tota. Veluti conchas venientia, quippe
@@ -18,16 +18,16 @@ volucres austro.
 
 ## Sub et
 
-Venit quod ita generosque ardor fugienti chelydri aliter! *Cumque turis quis*
+Venit quod ita generosque ardor fugienti chelydri aliter! _Cumque turis quis_
 columbas, in vox me possent tollens, corpora. **E omnibus latos** et facta
 quercus, in nisi quoque, humano, par ut iuvenes ultima. Querellis Amyntor ument
 stipulis frustra, ac **numine**.
 
 ## Mores per vires nullus digitos
 
-Medeatur nostro Ixione carinae Carthaea et plura sequuntur sagittis ut? *Infans*
+Medeatur nostro Ixione carinae Carthaea et plura sequuntur sagittis ut? _Infans_
 cornua Dianae, pervenit rudentes suus mora tumulum gravis reparabile! Valeo
-fronti venit tangit nomen liceret. *Et aut amplectitur* velox, clausa tenet
+fronti venit tangit nomen liceret. _Et aut amplectitur_ velox, clausa tenet
 voracior adgnovitque meae?
 
 ## Infelix Iovi

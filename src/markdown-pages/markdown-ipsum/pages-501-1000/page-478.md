@@ -35,7 +35,7 @@ Bellona verba. Terramque dixit, quoque, viribus datque, quod.
 Diva quis, velit ignibus mei putat ambos sola primoque; fugamque, est livent
 tecta aras erroribus celebrare. Tergo ira fecit oraque, est cuncta Echion non
 tenera tegminis Idaeis praepetibus? Fata frigore est misit latere equas, nodis
-Palilibus ventoque. Iuli et *oculos*, ut puppes vestes, tenebris?
+Palilibus ventoque. Iuli et _oculos_, ut puppes vestes, tenebris?
 
-*Acumine Ecce* evitata tetigit quoque *pro tenet bella* carpis ad caput.
+_Acumine Ecce_ evitata tetigit quoque _pro tenet bella_ carpis ad caput.
 Inmensos **aeternum** facinusque in dubio paternis vidistis tamen.

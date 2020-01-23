@@ -4,7 +4,7 @@
 
 Lorem markdownum inplent inexperrectus vix diversa, fugit carmen serpentis illi.
 Iuvabat spernimus habet habebatur levat frontis, rigidas qui Iliaden famulosque
-magis, quia fecit *tamquam et* manet *advolat gradibus*. Temptat omnibus! Ingens
+magis, quia fecit _tamquam et_ manet _advolat gradibus_. Temptat omnibus! Ingens
 tua daret cernenda, inque ipsa timentia lavere est os descendunt in dies quid
 pignora. Totum fonte, arva tamen dea fluctus erat emicuit, et perdidimus marmore
 locum divesque.
@@ -36,7 +36,7 @@ litore](http://www.loca.net/) ea tanti ab vellere atque.
 
 ## Quem voce putat nimium luctu
 
-Corpora Indigetem obliquis dum Iliaden bibit iniustaque cristae. Si *redde*,
+Corpora Indigetem obliquis dum Iliaden bibit iniustaque cristae. Si _redde_,
 Aurora nunc ter sereno. Cunctos aeris separat **flamma crepitantia legi** corque
 sunt moribundo decurrere: attulit ambiguis. Troica se nata artis videres cultis?
 

@@ -14,7 +14,7 @@ fiunt nam lanificae latus penetralia; fontes ultimus contigit.
 
 Domui potuit sociam, [sit](http://possisonus.io/fugerequiescit) Aethiopesque
 fulgentem fratrisque anus. Dictae ignea atros et fatidicus imbres Talia
-*conexis* Phaethon. Quod nihil mutanda, arcus artis loqui, sinunt adest defecta
+_conexis_ Phaethon. Quod nihil mutanda, arcus artis loqui, sinunt adest defecta
 nullumque natisque cognitus Troiaeque corpore?
 
     var vduFlash = openIscsi;
@@ -32,22 +32,22 @@ nullumque natisque cognitus Troiaeque corpore?
 ## Est pectore quaedam efficiet cuncta
 
 Aevis inmitibus, **fronde** aras contenta Anius volentem admoveam; auso! Aurea
-utque praemia satum perfudit damna, clara! Hasta hunc mediaque *ambiguo posse*
-et *sola* fatigat hoc domino. Artes eat geminata igne. Nec lege sicut culpae:
+utque praemia satum perfudit damna, clara! Hasta hunc mediaque _ambiguo posse_
+et _sola_ fatigat hoc domino. Artes eat geminata igne. Nec lege sicut culpae:
 tangat in momordi tantum videtur ordine: pugnae thalamos?
 
 Sermonibus aquis Hesperidas vultibus [rara](http://talia.com/anguicomae.html)
 exit et Pisaeae videre pugno quoniam, est nescis partem ignoscere. Est ira,
-valetque, supremaque disque exegit, porrexit magnoque; planus. *Apri habet
-citis* creatus pugnatum cuspide **chlamydem**, sua, de misit laqueique vittam.
-Auctoribus indigenis Romethiumque hunc, dum aduncum suis, legi *quo*; versa
+valetque, supremaque disque exegit, porrexit magnoque; planus. _Apri habet
+citis_ creatus pugnatum cuspide **chlamydem**, sua, de misit laqueique vittam.
+Auctoribus indigenis Romethiumque hunc, dum aduncum suis, legi _quo_; versa
 medio Teleste.
 
 ## A pudorem sine vidit sonat
 
 Dolebat viae, o convicia, solet veneni quid [mater](http://noscitest.com/deum),
 an! Patria e passum secuti. Tamen nusquam: puta obliquo neque Nepheleidos
-**fretum paludes**: linguam. *Certe quid* aere sacra gelidos veniat calidoque
+**fretum paludes**: linguam. _Certe quid_ aere sacra gelidos veniat calidoque
 plura cum a claviger dixit sub et.
 
 1. Ferasque sine audire

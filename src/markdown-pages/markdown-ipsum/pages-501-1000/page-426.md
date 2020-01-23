@@ -42,7 +42,7 @@ inter, iuvenis revolutaque. Et poscat, miserabile me
 viscera, cum filia quam tamen; ergo mori Nam confusaque
 [operum](http://www.collo.io/et.aspx) tremuisse.
 
-Siquid *hanc est*; saxa et Peleus se munere veniunt, et vulnus, me rerum. Ut tum
+Siquid _hanc est_; saxa et Peleus se munere veniunt, et vulnus, me rerum. Ut tum
 idque lacrimae Rhamnusia, sub, quae ars ille, fera in.
 
 ## Utrumque Cycnus a cucurri guttas sic verba
@@ -60,7 +60,7 @@ praecipiunt vinoque Caesareos via terra pignus in tanti, Marmaridae ab.
 
 Argolis levius successu quanta auras descendere locum pelago. Auditque linguam
 quam bonis **funera**: potius prece riget esse. Vocis Drya, [est
-ignibus](http://loqui.com/) fingi, *et sanior mandabat* nihil ambigui. [Quod
+ignibus](http://loqui.com/) fingi, _et sanior mandabat_ nihil ambigui. [Quod
 sepulcro](http://www.alis-sicut.net/) equorum notata ore.
 
 Et flecti et Lyncestius mensae crura pietas Aeacidae Hippalmon Delonque, trahi.

@@ -11,8 +11,8 @@ candidaque** sola Anaxareten vos. Est causam Sparte!
 > aequore** praeferret ait currus bulla terraque et modo carina fletque dedit
 > Aesonides stellas Herse.
 
-Caenis et *amor excipit* turpis sub, pecori moenia? In alumni laeva. Facies
-cruorem et neque. Scite ut pedibus Narcissum volucrem expulsa *terras*: corpora
+Caenis et _amor excipit_ turpis sub, pecori moenia? In alumni laeva. Facies
+cruorem et neque. Scite ut pedibus Narcissum volucrem expulsa _terras_: corpora
 afflatibus mihi, dant pascere, est perstant ignibus. Ulterius et tum precor
 admissi monet, omnibus mundo monendo: est Cnosiacaeque suos.
 
@@ -24,11 +24,11 @@ admissi monet, omnibus mundo monendo: est Cnosiacaeque suos.
 ## Inachus maluit de licet petit situs mutare
 
 Magnae artus Anapis adspice modo, cum se fratremque moratos credas et alis
-meritorum poteram. Membra aderat socias diversa esse, bidentum *agros*. Lapis
+meritorum poteram. Membra aderat socias diversa esse, bidentum _agros_. Lapis
 dare Laconide frustra quondam. Corpus arva opibusque munus comes augere similes
-operisque ursaque, robur haerent, nefas *cernitis* valerem.
+operisque ursaque, robur haerent, nefas _cernitis_ valerem.
 
-Turbae inbellemque erat. Dicto hunc, matura nymphae longo: qua *tener* dissipat
+Turbae inbellemque erat. Dicto hunc, matura nymphae longo: qua _tener_ dissipat
 rapuere Chromin, quae en hoc natisque, fas.
 
 Canis et Cinyran [ardore](http://non.net/duce) scopulis vocem pauca rupit. Lina
@@ -43,7 +43,7 @@ margine quo velut; terras Erytum virgo conicit
 
 Egit reddere vocari virides, crimen est et non habentem alta. Nimium tempora
 fatigant nec, [sternis](http://aurea.com/et-illis) vel lumina haerent voce
-*licet*: pectore. Dum Itys et sextae fames, fuit situ rogari nigrantis fessam
+_licet_: pectore. Dum Itys et sextae fames, fuit situ rogari nigrantis fessam
 Boote mane adduntque mitis; [huic licet](http://www.amor-quondam.org/tempus)
 telis Argosque. Hic dictis latet nata crudus dat iugalibus sequitur fata tamen
 aura: plebi mihi post maribus. Vimque gentis clara.

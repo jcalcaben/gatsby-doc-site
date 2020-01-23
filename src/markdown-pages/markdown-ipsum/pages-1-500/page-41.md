@@ -5,7 +5,7 @@
 Lorem markdownum turbae dixit Lavini portusque novis. Lingua arvo facta haurit
 novissima lacrimas [chaos erat cinctaeque](http://www.fixa-signa.org/), uva atri
 reddere consequitur artes in. Laterique annus pronepos Thessala ostendens
-memoraverit eadem telum cremabo mollit; pennis maior *sic quos* putat volucres
+memoraverit eadem telum cremabo mollit; pennis maior _sic quos_ putat volucres
 feres. Nomine palustris ultor. Crimen quem coepit pennis fuit ius dixit.
 
     var webCompileExif = printerCut + technology.font(layout(403882, namespace),
@@ -29,7 +29,7 @@ feres. Nomine palustris ultor. Crimen quem coepit pennis fuit ius dixit.
 ## Saecula sponte
 
 Et tempora Alcmene, nigrescere longius magno spem murmur fugiant. Longaque
-*Graiumque proles* Phoebus vult intima, stirpe Athin frugum, Tiresiae
+_Graiumque proles_ Phoebus vult intima, stirpe Athin frugum, Tiresiae
 [geminique](http://residuntministros.com/sednon.html) et laudant flammas argento
 amoris dulcique. Abstitimus et, iura legit nec mugitibus vindicta permaturuit
 facit crescere violaverat interque quod! Sim fixis suo ense ignibus stupri

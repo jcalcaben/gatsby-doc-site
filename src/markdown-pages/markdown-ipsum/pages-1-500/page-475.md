@@ -12,7 +12,7 @@ neve quam, qui nisi utroque medio paulatim patriaeque?
 5. Purpureus habet poposcerit etiam
 6. Audete et utraque fronti per cum memorantur
 
-Filia fulgura lingua; quidem, sum *et natis*, deprensa ad ego retinens ego
+Filia fulgura lingua; quidem, sum _et natis_, deprensa ad ego retinens ego
 somnus, crede et. Est novaeque excutiant micantes penna ingreditur, dixerat
 furores Alemoniden iam extemplo omnes Ericthonium tellusque exacta ipsa curvum
 praemia!
@@ -24,7 +24,7 @@ Priamus subit; undas. Agebat atque utroque religatam ore latos negarunt iactata
 ad silvas mortis amantis, ne pronos concordia caelesti. Populi tibi, vulnera
 atra vos caede, spectare in foedat Hesperiae, fines?
 
-*Tanto pectora* iamdudum. Tum ne partu.
+_Tanto pectora_ iamdudum. Tum ne partu.
 
     soap_development_executable(extranetIcmp, memory_boot.piracy_power_x.midi(
             cpc.server(symbolic, iphone, signature_wavelength),
@@ -35,17 +35,17 @@ atra vos caede, spectare in foedat Hesperiae, fines?
 
 ## Est est iubebat utrumque
 
-Premebat *criminis fuerant* umbras questuque rettulit, loca mundo gradus iactu
-regnum suos cum! Ferro est. Nequiquam *candida*, demit petitos pulmonibus
+Premebat _criminis fuerant_ umbras questuque rettulit, loca mundo gradus iactu
+regnum suos cum! Ferro est. Nequiquam _candida_, demit petitos pulmonibus
 solitus Tritonia, caluere aer adducor utinam tanta non. Te hostem putes, iussa
-inexperrectus volat cedunt *obstipuit* pater, tum perdere cauda longum
+inexperrectus volat cedunt _obstipuit_ pater, tum perdere cauda longum
 Gangesque? Vagantur **viri Cinyra** capulo modo protinus si terra perque saevis
 Gangesque.
 
 Vulnere [quoque et clamantia](http://sicaniam-bracchiaque.net/) atque seductaque
 erat centum, at, amor [rogant omnis urbem](http://neque.com/sororead) oculos
 accipimus. Iactanti orbi, Procnen veteris, res et copia marito aether forte agit
-*qui*, tui mensis. Et eras Cephalum: poma qua pelagi progenies penates:
+_qui_, tui mensis. Et eras Cephalum: poma qua pelagi progenies penates:
 [Mercurium amici](http://gutture.com/caucason) dextra tinnulaque Cycni capientur
 ingens finge. Dignatus et, carmen eram maxima praestet volantem pietas attonitas
 illis virginitate.

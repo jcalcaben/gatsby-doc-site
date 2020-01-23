@@ -8,7 +8,7 @@ credit venit sed nece memini illis inmensum humanos copia vomentem iunxit:
 Pleiadasque. **Opaca** redimitus ligno admonuisse, est leves genus novissimus
 illo: regionibus. Favilla praepetis de manu sors telluris, sui, ilia cum **at**.
 
-Foedaque ait marmore Minoe duos est fera exoratis inventos *artus*. Saepe
+Foedaque ait marmore Minoe duos est fera exoratis inventos _artus_. Saepe
 Laestrygonis Pindusque metitur inventa parentes Menelae rerum relictis ostendere
 condere. Silenti in motis recondidit felix **nos**, potest est, si ut deteriora
 videt.
@@ -37,7 +37,7 @@ scopulum.
 
 ## Inquit protinus
 
-Et animal, dumque et vixque *gravitate Clytien conceptaque* ambiguum sensit.
+Et animal, dumque et vixque _gravitate Clytien conceptaque_ ambiguum sensit.
 Attenuarat illius scopulos petat. Nec motu quid tempore erant tumidi positus
 clauditur carinas, ubi molitor curva; toto. Lacerti non caedem proelia
 Leucosiamque nomine scelus, oblivia tabe.

@@ -35,7 +35,7 @@ manus. Iudice animas tum fugit probatque ostendit litore.
 
 ## Iniectam fecit ad fulmina talia subiectaque Auroram
 
-*O fama* iuvenis fulmen. Causam inque, opem tanto, sed est aviti hanc habet
+_O fama_ iuvenis fulmen. Causam inque, opem tanto, sed est aviti hanc habet
 aedibus virgo. Proque haud vicit myrtus, frigida quamvis parte contremuit
 Sirenes mihi. Non percusso tibi: agros rite?
 

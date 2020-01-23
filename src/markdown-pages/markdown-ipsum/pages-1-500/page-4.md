@@ -3,7 +3,7 @@
 ## Nec mixtus
 
 Lorem markdownum salutet officio. Spectentque licet conveniant levi solebat ubi
-vincere virgine terrena dolorem varius *natus* tamen corpus avidi rebus, et.
+vincere virgine terrena dolorem varius _natus_ tamen corpus avidi rebus, et.
 Duris in columbas habuere. Angulus parenti praedelassat conclamat petam
 pariterque moenia. Dextra at precibus filia bellum ignibus; protervis
 tunicasque, postera miscet iustissime.
@@ -18,7 +18,7 @@ Stabiasque silet, concuteret! Iacent Calaureae ferit.
 
 ## Verba venatrixque toto Tmolus Sipylus honorem luctus
 
-Cum *aetas*, non tibi **edidit super** deerit medium sentirent, iacebitis Somni
+Cum _aetas_, non tibi **edidit super** deerit medium sentirent, iacebitis Somni
 insuperabile ausa tulerit. Deus me arcus reddidit Acheloe: voce inquit,
 inhaerentem Nestora tantum mellis. Troiaeque usque; et sceleris virgo: et facta
 cautes lunae Phoebo resonant. Et exierat halitus trabes cohibentem plumbum, nec
@@ -29,7 +29,7 @@ Duxerat Cytherea: tangeret duarum et **ignavi** canis haec sed et dum medio
 timidas nostras pulsant bidentum. Quisquis pressus, conplentur Athos temptasse
 pretium Ciconumque quantum mater et a quidem erat Lapitheia guttis omnis decolor
 ostendit mutarent? Cardine altaria gaudet, timorem a suarum effudit, praedam
-intraque maius in viator *nomen gestu*. Sepulcris ante est pectusque
+intraque maius in viator _nomen gestu_. Sepulcris ante est pectusque
 **bracchia**?
 
 - Arvo erat distinctus sidera nubilaque pavidam blanditiis

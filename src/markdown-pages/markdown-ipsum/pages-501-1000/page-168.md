@@ -31,7 +31,7 @@ iste. Fidem ille tegminis ille carae, Acheloiadumque sacrum; vestem.
 
 ## Suo scelus
 
-Facta luctus curvos sit vitam *citra dixit* salix nulla nostro? Non dat puerpera
+Facta luctus curvos sit vitam _citra dixit_ salix nulla nostro? Non dat puerpera
 surge agmina proxima optime sidereos extrema Baucida, quam putat indoluit.
 Perfida suum sub vincemus nomen dubium: pollice illa non mensis. Rursus
 turbineo. Piasque diu fabrae talibus victam, sequentes, et et, mihi bella
@@ -44,5 +44,5 @@ Peleus: quo. Cuspis ululatus Syringa dubie, materque in honorum in vera
 madefecit collo. Noctes inermis collo discordemque
 [quidem](http://restet.io/venitque) an poena innabilis aspice pedem!
 
-Cui inmemores carinae? E amores *anilem*. Puer venatum oppressit excusat,
+Cui inmemores carinae? E amores _anilem_. Puer venatum oppressit excusat,
 flammamque neque terraeque illuc, fuit tulit Eueninae imponit posset?

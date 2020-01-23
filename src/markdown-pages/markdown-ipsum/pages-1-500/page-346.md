@@ -11,8 +11,8 @@ agmen inde dixit si alas putant Illa?
 Est rogat frenisque novat puerilibus Ciconum, quid, missi Solis. Umbra et mora
 et fronti exstinctos iactantur omnia ingrati veteres, ipsa palles harundine
 populo nudaque alis. Ne quem audacissimus excedere munere dabat quamvis ignibus
-aestibus [tua insidiosa inscribenda](http://www.austro-via.io/) me hinc, *ora
-tegit* diurnos confudit; nil. Aonias sunt, aut avara letalibus maior tamen, ne
+aestibus [tua insidiosa inscribenda](http://www.austro-via.io/) me hinc, _ora
+tegit_ diurnos confudit; nil. Aonias sunt, aut avara letalibus maior tamen, ne
 tergaque casus in thalamos caesumque? Tellus precor quam etiam oscula, limite,
 poeniceas dominum tyranni.
 
@@ -45,9 +45,9 @@ nato ter? Pendet resupino magna. Animam maius umbras furibunda hic guttae Mopsus
 pendentiaque rebar dentibus maesto iubet primas, et coniuge longe!
 
 Nitidum nulla, manu, cum, est hora esse tectis adulterium autumnos Aeneadae, vix
-forte quae aberat sanguinis! Sine telo tulit, onerataque fugiens *per* solvit
+forte quae aberat sanguinis! Sine telo tulit, onerataque fugiens _per_ solvit
 fronte naufraga coloque.
 
 Innixus torique tetigere; et caede: munere cita saevit fugiensque **calentes
 sibi cum**! Qui **tu dixit** sanguine denique pectora corpore, ab neu. Certans
-nemorale, fumabant conantur venae sed nunc feritatis et *dixit removit*.
+nemorale, fumabant conantur venae sed nunc feritatis et _dixit removit_.

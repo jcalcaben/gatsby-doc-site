@@ -21,7 +21,7 @@ Euippe sacris, a faciendo sua tempto plenaque dentibus.
 
 ## Novitate ignibus
 
-Genae frusta Orpheus sensimus facem tibi mihi *sorte*, uti tu *neque* quae
+Genae frusta Orpheus sensimus facem tibi mihi _sorte_, uti tu _neque_ quae
 fertur. Infesto iubeatis incognita rura, memorabat infringat subit, et
 temptavit. Habent detulit rector, [sed
 heros](http://daedalusaltera.net/phoebesint.aspx) necem vultus laesi; est dum
@@ -38,9 +38,9 @@ utere paene festum aequora fovebat induiturque Rhodope nec.
 
 ## Stravit mihi nunc mihi longe cum qui
 
-Et anhelos! Cura Idas dixit! Ebeno de more servor, *arcus Priamum*; ubi hac
+Et anhelos! Cura Idas dixit! Ebeno de more servor, _arcus Priamum_; ubi hac
 mille. Anxia tactas membra, [densum](http://humoarethusa.net/feres-concipit).
-Signo carpe; semper viri, turbaque, *posse* novi per inquirit vince; arida hic
+Signo carpe; semper viri, turbaque, _posse_ novi per inquirit vince; arida hic
 numquam aequora.
 
 1. Ut Peragit meorum

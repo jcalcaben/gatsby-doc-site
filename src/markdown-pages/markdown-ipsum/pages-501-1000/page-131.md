@@ -4,7 +4,7 @@
 
 Lorem markdownum natae iungit uva adnuat, iam Hylonome vidi marito ubi versantes
 illa condas huc sinusque! Dum est fera innocuum adultera pugno: quem qua?
-Hippason tactumque pia ora metuunt patent in *plumbea* indulsit ludit habitabat
+Hippason tactumque pia ora metuunt patent in _plumbea_ indulsit ludit habitabat
 totoque. Coniugio venit sceleratior facit in mirer Cyllaron anguiferumque
 patrias mediae sororum timentem fata; rustica Ocyroen intus.
 
@@ -15,7 +15,7 @@ nubila, tum unde auspicio refert porrigis. Prunam veri tactus canum!
 
 ## Utilis sidera
 
-Mens ira esse medio! Adest *luna negare noctem* Iovis, haec totumque? Undas ab
+Mens ira esse medio! Adest _luna negare noctem_ Iovis, haec totumque? Undas ab
 fert mediaque eundo adveniet visa Romulus iam mihi, calidus.
 
     log_pixel_vector(memory.virus_mount_payload.trackball_multi_t(sramScannerOf
@@ -44,8 +44,8 @@ fert mediaque eundo adveniet visa Romulus iam mihi, calidus.
 
 ## Uno quoque
 
-Aut crimen totidemque replent en *amnes magni* pugnae. Fundebat equidem pars:
-*erat longo* viscera, sua ea lusibus? Coniecto Midae modo piceis terribili in
+Aut crimen totidemque replent en _amnes magni_ pugnae. Fundebat equidem pars:
+_erat longo_ viscera, sua ea lusibus? Coniecto Midae modo piceis terribili in
 pennas latebra.
 
     if (yobibyte - rfidBackbone) {
@@ -65,4 +65,4 @@ pennas latebra.
 
 Ut et pendens etiamnum qua deusve **avidum Liriope senectae** potentior probat
 gaudet ardent, illa. Passus aries velle genitoris: ora Echo satus incertae
-oscula semper adversam cavatur fatebitur *defecta*. Adductaque sternit edidit?
+oscula semper adversam cavatur fatebitur _defecta_. Adductaque sternit edidit?

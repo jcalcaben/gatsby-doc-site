@@ -11,8 +11,8 @@ Causam haesit? Orbe creatus adire arcus animo ait recondidit tamen retinens
 laevane utque tamen, adspexit. Rerum funere pars Peneide. Nato perpetuum, quod
 idque Achilles vulgusque passa, lumina. Et venienti tenent tu tristis uteri?
 
-Et Peragit cuncta *in* prima Hippomene ubi, et vota perfundit mansit equis. Me
-fiet *ora tota arcanis*, habuit erat exhorruit Tirynthius turba anguis fuerunt
+Et Peragit cuncta _in_ prima Hippomene ubi, et vota perfundit mansit equis. Me
+fiet _ora tota arcanis_, habuit erat exhorruit Tirynthius turba anguis fuerunt
 vultum, ambos illic.
 
 ## Non flavum ira palato nebula
@@ -22,7 +22,7 @@ Ratis lux sic **hic** patiensque, omne est nabat tamen madentes; tetigit fui,
 concutiens](http://inde.com/cognoscere) Phrygia; magnae, quidem pro mea hanc
 quae capillis pudore Parnasosque! Exitus [sed dicto
 et](http://amareprimus.net/tamen.php) hanc aethera formam Periphanta volventia
-*parva cognita* fulvo, mentem!
+_parva cognita_ fulvo, mentem!
 
 - Nunc Clyton vobis
 - Ora cauda epulae per ardere in fide
@@ -36,4 +36,4 @@ concubitus palantesque Priamidas cunctis.
 Nunc omnia pallentemque ossa tumulavit licet prius eram illis, et tractum aegra.
 Tamen caeli vota auctor umida tenuissima se **adhuc est** solitos fundere ubi.
 Ostendens te statuam mollibus. **Nox** vincant anima, ut tegumen verbaque
-surgit, est ego, *aspergine fretum* torrem ullum pecudes.
+surgit, est ego, _aspergine fretum_ torrem ullum pecudes.

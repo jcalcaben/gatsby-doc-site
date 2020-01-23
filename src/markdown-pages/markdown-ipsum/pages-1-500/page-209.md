@@ -4,7 +4,7 @@
 
 Lorem markdownum ab byblis serius **mea nimis** postquam excipit! Peccasse cum,
 atque ad obfuit pavidus est ponit comas. Te caesa ictus aethera, suo iuvat
-Peleus remittant et deam virtute Pergama alti *tantoque aquarum* spem anni. Sed
+Peleus remittant et deam virtute Pergama alti _tantoque aquarum_ spem anni. Sed
 ait teneas pende de preces, vero nam simulat interea.
 
 1. Quibus cornibus iacta
@@ -13,7 +13,7 @@ ait teneas pende de preces, vero nam simulat interea.
 
 ## Mortes procul
 
-Praesens excipit monstris. *Quid* iam; hoc et mihi sum **comitata nympha
+Praesens excipit monstris. _Quid_ iam; hoc et mihi sum **comitata nympha
 carere**; in titulum. Cornua cadit sine fatemur nefas nox inmensi, olim Caune et
 illa uva; brevis. Cani fronde aequalibus sonitum quoque, est. Superare saevorum
 navita ire [vagatur](http://dixitdum.org/dictis.html), ex quid; utraque in saxo
@@ -29,7 +29,7 @@ Erat modo pectus mihi hunc arbor senecta lumen sumpsere! Horrendaque tamen
 pedum, ergo servent utque?
 
 Spes deos **Semeleia** murmure illis perfidiae pretiumque ictus corpore hanc
-parma mentis spatio, vultus nec mirator remisit. *Macareida pallet*, potentia
+parma mentis spatio, vultus nec mirator remisit. _Macareida pallet_, potentia
 **forsitan Cupidinis tetigere** mordetur rogat, damnum, venenata. Custodia illos
 pro, penetralia limine; talia potentia auras Euryte, cetera iam auras abstulit
 erunt licebit poscit. Scopulos [tu caluere](http://www.ventis-a.org/ferrum)

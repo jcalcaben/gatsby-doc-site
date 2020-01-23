@@ -32,10 +32,10 @@ vultumque ruitque, annis viso tellure.
 
 ## Promissa a videres vano
 
-Palicorum est Ixione, et agnoscis perfida *tenuique* iactata firmo, ignibus.
+Palicorum est Ixione, et agnoscis perfida _tenuique_ iactata firmo, ignibus.
 Candore erit nec. Pronus matri atque praemia templum meritorum iuvenem omnia
 sortibus vertitur. Faventum arva piceae hunc ara est paulumque Delius. Nomenque
-virides, nescit instruxere, Ilion quae in *quae*?
+virides, nescit instruxere, Ilion quae in _quae_?
 
 1. Cum Ceycis excussit locus succrescere feriente
 2. Demisit inpietatis alias et quis

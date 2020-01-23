@@ -47,9 +47,9 @@ conantemque regina crimenque aquis est laceras docui, neve.
 
 Atque musco esse tenenti hunc tibi si, captiva Iuppiter. Ait mei Lichae haurire
 susurro urbem, collocat, ego audiat Phoebo secundo bibulis [armaque
-redimitus](http://www.opesquete.com/). Ferro ille tyranni tremescere *donec*
+redimitus](http://www.opesquete.com/). Ferro ille tyranni tremescere _donec_
 ultro Pellaeus inque. Inde frequento maculavit ergo intres prosiliunt socios
-spoliataque oculos calidumque se isque *insequitur pictis exsaturanda*. Iacto me
+spoliataque oculos calidumque se isque _insequitur pictis exsaturanda_. Iacto me
 alto iussos conata **iussit Phrygia** et trium.
 
 Dextra oculos muros, **metum ille** sinistro, atque et virentem

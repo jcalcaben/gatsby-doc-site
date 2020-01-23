@@ -3,7 +3,7 @@
 ## Pater contemptrix quos praeside ab illic primoque
 
 Lorem markdownum mihi precesque populabile Iovem, more Lycaon. Et petiit iacent
-imo postquam tela suo, *se deus nec* moverat amores, molli illa inferior
+imo postquam tela suo, _se deus nec_ moverat amores, molli illa inferior
 foramina, ture.
 
     if (graphicsInternetDaemon(sequence(deviceThroughputCrossplatform))) {
@@ -54,7 +54,7 @@ Et priorum sperato soceri. Sol se Gigantas Cretaei Nereusque ab aegra erat leges
 per spatii teneris me calentes est robore manus vita petit. Est segnis
 [undis](http://o-aonius.net/) illa celatus dixit; Stygias **neque auctor
 pietas**, pennas arbore dedecus Saturnius. Pinum Rutulos Menelae dique monti
-tamen lumina vellera vicibus, *seu rogantum* orat saevae et meliore quoque.
+tamen lumina vellera vicibus, _seu rogantum_ orat saevae et meliore quoque.
 
     sampling_artificial_im += cut(duplexGraphic + webApi, uri_flash_ios);
     if (exploit_spam < portExport) {

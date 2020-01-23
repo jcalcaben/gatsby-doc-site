@@ -2,7 +2,7 @@
 
 ## Ruricolasque grana secura apri tela
 
-Lorem markdownum *proles* quinque merui *cum* genae deus amoris carinae superare
+Lorem markdownum _proles_ quinque merui _cum_ genae deus amoris carinae superare
 Tyriam bracchiaque nupta capillis in manus. Fatetur amatam indoluit indignos
 corpore, quam capit Lesbon nam, fidem satiata atque.
 
@@ -18,7 +18,7 @@ nabat concipit ursa: movebo patre!
 
 ## Accipe perde adest vires et cursus occubuit
 
-Simulacra neque et *qua Aiax* Saturnia, et tetigere, et fata, ego Aeneae
+Simulacra neque et _qua Aiax_ Saturnia, et tetigere, et fata, ego Aeneae
 sororem. **Atria poenaeque** Dorylas adsuerat dicentum soporem mihi vecta
 Pylius: esse mea viscera felixque gelidos. Cremata ebeno quaere te dicitur
 quique herba nunc arbor e monti aureus sustinet. Nostro arboreo, prima
@@ -48,9 +48,9 @@ aequora nullos.
 ## Tantum fuit fugiunt
 
 Et Pylius, **pepulere** hominis domitae foedere exstantem vires: Quae tenet
-talia refert. *Velit* cornum vidit faveas sub creatam dixit non demite nimbos
+talia refert. _Velit_ cornum vidit faveas sub creatam dixit non demite nimbos
 nefandis monilia mensura.
 
 Hactenus fauces tollit Tartara quem hominum sumere natam. Dixit si vetuere
-terga, arma signa reicere foedera pastoris tantum nova redeuntem tumet, *ipse*.
+terga, arma signa reicere foedera pastoris tantum nova redeuntem tumet, _ipse_.
 Tenuit vitatumque contingere furor cum, et barba exaudi, cum, nunc totas.

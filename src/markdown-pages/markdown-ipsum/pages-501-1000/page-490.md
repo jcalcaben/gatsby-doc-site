@@ -25,13 +25,13 @@ quies viridem at ordine, gaudet se proles relevare dabitis, quod.
 
 Et in nautae uterum. Sed alii cervice, subitis. Suas solus Hyperione iamque
 commentaque poterit sic, talibus notam. Superi nutu, rigida adeat pharetratus
-aether *templa totidemque feroxque* tenet murmure, si omnis ubera.
+aether _templa totidemque feroxque_ tenet murmure, si omnis ubera.
 
 ## Parva dicenti et tamen referente
 
-Mihi si ast de vires auctor qua superi luctus resecuta *medio fecunda*, iphis?
-Candidaque superis, erat victricia cum erat habet animos, ac *infelix induitur*
-illam. Ubi *velle ergo*, officium urbem natos: tellus indefessus.
+Mihi si ast de vires auctor qua superi luctus resecuta _medio fecunda_, iphis?
+Candidaque superis, erat victricia cum erat habet animos, ac _infelix induitur_
+illam. Ubi _velle ergo_, officium urbem natos: tellus indefessus.
 
 - Ille quo detractavitque quae
 - Quis fuit trahit
@@ -42,11 +42,11 @@ illam. Ubi *velle ergo*, officium urbem natos: tellus indefessus.
 ## Pendebant questus Latiaeque sive lacrimis esse meliora
 
 Ab iuvat artus, admovique te procorum favillae putes imbre quae corpora
-sanctasque carmine, modo datque usque aliquis *pedibus*. Nemorosam secuit,
+sanctasque carmine, modo datque usque aliquis _pedibus_. Nemorosam secuit,
 habenis in Pelea poscere inpune Leucippusque umbra
 [interritus](http://www.furtumantris.com/) nunc, supervolat vestros chaos ore
 scit. Sub Ante alis est fugiens, me venis temptaminis capillos credideris vetus.
-Onus moenia ut ille, quod leto Colchis anguigenae *tardata fenestris* veluti,
+Onus moenia ut ille, quod leto Colchis anguigenae _tardata fenestris_ veluti,
 patriaque fenestris de modo sinu?
 
 Medioque deum atque retentas huius dis militiam coma ad rapi discedet processit

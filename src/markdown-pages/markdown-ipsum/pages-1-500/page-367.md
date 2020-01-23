@@ -46,6 +46,6 @@ exemplo.
 **Iunonis ipse** videtur Amoris. Corporis nec gruem omnia coniurata iacentem
 fugat capitum procul; pariter sum: tulit etiam, **dies** protinus. Sub gradumque
 atque. Eminus laevisque haerebat virginei tibi inmemor optat, auctaque defensus
-*dixit positaque bella* exuviis **et** quoque heros excedere campus, convocat.
+_dixit positaque bella_ exuviis **et** quoque heros excedere campus, convocat.
 At fuerat corde mors, murra audito auxilium potentem altera, sanguinis per
 semperque, manus sineres gemuit non [mihi](http://suo.net/io).

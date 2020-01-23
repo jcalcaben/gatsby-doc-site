@@ -4,7 +4,7 @@
 
 Lorem markdownum ademit, perforat moenia, neci naribus: monte erat lacrimas
 partem coniunx. Manu debueram pascua, utrumque in interea, medium, nocituraque
-alipedi *quoque*; de!
+alipedi _quoque_; de!
 
 > Sensu Quodsi, redemit dabat in potentem repetita egreditur ignotis; hostem
 > cerae quidem, aut emergit quater. Domum me dicta tamen trepidantem parat
@@ -19,7 +19,7 @@ iamque, nequeam vident conplectitur illa diu.
 ## Labores furta strenuitas manet
 
 Nec alter furor dubioque nominat [undis extremum
-honorati](http://colituriugulum.org/inque-rates.aspx) echidnae at *rogos*, per
+honorati](http://colituriugulum.org/inque-rates.aspx) echidnae at _rogos_, per
 utinam Anchisae flammas. Pallentem non ferinos tamen.
 
     if (digital - api_twain(rpmClipboardPage) + pmuMirrorReal) {

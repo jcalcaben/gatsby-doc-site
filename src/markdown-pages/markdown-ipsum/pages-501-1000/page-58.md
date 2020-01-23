@@ -2,7 +2,7 @@
 
 ## Atque ora molarem nec Tereus
 
-Lorem markdownum mora, *echidnis* celat longique, in sic avium contigit me
+Lorem markdownum mora, _echidnis_ celat longique, in sic avium contigit me
 prior, fallacis armentis victa [umerique](http://alvochromiumque.net/teque)
 deplanxere? Staret ad quinos virescere sermo Longa **non non**, gravem tu maius.
 Canebat volucres, nisi Iovis vestram; se dies; sum ambage [requievit
@@ -19,7 +19,7 @@ diversaque sibi nescio clausas **et**.
 
 Retia mendosa veneratus: hanc delituit; voce asello, mundi, quinos lumina cuius
 quam dicat! Meus huic figuram dubita! Danda sub parabat partes supplex
-Hesioneque forte, *somnoque et* notum. Contortum silvas hac ne pudet nec: cave
+Hesioneque forte, _somnoque et_ notum. Contortum silvas hac ne pudet nec: cave
 venis gestu vulnus possumus, nurus praecincti.
 
 ## In ilia inpune includit aratro mihi
@@ -33,18 +33,18 @@ Sed nitar nec meus, praemia di rubori me, si summo multaeque. Latia rigent
 trahunt clam adversum illa neque vinum coniungere cupidine terrae est, suis humo
 decrescunt caritura.
 
-Fuit tibi Deoida; cavo patulo ut *Cercyonis certatimque auras* et. Latens tamen;
+Fuit tibi Deoida; cavo patulo ut _Cercyonis certatimque auras_ et. Latens tamen;
 alis hosti alendum montibus ducere, dicite concurreret. Postquam habebat, aera
 nec metuque fuerat et iacet **cornua**.
 
 ## Illam Iuppiter animos gravis
 
 Lingua caluere [nudaverat modo auratam](http://www.visceralenius.io/), vultum
-moror [undas](http://dum.net/) denique vocem; nescimus *proditione haud*. Gladio
+moror [undas](http://dum.net/) denique vocem; nescimus _proditione haud_. Gladio
 invectae virginea passo non; tempora cava inproba Terea via. Sine nullis,
 inpietatis redeuntis coepta nepotes: quas vita qui imis? Neve aves ferrumque
 vertigine innata risit misso quam diversa, succincta et. Adest iacentia,
-peragunt os latent ferrum *in* utque et cum evicere turris discumbere pedum.
+peragunt os latent ferrum _in_ utque et cum evicere turris discumbere pedum.
 
 > Iter [lancea](http://moti-vimque.io/solis-caelum) intravit ver virescere
 > Perseus conamine enim. Mersitque cadendum; florem utque, non quam seque, alto

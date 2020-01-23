@@ -3,7 +3,7 @@
 ## Equos sortes
 
 Lorem markdownum. Velocius ille admovet. Fatis illic silvae contortum satis
-cernit innixus; sine quo caesoque, modo ait animi it *tamen est*, est. Suum
+cernit innixus; sine quo caesoque, modo ait animi it _tamen est_, est. Suum
 casias sensi servant mearum.
 
 - Nam cum dolet forcipe
@@ -33,13 +33,13 @@ creatus: festa, neve.
 ## Aurum sibi posuit nec aut lacertos canendo
 
 Vapor capillos: inmeriti [et](http://www.tempus.net/minantia) silva, suscipiunt
-sua; sed parvi *mandata et*. Aut fugant quo frigida petis aequo, ut penitus,
+sua; sed parvi _mandata et_. Aut fugant quo frigida petis aequo, ut penitus,
 sine ara suos obliquis lucis.
 
 ## Sub toto postquam inpune terra
 
 Vultus adspiceres saxo conubio ducit, una soceri dentes furtisque: spatio verba
-habet herba gestanda dignatus. Solutum *Iovis* mei detur terram delata: et visa,
+habet herba gestanda dignatus. Solutum _Iovis_ mei detur terram delata: et visa,
 venire. Manum micant, fecit, consumptaque candida omnes ait atque Achilleos
 corpus mugitibus et corpora, a. Harenae secuta. Miserata male, frementis
 adrides.

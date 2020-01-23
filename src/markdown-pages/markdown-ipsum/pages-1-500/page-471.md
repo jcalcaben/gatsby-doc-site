@@ -35,8 +35,8 @@ quaesiti stabat, est. Minus meis totiens clamor.
 ## Quam movebant suspiria qualis tulerunt bracchia de
 
 Armo pectus excipit nemorum: interrumpente arma est ducis et tenet cives sociis:
-oculis tenet **nec** sapies. Quam cui cum media, aut redit patriaeque *femineam
-terra*. In est vocabula iustos. Hac quid prodesse lata candore satyri,
+oculis tenet **nec** sapies. Quam cui cum media, aut redit patriaeque _femineam
+terra_. In est vocabula iustos. Hac quid prodesse lata candore satyri,
 [amor](http://primum-sarisa.io/) ut [coloni
 nutrita](http://temptanti.io/simulest) formosior arcuit inpatiens si quo pectore
 stipite hosne. Quoque sui est quid petentes quod aliquis aggere inventa in sui
@@ -64,5 +64,5 @@ plausit, cum fixa tempus Persei totidemque mactatos attonitum, post.
 
 Gentes reperta stagnum, unus ianua suo metuendus doles: novae meri [festaque
 voce](http://premunt.com/manifestabitque); navis quem. Tabellis purpuraque
-nobilitate pectoris et erat tamen fuit ulla et! Facit verbis moventem *additis
-quam*.
+nobilitate pectoris et erat tamen fuit ulla et! Facit verbis moventem _additis
+quam_.

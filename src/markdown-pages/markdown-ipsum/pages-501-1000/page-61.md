@@ -2,7 +2,7 @@
 
 ## Quoque bracchia te refringit medio ille per
 
-*Lorem* markdownum corpora, fama ala, in visum nascitur thalamos habebat. Iram
+_Lorem_ markdownum corpora, fama ala, in visum nascitur thalamos habebat. Iram
 ferro Troiae dis.
 
 1. Mane alis flexipedes moderamina eventus rapta candentibus
@@ -30,7 +30,7 @@ iurares, mollia manu, te. Ademptum molles felix leaeque emicat domique vosque
 Telamon deorum concidit certe.
 
 > Fallique est quid adfectus reliquit nec erubuit fortes naides discede, fecerat
-> substricta cetera non armenta foret. *Ambiguum populisque humo* illo clavae
+> substricta cetera non armenta foret. _Ambiguum populisque humo_ illo clavae
 > rudis falsi aconita suae ista Tirynthia, foedera! Calcitrat arte formatus
 > deploravit virum, mea Graecia tenebras non ima. Ponit enim noctem; Latio
 > amplexans aliquid **orbem tibi haec** sed cuspide. Carinas est Euboico urbe

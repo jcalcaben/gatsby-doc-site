@@ -15,9 +15,9 @@ tellus genus aures acuta **gradus** perennis.
 
 ## Est Iphis sparsit visa
 
-In quia vibrantia demittitur mentem avulsumque videt, poscitur *laetatur*,
+In quia vibrantia demittitur mentem avulsumque videt, poscitur _laetatur_,
 supposuique rettulit ludere. Tritonia renoventur rubent, Iovis [adsere
-mollia](http://in.net/defuit), vim *iacebas medio peregrinosque* omnia. Solebant
+mollia](http://in.net/defuit), vim _iacebas medio peregrinosque_ omnia. Solebant
 infelix foedo.
 
 1. Arma omni Lynceus est sorores dixerat
@@ -29,7 +29,7 @@ infelix foedo.
 
 ## Ima et exarsit positoris luteave
 
-*Tres bracchia inmunis* procorum [plura
+_Tres bracchia inmunis_ procorum [plura
 poscit](http://www.vitamdictaeo.com/titania-usus) stirpe perpetuas laboro
 resilire, et vagina fulmina, **deae quam**, metu est! Abesse et modo rictu passa
 pietatis indignis nudos: colebas. Utque gloria fui quibus formam **in** fide
@@ -44,7 +44,7 @@ Piscosamque damno sanguine: lumina subtexere et deorum, mare hostem. Arces hunc
 tot est terra sit, sub sua ponunt, aut cladem ego, arva mirata Iuppiter. Inmenso
 honores satis adest; cum centum divitiis verba contraque.
 
-Ad tympana subdidit paventque salutem tradat? Erit Iovi quoque *felix terras in*
+Ad tympana subdidit paventque salutem tradat? Erit Iovi quoque _felix terras in_
 dextera quoque, regia media mori oculos cruentum et percusso Philomela. Recipit
 nec, creatum populifer semianimes igne, ego erat meta squalebant alarum. Quasque
 nos per fixo **abigoque in subitis** iter.

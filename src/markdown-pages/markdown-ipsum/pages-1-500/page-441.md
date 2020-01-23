@@ -64,7 +64,7 @@ aequali maestissimus lassos volucresque, hanc **tum** est. Propulit morati,
 silvis Agyrtes pactus, vidit memento procubuere sed hos frena erat quaedam
 communem furoris.
 
-Quoniam prius ne palmis sociorum redemit curva. Ferro eris *cavernas* experiar
+Quoniam prius ne palmis sociorum redemit curva. Ferro eris _cavernas_ experiar
 ad tradunt iuvenem pietate plenissima simul arsurusque. Tali letali missum facto
 multoque in ulla collo perceperat mihi, nec. Est hora toto unde sceleris nobis
 magnum incrementa sub honore igni aera.

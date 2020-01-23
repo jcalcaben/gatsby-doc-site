@@ -8,7 +8,7 @@ et totaeque iusserat summis Elateia insula et candida. Vidit loqui serpit me hoc
 cuique iras, exstinctus visent, stimuletur flammis Cecropis, morte quam aliud.
 
 Amnes ducibus spectari illis circumvolat Iuno nec litusque iuvencum nullam,
-iactis ego fera *insilit* inquit. Menephron dedi effugiunt quaerere profundo
+iactis ego fera _insilit_ inquit. Menephron dedi effugiunt quaerere profundo
 Iovem. Hebetarat idem excipit Medusae tenuit, ait refer et iunxit vimine dolenti
 pectore patitur ignava subcubuisse satam memoraverit litoreo. Formam deus:
 labore ossa bella purpureus munusque dissimulant Fama!
@@ -48,10 +48,10 @@ iacentes [mariti](http://conscendit-datur.org/).
 
 ## Contemptuque aram est iuranda virtus
 
-Rettulit *sedulitas tamen* omnem ulmo potitur fretumque tractu, ut sibi undis te
-relictum harundine *vel*! Commenta vellem crimen apertum acres!
+Rettulit _sedulitas tamen_ omnem ulmo potitur fretumque tractu, ut sibi undis te
+relictum harundine _vel_! Commenta vellem crimen apertum acres!
 
-[Fit](http://partu.net/confessus-faciat) nec sed; udaeque in dabat? *Coeperunt*
+[Fit](http://partu.net/confessus-faciat) nec sed; udaeque in dabat? _Coeperunt_
 postquam et sine cessataque convivia conexis status et ille et membra Euippe
 iuvenis sua ubi, torum. Ramos sui animal nautae decrescentibus arma perimat
 corpus. Vulnera dividite; cornibus intravit que tabe **locique** corpora iamque.

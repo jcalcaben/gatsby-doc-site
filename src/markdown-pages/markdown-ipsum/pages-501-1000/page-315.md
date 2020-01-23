@@ -25,7 +25,7 @@ Magnorum modo mensae male in forma, filia.
 
 Ea una singula Troum. Nautae [dura milibus repetam](http://animoarma.org/) illa
 patria, **parentum est est** senilem iter. Cuique te fiet ferro et frena
-*difficilis et* deum suci armatus Capitolia et. Moris et turis mons poenas
+_difficilis et_ deum suci armatus Capitolia et. Moris et turis mons poenas
 accepere Caesareo, genae servandam steterat [quoniam
 Pellaeis](http://www.attonuit.org/per): et esse mihi.
 

@@ -2,7 +2,7 @@
 
 ## Tenui deponendique curis Iuppiter magna faciem audis
 
-Lorem markdownum dixit ferret *rutilasque* error ossibus; si Apis cur [que
+Lorem markdownum dixit ferret _rutilasque_ error ossibus; si Apis cur [que
 flumina sinistro](http://www.et.com/quoque) Phrygiaeque manu omnes. Umbras
 Paphius premente, pars avertens [natus](http://racemis.io/), os gaudia dolor;
 certa aequa praemia, per. Vacca contigit humana cum agnorunt Peparethos
@@ -45,5 +45,5 @@ fontana. Et tempore arma verba pars, resecuta eras, vocanti suis.
 - Quid stimuletur mihi penetratque linguam monebat sororis
 - Sex aures
 
-*Anno iunctoque traxit* praebet. Si procul censuque medio movit de quotiens
+_Anno iunctoque traxit_ praebet. Si procul censuque medio movit de quotiens
 crimen canaeque terras! Dum tua contorto!

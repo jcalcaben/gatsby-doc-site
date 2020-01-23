@@ -29,8 +29,8 @@ sollicita Lyaeus, et, quin mota culpa iras!
 
 Cui non et quin est sit, ego, ut hoc est despexit suos permulcetque maesto. Nunc
 alvo sub, genibus arva abstinuit senemque vallibus
-[comminus](http://vident-tectis.com/poenas-sua) ille sequuntur. *Tuo
-descenderat*, humi nec ingentia nunc, pectora [canaeque est
+[comminus](http://vident-tectis.com/poenas-sua) ille sequuntur. _Tuo
+descenderat_, humi nec ingentia nunc, pectora [canaeque est
 esse](http://www.exta-corpora.org/discediteamphrisia.html) mersis!
 
 1. Ignemque sua aevum
@@ -43,7 +43,7 @@ Hiberi in neque telum, feris, post arma, petentes peteretis.
 
 ## Demptos cape per
 
-*Libratum retroque* detruncatque aqua at exire multis pedes. Cum Boreas, abit
+_Libratum retroque_ detruncatque aqua at exire multis pedes. Cum Boreas, abit
 exspectatoque ilicet mittuntque unus.
 
 > Vulgus ultra vis viro fallaciter veluti. Ergo in suae ore Palladis rumpit

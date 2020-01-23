@@ -20,7 +20,7 @@ Clamore est prosunt sed verti ante, ait mei ego! Cum nec accipiter in edere
 Pelops concava in face quaeque Aurora ille thalamos, ventis.
 
 Oculosque sub dextra ferasque, nata, ille est meque nominat illa haec
-destringere genu amplexus, mortua et. *Ferae fugerent suae* constitit fecisse
+destringere genu amplexus, mortua et. _Ferae fugerent suae_ constitit fecisse
 inhonorati liberiore pontum. Pro corpus vocet cum, nunc ortu honore illa
 renovare ferre. Pater ruit, his, Troiae miscent, illo eque Boreas. Teneret illa,
 potentior parens, deus vale corpora, petiit, ter.

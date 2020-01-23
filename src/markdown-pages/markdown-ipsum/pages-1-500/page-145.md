@@ -15,7 +15,7 @@ fluentia inputat dubita.
 
 ## Peneidas saevit ut a foedus inposita auras
 
-Erat *summae* ignis famuli! Tecum conterminus virili, est pandite cribri.
+Erat _summae_ ignis famuli! Tecum conterminus virili, est pandite cribri.
 
 - Gentis illi acumine membra iacebitis parva humo
 - Desinet vetus sorore hoc essent non auras
@@ -29,7 +29,7 @@ Erat *summae* ignis famuli! Tecum conterminus virili, est pandite cribri.
 Et fuit **nihil** Abantiades colunt isset, tantummodo hasta Amathusiacasque
 dextra flaventibus Luna indulgere inferias fulva ab dederunt. **Sustinet
 evincere** radix audebatis; uterque cur inpune, venit magna Chaos iactatam.
-Fuerat Tyros per regisque frustra, meminisse *alta* remoratur omnes humum clivo
+Fuerat Tyros per regisque frustra, meminisse _alta_ remoratur omnes humum clivo
 rotis dedere, ad deum. Sumitur fluctus glaebis percusso ignorant nomen.
 
     if (mmsIoNet + tag_cable_threading > lcd) {

@@ -28,22 +28,22 @@ Honor quae inde aequora in intonat ferarum bisulcam convertit.
 
 Prope adunca redimicula [male meo attenuatus](http://domo.net/prosistraque)
 delphine coniugis illuc, me solum, velle iubet. Nitido pugna. Altam nisi huius
-illa supplicium **axem ingrate** me invidia petiti virginis vates. Regna *et
-levius antiquas* nati, destringunt noctes; sua **voce porrexit parvis**? Dea ait
+illa supplicium **axem ingrate** me invidia petiti virginis vates. Regna _et
+levius antiquas_ nati, destringunt noctes; sua **voce porrexit parvis**? Dea ait
 nomen atque tamen, fila, faciem votorum divino: osse per; pugnabam.
 
 ## Maeonia esse gemit
 
 Aere animal refert ambitae inde hoc serpentis quorum veteris quae sub auxilium
-*arces est*. Trepidos maturior; me aequa penetrale Iovis intumui ira referre
+_arces est_. Trepidos maturior; me aequa penetrale Iovis intumui ira referre
 gavisa hic vertice orat maerens Aiacis **celebres** dubitare. Subtemen an nova
 reddere imago, supereminet [prece
 lumine](http://tendat.org/temerarius-senex.html) rebus succinctis caute. Nec
-rubenti [qui obscura ac](http://pectore.org/) bacis *iuga hastile* pudorem;
+rubenti [qui obscura ac](http://pectore.org/) bacis _iuga hastile_ pudorem;
 repugnat incursu Apollinis Pactolides perenni patebat eventu: linguam.
 
-Exstantem suorum copia sepulcro *laevaque conanti*: duo tutus et multi adnuit
-hasta salutis vestras, et. Declivia *genus* prospiciunt vitiatis obliquum ab
+Exstantem suorum copia sepulcro _laevaque conanti_: duo tutus et multi adnuit
+hasta salutis vestras, et. Declivia _genus_ prospiciunt vitiatis obliquum ab
 nexu, quo fortes huius Martius et est fit acutis, arcanaque in potest! Sacra
 spirare? Tibi **est** est non cultrosque finis **ab** ingenium sublimis ensis
 herbis nato formis, pugnat. Abdidit in quod parsque quibus, prius tibi Petraeum

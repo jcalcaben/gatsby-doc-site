@@ -7,13 +7,13 @@ umbras](http://medusae.net/mentiris-et) vultu sternit parente. Se exhorruit
 medios. Cetera fossas?
 
 Nox sed, tu e cultu parenti habet tempore: non Macareus! Constitit Ulixes:
-efferre et undas ignes qua, nec socium invita et *iacto*. Modo facit lumina
+efferre et undas ignes qua, nec socium invita et _iacto_. Modo facit lumina
 vivacis labant. Saevae de **totus**, domitos
 [busta](http://summissoque.net/herbaepars.php).
 
 ## Cibus exit ad ibat
 
-Inque caeli manum turbatus volucrem maledicere *aevi*: per et partes recentis
+Inque caeli manum turbatus volucrem maledicere _aevi_: per et partes recentis
 nunc; [cognitus mittit](http://me.com/). Pendentia vix ales auresque frontes
 videt visum nunc corpore merere. Tellus unde! Et ponti ante cum utque recondidit
 domus, et opus.

@@ -2,7 +2,7 @@
 
 ## Ipsis additis regia resupinum
 
-Lorem markdownum multis sepulcro *querella*. Praeter iam noverat umeros situ
+Lorem markdownum multis sepulcro _querella_. Praeter iam noverat umeros situ
 vita. Nitidos fortis innectere radiis hic aequoribus colla clipei lacrimas
 cernunt indignere vetat. Ut exibat cetera.
 
@@ -35,5 +35,5 @@ Thoantis e lecto patruique iras, Caenea nisi unius, flores.
 
 Contigit conplexae vox non quidem lumina bracchia Fortunae barbam concrevit
 forsitan habet dum **agros aure dea** causa. Scopulus sequitur a arenti quorum
-sanguine Caeneus se verba naribus nubes nocte! *Picus* gemitus supponat cornua
+sanguine Caeneus se verba naribus nubes nocte! _Picus_ gemitus supponat cornua
 venabula terram, dixisti **veluti** in ruit urbis, dum.

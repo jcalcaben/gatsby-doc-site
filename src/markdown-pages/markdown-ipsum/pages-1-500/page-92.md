@@ -18,7 +18,7 @@ matrum pudetque; et signum patresque, et.
 
 ## Subitisque Danaas percutiens negabit rictus tuus iaculo
 
-Se vertit omnes ridet, conveniunt *inpius*, accersite, at. E massa dixit, in,
+Se vertit omnes ridet, conveniunt _inpius_, accersite, at. E massa dixit, in,
 Polydecta posset fallere? Dictis referat captis, sanguine adfert mea Byblida
 patentibus soror armaque: et vertice, fere.
 
@@ -28,7 +28,7 @@ pater, amnis fieri: Peleus: **pectus abit**, aut sole cum, cervix quae:
 nullosque.
 
 > Fuit Eurydicenque dixit fugacibus veniat tectus pontum; quem laudata numina,
-> Athamas sola trepidat venabula. *Demum Apidanosque* pastor sedes non cur, fuit
+> Athamas sola trepidat venabula. _Demum Apidanosque_ pastor sedes non cur, fuit
 > auras sepulta et subducere avertere grandior. Tenuit prohibere velocius
 > quamvis quadripedis salve et aemula ut dum.
 

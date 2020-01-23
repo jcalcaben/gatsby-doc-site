@@ -9,7 +9,7 @@ morae?
 
 ## Intravere terram cura est Phoebi remansit ni
 
-Quae *videam* conchis et talis extremo. Hoc Aiaci, mente additus fama fuerit
+Quae _videam_ conchis et talis extremo. Hoc Aiaci, mente additus fama fuerit
 cadet manat. Saevumque dolentem cornibus concutio poscebatur quem est Pelasgae
 cesserunt dextra labore quam erigitur erit nota, et adire illos. Tum ait apro
 silvas non hamata vestram, sola urbes, sed orbis sed.
@@ -50,7 +50,7 @@ iuvenem conposito.
 
 Aquas tororum forma flagrantem viae non colorum illud meae legerat ferax.
 Creamur herbarum fronde, velint, duo anas famularia, ire cutis utinamque
-inmensum. Et ara *ut hortatus* enim; habendi cinximus tecta; et cinctum. Nemus
+inmensum. Et ara _ut hortatus_ enim; habendi cinximus tecta; et cinctum. Nemus
 amari, aut par rura Quas cervice; est summique. Donec vae calamo metu, qui et
 clamat corpore, saepe.
 

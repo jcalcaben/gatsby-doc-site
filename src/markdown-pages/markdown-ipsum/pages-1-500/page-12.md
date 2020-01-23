@@ -13,7 +13,7 @@ Iove. Exiguus siqua rauco vixque **et** videtur ferrum ignibus et ut.
 [Matertera](http://www.petit-novo.org/docta.html) distent. Pingit pectoribusque
 gener baculisque rudem inulti sagittas gaudia, erat suasit perque, Samon, qui
 visa mutabile rector hominis. Laniaverat aedibus proturbat sonantia apertum.
-Nubibus cruore *non alta*. Satis herbis suo Echidnaeae causas
+Nubibus cruore _non alta_. Satis herbis suo Echidnaeae causas
 [inque](http://www.nostrodomosque.net/), Tethys coniuge deprimeret electro.
 
 ## Da certe aegide
@@ -29,9 +29,9 @@ Iovis traherent dixit! Postquam et nefando adorat desuetas visum **Assyrius
 animosus** parantur miscet. Se pianda, aenae et praecipitatur solent in freti
 comites.
 
-Et cera cum dignare Idaeis; *macies aevi* Caenea curru colorque, in vino de
+Et cera cum dignare Idaeis; _macies aevi_ Caenea curru colorque, in vino de
 raptas et undis et excedere? Arbore te vestigia semper proxima pereunt Gyaros
 creatus es agmina carina; glandibus urbem transieram alveus
 [Echidnae](http://vocem.org/non-in). Patriae cum simulacraque vincere. Tamen
-admissum extemplo est animo adiecit quia, ruricolam *fraxinus Aegeus rebar*,
+admissum extemplo est animo adiecit quia, ruricolam _fraxinus Aegeus rebar_,
 iunctis portans dederam Lycia tanti.

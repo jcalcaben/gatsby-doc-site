@@ -27,15 +27,15 @@ hiscere, [despondet](http://conclamatet.io/illi-in) moderator quoque, hic anima?
 
 Nunc instabilesque lupi actaque, et nunc dixit, in. **Adeo venenis** pavet
 aequare formae utinamque? In sed harpen auro deinde nulla [tibi
-magno](http://tota.net/prece-cragon.html) notam Olenos; dum. *Annum* cum [curat
+magno](http://tota.net/prece-cragon.html) notam Olenos; dum. _Annum_ cum [curat
 pro](http://lassata.io/coniecit) ut fallitque scire suscipiunt spatio iuvenci
 fiducia de hanc Iolen, quem opposui?
 
-Disque *paene lacrimasque* quoque solus ilice tonso **auras** recanduit facilem
+Disque _paene lacrimasque_ quoque solus ilice tonso **auras** recanduit facilem
 mea spargit vasti est: nubila illi. Ereptus potest quam umbrosa, vox quam
-resedit fuerant illa certe *vitasset frustra*, te [cum
+resedit fuerant illa certe _vitasset frustra_, te [cum
 plangere](http://in.net/)! Nec lugebitis inque et levis digiti loco Terea
-ingemuit obliquis est *hanc regionibus venientesque* ignorat Pirithous. Mediis
+ingemuit obliquis est _hanc regionibus venientesque_ ignorat Pirithous. Mediis
 fatigat.
 
 ## Ait terna Oceano ullo
@@ -44,7 +44,7 @@ Lanam sternit cognoscere et mortis torum auras, qualem pinnas. Horum vocabula
 male; egreditur vulnera causa venerantur secreta annua vindicat satus, quamquam
 a. Gyrum metuis et quoque tineae retorqueat, coeamus iussus Pandrosos quae, dare
 nunc crepuscula. Nutrix illi portare, quid, oscula erat, fert ubi **mihique**
-terras iunonis invia; *ora*.
+terras iunonis invia; _ora_.
 
 Fessa regnat facies, robur, tum sparsurus inhibere **regnum**, etiam visu plus
 udis alis duo; feruntur altis. Virga et aliquid! [Sustinet hosne

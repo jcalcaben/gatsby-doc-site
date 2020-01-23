@@ -40,7 +40,7 @@ Mutavit ima patrio erat quisque Iovis ipse mutasse amat. Mutet dolor pacatum,
 nec longo oblitis ipsa.
 
 Laevisque linguae. Locum primum te quae petit iras vultu tellus aevum manu
-faber; litus *nobis* certa! Locus nec induiturque Apis humum, adflat iras;
+faber; litus _nobis_ certa! Locus nec induiturque Apis humum, adflat iras;
 pallenti alimenta penates clamare. Aiax turis inmenso clarae avus quiescere
-fumat ab tollere aera, nunc *fuit*. Nec *mea artus* servat primus dea quid, per
+fumat ab tollere aera, nunc _fuit_. Nec _mea artus_ servat primus dea quid, per
 Fames; huic illo summa concretum est dantem.

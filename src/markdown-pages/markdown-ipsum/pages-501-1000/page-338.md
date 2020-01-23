@@ -3,13 +3,13 @@
 ## Tellus procul sed terrigenam capit gemebundus indue
 
 Lorem markdownum dimittere exspirare fratrum, ponunt, mensor; non pater volat
-*caelum*. Sublimia in tacet dryadas, pisces populus gratus sidera palustris
+_caelum_. Sublimia in tacet dryadas, pisces populus gratus sidera palustris
 domus, palmae.
 
 ## Sumpto lugebitis partem non in visa calorem
 
 Quisquam per quod, mali alto aequore corpore auctor, habet. Plus tactae auras
-ignis Iunoni, vel cum! Comis per maiores suis, rem *agitur* haut navita, iugulum
+ignis Iunoni, vel cum! Comis per maiores suis, rem _agitur_ haut navita, iugulum
 ora prensam caeloque similis cetera urbi ipso vis capit.
 
 - Unda corona quoque habetur Alcmena
@@ -23,7 +23,7 @@ Digna [ambieratque intrasse](http://nomenarae.com/esse) laedi, est Cynthia forte
 et amnis. Litore detexisse imago iacit, excitus est.
 
 Sui trepido. Viridem sacra, in simulat, quaerens iuvat, mixta, asperitas aratra.
-Aeaciden ambo, anni adhuc carina *credere ferebat* accipit una. Ipsi animum
+Aeaciden ambo, anni adhuc carina _credere ferebat_ accipit una. Ipsi animum
 nefandas Alphenor viri ratem mugitus relevere vocibus illi truncoque, forum.
 
 ## Etiam illa deprendere agmina fratribus iterum caeruleus

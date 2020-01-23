@@ -6,7 +6,7 @@ Lorem markdownum cavis Asbolus laqueosque dixit operi oraque fert mille. Sed
 macies frondibus, vos obstat enim facti bimatrem in. Temptat fila proles artes
 simul membra fallit Messapiaque Aenea plena conamine herbosa, ad inter pater,
 cum. Non **tollor paelicis est** in, vincat rates exstinguere, blanditias
-*adspexit* mollito servatos.
+_adspexit_ mollito servatos.
 
 1. Et sine et naiadum nisi tota ictu
 2. Aconiton contemnere ac ipsam Lucifer manu dictis
@@ -18,7 +18,7 @@ cum. Non **tollor paelicis est** in, vincat rates exstinguere, blanditias
 ## Sidera deus signa
 
 Tota gratamque natam toto Cepheus sibi ver sanguine caelo audit aliter repetisse
-carinae dissimulator tuti; quam. Iactantem caput *inpavidus sagitta* invita
+carinae dissimulator tuti; quam. Iactantem caput _inpavidus sagitta_ invita
 modico **et** vertit primus Ulixe! Postera hosti est vestri luce partim torum
 iussa libasse fulmina medio quantum subeunt, non. Adveniens hanc parentes
 corpus. Nec Ceres quondam femina telum: undas: et Romana cognoscere spreto

@@ -2,18 +2,18 @@
 
 ## Oscula tibi ego quo erat faveant utinam
 
-*Lorem markdownum* ferox. Domus Marte femina ferinae circumlitus quam tempore
+_Lorem markdownum_ ferox. Domus Marte femina ferinae circumlitus quam tempore
 regnumque **devotaque** instar nunc nec pontus. Manifesta placeat ferrum: tu
 iungere gladio bimembres loqui praemia in?
 
 ## Me telo haesit male clauserat petunt absens
 
-Est fert isto foliis operatus; taedas post Nessus carpere spe *fronte* iustis
+Est fert isto foliis operatus; taedas post Nessus carpere spe _fronte_ iustis
 tenens exhibita. Omnem tibi dignior choreas moenia pecori, funus, leae nec,
 voluere ut et frustra.
 
-Os donec, lumina, longave caeca mortalia fecitque, sua et heros crinalem. *Toto
-trans funus* posses pariterque tamen, nec egredior arcebat. [Quas primus
+Os donec, lumina, longave caeca mortalia fecitque, sua et heros crinalem. _Toto
+trans funus_ posses pariterque tamen, nec egredior arcebat. [Quas primus
 dare](http://instar.com/nonnon) tempore fetus in regalia obsessa arduus, et
 pedibus quandoquidem illam et preces; numina.
 

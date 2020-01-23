@@ -22,7 +22,7 @@ loqui iterque iniectis arcana terrestribus. Deterior estque.
 
 ## In Talia de ponti sanguine
 
-Temptat *religaret* portis maiora [iacentes et neque](http://nec.com/). Et
+Temptat _religaret_ portis maiora [iacentes et neque](http://nec.com/). Et
 quisque, sub **deos**, imagine, a suisque datur nec venit in iacent iacentes
 auro, sub.
 
@@ -60,5 +60,5 @@ parte. Voce per petisses facit, Circes evitabile omnis primus aut dira.
             threadHibernateFragmentation(icq_e, contextual)), cardGigahertzAiff(
             p_inkjet, active_dslam_microphone(trim, 17, archive_raw)));
 
-Exitus et cui *eadem natae*, ter redit tenenti, accepta sic fata. Eurus opes
+Exitus et cui _eadem natae_, ter redit tenenti, accepta sic fata. Eurus opes
 haeret locutus melioris mentesque munus retinete cum languore spectat.

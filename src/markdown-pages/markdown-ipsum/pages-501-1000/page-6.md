@@ -18,7 +18,7 @@ commentaque Polydegmona praestantior. Ausa membra lentoque monebat Lucina: abit
 eadem. Coepti ultra quaerit amomi fortes numinis quos humilem, adiuvet premebat,
 amor sine **forma** nervi concipit: albi sensi. Tardos eloquioque limite in
 veribus concutit properas doceo, utve fidae, ipse erit passa, medullis permanet
-et *post*.
+et _post_.
 
 - Inplicuit comes veneni discedite facta lacertis
 - Manus coniunx incoquit Medusaeo plumbum
@@ -41,7 +41,7 @@ omnes, motus nullo [ingreditur](http://sua-vultus.com/ab).
 > Nec ut fuit, conditor Sol misit, obiectat, et dixi omine caeruleum reddere.
 > Pugman [Arcas inque](http://pretium.io/undemors.html) tempore tempora minus
 > arbore Echionides cupidine, hesternos infamis nescius, fecerat. Adspicit
-> *cubitoque*, desistere populi, quam avitis in parenti: thalamos certa. Isset
+> _cubitoque_, desistere populi, quam avitis in parenti: thalamos certa. Isset
 > prius arte oraque, quoque mihi et meliora forti. Decurrere illum [suae
 > qui](http://decor.org/faciem-ergo) prima aliquos funere utraque tamen vota;
 > dum genetrix.

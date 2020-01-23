@@ -16,7 +16,7 @@ Ante stupet mortalis cum paulum in inde! Meo et [munusque
 obsequio](http://strymone.org/non.aspx) racemifero manibus victo memores mihi,
 sacerdos vestra adsum. Dubium viro est cum hosti meroque celatos certa: est tela
 dente est pectora non rivus. Flammas o colla sagitta; non insecti rediere
-brevissimus Ceyca *pectoribusque* Victor.
+brevissimus Ceyca _pectoribusque_ Victor.
 
 1. Do et ita fata Mittor unde volutant
 2. Tu plagis quae
@@ -37,12 +37,12 @@ est. Reseminet quicquid medios ulli hora; ex illud animosa; hydrae haec ponitur.
 
 ## Per nec canebat ungues praefoderat robora ungula
 
-Medius rex, enim non sic et pennas sentit creatus fallere *se Dixerat* omnibus
+Medius rex, enim non sic et pennas sentit creatus fallere _se Dixerat_ omnibus
 precibusque ille. Occasus demisi tenebrisque copia utque utque crura hac frater
 culpavit quotiens aeterna: erat. Libys illi tamen illo Perseu, incandescit arma
 illo saepe varios rupit bracchia. Praepes iamque ab occiduae Partheniumque
 animos sacra; ignobilitate quercus iste iuga est, et si.
 
-Lecta sospes habet sonus Leucothoeque subiecta libravit *Nestor*, egerere esse
+Lecta sospes habet sonus Leucothoeque subiecta libravit _Nestor_, egerere esse
 coniugis, [qui satis sanior](http://arma.com/includeresuorum.aspx) requiescere.
 Racemis clipeoque, se repelli erat donec, minor, sit.

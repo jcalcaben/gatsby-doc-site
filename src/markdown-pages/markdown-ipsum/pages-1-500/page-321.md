@@ -4,14 +4,14 @@
 
 Lorem markdownum bene quoque loris sentire diversa. Est illa Atrides, suasque,
 dixit, valle coegit et orgia. Profectus innixusque sic fastus in, ait Vix in
-fuerat flentes captaeque vere, nec videri navita filia *miserabile*. Heros
+fuerat flentes captaeque vere, nec videri navita filia _miserabile_. Heros
 nutrit et causa inplevere, capientur manu, **tui volat** subiectis de fruetur?
 
 > Caelum carmine fluvios: iubentque pepercit velle externa dixerat et durior.
 > Fertque hoc mirabere nisi neque, diemque descendere in videt ne fumo genuisse.
 > Minimus fugis dederant spatiosa inpar insuper adspiceres collo per [utiliter
 > mentique](http://ortas.io/pentheustua.html) acta iuventae faverat hosti
-> vetuit, et. Addunt victorque miratur solo *adyto serae* pennis fratres
+> vetuit, et. Addunt victorque miratur solo _adyto serae_ pennis fratres
 > Cephalus?
 
 ## Quoque fugit Tirynthius audierit dubie unda est
@@ -24,7 +24,7 @@ prosunt? Septem Bienoris, robore unus mitte Bellona nec sed decerpsit habenas,
 accessisse grates.
 
 Aera iacebas et poenas; apta metuens undis consequitur vultus vultumque nec!
-Sole iuvenaliter novissima, tumulo melius, loqui meo *tamen te* quamquam. Vesper
+Sole iuvenaliter novissima, tumulo melius, loqui meo _tamen te_ quamquam. Vesper
 vincla frondescere arent rerum magni, et esse destrinxit lecta, aethera.
 
 Quod se mihi. Inde abest et iussaque patria Philomela insomni nec auro non
@@ -35,7 +35,7 @@ natas in peiora victoque ipsoque qualescumque gaudet locum, **undas**.
 
 Toto [videbat restabant terruerat](http://bimatrem.org/) certamine praesagia
 ebur pontifici, corpus est ignem? Corpore forte Coronis Cybeleius praeside, urbs
-*si vicem*, de terret, Haemonii munus.
+_si vicem_, de terret, Haemonii munus.
 
     rpmBalanceMysql = basic_bitrate - 13 + workstationMemory(
             multiprocessing_interface, reader_vlb);

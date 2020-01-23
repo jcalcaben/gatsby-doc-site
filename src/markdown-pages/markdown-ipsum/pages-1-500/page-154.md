@@ -9,12 +9,12 @@ perdere, inferno thalamique famae tuum gloria. Inornatos et Aetne consulat.
 
 Sub vulnere aquas positi quod. Rerum pax et capiebant suos, patriam petis
 constitit premunt cornua inclitus me iniqua est vidit motura, occasu et. Deum
-Triones videbar *temperat non* ferunt narrare, arcus mare admovit recessit:
+Triones videbar _temperat non_ ferunt narrare, arcus mare admovit recessit:
 mollit! Libycas meus opus, sua nomina equo summam genae: gratia.
 
 ## Est pabula si pallae cursu rogum
 
-Utque Helenum sceleratae per, iam! E locumque incursant flores, nec late *et*
+Utque Helenum sceleratae per, iam! E locumque incursant flores, nec late _et_
 pondere vertice; **comitique adventum** euntem adsumus licet, Phoebus.
 
 ## Ut ipsa exul decuit deae tremor sollertia

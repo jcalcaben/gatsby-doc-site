@@ -32,7 +32,7 @@ murra, rediturum. Populosque per Pelagonaque gaudebat Lichan.
 
 ## Cepit lacrimaeque adversaque saxum senectae
 
-Bacchi *suos*; crederet edidici fragore aequoris procumbere avertite credite
+Bacchi _suos_; crederet edidici fragore aequoris procumbere avertite credite
 Boeotiaque tutus moderamine. Somni cornibus et credite dubium magno sed
 **Aesone**; dolens ipse; ad audis tutum.
 
@@ -49,5 +49,5 @@ cum. Coniunx tibi.
 
 Patulos bracchia genus, ferox rubet pictarumque talibus derantque ad suumque
 mentemque igitur. Uteroque sentit, hospitis a lumina, nostro ille valerem
-gregibus hae tauri iterumque *passura*: vivere iam nec hos. Est non, passa
+gregibus hae tauri iterumque _passura_: vivere iam nec hos. Est non, passa
 addere, refoventque nunc gemmae tibi; possit sint, est.

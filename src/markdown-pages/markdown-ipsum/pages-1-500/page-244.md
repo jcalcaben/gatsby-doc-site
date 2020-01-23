@@ -4,9 +4,9 @@
 
 Lorem markdownum solemus: dives euntque excita bracchia **mutata iunctae
 timebat** frenabas: ter tamen roganti fugam crine. Umerosque sanguis. Quam quam
-*subsidere lacrimas* efferor ascendere ingeminat finiat spectas hanc corpora;
+_subsidere lacrimas_ efferor ascendere ingeminat finiat spectas hanc corpora;
 adsuerat per. Dixit nimiumque spectandique status domino ministerio currus
-rostrum eodem **inire** haberet; ne sic nocte, intexto *temeraria in saucia*.
+rostrum eodem **inire** haberet; ne sic nocte, intexto _temeraria in saucia_.
 Omnipotens dapibus doctior?
 
 Tela bos certior excepit
@@ -21,8 +21,8 @@ hominem suscitat, sequitur postquam solvit rector.
 Praeter [ignes certe](http://eratque.org/), inque aque consule
 [Pergama](http://qui-artus.net/promissaque): scelus properabat iusserat
 abruptaque tela teque supplicium. Amori venter modis non Echecli qui Lycabas
-artes **etiam**. Nymphae pede sibi nec *carmina pulsa*: Nox, duro noctem ubi
-statque [prae et](http://villosavisa.net/aes-profugi) neve exit *lacrimis*?
+artes **etiam**. Nymphae pede sibi nec _carmina pulsa_: Nox, duro noctem ubi
+statque [prae et](http://villosavisa.net/aes-profugi) neve exit _lacrimis_?
 
 ## Arethusa manus
 
@@ -51,6 +51,6 @@ cervis sublimis concussit, quo duxit, nymphaeque.
 6. Aquae inmissa
 
 Odore vidit verendam an quot, aer cautes in suum fetibus. Sano milite ab fluit
-*vincetur iamque*, sororia *qua ieiunia est* nescio niteant Athenae tenet,
+_vincetur iamque_, sororia _qua ieiunia est_ nescio niteant Athenae tenet,
 calidumque. Fata respicit exul: vix atque victori te lacerata eripuit, ocior
 modo onerique pondere sui paribus.

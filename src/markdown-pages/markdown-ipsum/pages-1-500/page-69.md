@@ -4,7 +4,7 @@
 
 Lorem markdownum pereat egreditur Leuconoe qui pro memorique; orbem erit nil
 quo, amplexo abstulit fortis nepos miserum. Inhaesit ponat, quod Marte precor
-qua Ismenides viscera dum, vultusque motus, Hymenaee *vultum prodibant*. Mane
+qua Ismenides viscera dum, vultusque motus, Hymenaee _vultum prodibant_. Mane
 vulnera! De moriens avidoque substrictaque optatos valuere ostia: muro remane
 Ophias et tellure discede ut ponit, et necem. Inducere terrent, ego di
 praeteritae nostrae.
@@ -37,7 +37,7 @@ Furor sequatur obstitit Titan sub euntem nubes iras quod: frondem.
 
 Forte ante honore extulerat poma concha telo bos adfuit atque cum. Per saepe
 nostrae novissima commune frondibus spectat grave misit! Colitur mea vocantia,
-turaque adspicit lumina facies: *adverti et* niveae paveant ceditque, rapinae
+turaque adspicit lumina facies: _adverti et_ niveae paveant ceditque, rapinae
 causa. Ambagibus funereum vires ille mihi Delphosque quondam natura Telamonius
 Aeaciden undis septem, ore socerum. Callida iras comas delapsam nec annisque
 naides duae fere simul, suo.

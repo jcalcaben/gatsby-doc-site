@@ -22,7 +22,7 @@ adest pro cuspide, illa arma Aeacides semesaque tamen mirabere, Diana.
 
 Negat tempore? Nais cum solio attonitos cinnamaque memor pugnant utque teretes
 supposita dolosas Atrides inmeriti indurata poenae, Apolline. Solem nudae. Illud
-me unus cum, aevum tamen reddita pan *est cunctaque*.
+me unus cum, aevum tamen reddita pan _est cunctaque_.
 
 ## Digiti natum artus
 
@@ -51,8 +51,8 @@ sacra, non Iuppiter profundo.
 
 Flebile certus omnibus sol ventis velit mulcebunt [ignibus
 passa](http://unam.org/nulla-mecum), Aetne! Undas urbem diu portabat quod
-obstitit, cum subito **iaceres intumuit** sui reparatque libidine *columba viro
-usae* tali. Sit ista deus **caelaverat**, queant vidistis candida fuit utque
+obstitit, cum subito **iaceres intumuit** sui reparatque libidine _columba viro
+usae_ tali. Sit ista deus **caelaverat**, queant vidistis candida fuit utque
 turpes quoque, tollens praeconsumere huius, Pudor. In [et
-luminis](http://gemellam.io/mutabilecognita.php), partimque *tum verba*, iamque
+luminis](http://gemellam.io/mutabilecognita.php), partimque _tum verba_, iamque
 ut!

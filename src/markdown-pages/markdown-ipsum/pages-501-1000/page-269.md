@@ -27,7 +27,7 @@ haut animam Phoebo volucres!
 
 ## Nunc ferunt lucoque vultibus demisso corpore comites
 
-Manu est Cecropidae audax rapit exigis Scorpion in versi! Non insidias *angues*
+Manu est Cecropidae audax rapit exigis Scorpion in versi! Non insidias _angues_
 miserabilis habendi cognitus aestu sumit, redis mixtae. Responsa mutavit
 pendens, malo eversam, relecto ut Turpe invitumque huius, adepta.
 
@@ -70,7 +70,7 @@ Claudit lucemque audita flexisque iussit!
 
 [Illa ille](http://arboribus.io/) hic timeas reperta servata, animam iam quidem
 Achilleos perpetuo tenues Arctonque virus ipse placeat precesque fortibus, illa.
-Corpore pennas? Conlapsaque *crede clangore*, festas aspexit conducat parte illi
+Corpore pennas? Conlapsaque _crede clangore_, festas aspexit conducat parte illi
 neque, tumidaque vigil, habet inminet.
 
 1. Gyrum habent
@@ -84,5 +84,5 @@ ne si tantus! Dissipat si has sed per gelidumque, quod
 petit aliquo. Genis nostris tegumenque ubi sit sacrifica viderit.
 
 Et sonum multiplicique iacent. Et vis sacra stolidas. Habili ita interea, olor
-nuper et rapto *pariter*, ulvam quaerit: ait canit Troiam temperat in turbida
+nuper et rapto _pariter_, ulvam quaerit: ait canit Troiam temperat in turbida
 promissis. Altae lacus?

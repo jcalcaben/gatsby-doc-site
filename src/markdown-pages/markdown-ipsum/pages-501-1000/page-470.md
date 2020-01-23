@@ -3,13 +3,13 @@
 ## Misit ille petitur
 
 Lorem markdownum omnes Actaeis in terrae vagans [arboribus
-annis](http://ipsis.com/ulla.aspx) iterum clamavit procerum *licet* sed melius
+annis](http://ipsis.com/ulla.aspx) iterum clamavit procerum _licet_ sed melius
 lolium reppulit occidit plena pinus. Vetustis instimulat hoc, est inquit
-fugacibus et Troada, primum ipse *aeratis*, tegit. Praesagaque spes, saepius
+fugacibus et Troada, primum ipse _aeratis_, tegit. Praesagaque spes, saepius
 delendaque urit circumspexit partu statuam Aesacos. Non misso altum sustinet
 vestrae nunc arvo motis, est quo dixit mea, esse secuti dicta commendat situ
-sorte? Et artes pectora, non una sinit quae fidem venerat inviso tereti *uris
-iuves* alium, deosque ferus.
+sorte? Et artes pectora, non una sinit quae fidem venerat inviso tereti _uris
+iuves_ alium, deosque ferus.
 
 1. Ire morientibus illa
 2. Enses nolis habenas
@@ -18,8 +18,8 @@ iuves* alium, deosque ferus.
 
 ## Piscosamque tremit hoc suos dea radios per
 
-Torque opto utrumque tenebat dant, telum ramis *quo* fugit ad fores verbisque
-caput auctor; et. Addit et *forte revelli conpescit* temptavit stantem, neu nos
+Torque opto utrumque tenebat dant, telum ramis _quo_ fugit ad fores verbisque
+caput auctor; et. Addit et _forte revelli conpescit_ temptavit stantem, neu nos
 altique; et pudet. Omnis subit minus Danaos celeri decertare, sulphura
 dissimiles lyncum habebit, nata Atlas ponat in et, deus. Elue cavis imitamina
 Phrygii bellum spectator Bromumque inter: qui [levis dato
@@ -59,5 +59,5 @@ sponte mox humum dicta cunctantem Myscelus.
 Biformis intabescere undis, est avidi statque [Hippodamen
 Phoebes](http://essent-cepheusque.io/iam) populo robora gemit origo sanguine.
 Profundo spreto haesit hoc praepes fessamque Orithyia Ossaeae iactura caligine
-pectore. Cultumque *honorem* aequoris reperta gravitate sanguine iamque! Et
+pectore. Cultumque _honorem_ aequoris reperta gravitate sanguine iamque! Et
 annis Cyllenenque perque lanugine seu Limnaee et quique leones.

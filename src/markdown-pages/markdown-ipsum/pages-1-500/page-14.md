@@ -43,7 +43,7 @@ cervi sinistra.
 
 ## Et arbiter faciem densa asper aperta Ilion
 
-Facite artus, tergo ore *teneris non divamque* huic, fugerat est caedis numenque
+Facite artus, tergo ore _teneris non divamque_ huic, fugerat est caedis numenque
 levitate videntur nocturnae. Corpora priorum, Dorylas, Ceyca vatum vires non
 quid **vetuit** nondum illa petiit roseo postquam! Dique mihi crinis mecum illa
 et nova frustra ipse montis pectora nec; praesagaque levem
@@ -74,4 +74,4 @@ inprobe.
 
 Deorum sit rector dextram? Ipse sed Cancrum unda melliferarum meliora cum omni
 hostis ille sumus cuius. Caede Aeoliique etiam. Factum parte turbae, unus
-manuque **seri auditaque** condita; *ope*.
+manuque **seri auditaque** condita; _ope_.

@@ -44,7 +44,7 @@ Pondere ferentes, sit Sabaea, oris piceis, ipse patiar at
 [omnibus](http://metum.com/patriam), ingens gente atque, peragebant! Coeunt
 insidiisque exsiliantque subiectum ibi enim inmemor.
 
-Herculis Ceyca alta, ut Cadmi oro negat quae gener: *urbibus* moderante
+Herculis Ceyca alta, ut Cadmi oro negat quae gener: _urbibus_ moderante
 mollierant patria, ante erat prole campus. Culpa appellantque nulla ipsa
 incessere, victa [humum tauri](http://nulla.net/) lolium te latus, illi agitatis
 cursu sustinet, femina. Stupet promittit.
@@ -57,5 +57,5 @@ cursu sustinet, femina. Stupet promittit.
 - Auras utinam
 
 Fas nitente, sonant, de cum solutis taurus confinia saucius Pontum perque
-dominae lenita Indigetem cum. Terrebant novo terram animalia heros *iam* foret
+dominae lenita Indigetem cum. Terrebant novo terram animalia heros _iam_ foret
 rescierit in hoc.

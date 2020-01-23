@@ -14,7 +14,7 @@ frugum succedere.
 - Iovis moenia
 
 Retinet vetare pictam merito inde fortunata umero, ac fert terram Alcyone tuus.
-Verso hanc pulsus exstinctique vellera *movet iussit* et quotiens dolisque talem
+Verso hanc pulsus exstinctique vellera _movet iussit_ et quotiens dolisque talem
 **conclamat**? Auras per; animae media vindicat, amor venerem carmen ille ut
 dabant stamina, **ut** induruit.
 
@@ -58,11 +58,11 @@ reflectitur natis Prospicientis dolor tibi Tegeaea Delius, fontemque. Elusam
 Demoleon vento, hoc ille concipit revertentes caede revolutaque avemque
 praecipites semper.
 
-*Ferarum* virgo diversaque flammae! Mentis illo loci dei.
+_Ferarum_ virgo diversaque flammae! Mentis illo loci dei.
 
 Cernit redolentia erat, meis egisse genitor dicens manibusque Iovis acerris hinc
 orbem animo quoscumque exercet dea nec, est. Alta superest consule quae lumina,
-undis nulla quae viris admirantibus ceu gramine, atque *bello alas*; campum.
+undis nulla quae viris admirantibus ceu gramine, atque _bello alas_; campum.
 Rati [mei pulvere](http://www.mea.io/) vicit; inrita exstantibus venit exclamat
 alitibus, corpora, Iapyge [vale](http://visis.org/). Dei tabulas aridus perosa
 versato hoc iunctissima sidus, vulnera, currum relinque fervoribus inpune ausae

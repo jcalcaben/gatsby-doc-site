@@ -2,12 +2,12 @@
 
 ## Sis et comes venerat tenet simul glomerataque
 
-Lorem markdownum viscera clivo in *inmanis monstri* manibus illi nymphas
+Lorem markdownum viscera clivo in _inmanis monstri_ manibus illi nymphas
 Hospitis dedecus pectus? Et erit, amplexas atque: se ense Armeniae urbesque, est
 coeamus gurgite nullos currum somnus; atra.
 
 Acta funera somnus si se pari Capreas perque et modus Hercule, digna. Inplebat
-cumque *vetus inferior montana* per, veteres, tenuissimus iacet! In vertere ab
+cumque _vetus inferior montana_ per, veteres, tenuissimus iacet! In vertere ab
 orsa, perdidit senumque hastile de arvum perdidit nisi, Eumenidum et! Tectis et
 datum.
 

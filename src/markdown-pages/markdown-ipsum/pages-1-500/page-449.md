@@ -7,7 +7,7 @@ animosque](http://sonarent-mihi.net/), de quod [vestibus](http://de.org/mare)
 negetur de recessit alta armis mundi. Vestris cauda? Illa perosus et simul
 meliore corporis, si alti sed.
 
-Crepuscula iuventam Pentheus feres silentia *adest* ipse fallunt parentis
+Crepuscula iuventam Pentheus feres silentia _adest_ ipse fallunt parentis
 capiat. Iubar Naryciusque, nisi ignibus, linguae, idem **tellus ligavit** in
 aversae?
 
@@ -16,7 +16,7 @@ aversae?
 Ante muros fortia supernum notavit poterisne disparibus fulvis metallis, dumque
 quo Rhodosque dederat rostro. Ibi faventibus iram, raptam et externis exitus tu
 herbas Leucothoen turba me. Narrat siquis in partim Marte invitus, taciturnus
-*meosque meliora*, circumdata oris, ait ignem sollicito, natas. Quo Erinys
+_meosque meliora_, circumdata oris, ait ignem sollicito, natas. Quo Erinys
 viscera Rhadamanthon tamen; pelagi poterat oris: et
 [Athis](http://et.net/tibi-validique.html), marem est corpora Lernaeae?
 
@@ -26,8 +26,8 @@ Calathis causa sistrorum tantummodo dies.
 ## Vesta est ipse nec patrio gratia eo
 
 Corpore devastata penates celsa, luctantiaque vacet alta medio, ramos amnis. Ubi
-hospitiique et veniam *altera* praescius cursus. Nec habet ipse gratos corpora,
-nigrae abrupta *hunc* potuit Phocis, Amphrysos regia, quo? Et ornique aut
+hospitiique et veniam _altera_ praescius cursus. Nec habet ipse gratos corpora,
+nigrae abrupta _hunc_ potuit Phocis, Amphrysos regia, quo? Et ornique aut
 futuris; marinas inquit hostilia Aegyptia receperat Hymenaeus candida illa
 tortum velut illa agendum.
 

@@ -13,8 +13,8 @@ matris.
 - Istis suspiria
 
 More vigiles, inanis fluminaque quot cadentem datos, terribilis mihi moverat.
-Ministros essem, Hectoris asper est *laceras dextras monstraverat* Amazone hoc
-mens oculos iacet, inque, quem sunt. *Domus quin crearit* finierat. Alii aurea
+Ministros essem, Hectoris asper est _laceras dextras monstraverat_ Amazone hoc
+mens oculos iacet, inque, quem sunt. _Domus quin crearit_ finierat. Alii aurea
 tibi spatio feros helene cursu datque dixit vitiaverit pascitur, artus iactata
 sinunt crura. Virgineumque flammas viribus simul inamabile praesens acuta tum.
 

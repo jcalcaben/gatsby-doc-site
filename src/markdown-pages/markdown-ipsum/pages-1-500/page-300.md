@@ -24,33 +24,33 @@ Lorem markdownum questa thalamosque inania! Eras et
 Erant [sinunt](http://noctis.net/possidetante) idque pariterque culpatque
 notata. Peti truncoque sim **fumant in Baccho** solutis nympha! Noctis Phocus
 studiisque tardus versa ubi Helenamque est Simois, et, est. Quoniam rapuit
-certamine venisse Europa Philomela iunctim somnus *superstes* gressu
+certamine venisse Europa Philomela iunctim somnus _superstes_ gressu
 Iapetionides verbis, frugum hominumque membra quae et surgente. Rigent **in**
 temptat limosoque neque, illa tremendos argentea pressistis suum quoque maius
 pulchrosque trepidi emisit, viri.
 
 Nostris tua Argolis flere: si nec tamen iuro marcida terga: lyra Medea
-**figuris**; per collo *gaudete*. Regia sensu ea quis interea nigra: gratus
+**figuris**; per collo _gaudete_. Regia sensu ea quis interea nigra: gratus
 sumptoque pondus crescit Peleu urbis Theseus.
 
 ## Que habet canes sentibus manum saepe marmore
 
 Caelo deprensa aer submisso nulla cantibus, [mente
 regia](http://vidit.io/fuit-adsiduis), sibila **omnes hominum**, Cyanen.
-Colubris vulnere coniunx fratremque bellum, et nunc Iulius mensae *nunc
-placebimus*, nos **et**.
+Colubris vulnere coniunx fratremque bellum, et nunc Iulius mensae _nunc
+placebimus_, nos **et**.
 
 ## Sponte morte miracula teneras petentes
 
 Temptaminis Phoenicas accipe onus somnia. Inque iungi
 [simulati](http://centum.net/ad-oculis) et mollit pacem figitur Danaen: Priami
-nec. Tendensque alii animoque excessere *deorum lapsum* salientis di **trahens
+nec. Tendensque alii animoque excessere _deorum lapsum_ salientis di **trahens
 dextra**; aris Actaeo agnosse onus arae num [fera
 bis](http://www.cernimus.io/cancerquae) socer. Verbis et est sincerae iram,
 recedere quae deseruere domos adero
 [erubuit](http://www.levata-raptaeque.net/concustodita-saucia.aspx) reducet
 loqui ripas: coercet deterrere adveniens. Miles trepidantum vivit specus
-quicquid obstat; coget, *iam*.
+quicquid obstat; coget, _iam_.
 
     var guid_secondary = ring_tiger(20, metafile_spreadsheet) + drm_control_isdn
             - menu;

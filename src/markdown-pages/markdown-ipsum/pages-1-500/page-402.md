@@ -17,7 +17,7 @@ imitetur iacent fluctibus vetusque cetera clarus!
         wordEthics = ispArchitecture;
     }
 
-*Noctem* Iove Trinacris protinus. Luce videtque induitur fores ingreditur
+_Noctem_ Iove Trinacris protinus. Luce videtque induitur fores ingreditur
 tangit, tunc planissima anili.
 
 ## Quicquid Idalien virga intellegit obstitimus vir etiam

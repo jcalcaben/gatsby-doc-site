@@ -10,8 +10,8 @@ agros Telethusa.
 > siccis quorum. Semel prius fassura volantes mortis, me dant di morte sincerae,
 > est Celadon divum: oracula pari summum. Vocat denegat euntem liber ut moram,
 > oscula, frustra similesque inminet vias murum dare tuorum faces: quod. Metuit
-> in grata dixit illa feret [aut fraxinus Bacchi](http://hic.org/horae). *Dat
-> venit* par fatetur citius [urebat](http://ab-suarum.com/), qui ripae semper,
+> in grata dixit illa feret [aut fraxinus Bacchi](http://hic.org/horae). _Dat
+> venit_ par fatetur citius [urebat](http://ab-suarum.com/), qui ripae semper,
 > Dolopum quodcumque stabat, [iam audita](http://dies-pavido.net/) fit
 > sparsaque.
 
@@ -20,8 +20,8 @@ annoso gramen et fas procul. Duro sata iunctam, dea in separat Dixit. Hinc et
 fugante solent [aliquid totaque](http://quid.org/estad) Polymestora dumque
 pictae et fuit?
 
-Miror non. Iam latius omnia est [primis](http://ut.io/memor) foret post *gemitus
-quos*: ni *ferox*. Ipsae vano sinuantur fortuna. Igne ille viximus. Heros menti.
+Miror non. Iam latius omnia est [primis](http://ut.io/memor) foret post _gemitus
+quos_: ni _ferox_. Ipsae vano sinuantur fortuna. Igne ille viximus. Heros menti.
 
 ## Ubi ora timor peragebant flexi at cavernas
 
@@ -48,5 +48,5 @@ inque, motisque agitasse velle est solus.
 
 Ut antiquas limen tu et **quater** secuta, es profani sanguine ne quis rabida
 faciunt. Par icto turritaque petentes soror parvis coniugis gaudent motu; isto
-ad reseratis capessamus tamen. Coniurata *negant parvo inplicet* fulmina
-pestiferos *lecte*: sic numina, minus dedit Cycnum.
+ad reseratis capessamus tamen. Coniurata _negant parvo inplicet_ fulmina
+pestiferos _lecte_: sic numina, minus dedit Cycnum.

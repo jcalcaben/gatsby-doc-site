@@ -4,21 +4,21 @@
 
 Lorem markdownum iussorum undas iam, crimen consiliique faveas intrat plumae
 somnos, precatur luce dat haec, tremoribus tectaque. Ortu Hectora flammis
-patriam furtisque, est coruscis *felix* quod. Adiit cingitur
+patriam furtisque, est coruscis _felix_ quod. Adiit cingitur
 [arida](http://dolor-tamen.io/) dona spectat videres: iterum terraeque sponte.
 
 Praesentior ardere [nocte](http://www.ipse.org/demisiadacto.aspx) procul et
 vitiatas potentia arboris timoris vela viribus his germanaeque. Labore **accepit
 imitata cursu** testataque inmedicabile aper ministri ille parva nymphae. Ventos
-vicerat est, c studiisque radix innumeras spem *pereat* tendentem Neleius se
+vicerat est, c studiisque radix innumeras spem _pereat_ tendentem Neleius se
 claudit est sive et magnas. Inrita causa turbatis videre oscula de litore inter
 produxit ostendisse.
 
-*Abiit* tamen, bina transferre sapienter traho foliisque praeceps quod parte
+_Abiit_ tamen, bina transferre sapienter traho foliisque praeceps quod parte
 iuvenes aras ore gesserat materque ille. Quod quam est: habetis Libys tuas
 decurrere mugire. Qua ire, radice illud raptaque tellus erat vestem clamat. Dat
 Iovis coercuit: volanti dum qua sum fatentem sine superi vellera tange. Inde res
-totiens nemus et natusque dea imperio telis aper Iam *Pyreneus mutata* iudicis,
+totiens nemus et natusque dea imperio telis aper Iam _Pyreneus mutata_ iudicis,
 opes fauces, modo.
 
     cross += pngFtp(serverDelWeb(dvrDual(graymailRfidJavascript, default), unit,
@@ -38,7 +38,7 @@ opes fauces, modo.
 
 ## Dixit levibus o siquid Olympi dubitor
 
-*Aquarum* aliquando pomaria de, ut siccat genae portenditur certat experiar ut
+_Aquarum_ aliquando pomaria de, ut siccat genae portenditur certat experiar ut
 tantum, caeleste. Clamor detrahitur iudice, de terra: quia induiturque nupta
 dissuadet caede repugnat decimum terga suis mero Panthoides.
 
@@ -50,7 +50,7 @@ dissuadet caede repugnat decimum terga suis mero Panthoides.
 In **vocatum**, animum aura, duri de cecidit nulla recondita aliquid.
 [Oribasos](http://rhesianimam.io/inmunis) est Cymeli, cui duas intus nacta spiro
 tangit remove [et](http://utere-erit.net/in.html). Quin scalas praedaeque haec
-luctante cingentia, quod, esse, et trahar Creten? Cum hic *deductas*,
+luctante cingentia, quod, esse, et trahar Creten? Cum hic _deductas_,
 significant turbae amplexa tradiderat deducere, sua aram pede.
 
 > Receptae et scopulo postquam suprema robore primaque Romanae **animo**, me.
@@ -58,7 +58,7 @@ significant turbae amplexa tradiderat deducere, sua aram pede.
 
 Querentes spes sed subposuere solus iam in sicut viaque habet
 [amans](http://est-quam.org/nec.php), ad. Abigitque tela flamine freta,
-*Aeneadae dignas tegens*, ad undaque, non tacitae. Inque flentibus sanguine
+_Aeneadae dignas tegens_, ad undaque, non tacitae. Inque flentibus sanguine
 finivit populante numquam. E rupta **ille multa relicto** ut aestu ab serosque
 calcare manus oppida Othrysque didicit; isset pietatis male manifesta mercurio.
 Flamina deo **hanc**!

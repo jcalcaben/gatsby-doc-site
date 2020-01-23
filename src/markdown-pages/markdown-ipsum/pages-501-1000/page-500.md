@@ -22,7 +22,7 @@ sic verum annis, sucis.
 
 [Decus](http://www.adhibet.com/labiquetradita) feritate crudelis clamat rector,
 fuge vias, tractu non astu. Me **ferebam** manusque cui sospes caputque sacerdos
-heres arreptamque *det cava*?
+heres arreptamque _det cava_?
 
     rpm_technology_engine /= 814740;
     if (paper_hub + barebonesRefreshWhite(hfs, 4, uat)) {
@@ -45,14 +45,14 @@ limite, ab undamque spernimus!
 Senior tibi, hanc ullis [Cadmi](http://gracili.com/orashumana), fata morte, me
 trunco indicium rogant coniungere passo enutrivere. Ad fecit in glaebis!
 
-> Illa caietam, *inpedit redditur caudaque* magna at vela dat: dedisses Iuno.
-> Sinusque animos abstulit. Officio triplices plura quibus *modo*, tum legar
+> Illa caietam, _inpedit redditur caudaque_ magna at vela dat: dedisses Iuno.
+> Sinusque animos abstulit. Officio triplices plura quibus _modo_, tum legar
 > **amplexus candida gentem** unum nec mille inmenso an luxque
 > [me](http://novo-sustinuisse.net/nitidinec) sanguine curas. Tergum dextra
 > finita ille naturae caeli [superest](http://ipsaubi.net/discedens.html).
 
 Troius et tegit odoribus. Percussit longo mortalibus correpto sorte traharis,
-undas aera audire *Gorgonei*, formae duro caput fugit; vox. In Phoebus tecum
-quaeras, altas. Tyria secutus iussit atque exemplis, ingratos *genuit* thalamo,
+undas aera audire _Gorgonei_, formae duro caput fugit; vox. In Phoebus tecum
+quaeras, altas. Tyria secutus iussit atque exemplis, ingratos _genuit_ thalamo,
 preme mors deum illa infames cetera protinus amantis. Crescere di parares
 pavidum autumni me guttura resuscitat in aequo: hic curvata Caicus dimovit.

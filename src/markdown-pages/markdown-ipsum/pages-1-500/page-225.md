@@ -2,7 +2,7 @@
 
 ## Totas festam
 
-Lorem markdownum nec, **per** nulla *sit auxilium* inque fraudesque? Aberant pia
+Lorem markdownum nec, **per** nulla _sit auxilium_ inque fraudesque? Aberant pia
 tantum priores nulla, diu est haec Phlegyis, est puer telo, inhibere populisque
 et quam tectis. Viderat accipit; inplevi paruerant paratu nescio manusque
 bracchia a timeri flexile pennas non Athenae parta, subiectas validisne. Blanda
@@ -13,7 +13,7 @@ dicebat.
 
 Miles viae sunt flammae est tuum colla, quoque gelidis neptem ergo iuvenis? Sic
 te croceis est [differt montis quicquid](http://vulnerepostquam.io/versus-sulco)
-in boves audieris spesque, *contemptaque carinae qua*. Armis bello antistita
+in boves audieris spesque, _contemptaque carinae qua_. Armis bello antistita
 semianimes nomina solent Troum. A genus collige pectine; restabant commonuit
 fallere. Vulnere domus **remansit** montes Stygios, age ut exiguamque lugebat:
 pugnantem.
@@ -21,14 +21,14 @@ pugnantem.
 Montibus est, eatque, dum Aeolii lexque; et penates cyclopum usque: visa dignos:
 carina. Vosque timorque cornua cur pugnam vacarunt, alis colloque vivis, tanta
 suaque; et sic velit ad terga. Facerent iusserat pariter nitorem, at usquam
-pugnas vinoque comitante sceleris partes, unco. Non tecti Pegason, haec *levis*,
+pugnas vinoque comitante sceleris partes, unco. Non tecti Pegason, haec _levis_,
 et ait parentis tellus?
 
 ## Dea caedis
 
 Captare per longis sed conspexi mandarat vite currere virum cum tristes trahere.
 Iuvenem rapit stare est montis coniuge memor dotaliaque quoque nervosque
-contigit nisi pendere. Simulacra redimebat *mites*: dicta te [iter
+contigit nisi pendere. Simulacra redimebat _mites_: dicta te [iter
 inpetus](http://vidi-natam.org/videruntut.aspx) pudorem bacchae, membris dentes
 tetigere vellem.
 
@@ -47,7 +47,7 @@ dammas; tenues diuque sero dominos, opes tectis eurus cernes prima.
 
 ## Colles nigrescere adiecit gener torrem
 
-Harenam est Quirini; fera dixit *pellite* utroque pavens, quoque capit, nulla
+Harenam est Quirini; fera dixit _pellite_ utroque pavens, quoque capit, nulla
 lumina properata. Matrem speculo tauri Sisyphio tot viribus; qui vulgi novem,
 fata hiatu, neve tangam derecti. Nuntius Neoptolemum quo non, et sit quam,
 frustra ille patulos!

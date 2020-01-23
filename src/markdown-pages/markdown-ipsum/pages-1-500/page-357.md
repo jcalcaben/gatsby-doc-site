@@ -51,7 +51,7 @@ volentes sensi; iam globos vitro tiliae umbram, ausae multi munere!
 ## Quis initis vitiaverit novi
 
 Soror nitentibus neci trahoque desine futura carbasa aratri candida exilium,
-tenero vincis veteris purpureum ne ipse *maius*. Haeret miremur imago, ore maius
+tenero vincis veteris purpureum ne ipse _maius_. Haeret miremur imago, ore maius
 venenis **parem altera operire** rediret! Ora carcere, sua vigil.
 
 1. Quinos tamen ritusque
@@ -59,5 +59,5 @@ venenis **parem altera operire** rediret! Ora carcere, sua vigil.
 3. Dimittere Lyaeus medios quondam
 
 Porrexit est petatur mea mihi Troezenius aura auguror fatiiuvenescere percussit
-Cythereide tricuspide nubes! Egerat invadunt ut *vinci erroresque* causa, ut
-igitur, cadunt esse tum: diversaeque fusca *quies naufraga*! Tendensque addere.
+Cythereide tricuspide nubes! Egerat invadunt ut _vinci erroresque_ causa, ut
+igitur, cadunt esse tum: diversaeque fusca _quies naufraga_! Tendensque addere.

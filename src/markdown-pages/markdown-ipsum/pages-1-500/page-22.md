@@ -3,9 +3,9 @@
 ## Et cornua est sine
 
 Lorem markdownum summum aut habuit dixit quae late, lorisque blandas fauces
-*contenta*, lacertos. Ortu sibi at potentior, videre conpellat timido, et factis
+_contenta_, lacertos. Ortu sibi at potentior, videre conpellat timido, et factis
 velut, sinistrae, illis, amisso dubio socero. Naris desolatas flet membris
-pignore *unda* haec purpureum virgineos tamen, velantque absumitur simul
+pignore _unda_ haec purpureum virgineos tamen, velantque absumitur simul
 adspicit temptat amatis abit sinunt mixtam. Solet Noemonaque percensuit pestis
 calido tradiderat de pati dixerat ait ventus accipe ubi emensas, albo, divellite
 equinis virum. Fugit accipe, Acrota!
@@ -31,7 +31,7 @@ equinis virum. Fugit accipe, Acrota!
 
 Umbra levis quod spectat habet: tibi si quemque, indicium si educta discrimine.
 Nostra nube nam aetherias tamen flammasque ibimus parte: sic exspiravit tacito
-pallorque *in*. Semina linguae sublime
+pallorque _in_. Semina linguae sublime
 [caeli](http://fidissima.net/securi-tamen) notissima sollicita vivaque amnis
 umeris Sidonide, Phrygiis copia coniunxque, Diomedis Placatus addit remis.
 
@@ -42,7 +42,7 @@ umeris Sidonide, Phrygiis copia coniunxque, Diomedis Placatus addit remis.
 
 Agit ipsi vires, digredimur morsibus, [iussa Pyrois
 Peleus](http://ususut.net/medio.aspx): ipsa solutis! Vitam subponunt te erat
-positasque Perseus mutataeque madida; licet spectare esse, mox *et*.
+positasque Perseus mutataeque madida; licet spectare esse, mox _et_.
 
     pythonIcs += backup_mode(1 + -3 + bus_dcim_table(3, big), system_lifo + 2 -
             memory);

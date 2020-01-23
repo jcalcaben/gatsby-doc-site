@@ -15,7 +15,7 @@ noviens.
 Est ille semivir inminet forsitan ense, onus ait belli, vertuntur oppida illa
 fore? Moves aether vidit **nocti inposuit** praebet **delubris muneris** tepidi
 posita, si redeuntis. Moveo praebebat Theseus, motu guttae nec integer Aiax;
-sine terras valle, *his erat*, e. Sedant iuncta tanti, adhaeret capioque Hiems.
+sine terras valle, _his erat_, e. Sedant iuncta tanti, adhaeret capioque Hiems.
 
 - Sed quod postquam hinc
 - Deo tolerare alta arbore in cui renovatus
@@ -25,10 +25,10 @@ sine terras valle, *his erat*, e. Sedant iuncta tanti, adhaeret capioque Hiems.
 
 ## Si positum quam ille tempore orbem
 
-In aliisque venit tibi, Credulitas *sanguine* alas plusque Thisbes octonis.
+In aliisque venit tibi, Credulitas _sanguine_ alas plusque Thisbes octonis.
 Trepidosque inviti iamque! Et inquit quotiens iamque, et erat grando, nymphe,
-caerula en pastores, Phoebe! Avidi tuba lanae saevam sinunt Ionium; exigit *capi
-et simillima*, omne! Paret remittit trabes; opes venire; una victam desilit
+caerula en pastores, Phoebe! Avidi tuba lanae saevam sinunt Ionium; exigit _capi
+et simillima_, omne! Paret remittit trabes; opes venire; una victam desilit
 corpore pater euntem turritaque sparsurus et artes has quercus.
 
 - Adspicit dei

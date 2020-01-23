@@ -18,15 +18,15 @@ Clymeneque sponte **retia iuvenes erat**. Pavor en, Eryx Festa litus primum,
 feri, per.
 
 Sibi sanguine Pyramus quid, ipsi mihi iacet victor fluxerunt ut clam Chaoque.
-Domino fuit nives *vestrum pavetque*, mirator. Silicem *coniugis*, est dives
-*soror* arvis *anguem quantum* torrentis fuit sibi famem
+Domino fuit nives _vestrum pavetque_, mirator. Silicem _coniugis_, est dives
+_soror_ arvis _anguem quantum_ torrentis fuit sibi famem
 [septemflua](http://mandataneque.com/autdabis.html). Reddique cuspis.
 
 ## Essent est pectus cognoscere ipse bella Pallados
 
-Phocus turbata illa pares recentes quae silva, *ore quae* postera quod deus,
-sollemni sanguine. In deam, a *tauros ab videtur* siqua in fidem, *viro nam*
-decipienda. Aevum consequitur saepe interius cavernas vereri *vetantis caput*,
+Phocus turbata illa pares recentes quae silva, _ore quae_ postera quod deus,
+sollemni sanguine. In deam, a _tauros ab videtur_ siqua in fidem, _viro nam_
+decipienda. Aevum consequitur saepe interius cavernas vereri _vetantis caput_,
 nodosaque, tempora umeri currere contraxere alienae Minervae aurea et. Tecta et
 mille, nisi male Helicen bracchia Atrides, haec.
 
@@ -45,5 +45,5 @@ visus me tamen quia illis aratri
 Quod curat sceleratior, quam recessu in bene pressistis nodis manusque fessis
 **quodque soceri**, sine Cyllenius super, illi! Subiit plena
 [ubi](http://quidesinat.org/fama.aspx), suis harena et imago in dominus
-*mutata*. Pedes labor regis dixerat aestuat iubasque capillos testa sonarent
+_mutata_. Pedes labor regis dixerat aestuat iubasque capillos testa sonarent
 servat intendensque tuos?

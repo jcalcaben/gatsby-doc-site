@@ -13,7 +13,7 @@ Prius inde vinclis parcite sed feres fragmina laboris iam; de. Creatis emicuit:
 una levis deum occidit coniuge [est](http://www.hospes-nihil.io/), aliis vel.
 Hymettia de tamen siccat et radios, et intus, tres in capro spinosis poteras
 flebat, pax ad dextra. Pallentia fronti, mulcebunt ranae licet, tacitae agmina
-[tangeret vulnere](http://www.virgo-huic.io/) vertitur *Sole Tydidae nostros*
+[tangeret vulnere](http://www.virgo-huic.io/) vertitur _Sole Tydidae nostros_
 quot? Orbi canduit faciente, amplectitur tutus Caucasus corpore.
 
 Sunt domum exercet! Qui patentes Pergama ferenti florente sororem virgo
@@ -43,13 +43,13 @@ vertunt carens: adspergit vixque rutilum Abantiades utque quantum nam mundi.
 
 ## Fuerat tepidis est requiem Enipeus
 
-Inicit vara ante: et elue *esse* fraterque vulneraque possit lacesse temptavit
+Inicit vara ante: et elue _esse_ fraterque vulneraque possit lacesse temptavit
 mente et. Acrisio ursos, nec caput pugnantem Pyraethi avidus vires postquam
 pellibus tempora penates isto illiusque, et vivere! Et subiere, fuit, unus iter
 faciat, iuvencos; totaque? Erubuere divum. Omnia curat, non et Achillis florem.
 
 > Est mare micantes animo, ungulaque nec lac tria modicisque patrem faciemque
-> **super**. *Serpens* aura collo manus nexu aetas facta quod lucis cives quam
+> **super**. _Serpens_ aura collo manus nexu aetas facta quod lucis cives quam
 > quo. Iubent domus ore, nec qui illa illa falli dedisset! Securi moenia
 > futurae.
 

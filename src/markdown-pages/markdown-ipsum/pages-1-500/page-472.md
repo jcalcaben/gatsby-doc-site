@@ -13,12 +13,12 @@ Pro in praecinctus prodigio sumptis vulnere tamen orbes rarissima diffudit regia
 virgineas sublimis. Vel amictus medium responderat Lucifer pestis, fecit de
 [neci imperium](http://et-hunc.org/) notam. Oneris mihi caput Gradive visus
 etiam iaculabile possum me posses si aura. Est usus verendus. Per est luctibus
-*melius quod non* Si nube opem ille serpens tertia formosi.
+_melius quod non_ Si nube opem ille serpens tertia formosi.
 
 ## Obstas se sociorum dilecta bis parvi molliri
 
 Hiatu indicio: foret tune, reparata et caput. Tuta arma ausus in inque [naris
-rexerat tantumque](http://nec-meo.org/tenetprocumbere) mutatum *quoque noctis*
+rexerat tantumque](http://nec-meo.org/tenetprocumbere) mutatum _quoque noctis_
 ferenti brevem. Opaca hunc **medullas** ignesque adfligi vident admonitus. Faxo
 alii dumque flammas tabellae **garrula** lingua, posituro, cur heros seu
 succeditis actis sepulchro thalamos laedere, tamen. Preces nunc esse tibi

@@ -3,7 +3,7 @@
 ## Qui tarde modo securus
 
 Lorem markdownum fulgentia rabiem, nec est glaeba diversi ita est coleretur,
-caeruleaeque. Paene simplex animam *pharetramque inops*, ubi auctorem **rupit**.
+caeruleaeque. Paene simplex animam _pharetramque inops_, ubi auctorem **rupit**.
 
 1. Saepe et accipiunt fetus adspexisse et primos
 2. Cancro inmodico
@@ -26,11 +26,11 @@ totidem tempus, delubris ultorem.
 
 Capitum hoc minus femori concordes sororum: patres nostrumque homines, in. Te
 verbis parva et nunc Hyacinthia Iuno. Nam sed lugenti humum utar ingenua: caede
-est Pagasaea solis peperisse Ulixem *post*. [Sibila
+est Pagasaea solis peperisse Ulixem _post_. [Sibila
 denegat](http://rupes-ab.com/) iuvenis Neptune dedere, **solutum amisit**, suo
 ipsa illum ubi. Care Delphica mensas?
 
-Hosti venti in *vestros* annis, tu et laesa. Imbre ingemuit, per vocavit fata.
+Hosti venti in _vestros_ annis, tu et laesa. Imbre ingemuit, per vocavit fata.
 
-Partibus et videt fugacis generis! Viva sileam quoque per *cacumine*, adhibet
+Partibus et videt fugacis generis! Viva sileam quoque per _cacumine_, adhibet
 **toxea quadrupedantis** Iliacum resilire, erit loquentes flavescit.

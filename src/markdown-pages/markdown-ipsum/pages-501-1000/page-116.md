@@ -29,7 +29,7 @@ membra protinus Orionis ubi quibus.
 Inposito aestus moveri; amorem dum. Furtim tamen. Move metallis et illa promere
 indicium congestaque talia datum amor pudetque peregrinaeque mandata referam.
 Ametur Iphitiden membris: sed locorum nota? Iam unda loqui, vir eadem cornigeris
-poma densissima repertum *atque submergere* et acervos amore factaque et Elis,
+poma densissima repertum _atque submergere_ et acervos amore factaque et Elis,
 movensque.
 
     hypertext = bloatware(84, json, drop);
@@ -48,15 +48,15 @@ movensque.
 
 Donasse praecipitem quotiens, te queri
 [descendere](http://hunc.com/crevit-quoque.html). Plura quid, ait sorores,
-candidus terga corpore fistula locuturum Amphrysi reliquerat litore *aquae
-adhuc*.
+candidus terga corpore fistula locuturum Amphrysi reliquerat litore _aquae
+adhuc_.
 
 - Ego est reformatus exitus
 - Colubrae notitiam meritumque superi aera
 - Sine greges est bracchia Amoris Pallantidos minus
 - Dolor olivis umbra fratres considere resimas sub
 
-Caeli filia ait, malis prospexit natos superabat quoque crinem contigit *ne*!
+Caeli filia ait, malis prospexit natos superabat quoque crinem contigit _ne_!
 Inmanem quaedam vendit et figuris vultum fama iam licet tegis. Efferor hunc
 nefas in capillos vestras primasque mutatum **Hippothousque excussit dolor**,
 latet. Nato oculos ubi alte aequo, illa **cruento iamque** hoc congressus.

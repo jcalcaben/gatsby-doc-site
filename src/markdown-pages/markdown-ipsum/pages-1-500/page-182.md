@@ -24,7 +24,7 @@ nota.
 
 Dei petitam agresti! Quod vides pavore, da cursu fletus **proceres liceret**,
 nec iram in nutricibus inmensi, terra humo, mihi. Septenis vulgatum nunc regem
-nescit liceat, sum ima cur es Iovis *spectante*. Mersa duo par et tactis una,
+nescit liceat, sum ima cur es Iovis _spectante_. Mersa duo par et tactis una,
 est femineo harenis ipsaque alienae. Dum in in saepe.
 
 ## Nostris Naides sparsis sententia movit

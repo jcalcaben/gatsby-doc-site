@@ -3,7 +3,7 @@
 ## Domabile et capiant novi mala Et ortum
 
 Lorem markdownum respiciens pennis. Vestigia excipit, esse, hoc ipso Cerberon
-sic manus imae denos? Et volat *feruntur*, ut tamen namque dotalem litora tanta
+sic manus imae denos? Et volat _feruntur_, ut tamen namque dotalem litora tanta
 tuebere et vastatoremque Saturnia pio caede una sulco.
 
 - Alemone erat
@@ -33,7 +33,7 @@ pars Rhoetei visibus, laetabitur. Iapygiam missos neptem.
 > soporem. Precari Agenorides unus retinentia sati novissima nigras hominis
 > laniabat Cynthia [orbem fulmen](http://perpetuoque-cura.io/)?
 
-Moriemur mea nihil: aratri amor *omen Troiae quod* pavidum inventum laboret
+Moriemur mea nihil: aratri amor _omen Troiae quod_ pavidum inventum laboret
 notavi profundum verbis putes dicta non. Refugit [per maris](http://ambit.com/)
 praelata diduxit, fetum credulitas, poterat incidit corpore cernis at. Mergitur
 prorumpit positoque sedant. Vidit resupinoque [edere consilium

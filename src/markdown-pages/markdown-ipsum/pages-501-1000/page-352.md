@@ -4,20 +4,20 @@
 
 Lorem markdownum nomine? Cohors ire tollit ad plebe poenam ut laborum simulacra
 fudi nostri habebat nymphae, effugies paternum credi; saxo. Pennis frater,
-pavido cum *Siphnon dique* sua cernit occasus. Latebris et non nisi sanguine
-gloria prosunt ceperit Baucida hiscere *superat quoque colonos* clamoribus
+pavido cum _Siphnon dique_ sua cernit occasus. Latebris et non nisi sanguine
+gloria prosunt ceperit Baucida hiscere _superat quoque colonos_ clamoribus
 Venerem quater dea, est. Suis retractat fronte velum diebus naides poterat
 quater et tu ac.
 
 > At crater manu quisquis quia, aut hac momentaque silva fluentum acceperat
 > fletque. Petunt melioris naturale arentis et fecere quanta aetherium forte
-> visa. Iuvencos nec dixit Oechalia quaeque, ut somno sed movit, *citharae*
+> visa. Iuvencos nec dixit Oechalia quaeque, ut somno sed movit, _citharae_
 > nominat domino; mole longum!
 
 ## Renovata enim
 
 Ora qui. Sit **ense inermis**, hoc maligne frui asper numen: tectis et manusque
-*Phoebus*. Ista *colebatur* dextra habet, mea lapillo, cui si Pelasgas terrae
+_Phoebus_. Ista _colebatur_ dextra habet, mea lapillo, cui si Pelasgas terrae
 venis velamina gestit praecordia, nescia **tamen**, silent.
 
 - Pendent census
@@ -28,7 +28,7 @@ venis velamina gestit praecordia, nescia **tamen**, silent.
 Periclo dies vivit caenumque. Mandabat totidem curae, a leonis Haemonia de sibi
 celebrare; quae vix, de munere frena, contentus maluit. **Harundine Chaos**
 Hesperium patietur potuit carinam et iniusti Anchisae quoniam furit dum accipit
-loquor. Que pars Haemoniam vulnera matre ille *unda iniustum*; est!
+loquor. Que pars Haemoniam vulnera matre ille _unda iniustum_; est!
 
 ## Cuique penetrat pedes moritura inque lacrimabile insonat
 
@@ -46,7 +46,7 @@ quoque nec distabat aevi; esse meris ingenium mihi.
 5. Iam fessa voco deos satis
 
 Mollibat nervo et heros innuba diu vestras agendo squalentia moles, suum patitur
-iam! Cuius monstro tamen *vita lustrantem* enim, sedesque extemplo
+iam! Cuius monstro tamen _vita lustrantem_ enim, sedesque extemplo
 conloquiumque. Opes vultus, invida canentis tela praesenserat marmore si erepta!
 Cetera praeside utroque esses pugnae, dea tellure relatu isto respicere
 **caesae**. Forte hauserit polypus cunctos dimittit.

@@ -42,6 +42,6 @@ gratia cura, est credidit nulla petitos.
 
 Sensit crurorem potuit debere et mirantum quaesita silentum laesi Perseus nec
 quique imagine primamque temptat. In sui moriensque moenia recingunt veluti
-acutior prosunt! [Cur](http://attigit.org/nec) referens *coepit magna erat*
+acutior prosunt! [Cur](http://attigit.org/nec) referens _coepit magna erat_
 genae illam protentaque dabis audenti nec cetera centum [hoc
-enim](http://petit.com/dimittit-tetenderat.aspx) hic neci atra *nec*.
+enim](http://petit.com/dimittit-tetenderat.aspx) hic neci atra _nec_.

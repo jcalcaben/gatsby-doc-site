@@ -5,7 +5,7 @@
 Lorem markdownum ademptis purpureasque fugit videt animusque ille vestem: tauri
 tibi vidisse. Fugiebat lingua. Radice et et alis cervice; creatos stipite, est
 et generum dubitat res conata, feros, committere. Malo nec illa gener exercebat
-*mirantem illuc* defixa quamquam pars. Interea et carentia pinus frondes e
+_mirantem illuc_ defixa quamquam pars. Interea et carentia pinus frondes e
 vellent plausu gavisus nec.
 
 > Caelo agitur, agat, casside uni, loco, membrana resolvite Cyllene, illa **illi
@@ -14,8 +14,8 @@ vellent plausu gavisus nec.
 ## Putares refert miserata ipse Mopsopium animus quoque
 
 Capite **reddere**. Et ille Sparte te ictus tu fata, umeris deteriorque sedens
-lanas Cebrenida flumina suoque, agmina tamen iuvenes *exstanti*. Perdam sine
-tibi iacens unus ictus caelum Vix agris nomina! Mugitus silvas, *frenabas coma*
+lanas Cebrenida flumina suoque, agmina tamen iuvenes _exstanti_. Perdam sine
+tibi iacens unus ictus caelum Vix agris nomina! Mugitus silvas, _frenabas coma_
 vellera, ab rupta longo.
 
 1. Illud prius micantes verbis patruo hoc fata
@@ -45,7 +45,7 @@ nominat est ad parens contra prae Lycus adesset nostris experientis certo.
 - Nec omnia ante movit ictus sortis ambustique
 
 Quicumque hederis Hecabe, lacrimis Herculeos dignus: qua est repugnat, spicea et
-oraque **ab** reducto fecere. *Umbramque incerta* silvas tamen; sopore in
+oraque **ab** reducto fecere. _Umbramque incerta_ silvas tamen; sopore in
 argento an Clarium videre. Huius tristis; sequitur taedasque **Hylonome
 mensis**, di ignesque diversas. Est an praesentem mentiturque ignescere, ruris
 profundum natus Tyron summas.

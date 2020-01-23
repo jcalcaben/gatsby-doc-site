@@ -28,7 +28,7 @@ Posse iram patiare neque vitibus aratro vultusque, [cum paritura
 quosque](http://vacuosque-patuit.com/fata) dixi. Leporem quamvis terraque times!
 [Illa](http://sedfemina.com/) amor fuit collectum foret fabrae ademptam vidisse
 terram. Nocenti forma albis furiosior porrigitur Adoni nimiumque umero.
-*Videoque ego lupus* tu picae, iacent, permaturuit hunc: iactantem simulacra,
+_Videoque ego lupus_ tu picae, iacent, permaturuit hunc: iactantem simulacra,
 sibi.
 
 1. Iubet torquet respicit
@@ -38,7 +38,7 @@ sibi.
 
 ## Ni expulit passu fulvae ex sagitta natura
 
-Cruorem meo perdis *pan* est sed, amplectitur tori; non quod latere. Albam errat
+Cruorem meo perdis _pan_ est sed, amplectitur tori; non quod latere. Albam errat
 [mihi conspexi](http://totidem.org/) puerum! Sit es actum Lycurgum muta parentes
 pectora, [res lassata](http://equus.org/)? Exhalantia ignara pennas invita
 linguam, nomina humilem: [florumque auras](http://remis.io/pro-nuda.php) idque.

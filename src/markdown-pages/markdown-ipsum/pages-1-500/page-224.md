@@ -22,7 +22,7 @@ Caicus? Quae **est**, iam oscula ramis modo, **et** fatali vidi.
 At ignotae hic dixit bracchia; ardeat palmis latravit graia nonne pthiam subito
 **somnique** nec currum iuvenemque agmine. Palluit titulos et pacto sua obscuram
 tactusque mentis, decutit nostro. Nunc diem adfectas cognita traxit et nec huic
-moenibus, nihil. Incendia paternos *proelia habitatis* factaque quaque, nec
+moenibus, nihil. Incendia paternos _proelia habitatis_ factaque quaque, nec
 [Andromedan tenus](http://hictertius.org/) quaerenti provida velut est novandi
 nostri. Pervigilem sitis, **si pictae**, fine mens corpora veris.
 
@@ -32,7 +32,7 @@ nostri. Pervigilem sitis, **si pictae**, fine mens corpora veris.
 4. Diffusum metum
 5. In esse Maenaliosque putate ignotos annos
 
-Quod flectat intercipe *tibi pollice* tecta non ferox nomen signa nondum
+Quod flectat intercipe _tibi pollice_ tecta non ferox nomen signa nondum
 miserrima iuvat. Noctis minitantiaque Caune **adsis me**, ego in protecta,
 adsistere? Pondere frustra cupido, et cervice super. Vincula tuos mota **nec**:
 nostris e et Hippolytum belua iaculantem et ilice. Capillis **eadem intravit

@@ -14,9 +14,9 @@ moveri iussa.
 
 [Me commune mansit](http://adrapit.io/) inquit. Cum humili fossas reddebant
 volucres digna! Medio oculos nautae artus defendere morti orbes, et pereat
-**optas**! Noctisque clipeum cernit, vertitur *levabere cumulusque* et non
+**optas**! Noctisque clipeum cernit, vertitur _levabere cumulusque_ et non
 confugit munere corpus, atque Naxoque videt per et frigore deus. Viro tristisque
-longo transtra, tua luna totidem *fugacibus nisi silet*, heros flammas poscenti;
+longo transtra, tua luna totidem _fugacibus nisi silet_, heros flammas poscenti;
 illo.
 
 **Ter** esse haec suasit undis atque obliqua emittere et iuventus cecidere ut
@@ -43,8 +43,8 @@ monstris. Venistis erat proles super triticeas dies: Iapygis non!
 
 ## Reducere sorores quae sublimia fulvum
 
-Expellitur et resilit dimittere Talia, sparsaque *ruit*. Herculeis mi, capillis
-sed: rumpunt orbus **nexaque** accipiter iactata sacra! Hyaleque *fervens* fores
+Expellitur et resilit dimittere Talia, sparsaque _ruit_. Herculeis mi, capillis
+sed: rumpunt orbus **nexaque** accipiter iactata sacra! Hyaleque _fervens_ fores
 hoc cervicibus deerat simul operosa, in commisi.
 
 ## Ignes casusve

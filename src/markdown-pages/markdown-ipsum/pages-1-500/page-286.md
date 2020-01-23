@@ -17,7 +17,7 @@ Acerno Lycias. Nitidum in Phoronidos dubitas nitentem corpora, causa perque
 creverat amissum terrae. Tridentigero fugit, non quoque commisit
 [tradere](http://hosoris.net/) ipsamque formatus Quid. Suo fata mortale et
 collesque numinis prohibent **facto conplexaque** et. Nunc eris, videre mollibus
-pondera simul prosunt tradidit solverat manibus, et *habebat carinae*.
+pondera simul prosunt tradidit solverat manibus, et _habebat carinae_.
 
 ## Opposuitque ipse
 

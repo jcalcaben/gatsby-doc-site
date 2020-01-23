@@ -2,9 +2,9 @@
 
 ## Guttur se sucos Clymene Ceycis
 
-*Lorem markdownum cervix* at Aurorae profecit vitiato semina, aut vivo; nec.
+_Lorem markdownum cervix_ at Aurorae profecit vitiato semina, aut vivo; nec.
 Adicit etiam Elin abundet, ora sine linguae. Artus despectat dominis matris.
-Squalentia eques ad *viri*, altera cum, vertice, Sicyonius parte, suis, poterat,
+Squalentia eques ad _viri_, altera cum, vertice, Sicyonius parte, suis, poterat,
 procumbere.
 
 Credere inulti huc undas aliter aethera, lacertis vicit ut optatis haesit
@@ -38,8 +38,8 @@ forma nos sidera.
 
 ## Crepitante superest concutit
 
-Tecum in caelo constitit filia putat. Nisi vox nymphaeque *animam nec* digna
-induit semper Iuppiter *noctis* moenibus virides habent loco, inpetus dividit
+Tecum in caelo constitit filia putat. Nisi vox nymphaeque _animam nec_ digna
+induit semper Iuppiter _noctis_ moenibus virides habent loco, inpetus dividit
 stantis aeternum. Coissent arcem, est inque fores Inachides luctantia feret in
 ante. Autumnos qui novi video tu, at esse suisque: fertur virtutem.
 

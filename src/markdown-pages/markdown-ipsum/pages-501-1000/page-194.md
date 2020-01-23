@@ -22,8 +22,8 @@ Solacia vindicet.
 
 ## Gente aede
 
-Vulnera lustrabere loqui *fulmine et semina* viventia sterilis et regnum, *oris
-fallat* unda nant. Superba prole fuit enim? Est quodcumque artes relicta, in
+Vulnera lustrabere loqui _fulmine et semina_ viventia sterilis et regnum, _oris
+fallat_ unda nant. Superba prole fuit enim? Est quodcumque artes relicta, in
 solis ungues cruores supersunt. Infernum nostro capillos, marmoreo; e obliquum
 nigrae agrestibus umeris, est huius nostris coniunx gemitus, Thracia te.
 
@@ -36,7 +36,7 @@ per nervo**, suffusa Idmon.
 
 ## Est tum
 
-Patruelibus *sepulcri* laqueosque *prodes*? Ex **illa scissaque**, rostro
+Patruelibus _sepulcri_ laqueosque _prodes_? Ex **illa scissaque**, rostro
 **adverso atque**, freta est iam sunt dominoque ubi verbis umeri amor est!
 
 Quaerere quo auspicio caesa ramos campos laeva fuerit medio tamen. Non recenti

@@ -2,7 +2,7 @@
 
 ## Visa nebulas
 
-Lorem markdownum misit; minabitur *inposito* subdit et a simulat requirit
+Lorem markdownum misit; minabitur _inposito_ subdit et a simulat requirit
 stridore facta Antiphatae. Veni consternatique misit si udaeque? Spes saxificos
 tumidam; e!
 
@@ -19,7 +19,7 @@ possit.
 Quid parte lenire patefecit subitarum proximus dictis dum; stravimus totidem
 sermo funera. Haec Thisbaeas, blanditus, [nec
 auras](http://ipse-tibi.net/ita-oscula.php) tota instar sacrarunt inpedit
-paventis piscem amnes ne veloxque *ignibus*, montesque? Tardatus urbis fore
+paventis piscem amnes ne veloxque _ignibus_, montesque? Tardatus urbis fore
 conantem vobis et digitis **spernimur pudorem**, ad se quae hortanda Troiae
 ille; tot! Lacertis gemitus, quid in mortis posset fuga generosior totoque illo
 penetrabit modo potiunda?
@@ -28,7 +28,7 @@ penetrabit modo potiunda?
 
 Dextera Rutuli voti: suis ante, sub formae mergor densis, corona lambendo
 sociantem adsunt, tueri. Proserpina temerarius; sit superi, toto victor **aut**.
-Sacer etiam Latiae *secus*, proripit tenent lacrimis inutile, puer arbor
+Sacer etiam Latiae _secus_, proripit tenent lacrimis inutile, puer arbor
 Hennaeis de.
 
     ripcording_full_cell(promptWep - odbcStorage(link, boot_install, rich),

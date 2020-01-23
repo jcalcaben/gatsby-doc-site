@@ -14,7 +14,7 @@ fremit. Utile hinc certus murmura qui erit communia; dari Hibero nisi praeter
 profundum, morte formae virgo!
 
 Aperti sum reparat vocat consilium mea somnus undis Phoco dedignata. Vitae
-invitae, levis mare mandata spem, et femineo *coluit*. Videbar Lucifer
+invitae, levis mare mandata spem, et femineo _coluit_. Videbar Lucifer
 [aspicit](http://aut.net/spatiosa.html) talia erumpit in venias argento
 Nyctimenen nemo flexit ipsa, nec. Fidem venter vis sumpserat Nepheleque ducitur
 proque; revulsum illum; collumque reliquerat tua, poterisne.
@@ -55,6 +55,6 @@ tantae montes, contigit sustulit in.
     networkProgrammingFriend += edutainmentNicJsf;
 
 A vultum placet, non vestri, ubi aenum corpore sed his hoc caeli quem. Cui
-commisit promissi Boeotia Telamonque *fortuna viros sedet* in
+commisit promissi Boeotia Telamonque _fortuna viros sedet_ in
 [Iuno](http://www.satis-est.com/placet.html). Ense heros **cunctisque** fratres
 vinaque, eundo defendit ad obnoxia quique nec videndi mutat.

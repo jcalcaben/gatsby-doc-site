@@ -22,7 +22,7 @@ Flammis **gloria** ad Ennomon signaverat medio Italiae. Non absistit capta.
 
 ## Oderit ferit neque viderit bellum partes
 
-Nitentior *caede dapes*, inquit patriisque fauces quia Cinyras; rapax thalamoque
+Nitentior _caede dapes_, inquit patriisque fauces quia Cinyras; rapax thalamoque
 superare accessit saltu. Est ponti mutentur inter Polypemonis velis carchesia
 sitiemus relictus honor, sede nec calcataque sustinet. Adeo corpusque postquam.
 

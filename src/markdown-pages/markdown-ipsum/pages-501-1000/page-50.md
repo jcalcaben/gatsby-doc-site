@@ -15,13 +15,13 @@ tamen iratus narratur.
 
 Trepidare forte. Se incana fuisti da, neque fide sua dare sub. Sua illum,
 sustulit et poenam adempta, per aera saepe nec. Flectit ipse cornua Lycum
-concedant manu, **lumina te** sponte, *repetita*.
+concedant manu, **lumina te** sponte, _repetita_.
 
 ## Hectoris sanguis temptare in illud terris
 
 Catenas ibi Lelex ignis laurea Neptunia, murmure constitit proceres sunt. Quod
 **vires**! Annos superest arte abiit, sanguine AI aries Peneos iam corpora
-decreta varios vocant gravi. *Vestra contraria ab* talis fateri Achillis, fabula
+decreta varios vocant gravi. _Vestra contraria ab_ talis fateri Achillis, fabula
 trahit Melanchaetes delere, inquit sunt. Enim det, cum luce pertimui, respicere
 et fulvis nemus.
 
@@ -36,7 +36,7 @@ et fulvis nemus.
             driveQwerty, standbyJava), compression(rpmSdk), box);
 
 Idem vulnera et quorum, nihil Phantasos Aeaciden. Dura Iunoni ora, inguine
-Achivae, femineo traxit quaerit. Puer despondet Cerealia totumque tuentes: *ego*
+Achivae, femineo traxit quaerit. Puer despondet Cerealia totumque tuentes: _ego_
 suo secuta iuvenis ea inde nec formae, de quos.
 
 Adhuc unum animas, ferro aut in dum [navalibus](http://habet-in.com/repetam)

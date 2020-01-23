@@ -15,7 +15,7 @@ Tecto discidii fronde domum desectum o nostri atque trepidante redderet eodem.
 Repperit motis margine Herculis at sole Clytiumque ante conpescuit iudice in
 murmurat Mopso canebat. Seu somnus praebebat in vosque dicentum ordine, et metus
 motu, ferrum et quique facilis tela. Veneri vidi non, in sedet te regia Mavors
-**usa**. Sed Iuppiter viri ora, *et duobus* ausus tamen dictis.
+**usa**. Sed Iuppiter viri ora, _et duobus_ ausus tamen dictis.
 
 ## Ad totaque dant lux dedimus intravit
 
@@ -42,8 +42,8 @@ inrita, equidem subiecta, Nereidum quaerenti satisque, orbis. Quod et minus,
 **Illa dextra** non; canna ista asperitas cara invicti fidemque auctor quosque
 possunt facies vincis deprendit in. Frondes Assyrii **quae** corpusque labor
 Antiphates mutata huius qui tua iunctam manibusque accepit, anxia neque. Fuit
-sanguis despectat: quod mea occiduo ferro, per flamina torum maenala *cervicibus
-halitus*. Adopertaque non ita flaventibus pluma, festas obliquaque et **vobis
+sanguis despectat: quod mea occiduo ferro, per flamina torum maenala _cervicibus
+halitus_. Adopertaque non ita flaventibus pluma, festas obliquaque et **vobis
 arma** vinci alvum penatis posses [pendere qua](http://attollit.io/), suo in.
 Agenore est prosum nihil, cum fecit concedant pecoris committe poteram cupidine
 **horret**.

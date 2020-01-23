@@ -5,14 +5,14 @@
 Lorem markdownum aglauros tristia **oraque** arma divum premeretur claro
 voluitque. Quid imagine vimina et nati ponit, spemque tibi quisquis illa.
 
-Mansit nostro. Si aevo tonsa *generis* Oresitrophos septem inplebo. Numina tuae,
-nam nomen, gaudetque ubi dedit Elateia, novissimus artus rates famem *saepe
-arcum nondum*, dat. Per nisi finire, sed est clementissimus nomen in Hectora
+Mansit nostro. Si aevo tonsa _generis_ Oresitrophos septem inplebo. Numina tuae,
+nam nomen, gaudetque ubi dedit Elateia, novissimus artus rates famem _saepe
+arcum nondum_, dat. Per nisi finire, sed est clementissimus nomen in Hectora
 coeptis videam chelydri **in lumina** omnia metuam, ubi scilicet?
 
 ## Saxum si robora accipit fertur
 
-Nec aurum lavit, Hospitis angustum mansit, *colla* ipsa. Vias ora **cum de et**
+Nec aurum lavit, Hospitis angustum mansit, _colla_ ipsa. Vias ora **cum de et**
 micat, creditur neci. De ipse culpam recentem teneas.
 
     if (systemCompilerLun(956932 + 4 * ssh, pageNasRpc.software_mini(578649))) {
@@ -44,7 +44,7 @@ plura cadunt templorum aequora, fores. Regna sit genus Priami saepe arma cum, in
 neque fugio equi? Nate usque matres unde fortunam, dabatur praenuntia ademptam
 ardet. Considere infelix, nec corpora facta.
 
-> Idomeneus Ausoniae Achivi: fuga terruit sui: exit: *inanis quid*; vindicat.
+> Idomeneus Ausoniae Achivi: fuga terruit sui: exit: _inanis quid_; vindicat.
 > Mensas felix et deusve gemmis ipse avidis, modo bis tamen mihi, nec. Sive ego;
 > latitantia vestis classe coma, brevissimus tantaque effugies adduntque. Dedit
 > datur ager quoque **atque nutrix** cum femina lacertis calamo illo aequor
@@ -56,8 +56,8 @@ Frustraque tange, quod sena iniustaque Pallantias ergo regia inque Aiax est.
 Partem quod ludit Iovisque facietque senectam quoque terrae dextra longe. Est
 oculos **vidit**.
 
-Ipsa medio est ferro aurora officium festa *et* artus densetur. Et saxa navita
-terra purpura postquam *et sum confundimur* numinis Molpeus; ut Arcade et
+Ipsa medio est ferro aurora officium festa _et_ artus densetur. Et saxa navita
+terra purpura postquam _et sum confundimur_ numinis Molpeus; ut Arcade et
 naribus. Natis Cadmus di populo finita dempto invenit [est superas
 tamen](http://it.org/metus-factura) fraternis **veste**, nisi mihi parentum.
 Adstitit caeleste in suorum despexitque cui parabat pro superba litus! Quaerenti

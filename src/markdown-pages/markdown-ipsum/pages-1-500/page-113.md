@@ -2,11 +2,11 @@
 
 ## Peneia certis
 
-Lorem markdownum, temeraria dexteriore aevi *laudis papyriferi* inquit, educat
+Lorem markdownum, temeraria dexteriore aevi _laudis papyriferi_ inquit, educat
 seque. **Esse annum** postquam vagantem ortu. Idem plurima, cum rigidis Sirenes?
 Nec nitidique nivis tectis, nec arva cupidine ieiunia
 [quaerenti](http://ventis-utque.org/) sinat quippe
-[opaca](http://sepulcris-illa.com/), ponderibus spoliis. *Virgineos cornibus*,
+[opaca](http://sepulcris-illa.com/), ponderibus spoliis. _Virgineos cornibus_,
 generis, fluctus huc nec haruspex variabant fessos fama inmensi claudunt?
 
 - Est dis tacui oscula et exigere iubent
@@ -16,7 +16,7 @@ generis, fluctus huc nec haruspex variabant fessos fama inmensi claudunt?
 
 ## Atris sanguine ala lanaeque neque
 
-**Omnipotens Iris** mugitus alis est gravatum; *rursus* manere?
+**Omnipotens Iris** mugitus alis est gravatum; _rursus_ manere?
 [Ubi](http://www.dictynna.org/) deae anguis habuit dominoque undis **se taedae**
 olivae referrem cervis toto. Enim spargit virginis stetimus cruentis, guttura
 iuvencae cacumen templa! Non adacto, et erroresque excipitur preces corpora
@@ -27,8 +27,8 @@ Eumelique fixerat.
 
 ## Multos fessusque huius solis imagine concipiunt
 
-Quem in denique ferrumque quoque quidem, *et* vetitorum omnia vestra adfore
-blanditiis laudat novaeque. *Procubuit maris*? In si ipsa coronantur nec!
+Quem in denique ferrumque quoque quidem, _et_ vetitorum omnia vestra adfore
+blanditiis laudat novaeque. _Procubuit maris_? In si ipsa coronantur nec!
 Carmina lina. Procul peream de is olivae [sonum sic
 tempore](http://auctorlatebras.com/incubuitaquarum) duobus luxuriare frondibus.
 

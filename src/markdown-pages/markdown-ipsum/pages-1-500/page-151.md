@@ -3,13 +3,13 @@
 ## Ipse donec geminis revexit curva ardor arcanis
 
 Lorem markdownum securi conterminus decutit crescunt timuere: essem sus enim tum
-quibus atque! Fatiferum aere *arbitrio origo* lactantiaque velox potest.
+quibus atque! Fatiferum aere _arbitrio origo_ lactantiaque velox potest.
 
 ## Nycteus quin quaeris ille bella
 
 Vidi ponit hanc, artis, more vel percussis. Fas frater, alii salute rutilis,
-tendebat se nudare figuram, saepe *sparsas frena*! Ululatibus subitisque
-*tenentem natas* multoque. Pro vesana est dicere me vertitis Eurystheus rector
+tendebat se nudare figuram, saepe _sparsas frena_! Ululatibus subitisque
+_tenentem natas_ multoque. Pro vesana est dicere me vertitis Eurystheus rector
 et augurium quod ut securi glacialis. Frenisque positis nigras, quid silet, per
 et loquebatur inpune nil fera luget.
 
@@ -40,7 +40,7 @@ sub, nisi falsi. Posito ubi nocte tuque sed hinc. Tendit tanta, satiata, mansit
 contraria additur sunt spoliis.
 
 Tumentibus quoque. Aut ardua alto sua turbatusque, malum subit tamen, dira
-*Salmacis crepitantis ut*. Fronti [gentis](http://cavis-nova.com/ipsisrefers)
+_Salmacis crepitantis ut_. Fronti [gentis](http://cavis-nova.com/ipsisrefers)
 concitus genibus: **o infelix admonitus**. Sunt etiam: sua porrigit prius
 sumpsisse meritis subito sortem et.
 
@@ -54,7 +54,7 @@ inpune modo nymphae possis concretum et.
 Iugulati quem imas noster diversaque notabilis currus genetricis, propioraque
 poenam septima latratibus virum. [Iuvenali](http://www.honoreme.org/cernunt)
 veris et fores tamen inde rostro oppida, mille in! Violenta crediderim neve
-audaci *avertit di* hora natura nostri! Carior sermonibus Cinyran, fera suo, in
+audaci _avertit di_ hora natura nostri! Carior sermonibus Cinyran, fera suo, in
 illo culpam, per **virgo**, precor.
 
 Adspicit mihi delamentatur vagos tegumenque si curat aethere temptatis Cerealia.

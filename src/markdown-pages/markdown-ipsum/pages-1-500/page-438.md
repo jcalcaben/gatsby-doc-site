@@ -3,26 +3,26 @@
 ## Aetas nam ab
 
 Lorem [markdownum laevaque fugit](http://quas-parabat.org/) bimari quae. Anxia
-avidamque intravit aurum *illo* probavit tantumne convicia fingens, nec bis.
+avidamque intravit aurum _illo_ probavit tantumne convicia fingens, nec bis.
 
 Esse relevare perceperat omnes, toto decipit, Hippalmon indulgere salix,
-semianimes. Fructus si imitatur ventis in et *adloquitur me manibus* vidit, tot
+semianimes. Fructus si imitatur ventis in et _adloquitur me manibus_ vidit, tot
 tuum mediis **scopulo**. Concita ventura parentum summo neque, rogat innixus
-vivacisque et sub funera tuque, *alis per* suique Thebis.
+vivacisque et sub funera tuque, _alis per_ suique Thebis.
 
 Iste non Acheloe sustinet mutare infirmos daulida laeva. Quid inanis, me erant,
 ora inbutam eris. Ait rauco, cauda Caune solus super illo deperit poteras in
 erravit paratu amnes. Caede acceptior umbra motis, est occulte destinat poenam
 minitantem. Est moenia Cyanee furtum, **primisque** disposuit Aglauros
-*operisque* frugis faciendis!
+_operisque_ frugis faciendis!
 
 ## Et Neptunia trahatur an dilapsa duos aetas
 
-In *Vasta*, vendit Gradive victoria gravatum placuit superbia iaculante aevo,
-patriis ratus haeret. Hoc iuga restituit et *vix prisco caput* hoc laetos:
+In _Vasta_, vendit Gradive victoria gravatum placuit superbia iaculante aevo,
+patriis ratus haeret. Hoc iuga restituit et _vix prisco caput_ hoc laetos:
 pictam [iuro dixit portis](http://www.scyrumve.com/) feras auxilium est et modo
 **non**. Solum nec et nocet cognatas quam. Vasta modo iterant Ismenides
-**vocisque perempto** et nunc, Nonacrinas haec: spe *iuvere*.
+**vocisque perempto** et nunc, Nonacrinas haec: spe _iuvere_.
 
     if (boot) {
         baseband_dial(kerning(windows, optical_pinterest, pci));
@@ -61,9 +61,9 @@ amaverat **praedaeque lupi tum** annum Ausoniae? Quae qui urget roseo remigis
 utriusque ad regna imagine fulvas tantique, mollit vix omne columnae virgo,
 adspergine.
 
-Quos proxima mens tecto *me* fremebant sorores absumitur capulo vocem patentis
+Quos proxima mens tecto _me_ fremebant sorores absumitur capulo vocem patentis
 memorantur ad tibi lacerto et posti. Moenia satis dapibusque plebe, sed et
-medius corona? Bina *capi duos* possis pascas. Iuppiter metuis amplectitur
+medius corona? Bina _capi duos_ possis pascas. Iuppiter metuis amplectitur
 voluit! Doctior fetibus sensit limite,
 [dicunt](http://frequentatore.com/omnia-vincemus.html) fortiter an sceleri
 saevisque pactus sine dixit, nulli.

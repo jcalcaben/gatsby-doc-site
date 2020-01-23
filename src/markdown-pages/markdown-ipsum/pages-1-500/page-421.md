@@ -5,7 +5,7 @@
 Lorem markdownum pollue ad sub silva intenta et diruit nisi iugulo, ad auras
 operis. Me cum stant, sic maerentes! Aquae non evanuit habet. Illum cladi!
 
-Falso diu suos fuerat resurgere fatigat *conatur quantum* festinus convicti
+Falso diu suos fuerat resurgere fatigat _conatur quantum_ festinus convicti
 furti **in** solidis praebet! Sua vivit loquendo amor nec, se
 [densi](http://www.estdaedale.io/interea), cecini. Longe vertice, silices si
 quidem saepe vicini multis post verborum quam voluit Sparserat. Experiar
@@ -17,7 +17,7 @@ in, virgo hostis excedere.
 
 Trepidare pro Clytie iussa est; per terga, perceperat mortalis manusque et.
 Aetatis cremat matris capitisque erat postquam quae illi, ipsa oras ignavo
-multaque postquam pastae. Peremptis *imagine*, nec qui icto, cum, ratis toris,
+multaque postquam pastae. Peremptis _imagine_, nec qui icto, cum, ratis toris,
 qui odium truces praerupit; facta detur finiat. Illam delere; extra phoenica
 eunt turbavit et vidisse pulchro do colorem iunctus cornua tuos.
 

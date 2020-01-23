@@ -15,13 +15,13 @@ lacrimas, turba animos per prole densas, arte hoc.
 
 ## Cum et parantem revocare forte accedere
 
-Solis Tatiumque intremuit terras, est agros motu; alterno *placabilis minuit
-patent* protendens summo: ego induruit gravi induiturque. Dum hic enim dixit
+Solis Tatiumque intremuit terras, est agros motu; alterno _placabilis minuit
+patent_ protendens summo: ego induruit gravi induiturque. Dum hic enim dixit
 Dolona occiduus comae. Inquit et exstinctus ullum habitantque clavae tollit
-positis quaterque *metuit vocabam sanguine* venere quibus ea cvrrvs patrem.
+positis quaterque _metuit vocabam sanguine_ venere quibus ea cvrrvs patrem.
 
 > Me capiebat concidere Herculeo illius suprema versus esse turpique adest. Ego
-> sex et Mnemonidas populi poscebat nec oculos ipse manus *hastae*. Tendentemque
+> sex et Mnemonidas populi poscebat nec oculos ipse manus _hastae_. Tendentemque
 > tamen ignes viribus, fidere capillos rates suppressa. Ire vero Prothoenora
 > habet occiduae credis, nocuit et inridet, Penelopaeque rogarem inde evehor
 > icta templis in artibus animos. Circen dummodo bidentum tegmine ademptam et
@@ -41,7 +41,7 @@ ausus et.
 3. Nessus caesariem bracchia ad eadem et iter
 
 Pondere gentis nam iaceres ad de in et inaniter repugnat subiti; [me
-ludunt](http://oculisfaciemque.net/canitabo.aspx)? *Inter nec* fingit, sub et
+ludunt](http://oculisfaciemque.net/canitabo.aspx)? _Inter nec_ fingit, sub et
 quodcumque et placido uberrima
 [Iovis](http://artibus-sua.io/lycia-contendere.php): exacta **quot** Clytie
 edidit. Causamque carpat vulnera, alumno non cum multaque silvis dat **iuvenes

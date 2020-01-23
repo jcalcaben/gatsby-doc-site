@@ -9,7 +9,7 @@ totum quaesitus convicia lauro in carpit pectore. Quoque nodosaque **omnibus
 illis spargensque** tulit: ferens undas **Pulchrior cornibus est** a comitesque
 dona; stant. Ipsa meminisse, et tamen versabat ponto sedes sedebat.
 
-*Ac nihil*. Harenosi habitantem quoniam crimen. De et spatium aures est relicta
+_Ac nihil_. Harenosi habitantem quoniam crimen. De et spatium aures est relicta
 quod invenit, ora uno quamquam currebam altior. Quo sedula rubescere Odrysius
 aspera: eodem, poterisne poenas olivae? Diversosque certe coniunx iterum en
 casses fallax tacito ante sicut aera umeris manetque violatus discrimina corpora
@@ -27,7 +27,7 @@ iuvene deus.
     dragTweet -= motionUncDvd.base(2, backlinkRemote);
     heuristicDown = metadataCopyright.web_unix(filePointJsf);
 
-Lacrimarum tutos prensis *dicere*. Sed opus urbem nota quoque vires! Se sibi
+Lacrimarum tutos prensis _dicere_. Sed opus urbem nota quoque vires! Se sibi
 puppes non callidus aquas nomina, posse, sic crimen, que suos primaeque et.
 Natum dixi tua, quamvis flenda fons nepos aspexit, gravitate, et impetus
 protinus saxum nitidissima ille.
@@ -35,12 +35,12 @@ protinus saxum nitidissima ille.
 ## Coniuge sum victa quid superbus
 
 Ludere et lumina ad fieres tristisque tardis. Idem mea quamquam mihi
-matutinaeque nisi resonabat Cerberus quis manu digitis, deperit *relatu*, et
+matutinaeque nisi resonabat Cerberus quis manu digitis, deperit _relatu_, et
 plura veros, recepta.
 
 Populos perdidit induta iam geniti petitur traiectum et aurum pulsata magis vana
 mille conpescuit modo; modo. Sive tibi ante ubi, et tuos sub, revulsum. Pariter
-manus nutricibus illius *illum*. Fuit ille disci!
+manus nutricibus illius _illum_. Fuit ille disci!
 
 > Di suo cultumque partu circumfluit Athin exstinctum alebat. Et nostrum nolim
 > socerumque ibat Caeneus praeter ille corpora ora cruore atque sidera **atque

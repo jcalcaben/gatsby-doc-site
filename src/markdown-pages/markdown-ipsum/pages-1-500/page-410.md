@@ -31,7 +31,7 @@ tellus.
 Proles ad pacis commonuit secures, membra dies, acceptior ipsa! Rabies corporis
 Europaei vectus, quoniam, possumus Epaphus dixit in quos aequora. Fuit in prima
 ad punior rupta sacra, est parentis **summo**. Ponti puto circumspectis haec
-fulmina *flavus*. Iuvenes mater, Terea sumere *famulasque sis* Charopem eventu
+fulmina _flavus_. Iuvenes mater, Terea sumere _famulasque sis_ Charopem eventu
 invidiosior Minoa sorte motis solida quoque oscula te fletus vultibus.
 
 - Sollertia vestri errabat pavit vestemque aethera Styphelumque

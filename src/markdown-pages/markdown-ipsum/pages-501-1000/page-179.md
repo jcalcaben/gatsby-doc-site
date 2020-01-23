@@ -34,7 +34,7 @@ Hector, quibus in talia socerque.
 
 ## Color quid actaque novus
 
-Est clamat coeptus. Quo artes *resupinus*, modo ave adlabimur regna flecti,
+Est clamat coeptus. Quo artes _resupinus_, modo ave adlabimur regna flecti,
 intempestiva condit videtur convertit. Vinctoque umida illi Procne, tu procerum
 equorum sub viros Phoebe. Quod stagnum ambobus sibi. Alta tellus pererrat
 petant.
@@ -64,6 +64,6 @@ iudicis?
 Numam dilapsa inmeriti, nec negat utque bipenniferumque tremit calathosque
 reseminet mare. Admotam venit temptant longa Deionidenque adhuc Priamum rugis
 neque. Insequar soceri aptumque coniuge fatifero levatus annum, nec modo, meque
-odio solio *remotam*. Singula conpagine dignus abrepti misit Salmacis tegi dolis
+odio solio _remotam_. Singula conpagine dignus abrepti misit Salmacis tegi dolis
 stamina, orat. Moveri novantur terrae, par ramum in et parens, feras Cyllenius
 Teleste nunc papilione tamen: motu.

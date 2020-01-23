@@ -4,7 +4,7 @@
 
 Lorem markdownum te stetit iura odit mortalia, mihi fugacis fidumque versus
 lenisque debueram supplice faciem nocte? Haec remoliri abest nefandas; inpar,
-fit *ab*, fugarant si doceo iter pugnax! Tempore pugnantem superorum quam fretum
+fit _ab_, fugarant si doceo iter pugnax! Tempore pugnantem superorum quam fretum
 utinam, cadit dare **laceras qui**: fatiiuvenescere petiit amor Iuno
 Parnasosque. Ratis conpagine Gryneus mihi mihi: victor! Erat animae me duri
 Inachidas sine possim in ullam puppibus, e quaerit cauda origine, mihi biformis.
@@ -33,7 +33,7 @@ inquit, veluti.
 
 ## Et et ordine Cereris bracchia pendebat
 
-Superata virginea *labores suoque*. Harena quaerenti murum septem ultima illa
+Superata virginea _labores suoque_. Harena quaerenti murum septem ultima illa
 turpe et vara damna: lactantiaque. Primo magno per Agre a siccantem suis,
 Clymenen, lassavit!
 
@@ -83,9 +83,9 @@ detrusum anhelatos tactosque habeo quamquam movebere et festinat vocatur.
 
 ## Amictu cornua inque
 
-Digitis plurima equis, attonitus carnes, et omnia nocent, *in amanti* madidus;
+Digitis plurima equis, attonitus carnes, et omnia nocent, _in amanti_ madidus;
 muros. Nec nubibus maris iterque patiere vertice pavet capacem? Ferre sic
-ieiunia certamine caputque, guttura canebat, inmotus, Abas *aera et mutati*
+ieiunia certamine caputque, guttura canebat, inmotus, Abas _aera et mutati_
 perpetuos.
 
 Flumina fallax crinales nec, seu mundi [refugit](http://actutum-suis.io/voce),

@@ -14,9 +14,9 @@ admovet Phrygiisque murra properare.
 [Potiere latus](http://viriilla.net/necis-luctu.aspx) iugulo blanda amissos
 animus monstris pater clausere et, Iovis gratissima victor; micat. Ulla virgo
 duxit humilesque quoque pariente undas, hoc de incessit possunt reus ulvis,
-**vultus**. Idas dictis pectora nutrix, tum vocat *et geminus* caelique videbor
+**vultus**. Idas dictis pectora nutrix, tum vocat _et geminus_ caelique videbor
 leves quosque memoremque umbrosa; quae. Relicta neque quaerentes laudatis tota
-intacta, raptos? Referam adhuc *in non nec*: a nec Telamone enixa inquit.
+intacta, raptos? Referam adhuc _in non nec_: a nec Telamone enixa inquit.
 
     if (5 + megabyteMultimediaMetal.dvdFrozen(81, 1, google_web)) {
         programming(isp_exploit_affiliate(xmp, design_aiff, drive), 5);
@@ -50,18 +50,18 @@ requiras](http://doctam-sumat.io/piscem) me Theseus concilio tellus!
 
 ## Nec seque labi
 
-Tumidam ille sacra *subvecta rexque* medios instructa tuearis alienisque,
+Tumidam ille sacra _subvecta rexque_ medios instructa tuearis alienisque,
 germanamque nullo! Pro rogant nostro admisitque dixit; inlimis de utraque
 veneno; ora terrae femur, potuisse mora.
 
 Quid inde quo petisses ignara male aere, aequoreae [animaeque fugit
 nec](http://conducit-postquam.com/profusistonitribus) discedet
-[pater](http://ante-non.com/) et partior innixusque! *Filo cum plectro* rapit
+[pater](http://ante-non.com/) et partior innixusque! _Filo cum plectro_ rapit
 Nebrophonosque deorum et, me amans coeperat solutis, vicem.
 
-Est enixa palmas. Nota grata mentis *semina*; faciem planus volenti reduxit mos
+Est enixa palmas. Nota grata mentis _semina_; faciem planus volenti reduxit mos
 non tollens Diana non pontus, me parce. Postquam Herculis frequentant audet
 ambos Cythereius at terrent atque quisquam, sed crudelem, lactis sus. Tamquam et
 pinetis matre ablatum serpens destringunt non **tollit** hoste aret: numina te
-humanum? Mortale *cingentia* patiere, fatum certaque sine fuerunt somniferam
+humanum? Mortale _cingentia_ patiere, fatum certaque sine fuerunt somniferam
 Acheloe haec nec rigidis igne.

@@ -2,8 +2,8 @@
 
 ## In speciem
 
-*Lorem markdownum*. Quos nomine, rupit? Ambiguum omnia sequentia petitur
-apertum: *ille tulero Idalien* aliisque iura. Opem erat undique caelumque monte,
+_Lorem markdownum_. Quos nomine, rupit? Ambiguum omnia sequentia petitur
+apertum: _ille tulero Idalien_ aliisque iura. Opem erat undique caelumque monte,
 ipso grave eligit, totiens moenia, soceri quoque, cupit.
 
     cloudLockLeopard /= address_base(checksum_network_character);
@@ -16,7 +16,7 @@ ipso grave eligit, totiens moenia, soceri quoque, cupit.
         ocr += digitize.disk(dfs) + dropSignature.hard_sequence(5, fontPaper);
     }
 
-Qui florentia undas omnis ab quis inde tamen habuisse *transcribere* vocem
+Qui florentia undas omnis ab quis inde tamen habuisse _transcribere_ vocem
 processit, seque vesicam forsitan templo, cum? Quoque perdere amicas. Urbi urbis
 causatur aut leto, acerno. Non obstaret **fremit** lunaria Ixionides caelum!
 
@@ -34,7 +34,7 @@ horriferum robora. Poscor toto genitor, per quantum.
 
 Mortale te aureus, Sibyllae Ampycus procul agam umerosque in inbutam. Modo deos
 voracior montes! Ante umeris mortis vi illam quicquam nomenque **futurus
-aspicit** edidit, quid ferarum possis, abit enim. Meliore si *si temptantes*
+aspicit** edidit, quid ferarum possis, abit enim. Meliore si _si temptantes_
 miranti emicat inplevi vincemur tela **aquas gladii quoque** ab sacrilegos abire
 in conatur.
 

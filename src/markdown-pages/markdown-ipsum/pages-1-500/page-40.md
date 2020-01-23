@@ -5,7 +5,7 @@
 Lorem markdownum doloris Maeandros quisque, **induitur exsiluit** bidentes et
 poena scilicet reverentia aura temptatum, sequentis Sole. Quaeris fuga data
 cumque, Pergama te tunc cum Iovem aperire: unus, confiteorque causa fuerat
-collo. Athenae mortales *dabat*: tegi concolor factum crescere poenas vadit!
+collo. Athenae mortales _dabat_: tegi concolor factum crescere poenas vadit!
 
 1. Caeleste hospes Acoetes obstitit at Troiana canum
 2. Liberat et mihi levi tempora quos

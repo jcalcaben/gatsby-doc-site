@@ -2,7 +2,7 @@
 
 ## Achivam recta surgit
 
-Lorem *markdownum movet incurrite* Alcyone in fiducia procul manu, reclusa
+Lorem _markdownum movet incurrite_ Alcyone in fiducia procul manu, reclusa
 tempus. Dardanio et arcus producit.
 
 - Coniunx sunt male tenebrasque rogabat radiante novis
@@ -16,7 +16,7 @@ tempus. Dardanio et arcus producit.
 Apro bellum vivacia: caput sed promissis chaos! Hospite conplexae opus.
 Eiaculatus dextrae certamine olivae ab habebat disposuit, est arma extulerat
 robur, mente desierat Dorylas! Modo quod consulit coniciunt undae thalamos
-suorum, qui, *mens capaci* nimia Echecli postquam pressa.
+suorum, qui, _mens capaci_ nimia Echecli postquam pressa.
 
 1. Germanam medii qua ignibus utque et tenuere
 2. Vestigia obituque ingemuit scrobe revertentes aufer
@@ -32,7 +32,7 @@ montes, **vocat sinusque et** pavet aper habere.
 Revocantis rapta, Ampyciden; figit nullo aper arvis; et buxum nomine montis.
 Cereris tortum invidiae hac desint, geratur grandaevique faciebat; summaque
 perosus, inpedientibus. Usus **illos expers** ponto nec armentorum, dei aeterna
-**aurea**. *Virgo temptamenta* parentum cincta respondent mihi superabat pollice
+**aurea**. _Virgo temptamenta_ parentum cincta respondent mihi superabat pollice
 necem et currus. Dixerunt dare.
 
 > Maneas agitataque pascitur truncum, gentesque **post**; primum cuspis. Lemnos

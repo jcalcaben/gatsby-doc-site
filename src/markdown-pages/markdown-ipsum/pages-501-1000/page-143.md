@@ -6,7 +6,7 @@ Lorem markdownum margine inclite suis ira **undique** fixa, sensimus e! Resupina
 [latentem alti dentibus](http://phocaico.net/a-egerit), spem stivave, curae
 **sic**: animumque dolusque. A tetigit, bis **exuit**; fecit mea, cornibus quae.
 Ara illa verbere est. Effectu pavere opus inmedicabile conchae est crebros visus
-Pittheia *pectore*.
+Pittheia _pectore_.
 
 Tepidisque frigore successit ex erat. Vivit marmoreoque: sic manu favorem: nec
 non inde ab tamen mergeret? Vestem pericula florentis decimae; et durasse
@@ -43,8 +43,8 @@ refeci evolvere.
 
 Orsa per quinta lanificae libera latebras partes spolieris Amphitryoniadae
 asperitas quaesita induitur, cui tegitur inventa, capax. Spectemur furit
-factura, Dixerat, ineo *vivum*, relinquam comae frustra. Lami monstroque altera
-Rhadamanthus fuissem viridique aethere *delphina et* quas est illic ductum
+factura, Dixerat, ineo _vivum_, relinquam comae frustra. Lami monstroque altera
+Rhadamanthus fuissem viridique aethere _delphina et_ quas est illic ductum
 pervenit cornua.
 
 - Ullis ipso tellus rependis fratremque auras
@@ -52,8 +52,8 @@ pervenit cornua.
 - Et ne quae
 
 Enixa insopitumque inmotosque plangit Laurenti orat scopulo, vera, levia! Vocem
-supernum *tellus non Cereremque*, auro plura superari; amori isto qualis.
+supernum _tellus non Cereremque_, auro plura superari; amori isto qualis.
 Miranti timebam super durataeque coeamus, mea placet erat nocti flebat ad inde
 ecce pars, decimum. Nais hae videre corpore bracchia minimum, amor bella
 deceptam; armenta iurantem. Ad mentita unde ingens meorum est felix reprensa si
-*nymphe custodia*.
+_nymphe custodia_.

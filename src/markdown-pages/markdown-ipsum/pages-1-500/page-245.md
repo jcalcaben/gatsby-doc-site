@@ -61,7 +61,7 @@ praeferrer ducunt proceresque figit inveniesque corpora, uno haec sint. Quae
 resque pete furcas, ait coepere in tendens esset inpietate: fama non Arcades
 venabula robigine.
 
-Incursant pater cum, utque iam retenta velleris *desilit* funereum amantem
+Incursant pater cum, utque iam retenta velleris _desilit_ funereum amantem
 caput. Arcus volenti qui mariti inclusit in carpant bracchia, in celer oscula
 concita. Recenti et **longa** salutifer depulerat se munus vincere ambitione
 enim caede nigri verba ad estote, cornu quid que spirandi? Illis Sunt frustra,

@@ -17,7 +17,7 @@ Caput pariter tutaeque dixit habeant per non, ture, [iubet
 mihi](http://et-timeam.net/gemuit-oblectamina.html) periuria iuvenci eque
 gravius! Suos nuper, quaerebatque dies si precor ulcisci ereptas hospite. Fessos
 iunxisse et vices; iam [flava](http://horruit.com/viagarrula) postibus Lyaeumque
-cuspide leones coniuge, vimine erat, quam Ericthonium *sibi*.
+cuspide leones coniuge, vimine erat, quam Ericthonium _sibi_.
 
 1. Patres tam aduncos ruit talia in fatendo
 2. Caelatus ipse virtutem tu si post vestigia
@@ -35,7 +35,7 @@ virorum sed](http://puduitque.net/) limine viderat, metuque
 
 Est sacer meritum Hersilien una dixit videres cum Troes Vulcanum possunt sua
 flens te puppes illum, ardentior oscula dextraque. Vastat o harenas scopulos:
-habe meum dat praetereunt quoque, per ut populos, *nec*. Exsatiata stamina ciet
+habe meum dat praetereunt quoque, per ut populos, _nec_. Exsatiata stamina ciet
 pati **reclusa**, vox sonantia oculos cortice [exsangue vulnera
 ripam](http://expulsa-ora.net/supplex) pectora.
 
@@ -49,7 +49,7 @@ ripam](http://expulsa-ora.net/supplex) pectora.
 ferebat divus papyriferi pariterque diva, [tecumque
 hunc](http://sis.io/cyanen.aspx), namque. Tamen gloria referre et agmenque rudis
 positis inornatos **lacrimans graves**, tardaque **cadensve**? In pugnat membra
-*thalamos admonitus temeraria* ille crepuitque herbae notam gradientis sanguine.
+_thalamos admonitus temeraria_ ille crepuitque herbae notam gradientis sanguine.
 Est ire cristata deos dat agantur victa tangentia thalamos detractavitque
 lugebitis coniunctaque haec maesto colonos calorem forcipe adsumpserat.
 Retractant ungues tibi soror erras pati consilium et illum.

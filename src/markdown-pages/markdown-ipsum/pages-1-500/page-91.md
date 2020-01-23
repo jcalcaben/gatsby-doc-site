@@ -9,7 +9,7 @@ credulitas virus excipiunt medendi cruciatibus comes cui. Terras exuit, fugere
 non quibus premunt inpulsos, oris attrahitur habuit, quae. Ancipitemque esse,
 erit sive animalia.
 
-Referam corpora posse chordas *pereant venimus*, deus illo, femina est moenia ab
+Referam corpora posse chordas _pereant venimus_, deus illo, femina est moenia ab
 iuvencos leto, qua. **Per somnus** datis Solis tibi medentes gerit cui Talia
 corpore, avidissima valet constabat interdum. Ergo fore luctu territa opto
 **orba** prodere vultu ne ferisne.
@@ -46,7 +46,7 @@ cornua: nec Pelias indigenas namque? Des nec ire lite patientem iamdudum ire
 auro **mollitaque**, Nereus clavigeri discordia leviore Crantoris. Corona texit
 unus crede properabat, cui epulis coeptum **tot** nec ligno, quae placet noctes.
 
-> Repellit silva miserere *praeterque verba* per silvae meae. Quem nocturnae
+> Repellit silva miserere _praeterque verba_ per silvae meae. Quem nocturnae
 > alios Achille deae maius nec, est gemino colubrae zephyris, ventos. Longos sub
 > **dumque** est petuntur in maneret, solum erat damni?
 

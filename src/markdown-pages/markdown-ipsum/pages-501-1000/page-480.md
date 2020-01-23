@@ -11,12 +11,12 @@ lacusque foliis, tantoque [manu](http://spartana-leniat.com/dumquepavet).
 ## Claustraque quia cornua
 
 Erat pars uteri dominae Aeson [obstem](http://nec.io/dat.aspx), nec saevi quas,
-et inferius *nympha*! Corpus thalamos tibi condebat non serpens mirantur huic:
+et inferius _nympha_! Corpus thalamos tibi condebat non serpens mirantur huic:
 hic ossaque canendo praecutiunt artis.
 
 > Deserere cursu Graium terraeque iacebitis. Est hunc ficta tanta tum inplebat
 > pectore, volucrem, dea! Vimine urbis nec: harenas dicta, et secus comes,
-> *nepotes*, flenti *ego* nomine, vidi. Agri sisti coniugis arva! Salutant de
+> _nepotes_, flenti _ego_ nomine, vidi. Agri sisti coniugis arva! Salutant de
 > doctior Trachinia tempestivus ad dixerat, dum [scelus ad
 > saxeus](http://et.net/) prementem ut hac.
 
@@ -24,9 +24,9 @@ hic ossaque canendo praecutiunt artis.
 
 Quot innuba suum nec concordi Solis, clauditur, nunc, digna. Bene nec nox
 [operatus Nonacria cepit](http://dumvenit.net/temporacaeni.php) exposcere iuves.
-Adrides seductaque *devenit apte* Sicanias. Meum ego Capaneusque: aevum ferar
+Adrides seductaque _devenit apte_ Sicanias. Meum ego Capaneusque: aevum ferar
 est, erat creverunt que igne leporem: date. Amissa **adspiceres ursae** in
-patulas profundo iungit et *agros* erat caeco esse virgo videres dispersa, cava!
+patulas profundo iungit et _agros_ erat caeco esse virgo videres dispersa, cava!
 
     if (southbridge) {
         realityInternet.ddl_p = opacity;
@@ -48,7 +48,7 @@ septem](http://quos.io/neget-rapuere.aspx)? Tantalus disiectisque erat pastor
 inter et erat sinus parenti saepe per cuique. Et flagrans corpore cruciata
 fuerunt terras; est nubila qualis, nec dicione, sine socerum, te robora ripa!
 
-Usque me aurea *frequentes desierat leto*; missus longi, brevissimus serpens
+Usque me aurea _frequentes desierat leto_; missus longi, brevissimus serpens
 cornua pendebat parenti solidis fudit coniciunt adfectasse, adclinataque! Freto
 praestantissima campos recumbis restabant vaporem fiuntque potest navita illis.
 Feres te in precor virgo tacita?

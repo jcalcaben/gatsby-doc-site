@@ -21,7 +21,7 @@ Ad requiris, lingua et sidus brumalis carmine fluminis iniere inpendere at
 hospes: oracula Lucifero nondum auro in colus. Atque atque cumulum, at unda
 declivis innumeras Actaeas pectus non **odium** si pectora factum flammas
 geminaverat primum **hanc** illis! Nostra loqui omnia ululatibus ulla. Tamquam
-est potenti **nulli Aiax locus** vestes *patienda* nostris, servabitur rigebant
+est potenti **nulli Aiax locus** vestes _patienda_ nostris, servabitur rigebant
 utque, Hectora fecisse faciam si poterat?
 
 1. Resolutaque summis illam
@@ -42,14 +42,14 @@ Det requievit perde latens sororque modumque. Sensus laesi si parte summoveant
 arte. Quo adicis gemitus ut et quam possim, et sinu similisque. Achille paternos
 viridesque neque in suprema amictae est Athin densetur.
 
-> Erit facit sanguis. *Tellus supremumque* sanguinis; addunt dies matremque,
-> Onetor oborto. Vos tecta *et capite destrinxit* tuba stirpem quid iam **femur
+> Erit facit sanguis. _Tellus supremumque_ sanguinis; addunt dies matremque,
+> Onetor oborto. Vos tecta _et capite destrinxit_ tuba stirpem quid iam **femur
 > cohaesit imbres** est membra insidias.
 
 Exhibita tumulo stagna! Achilles denegat, vestro, nube [arva
 natus](http://www.spatioque.com/): non rex prima tremit ensem quoque. Babylonia
-deus laesae mihi: gente non est quod positis. *Quaeque Cereris* tum amentis
+deus laesae mihi: gente non est quod positis. _Quaeque Cereris_ tum amentis
 inplacabile?
 
 Da poteram rumor utque, quod repperit facies vocibus fautrix primo, dicta
-mediique studii. Non inermis proles esse, se *fitque et* status amomi et deus.
+mediique studii. Non inermis proles esse, se _fitque et_ status amomi et deus.

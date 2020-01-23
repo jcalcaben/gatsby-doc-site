@@ -2,7 +2,7 @@
 
 ## Comitesque capillos vosne ope
 
-Lorem markdownum herba *veteris*, mox ad invitum corpora spectansque casus:
+Lorem markdownum herba _veteris_, mox ad invitum corpora spectansque casus:
 velle restat caliginis tollere quoque pater, chrysolithi. Fontis cognoverat sede
 cuspide. Iterum semper silva, adsistere pleni nominibus haut purpureasque habet
 saevique Camenis. Duro India in illa maeret. Undis me verum divellere antiquus
@@ -30,8 +30,8 @@ signis.
 
 ## Nymphae inertia teguntur ter des Amphitrite nigrae
 
-Quondam *nec scribit causas* te fronde nymphae senectae et misit amorem Iuno
-fateor leto fratris mundi, ipsamque. Invita mens *plurima dicere*.
+Quondam _nec scribit causas_ te fronde nymphae senectae et misit amorem Iuno
+fateor leto fratris mundi, ipsamque. Invita mens _plurima dicere_.
 [Caeso](http://corpore.org/) et recolligis armat librata bracchia vesica
 repetita si viri: dea victor genus nam: Lucifer remittit.
 

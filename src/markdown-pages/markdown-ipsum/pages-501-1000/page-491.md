@@ -25,7 +25,7 @@ omnia mirandum stuppea, tot vino loquetur, tu quae colla.
 
 ## Litora Dryopen tegit
 
-Erant *ut late omni* ignes pro relecto caducifer Haemonio idcirco Cycnus, in
+Erant _ut late omni_ ignes pro relecto caducifer Haemonio idcirco Cycnus, in
 radiis verba [clamore](http://ignarusmeae.io/) et. Vides si levatus capto
 carmina omnibus, curribus quae, o. Eripe tamen suppressit urbem, Asopidos
 **laevo**. Et tela vulnus lacerare in tibi, omnes, aethera vocum. Simulacra erat
@@ -40,9 +40,9 @@ tecta resuscitat sorore Tenedos vinclisque patriam conviva non debes, de animo.
 ## Referat est sedens Latona inposuitque uni latura
 
 Vultus colebat umbra et prodesse [quantum est
-est](http://www.utque-alis.io/gurgite.html) fractaque terrae ac *crura sumptis*
+est](http://www.utque-alis.io/gurgite.html) fractaque terrae ac _crura sumptis_
 piasque valuere. Adstat sacra sed arsit fratrique inscius talia. Late gravis
-aequales crura *ausa* leve haut posuit, praepetis cecropia sed.
+aequales crura _ausa_ leve haut posuit, praepetis cecropia sed.
 
     tweenKeywordsLeaf = 55 + 3 + traceroute;
     if (scanner(restore, 3) + executable_viral.vrml(socialYottabyte /
@@ -66,7 +66,7 @@ aequales crura *ausa* leve haut posuit, praepetis cecropia sed.
                 webVlogPpc, websiteAntivirusZero, appleVisualBitrate);
     }
 
-Litora non Procrin loquor. Mors ea amorem, sibi Liber *in* egit captatur in
+Litora non Procrin loquor. Mors ea amorem, sibi Liber _in_ egit captatur in
 cornua, morantur imo Dixit thalamos: e sponda.
 
 Secutum pruinas icta cum, per mentes solvit et

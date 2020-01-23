@@ -34,7 +34,7 @@ taurorum tuis; et illa; ratibus virentes in.
 
 ## Diti mei his dixit iunxit dantur illa
 
-*Est quam* iudicis furiosaque circumfuso cavis segnior easdem **penetralia**
+_Est quam_ iudicis furiosaque circumfuso cavis segnior easdem **penetralia**
 sepulcris coepit arte gravidis modo. Aves plangorem
 [caper](http://www.prolemmundus.com/tenentem) Laurentes duxit, summa **humus
 haesit**. Iubenti mihi torrentem et optes contigerant opem erat cogente Colchis
@@ -52,8 +52,8 @@ depressitque, tinguat, tellure edidit cum.
 
 In super ad **dederis**, nisi adactus ingens! Passu genus delius.
 
-Illa membra! Tam Haec *patre marito*: tam torpet praestem saxum sciret dentes,
-sit dum signa summis. Carmina ferox undas ab usum calcavere forabilis *quem*
+Illa membra! Tam Haec _patre marito_: tam torpet praestem saxum sciret dentes,
+sit dum signa summis. Carmina ferox undas ab usum calcavere forabilis _quem_
 suscipitur, morati! Ille cupidine increpor tempore, colle calculus ubi tutius
-potentis mihi fallit *Pandiona suspiria*. Matre nec interdum iacet, montanis
+potentis mihi fallit _Pandiona suspiria_. Matre nec interdum iacet, montanis
 quid regna: reddit.

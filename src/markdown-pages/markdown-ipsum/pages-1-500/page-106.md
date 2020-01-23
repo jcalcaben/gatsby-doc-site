@@ -17,7 +17,7 @@ terris in diversa naiadum, in forte conlato capit.
     only.minicomputer_address_retina = deviceFile - isa_kilobyte(dot_website +
             version_carrier, copyrightSinkHdmi(digital_program));
 
-Alta unica mortis armis *mora*; dies maximus quinque; iaculum. Aurea conversae,
+Alta unica mortis armis _mora_; dies maximus quinque; iaculum. Aurea conversae,
 pectore vires lacrimisque domino et Adonis haec victrices!
 
 Unum ad hunc vates poterat; [flammas sed](http://colorum.org/fertomnes), iam

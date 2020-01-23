@@ -6,7 +6,7 @@ Lorem markdownum aquae coepit arva nemus Argis sociantem, **meas**, bracchia
 quam ni hostisque erat, ore cancer iam? Posuit albescere iussos, gravi Aetnaea
 venire et non: rapuit virum. Terra inpediunt pervigil nitar tergoque cardine,
 praestate formosis Iovem, placidos tigno consolenturne abest notis aegro oculis
-necem. Gentesque iunguntur levi postquam Herculei cunctantem: *extemplo* eque
+necem. Gentesque iunguntur levi postquam Herculei cunctantem: _extemplo_ eque
 ferentes.
 
     lifoRgb(ultra, -1, development - scannerSocialInfringement +
@@ -36,10 +36,10 @@ concedant vestem eminet!
 
 Coniuge mons in erat! In superis **iuvencae haliaeetus** advolat puellis, nec,
 miserabile ipso sanguinis. Et redit voluntas: nubila monte telaque, ursi meum!
-Relevere ferioque nec quicquam *patrio Marte* summo.
+Relevere ferioque nec quicquam _patrio Marte_ summo.
 
-Quo pinu; non nimium sua ne tactusque inquit iam Troiae *factoque*. Turbatque
-virginis Crete caligine Hesperio reserabo participes *fulminis auctor*: divitior
+Quo pinu; non nimium sua ne tactusque inquit iam Troiae _factoque_. Turbatque
+virginis Crete caligine Hesperio reserabo participes _fulminis auctor_: divitior
 arbitrium.
 
 Ismenides sibi: ait verum: ait capillis dixit de minimo, qui habere. Sit

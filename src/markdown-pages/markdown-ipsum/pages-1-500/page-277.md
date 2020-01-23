@@ -23,7 +23,7 @@ riget formae.
 ## Limina concavaque epulasque dextra optatos sagitta pugnat
 
 Doctis Tartareas quos, quid annos aere optima incendia ligamina [sub semper
-tua](http://erat.com/numina.php) omnia. Sic *quis auras*; egit pondus erat
+tua](http://erat.com/numina.php) omnia. Sic _quis auras_; egit pondus erat
 Tethys vultu, usus.
 
 - Sit illas
@@ -36,7 +36,7 @@ Tethys vultu, usus.
 
 Cum utinam, silvas, et fulmina Oriente Lucina Cerberus falsisque ferens at vidit
 at velate in. Arbore [illum nisi sociam](http://anxia.io/) fonti; opus inclusit
-pende: mera ubi tendebat eris, Perimelen *ambo non*.
+pende: mera ubi tendebat eris, Perimelen _ambo non_.
 
     if (unmountCompiler) {
         controller += pngBot + 67 - recursion_disk;
@@ -53,6 +53,6 @@ pende: mera ubi tendebat eris, Perimelen *ambo non*.
 
 Ignigenamque loquendi sermone, solitus erat precibus. Nomina te moenia notior:
 bis condidit Nostra advertite aliqua. Arvo cuius, hic sinit regnumque raptatur:
-natant! Alcyone *maior longos* epulasque et visa est; illis legar iaculis
+natant! Alcyone _maior longos_ epulasque et visa est; illis legar iaculis
 capillos. Ferunt circumdata aliqua: maturior causa adsimulat inter, mihi nympha
 et?

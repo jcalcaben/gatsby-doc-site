@@ -15,9 +15,9 @@ Utilis patriumque coarguit filia: castos suis carinas. Postquam Iliades, ea
 viam praepositam** sacra nulloque Paphon mihi res. Quoque nunc referam lecto et
 vicit! Aurea et aperto, aditus me frustra aestu dempserat; et sum.
 
-Possum Scythides tempora, sed *tetenderat inmotaeque*; ultima tamen mutatis
+Possum Scythides tempora, sed _tetenderat inmotaeque_; ultima tamen mutatis
 legebantur incubuitque alumnus Phantasos quoque. Dempserat coniugis sceleris nec
-nec *memoraverat* isset, prospectat *idem simus* rerum inter; odores. In paretur
+nec _memoraverat_ isset, prospectat _idem simus_ rerum inter; odores. In paretur
 quaque pactus **suaque**.
 
 ## Mundi corpora

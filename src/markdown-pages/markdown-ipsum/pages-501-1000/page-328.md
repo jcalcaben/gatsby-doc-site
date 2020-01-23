@@ -35,8 +35,8 @@ temptant, gravitate apex.
 ## Si aequore mulcet Pleionesque dixit patet
 
 Hic ductae, primum, dum longa intrarit vir conubia Achillis rabiem, iacens. Est
-versabat quod, in timet *et doceo Pandion* etiamnum revocare usu eras optetis,
-anum oculi, ab iuvenis? *Foliis* purpureus pectora, in urit genu patuit magno
+versabat quod, in timet _et doceo Pandion_ etiamnum revocare usu eras optetis,
+anum oculi, ab iuvenis? _Foliis_ purpureus pectora, in urit genu patuit magno
 quo non Tum [Athon](http://www.tumultus-videre.net/); iam. Et qui et rumpo
 procumbere bella meo exhausta deos: dubiis eque deiectuque adfixa.
 

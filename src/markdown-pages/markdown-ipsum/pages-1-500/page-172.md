@@ -3,7 +3,7 @@
 ## Usu statione dignus exprimit
 
 [Lorem](http://www.umbrasvix.org/) markdownum Nereaque quod adacto eodem, sidera
-Peleu videntur regem *si Capitolia matri* volatu ignarus clipeo. Tali habet
+Peleu videntur regem _si Capitolia matri_ volatu ignarus clipeo. Tali habet
 contrarius corpore periuria ereptam et macies et viribus oculis.
 
 1. Et Anius
@@ -13,10 +13,10 @@ contrarius corpore periuria ereptam et macies et viribus oculis.
 ## Qui per invisosque
 
 Amat inscius, precari convulsaque mihi poterisne, contrahitur inque propiora
-nunc ille. Auspicio *oblita*, mortalia custos ingens Thetis inmania exprobravit
+nunc ille. Auspicio _oblita_, mortalia custos ingens Thetis inmania exprobravit
 ferro umquam dare expetit lata. Nec vagae, sinu vellem alis declivia quoque
 radicibus! Dumque deum, maestisque incidere eodem, fessos succrescere adventus
-Quirini mandabat iussaque *magis*, ego solus. Ambo ubi ipso abdita ora ara fuit
+Quirini mandabat iussaque _magis_, ego solus. Ambo ubi ipso abdita ora ara fuit
 massa superantque Amphrysi protecta matura, nunc cur!
 
 ## Ut non sed Ancaeo osse passim
@@ -24,7 +24,7 @@ massa superantque Amphrysi protecta matura, nunc cur!
 Rediere **Styphelumque haut** iacet, te aras quam agitantem cognoram at locum
 arcus. Dederam [pugnabam in visibus](http://et-evehor.net/vacuasstringite) armis
 ingens? Inplent domus fulmen, et qui Pulydamanta, amplectitur, sine si petis.
-Saxa conscendunt artes Sicaniam facinus, *habentem* aequoreae paulum clara, esse
+Saxa conscendunt artes Sicaniam facinus, _habentem_ aequoreae paulum clara, esse
 qui voca neque postquam, nisi genitas fuge. Obliquo naturalique, tanta quos
 exceptas ubicumque Pitanen.
 
@@ -35,17 +35,17 @@ exceptas ubicumque Pitanen.
 
 ## Tamen suis hippomene alii colla
 
-*Famularia* ad habetur in lacerto sensit, et, vana quo reparat certa superando
+_Famularia_ ad habetur in lacerto sensit, et, vana quo reparat certa superando
 iubar certa. Per fluit intres, tum qua pacem? Mors illa caecaeque, cum et
 **loca**, ubi avita decusque: limosaque temporis in vultus vultus stipitis! Et
 licet inploraret terrae praecingitur cedentem; praemonitus quem, subsidunt
 effugies coniunx urguet: Quid virgo, nec. Quondam per victa, inter cohaesit
 ingenio partes, amictu, qui.
 
-*Ab corpora* et Oetaeus **prona** oculos dubiaeque pectore; cibos. Auctor amore
+_Ab corpora_ et Oetaeus **prona** oculos dubiaeque pectore; cibos. Auctor amore
 et Themis nomine cupidine conlegerat arbitrio nexis quam carchesia pectore
 terribiles planus probas Phlegon? Sit cacumina aethera, suam Cumaea **fortissime
-stetit** Aeoliis, *pars timeat* ubi quem sanguine
+stetit** Aeoliis, _pars timeat_ ubi quem sanguine
 [silvae](http://www.instare.net/et). Inultam contigero quae fluctus
 [in](http://nurus.net/internon) omnia. Quamvis auras sum doluere heres
 Broteasque amplexu dixit omnia, deae nebulae **amnes** graviore incaluit potes.

@@ -5,7 +5,7 @@
 Lorem markdownum parat flatuque decus! Nam excitus, cognovit o natura? Sola sed
 aenum; conprecor furoribus solantia retinacula suae: manu. Status et est
 Alcathoi vertice dicentem virtus lugebisque certamen aut munere. Regis tumulis
-viscera adsunt circumque populi; *hic tria gurgite* naturalique Aeson est
+viscera adsunt circumque populi; _hic tria gurgite_ naturalique Aeson est
 [prima](http://tellusad.org/), quam?
 
 - Illa enim varios sinebat admonita olivae ostendens
@@ -21,7 +21,7 @@ fratres gravem parens natum, quos ira, in stolidae aliis.
 
 His contigit ut ante neque sederat [ingreditur aerias
 valuit](http://femineae.io/ut.php) iubar, aut posset ingemuit fixerat, quod, cui
-sacer. Erat victae Leonis **te quae** validos aut *dignus candida*, subitusque
+sacer. Erat victae Leonis **te quae** validos aut _dignus candida_, subitusque
 Iphin, fictilibus. Venit harundine vindicat inque spectans bisque potuit cum
 titubat spatio functaque legeret curruque. Omni terque nec quod, hac ceperat
 coniunx: **quidem se** non ceras, ipsa, ad currebam. Sive inquit sustulit, modo

@@ -7,7 +7,7 @@ iustius aequora credit miserrima et erit una Belides.
 
 Rebus est contermina locus Cephisias lacrimis ventisque inundet ulla cum;
 contentus gratior ursa. Quoque dolis fiducia nondum; tura Clara demens
-funestaque aper et plura aequor, *idem pro*.
+funestaque aper et plura aequor, _idem pro_.
 
 ## Sine nec
 
@@ -18,14 +18,14 @@ capillos queri avem sic.
 Nobilitate Crimisenque luminis detrusit. Aeolidis ullis atra vallis iuvencae
 iaculatoremque superabat loquendo ortum cardine viro nivea fallere credetis
 adsimulat vera manibus, nebulas patrios. Data imis, [vir
-dulces](http://sumitur.com/volantesex.aspx): collo colla natasque *salutifer
-postquam iacet*: fuerat. Laudare pressos nautas, tibi tuaeque arbor venientia
+dulces](http://sumitur.com/volantesex.aspx): collo colla natasque _salutifer
+postquam iacet_: fuerat. Laudare pressos nautas, tibi tuaeque arbor venientia
 Olympo sicco mediis limina.
 
 ## Circumfert parias tangor
 
-Induitur requirit relictas *muro summoveant* onusque socios facinus terrae
-somnusque *actae*; primo nunc albis quod. Fumida ab sanguine terris
+Induitur requirit relictas _muro summoveant_ onusque socios facinus terrae
+somnusque _actae_; primo nunc albis quod. Fumida ab sanguine terris
 [candidioribus rivo utque](http://bacchi.com/telum) causa nec obliquum haec,
 ergo, aliasque quaesitique poteram? Aut me certare laetatur ventura Vidi haec!
 

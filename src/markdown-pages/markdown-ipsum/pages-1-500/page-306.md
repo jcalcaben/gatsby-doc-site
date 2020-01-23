@@ -3,13 +3,13 @@
 ## Ide dignos Hippotades nec
 
 Lorem markdownum et sit, est namque in caelo superi haustos cum ad plus
-praelate, tunc ligno. Adspicit simul negant minor victa certaminis *pelagoque
-votivi* famuli vatis incurvis legesque fuit se aequent paratis hoc et, voce.
+praelate, tunc ligno. Adspicit simul negant minor victa certaminis _pelagoque
+votivi_ famuli vatis incurvis legesque fuit se aequent paratis hoc et, voce.
 
-> Non *poenae*, tenet videntur fetus Euboicus, ad iaculis tamen terga inpediunt
+> Non _poenae_, tenet videntur fetus Euboicus, ad iaculis tamen terga inpediunt
 > audita funera, in. Necopina nempe etiam Ianthe instructa Agenorides non
-> fallere propius possidet proelia actis. Ipsa rapit patent; at canit *os
-> nodosa* procul spumigeroque vera ferox duro, lacusque postquam vestem siqua.
+> fallere propius possidet proelia actis. Ipsa rapit patent; at canit _os
+> nodosa_ procul spumigeroque vera ferox duro, lacusque postquam vestem siqua.
 > Quoque querno Stygiisque se [neque faciem absit](http://est-regem.com/): alta
 > **una**, rosave morte.
 
@@ -45,7 +45,7 @@ eduxit et et decerpsit avido lene quamvis terras alitibus excubias. Et nimia!
     }
     cpc /= record_computing_asp;
 
-*Aevi iuvat illi* iubet; pater de agitur latarumque demens moderatius [lacertis
+_Aevi iuvat illi_ iubet; pater de agitur latarumque demens moderatius [lacertis
 caruissem superare](http://infelix.net/talia) omnes. Et alvo sororia haut, ossa
 causa **Herculeis reliquit silvas** torta trahoque tibi. Que aut feris crate
 memoraverit plura iter conveniunt memoratis patres hortator de actum superos,

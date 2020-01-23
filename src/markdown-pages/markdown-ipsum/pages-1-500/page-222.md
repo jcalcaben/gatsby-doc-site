@@ -18,7 +18,7 @@ causa quamvis evinctus, ver di prima: poterunt.
 ## Lacus locuta defensus
 
 Ultoris exit precantum secundum pressa census pudori naiadum, gentis: Aeolides.
-*Ait et labefactus* trunco! Error accepisse gentis: dure miseram poenam coniugis
+_Ait et labefactus_ trunco! Error accepisse gentis: dure miseram poenam coniugis
 eripis flenti? Evolvit [neque](http://votumtellus.com/pars-domus.html), ad annus
 Tyrios, viri stratis, quondam rugosoque dies alimentaque. Collemque subit,
 fecit, iam dumque undae **nepotem**; bene nexis [est simul](http://fuerat.net/);
@@ -28,7 +28,7 @@ maior.
 
 Talia ut circuit; et nunc esse praepositam meos, te a opacas caelestum precatur.
 Non tendebat furor in facientia avis, liquidis quoque! Ubi in Phrygum, sed
-Herculis Emathiique voluit quoque dolor: *tantaque Hectoris*. Dextramque caedis
+Herculis Emathiique voluit quoque dolor: _tantaque Hectoris_. Dextramque caedis
 terribili in **indicio equum crudelis** loci, inpietatis terrae.
 
     if (boot_drag(3 * -3) <= -3) {

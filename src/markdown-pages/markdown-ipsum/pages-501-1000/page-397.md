@@ -20,12 +20,12 @@ tollens coluber aut.
 ## Phrygias in cadas
 
 Ungues maestus pondere parvoque. Sede bis grates habebat timens tendentemque
-illa mille, nec *nervi* dum. Montis Troia vel **si iamque**, placuisse
+illa mille, nec _nervi_ dum. Montis Troia vel **si iamque**, placuisse
 **mille**, Lapithaeae praestare cum tergumque sit missa ne volumina retinere;
 dulcedine? Aquis inque nescio.
 
 Ille vero iterabat lapsae Iapetionides tacto nullum ad Veneris palustres
-Semeleia. Atreus silvas thalamoque quietis repulsa, *collo* dumque; quid
+Semeleia. Atreus silvas thalamoque quietis repulsa, _collo_ dumque; quid
 gementis qualemve et Non cantus pignora ferendam. Glomerataque aetas in titulum
 iecit: vel vim expalluit et fuit, cum! Tangit eodem et rostro ratis, vitiorum.
 Clara [arida credas causamque](http://www.fratri.org/saevae.aspx) quam, factura:
@@ -33,8 +33,8 @@ tulit.
 
 ## Iste carchesia
 
-Cui his citra, hoc factas et et filius summa *nubigenasque apparuit quis* lumina
-mens sede conlegit, tam! De sibi augur pendentem felix discriminis *sunt*
+Cui his citra, hoc factas et et filius summa _nubigenasque apparuit quis_ lumina
+mens sede conlegit, tam! De sibi augur pendentem felix discriminis _sunt_
 inpediique patentis aevi? Coniunctaque dignior tauro condidit seditio haec.
 [Fuit caput vectus](http://www.iacebat.com/carmine.aspx) praeceps et illae
 membra AI Tethyn; adsimulat [tuearis](http://nam.com/).

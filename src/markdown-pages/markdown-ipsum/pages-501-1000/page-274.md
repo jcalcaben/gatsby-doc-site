@@ -2,7 +2,7 @@
 
 ## Mortale est futuri feruntur incipit moras factum
 
-*Lorem markdownum annis* Mimasque Cocalus huc admovit mihi, est hic. Pia
+_Lorem markdownum annis_ Mimasque Cocalus huc admovit mihi, est hic. Pia
 sulphure! Hunc parat armentis cornua parantur utroque sentiat inplent virgine.
 Incursat nutrit utque sumit, ferunt est trabemque adspexit. Meo haud est, ipse
 vox, cadendum deque [quae](http://www.patuitque.org/adloquitur) incidis;
@@ -26,8 +26,8 @@ cupidine in proceresque suis mutentur, adiutis atra?
 
 ## Cape cum sanguine magne est favorem mihi
 
-Flamma uteri frater nepotibus, conscius vox *sit*, nubes genibus fecit quam:
-terram ut. *Eveniunt* utve hic!
+Flamma uteri frater nepotibus, conscius vox _sit_, nubes genibus fecit quam:
+terram ut. _Eveniunt_ utve hic!
 
 1. Totidem suis per
 2. Utque additis prece
@@ -35,9 +35,9 @@ terram ut. *Eveniunt* utve hic!
 4. Tormenti quicumque omnes acies
 5. In retinet lecto
 
-Dotabere opemque ferrum. Ara inficit relinque *et* fores, quibus *suis
-pietatis*! **Qualia** caesoque sic servavit Proreus postquam sum manat hominum
-niveo emittitque *quaerit*, iam Amor quanto. Ova fugit edere nec!
+Dotabere opemque ferrum. Ara inficit relinque _et_ fores, quibus _suis
+pietatis_! **Qualia** caesoque sic servavit Proreus postquam sum manat hominum
+niveo emittitque _quaerit_, iam Amor quanto. Ova fugit edere nec!
 
     var camera = 46 + 4;
     if (raw) {

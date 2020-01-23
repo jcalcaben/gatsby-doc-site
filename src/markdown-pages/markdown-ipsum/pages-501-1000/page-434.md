@@ -34,20 +34,20 @@ semine bisque!
 
 Tu ultimus inflataque dataque qui et fratribus domus utque rutilum contingere
 priorum sustineant nobilium! Solitaeque aratri vitibus, me, et aura, et rostro
-pugnat, si parte dixit telaque *corpora neque* faciem. Dilectos subitis postes
+pugnat, si parte dixit telaque _corpora neque_ faciem. Dilectos subitis postes
 ait visa miserabilis venantum longa. Et nec animasque sortes generumque
 mirumque, cur, cum.
 
 ## Haec non exsiluere harenis gravi nomen primordia
 
 Subvectaque trunca pennis quo caede: pennis utve conscia. Pars inque, Asida
-*suo* tela crudelem virgineumque milite. Alte et per intexuit vetui et corniger
+_suo_ tela crudelem virgineumque milite. Alte et per intexuit vetui et corniger
 volabat Pallante, certae.
 
 ## Aut fera cornibus obstante et suos iam
 
-Crines Ledam satum in tellus liquido. Adimunt sectamque, violas *tua regno quas*
-virtutis in sic? Excipitur umeris. *Rubentem via* non excepto quam felix vitreis
+Crines Ledam satum in tellus liquido. Adimunt sectamque, violas _tua regno quas_
+virtutis in sic? Excipitur umeris. _Rubentem via_ non excepto quam felix vitreis
 iacentia montibus utrique.
 
 ## Hospite manus silvas proxima repulsa potest exponit

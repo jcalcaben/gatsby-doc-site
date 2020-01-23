@@ -6,7 +6,7 @@ Lorem markdownum [addit](http://non-undis.io/votis); tamen talis cernentem
 veneni tangentia fulgure consurgere oppositoque potest ut adeunt. Quibus Pace
 fibras litus ortus: dum voce, cum laeter ostendens? Aliquis facies: ut nam
 dentes sinistra; ater pedes, currere excessisse ab erit paene quantum nostra
-proiecto amicas. Leucothoeque distantes sonanti proles, *una loco* foliis ait
+proiecto amicas. Leucothoeque distantes sonanti proles, _una loco_ foliis ait
 contraque semel, dedere patriam ad ardebat, et. Postquam formosus ut Belo
 monuere in verba umeris inducta **sincera**, amor.
 
@@ -68,7 +68,7 @@ et solam** dea coniciunt in nitidos sulcat. Et diva hic ferarum culpa.
         burn += 2;
     }
 
-Adspexit pectine *solito*; sua plura numquam; pius, laterumque
+Adspexit pectine _solito_; sua plura numquam; pius, laterumque
 [unus](http://praescius.com/). Tuo si paritura formam Cephisius tristi, nescit
 tura dissimiles [ait](http://admotumque-exercuit.org/arboregenitor.aspx) Phoebus
 hanc, fragosis pedibus. Est dura nata ac purpureas Euboea Numam tu pondere caelo

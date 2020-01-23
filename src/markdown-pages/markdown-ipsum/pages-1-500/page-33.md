@@ -13,8 +13,8 @@ pependit serpens.
 
 ## Forte Rutulum extendit doctior exit fragorem cineres
 
-Est lacrimasque concipit notavi moenia temperat *Bubastis* lacrimis, est. Est
-bos *hoc meus*!
+Est lacrimasque concipit notavi moenia temperat _Bubastis_ lacrimis, est. Est
+bos _hoc meus_!
 
 Frigida positoque clamant venientem ipsoque, an ex clarus ossibus verbis, non
 collo hunc imumque est annum. Nempe vox aut feram populis animique, et labitur

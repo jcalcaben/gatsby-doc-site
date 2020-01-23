@@ -3,8 +3,8 @@
 ## Quondam canduit est in vires paventis opem
 
 Lorem markdownum ne per signat membra dolor gressu aurea obsessos, vario de
-petit. Summo sana mihi officio perque, tibi forte, vixque dum, mutavit *et ab
-Alcyone* nostro arserunt: posse. Sede defendite relinquit dixit est; amisit
+petit. Summo sana mihi officio perque, tibi forte, vixque dum, mutavit _et ab
+Alcyone_ nostro arserunt: posse. Sede defendite relinquit dixit est; amisit
 abiit age! Erat pavidam, inpetus pirithoi consulat unguibus gemino sancta, vel
 dryades alios. Ad viro capitis.
 
@@ -16,8 +16,8 @@ dryades alios. Ad viro capitis.
 
 ## Haemum indicio nec nivibus figuram lupos sis
 
-Ubi addita, frontem monstrum pectore *exspectatum ausit*; edita Cecropis.
-*Circumstant nuntia ne* hospitis taurum, et manu nos *copia et cunarum* adfuit
+Ubi addita, frontem monstrum pectore _exspectatum ausit_; edita Cecropis.
+_Circumstant nuntia ne_ hospitis taurum, et manu nos _copia et cunarum_ adfuit
 genetrixque ipse et esse. Montes [nec](http://nonne.org/atque-inde.html)
 prostravit postquam, demisso tibia. Poscat aequore carmina Saturnia ordine!
 Puduit vale una magorum suum curam fecissem, vultus miserabile traicit in bella

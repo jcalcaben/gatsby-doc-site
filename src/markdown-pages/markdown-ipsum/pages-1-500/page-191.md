@@ -2,7 +2,7 @@
 
 ## Habere faciem Appenninigenae ille
 
-Lorem markdownum beati gravis calidi magna *facerem voracior in* annos hoc
+Lorem markdownum beati gravis calidi magna _facerem voracior in_ annos hoc
 Caeneus Byblida divulsaque. Sanguine regna. Ille heros si ab, et phocen ut
 cadunt hanc molirique nullum umeris audit. Votis ora haec [socerque quo
 veniebat](http://haeret.io/egogenerisque.php) laesi formam femina a addunt
@@ -46,12 +46,12 @@ aspergine Hecaten, aderamus vidit.
 
 Currus alvo adsum petiisse aestuat nurumque in saeva ex nova quam se tumulandus
 sensit. Hanc cornua aevum non: his arvum innectite; in equae verborum at
-lacrimas. Solebat in sit patrium *sublimia forte* sed avitum virtute, fila
+lacrimas. Solebat in sit patrium _sublimia forte_ sed avitum virtute, fila
 fretum tumidis. Stantemque dixerit palmis poscit amplius modusque narrat
 navalibus annis; est, macies ebur? Emeritis vestes ferox mihi hic quondam dixi
 ego lactens rumpunt, tauri!
 
 Artis non te aequor contraria me calidis enim poscitis ante, signat. Mitra idem
 sidereo, in armat Somnia hinc in tectus verba inploraret. Telamone bracchia
-pennas vulnere *triumphos ad veri* placet regis et. Conposuit esset aura
+pennas vulnere _triumphos ad veri_ placet regis et. Conposuit esset aura
 colubriferi simul.

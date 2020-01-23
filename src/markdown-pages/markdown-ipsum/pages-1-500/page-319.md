@@ -75,4 +75,4 @@ tabuit hunc stridente pronos cingebat te mares belli aures temeraria summa et.
 Pascas precesque inde absentem et caelo et et, undique est
 [gaudebat](http://nec.net/currus) clipei metus, mora? Inhonoratae peto oracula
 Cecropidum novam mandabat Prytaninque pati; iuro vincla vitat Hippolytum, aera.
-Ista lacrimis, maxima *cauda* quibus Dianam, in nova comitique limbo.
+Ista lacrimis, maxima _cauda_ quibus Dianam, in nova comitique limbo.

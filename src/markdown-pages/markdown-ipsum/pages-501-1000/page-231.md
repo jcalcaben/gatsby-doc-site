@@ -2,9 +2,9 @@
 
 ## Sagitta cum priorum
 
-Lorem markdownum cernis sub meminisse *Lenaeo* defendite, cur *silvas* torpetis
+Lorem markdownum cernis sub meminisse _Lenaeo_ defendite, cur _silvas_ torpetis
 et intus adfectasse velamina et testor exire, tollebar. Profecto nata detorquet
-utriusque rogis, hunc oscula stirpe *si* nymphae faciat prohibebar non utendum
+utriusque rogis, hunc oscula stirpe _si_ nymphae faciat prohibebar non utendum
 vivit Ossae.
 
 - Quid mihi colubris terga
@@ -23,7 +23,7 @@ teloque amatam iram conplent. Exercet incepto ab tua omnia ad natus vult est?
 ## Deam aera
 
 Subitis honorati templa caelesti et tamen. Mea ille limite. Quos post ocius
-lumina nocet tritis *minus* habebat! Revexit cum, quae et numen.
+lumina nocet tritis _minus_ habebat! Revexit cum, quae et numen.
 
 - Iste adimam quae ruunt
 - Fiducia quaerit
@@ -41,8 +41,8 @@ Veneri credens intercepta suis! Gente ora petunt timorem.
 Cum autem nutrix, vocantem manusque cortice fragmina fitque, flavusque. Agantur
 vicisti remisit omnia, palmae, carpis non haerentem grates iam, Thracum laurus
 quattuor. Murraeque laevae retexi cesserunt habere rettulit ipso has [submovet
-limus soror](http://querunturherbas.com/nectotidemque.html) nova Glauci *non
-adhibete*. Flumina inmittite priscis laurus, fuit aurea tempore reddita manum et
+limus soror](http://querunturherbas.com/nectotidemque.html) nova Glauci _non
+adhibete_. Flumina inmittite priscis laurus, fuit aurea tempore reddita manum et
 totumque inquit mentitur erratica trabibus nec desunt sub, iam. Proceres
 corpore?
 

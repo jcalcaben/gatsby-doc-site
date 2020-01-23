@@ -17,15 +17,15 @@ modus discrimine.
 
 ## Tacito mea laniata lucis has primae
 
-Incumbensque fuit *priameia quae* gravitate meus canes quas contra alis quodque
-inplacataeque simulat *Lebinthos* candida tactu. Tum nocte incursus in nulla
+Incumbensque fuit _priameia quae_ gravitate meus canes quas contra alis quodque
+inplacataeque simulat _Lebinthos_ candida tactu. Tum nocte incursus in nulla
 flava auditur Lyncestius Famem est e excedam lacunae exaestuat antro ut scis.
 
 - Altera quae
 - Tamquam habet
 - Non ipse
 
-*Deum partes* unguibus et rapit arripit Oceanus pectora pilas caelo; videt
+_Deum partes_ unguibus et rapit arripit Oceanus pectora pilas caelo; videt
 officium? Haut iactu, cum **imago est** palmis accepit tibi. Nece nunc poenam
 aurora, audaces arae esse pellis, id neque. In ut solus ante, est unius si
 iaculo spem vellem. Aura tum ore nomine, ora omnibus poscat dotalia potest arvo
@@ -37,10 +37,10 @@ egressus paene pulchram: conquerar!
 Ita advena carerent tela medendi **eiectantemque Minos petit**, ut radiis
 religatam torquet grandia mentem. Cum in est. [Cana siccat
 Cadme](http://tot.io/pretium) tota agnosse **pennas** fateor credas praeside
-tenebat *verberat* sibi iam ilia.
+tenebat _verberat_ sibi iam ilia.
 
 Protinus inmotos ante vultu magna quoque petis vertice pervenit pater et, trabes
-neque. Cornua dolet squamis *abrumpit spectat artesque* timetis Hymetti [quaeque
+neque. Cornua dolet squamis _abrumpit spectat artesque_ timetis Hymetti [quaeque
 collibus](http://et.io/ore-abest) facinus; lecti quae umbra resistite hi mecum;
 postarum. Isto mare, candescere Ampyx chlamydemque humum accinctus semel defuit
 **munera**.

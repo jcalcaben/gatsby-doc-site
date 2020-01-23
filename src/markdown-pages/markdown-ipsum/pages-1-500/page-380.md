@@ -30,12 +30,12 @@ totumque!
 
 Venus vivum interceperit [partim](http://et.net/data), in nec ausae Tatius,
 Colchis velocius dixit funda: iam: et. Arvo crescit habebat celeberrima hoc vix
-cadat fronde, erat; sit. Quem relabens *vestigia*, malo.
+cadat fronde, erat; sit. Quem relabens _vestigia_, malo.
 
 ## Magis pallentem ulciscor nam cultros cedere
 
 Lacuque putabat scilicet viarum, est alit minor Acheloia, quae magna et fas et
-perdideris Quirini voveo, color. Undis audita Telamonius *anguis fuerat* sum
+perdideris Quirini voveo, color. Undis audita Telamonius _anguis fuerat_ sum
 fluitque gravi vertatur Atlas.
 
     host_oop = web;
@@ -50,10 +50,10 @@ fluitque gravi vertatur Atlas.
 ## Patremque verus
 
 Sua comas sic iaculatur Clyton concretam serpere iuncta: aula dextra pendens
-pastor, matres, sunt perque accepere. Similis dedit innuba *languentique*
+pastor, matres, sunt perque accepere. Similis dedit innuba _languentique_
 spumantiaque genusque Iuppiter officio numen. Ad fraudem, Stygiam cava, ama
 [facit](http://www.nato.net/vacuaslonga.html) corpore deprendit nutrit. Heros
-illic lignum ambiguus hominum, et quod bisque iste, *arma te dicturus* nondum.
+illic lignum ambiguus hominum, et quod bisque iste, _arma te dicturus_ nondum.
 
 Viro vertitur qua; actis mite coniugis **medentum** praesente nigris. Ore
 noverat nec vili parentem tenues ruinam nunc, sit.

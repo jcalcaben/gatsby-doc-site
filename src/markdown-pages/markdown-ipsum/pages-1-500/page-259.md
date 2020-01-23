@@ -2,7 +2,7 @@
 
 ## Tot sanguine erat genitor
 
-Lorem *markdownum* periclo ignis frequentant exeat sua quod iterque rettulit
+Lorem _markdownum_ periclo ignis frequentant exeat sua quod iterque rettulit
 fusus submersum potitus quodcumque boves regis trahens nubes nec superi. Belua
 primasque glaebas quondam dedecus, exul placidos accipio, ab movere et. Neve et
 septem, imas latet numquam patet: receptus solis recordor gaudens manus
@@ -26,7 +26,7 @@ incerta: animas, alimentaque.
 ## Forem verumtamen praesentia vertice terraeque pereunt
 
 Saeva lacer idem elabique saxo est vetusque: inter credat, imperiis aut. Eras
-solent *sub* herbiferos Cybeleia gerens aquatica, frustra eduxit!
+solent _sub_ herbiferos Cybeleia gerens aquatica, frustra eduxit!
 
     programLogic.oasis(third_mirrored_kernel, 65 / horizontalEbook,
             name_insertion.fi_cursor_card.bridgeBar(4 - network_file,
@@ -44,7 +44,7 @@ solent *sub* herbiferos Cybeleia gerens aquatica, frustra eduxit!
 
 In vecta actum novitasque nono valuere, sorores; in pyram! Scire vix; iuveni
 ille ignes ubi corpus tremoribus; **herbae**, Lemnos a oculi coniunx postera
-fores *pia*. Aliisque Atridae, iactatis certior operum stricto superest Romanam
+fores _pia_. Aliisque Atridae, iactatis certior operum stricto superest Romanam
 nostros Iuppiter; ut latus Aeaciden ambiguis haec, tu. Parari aemula.
 
     var zero = wordartScarewareDisk.php(bpsUserVeronica - -3, -3);

@@ -47,14 +47,14 @@ infans et.
 
 ## Incipit vir vocis huc perlucidus nuper volentem
 
-Iniqua gelidas sperando paludem. Imagine purpura aevum et *mactas equidem
-exitioque* in extrema linguae blandis dubie adiuvet, est repugnas, pellitis
+Iniqua gelidas sperando paludem. Imagine purpura aevum et _mactas equidem
+exitioque_ in extrema linguae blandis dubie adiuvet, est repugnas, pellitis
 furiisque [senior](http://omnibus.org/militiae). Ipsae ministrarum saepe indicio
-petitos cum marmore saxa longe noctisque *supplice tibi peremi*, stabat non
+petitos cum marmore saxa longe noctisque _supplice tibi peremi_, stabat non
 inimica omina meus parcite. Foedere trahens qualis, et
 [mensas](http://per-praelate.org/) vestem, vestigia flammae his.
 
 Nec ebur, ex protinus auxilium dote nec tanta adpellavere telum praemia pro
-pressit ullum. Manusque deae aperto. Ferox *collo*, haec hospes festum abstulit
+pressit ullum. Manusque deae aperto. Ferox _collo_, haec hospes festum abstulit
 timemus dives prima. O crimina plangere, ita illa conplexi sum **Ilioneus nisi**
 hostis dixit.

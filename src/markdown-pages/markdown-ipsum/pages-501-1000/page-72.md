@@ -2,16 +2,16 @@
 
 ## Generosque flammae narrat intercepta moenia tetigere exstabat
 
-*Lorem markdownum gentisque* ferventes manus, ad qui modulatur optasse mensis
+_Lorem markdownum gentisque_ ferventes manus, ad qui modulatur optasse mensis
 tendens teneraque, mihi [cum](http://www.cape.net/sua-novum), Pindo? Desunt
 repellit ferox litoream venit frater nihil spumantiaque cretus obstantes profeci
-fatiiuvenescere nubibus invida vallis **munere** nam *Notum*? Digitoque vae nil
+fatiiuvenescere nubibus invida vallis **munere** nam _Notum_? Digitoque vae nil
 sine in alumnae satus, humani retinentibus iter enituntur falsam caelitibus. Te
 Phinea avia **omnia passurae** quas, sacerdos palmiferos, se nisi dextra.
 
 ## Nec fronte sidera silvae quas finierat exclamat
 
-Minima *corpora*, iras [modo](http://de.io/quam) opibus desinis solita, veneni!
+Minima _corpora_, iras [modo](http://de.io/quam) opibus desinis solita, veneni!
 Instantem [sit atque](http://quietisfelici.io/mihi) nostros causa. Interea
 sanguis, ad [deae adsuetaque](http://huic.io/summo-natorum), bracchia exclamant
 amne [insidiae potitus](http://undam.org/capitisque-meruisse.html) recepit
@@ -57,12 +57,12 @@ tendens Bacchi, et at.
 
 ## Victus pennis es primis dicta
 
-O *timet* serpunt aetas, iam tuisque tenent, erat dicta. Numina solus face,
+O _timet_ serpunt aetas, iam tuisque tenent, erat dicta. Numina solus face,
 cuncta facies rotatis qua enses, clavigeram inque, cognita, et arserat eurus;
 quam. Pelori meus rege dividit volucrum, facienda tanti non.
 
 Agros ramisque, sua ferre visa? Det annis sit: fugam si pectore, vindice totis.
 Solo eras. Amorem est: decebat: ipso hic circumstant tenebras vertit **suo
 fruticosa movet** sequiturque [plusque](http://postquam.org/oculoseodem) flos?
-Tibi laqueosque ab male unus orbem *liquidis* habuisse rabida *litora tibi
-inhaerebat* iussae pendet?
+Tibi laqueosque ab male unus orbem _liquidis_ habuisse rabida _litora tibi
+inhaerebat_ iussae pendet?

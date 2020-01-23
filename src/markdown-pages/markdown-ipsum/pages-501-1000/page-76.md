@@ -5,7 +5,7 @@
 Lorem markdownum genetrix gravitate pennas illis Alcyonen totas, nec est
 remoretur, et. Nymphae successibus furiosior hanc fulvos gemitu ratione,
 Nereaque lunaribus sequitur fere latus. **Quam qui** est vicem, cui bracchia
-habet *Nereia quoniam mea* pomis in iura, veteris non cuspide utere. Eandem
+habet _Nereia quoniam mea_ pomis in iura, veteris non cuspide utere. Eandem
 rastrorumque bella simulacra linguas nobis, dat populisque nocendi testemque
 videbar: placeat nec paries non.
 
@@ -14,10 +14,10 @@ Possidet verbisque velamenta cuique. Ab rapta glorior gratos tantosque crinis
 
 ## Captivo et hos faunique deae requiris victa
 
-Atras efficiet, eadem ante aequore. Moenia *guttis*: flectat *teneraque* ventis
-insigne species Tegeaea linguae aliquis me magna *concipe* leonum taedia, visa?
+Atras efficiet, eadem ante aequore. Moenia _guttis_: flectat _teneraque_ ventis
+insigne species Tegeaea linguae aliquis me magna _concipe_ leonum taedia, visa?
 Nata haeret cum quoque ministris Festa scitarier mecum corporis pressit hederae
-saxoque! Sociati pondera; qua unde. *Uni* sic faciat altoque pares et inguine
+saxoque! Sociati pondera; qua unde. _Uni_ sic faciat altoque pares et inguine
 quercus exiguo: nova nisi tamen rettulit, **accepta paelice**.
 
     pciXmlClient.baudCharacterIrc = root.wireless(netiquettePortSimplex(wins,
@@ -34,7 +34,7 @@ quercus exiguo: nova nisi tamen rettulit, **accepta paelice**.
 Haeret est novus Flentibus gaudet es roboris, imas coniuge cui permulcet quam.
 Neve mox corpus pendentis est: ad his, herba et solita rapit, Hectoreis tuetur.
 Illos Laestrygonis livent, orientis studium fallitque spatii lupum cunctis
-accipe! Contenta dixerat puer quo in locatas *nostra* solidis, nec mutantur erat
+accipe! Contenta dixerat puer quo in locatas _nostra_ solidis, nec mutantur erat
 nota dum dentibus ferro binominis ostendisse deprendi?
 
 1. Fatali sic Herculis repetebam sibi tibi fugit
@@ -43,10 +43,10 @@ nota dum dentibus ferro binominis ostendisse deprendi?
 4. Sub versa venit arbor
 5. Saetigerosque fore et versis iuvenem habeo
 
-In Iamque pronepos *se scires virginibus* cum trames prendere portaque unum
+In Iamque pronepos _se scires virginibus_ cum trames prendere portaque unum
 longo, alba et modo utero, sustulit. Tu nomen intumuit. Pio meorum parentque
-tardaque quae, tibi, sua fores *non*! Classem **rates**.
+tardaque quae, tibi, sua fores _non_! Classem **rates**.
 
 Diuque sint inter tulisset; hederae rapit. Cum tamen levia partes bibulis
-licent, cum una, Penelopae quamquam. Sua quamvis fertur *prospicit capacius
-tuos* scripsi tamen.
+licent, cum una, Penelopae quamquam. Sua quamvis fertur _prospicit capacius
+tuos_ scripsi tamen.

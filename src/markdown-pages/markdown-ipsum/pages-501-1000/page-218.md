@@ -36,9 +36,9 @@ funduntque](http://sacrorum.io/et) cornu.
 ## Et origo
 
 Pacis threicius, vocem aeratas discedere iudice infelix hoc longius! Probant
-*Canentis* certa, et incaluit Aurora pater vocem auras ambarum cum iuga *et
-creatis antiqua* vultus, fida inmune. Si tamen, Sallentinumque metuit non
-expulsumque erat **dolorem**. Dubitare gradibus, *consumite arces* primaque
+_Canentis_ certa, et incaluit Aurora pater vocem auras ambarum cum iuga _et
+creatis antiqua_ vultus, fida inmune. Si tamen, Sallentinumque metuit non
+expulsumque erat **dolorem**. Dubitare gradibus, _consumite arces_ primaque
 utrumque trepido quasi legit. In causam ab aura vomere pennis germana, est telum
 medium.
 
@@ -46,8 +46,8 @@ medium.
 
 Quamquam quamquam de margine trita [ludit](http://potens.io/talia-his.html)
 urguent illic animoque? Ducebat nisi sit, defendite albis triplices, fere solvit
-*locoque diroque dea* laborem parcite agitataque deprensa pharetra, et. Dedistis
-draconem ignibus adfusaque pectore *verum* nefas gutture ducibusque
+_locoque diroque dea_ laborem parcite agitataque deprensa pharetra, et. Dedistis
+draconem ignibus adfusaque pectore _verum_ nefas gutture ducibusque
 [proles](http://rursus-quod.com/ventis): damus quasi? Rotatum humi cunctis, aura
 turribus nulla.
 

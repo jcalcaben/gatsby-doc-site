@@ -2,7 +2,7 @@
 
 ## Contenta in non continet et mulcere ara
 
-Lorem markdownum posset. *Siqua* quid: quies quem, silentia vocem, collibus. Et
+Lorem markdownum posset. _Siqua_ quid: quies quem, silentia vocem, collibus. Et
 tendere prementem Bybli votis milite et pectora recepit crevit ducebat.
 
     if (5 - 51) {

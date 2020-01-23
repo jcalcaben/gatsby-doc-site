@@ -6,7 +6,7 @@ Lorem markdownum Ismarios foedumque nitorem. Pars crura vulnera!
 
 Crimina inrita, monilia Cerambi habuisse rigidis, Proetidas superat adire,
 creatum conataeque arae cursus. Has pes cuius Troiae vetus. Ali me fulvis
-felicem. Apro fuga iam natantibus vittisconcutiens lapidis ducentem, *e* domino.
+felicem. Apro fuga iam natantibus vittisconcutiens lapidis ducentem, _e_ domino.
 Solum monendo, et tum credant sacra.
 
 > Hoc parva non! Suam sed stratosque mille: cum vittae, conprensam convocat non
@@ -17,9 +17,9 @@ Solum monendo, et tum credant sacra.
 
 Considerat dat ecce rupe. Nil illo [populare
 dat](http://herosspartana.org/stabis), at tuentur triumphos vehit fugias: visam
-di. Inscius illum solent, fide eodem *pontum*.
+di. Inscius illum solent, fide eodem _pontum_.
 
-Fata suis non minasque *noviens secura inde* nati laniato? Veri membra fuit
+Fata suis non minasque _noviens secura inde_ nati laniato? Veri membra fuit
 Abantiades, non in urna murmur, hic reliquit et natale [mentitur
 mihi](http://enim.com/iacet-stipite.html), aestuat. Ille **cuncta** Neptunus,
 mira neque tegmine intres contingere magistris pedem frondes carnibus dierum
@@ -44,5 +44,5 @@ obvius sororum: cauda preces floribus gemunt. Quaerit statione Aeneae erubuit
 patriaeque praeside haesit; perque feri Haud tua
 [quem](http://arachnes-et.net/linquit-medio) palluit sors mihi. Perenni sed per
 ora est loca tumulus non, sed in quoque pretioque coniunx. Parente sic,
-perspexerat, dracones nescio, scripsi victus se sub; *fuisset invidiae*. Non
+perspexerat, dracones nescio, scripsi victus se sub; _fuisset invidiae_. Non
 pleni solae et aliquis spargensque tactumque ingentibus imago.

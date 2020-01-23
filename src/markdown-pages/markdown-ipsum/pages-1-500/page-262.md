@@ -6,7 +6,7 @@ Lorem markdownum iners Leucosiamque secus **polumque admissum**, dat rapis
 spatiis, illis ille. Laeta adduxit Sibyllae, cura eventu tollere simul pallorque
 Colcha praereptae fisa fortunae fatebitur **iussit possint voluptas**. Superi ab
 nuper proceres videnda mortali Ceyce iniectam puta hausit ruitque tu fretum,
-Midan *momentaque* ausim aliquid poterat.
+Midan _momentaque_ ausim aliquid poterat.
 
 Quoque at genitam honore cremabit palmis cista bracchia iustamque iter
 [oculosque](http://www.est.net/modo)! Est Circes diu suis minora copia huic, nec
@@ -17,7 +17,7 @@ tumultus; hinc montis **saepe**.
 
 Tradere solet subolemque forma torvos imagine; venit unda est attonitos in.
 Partim ceperit medio, fuit ambae leve indulgens multamque. Proles oravique inter
-detur imo *lingua nubibus tellus* Palatinis illac. Iphis vulgusque subiectis
+detur imo _lingua nubibus tellus_ Palatinis illac. Iphis vulgusque subiectis
 fama promptum **osse mihi pisces**, agitant
 [verentur](http://serpens-dederat.io/exsultatquevoce.aspx) scelus caerulei gravi
 inmortalis hector at non.
@@ -25,7 +25,7 @@ inmortalis hector at non.
 Quod cruentae vertice sed fertur Phocus celeres damno senatus figura: ut
 crescere. Tofis animi [ardescunt tanta](http://www.sonant.org/) fortissime cum
 dolor rapuit, Oliaros, tum age. Corrige et diva Phaethon; curasque hominum et
-iam austrum in tibi *per per quas*? Causas utinam vaccae excidit ductor ad
+iam austrum in tibi _per per quas_? Causas utinam vaccae excidit ductor ad
 concurrere praesagia **iter tetigisse**. Haut pro freta et mihi velit Cyllare
 sollertius repleam Philomela regia, est.
 

@@ -16,12 +16,12 @@ fecit exarsit, invisa senis potentia.
 
 ## Oneris fraterque inscius aestus
 
-Denique saevoque corpore, non superi metu, arma ore. *Hederae* et iussa mox,
+Denique saevoque corpore, non superi metu, arma ore. _Hederae_ et iussa mox,
 morientem nulla, hoc origine. Sui cui tectis, est et petitos dixit animasque
 misit dolisque convicia levius. Funda onus; per pedem ternisque sunt facienda?
 
 Semper sit colorem caeli, recepit continet vox, et et hiemsque tumulo tuas quem
-de durior pallorque *viderat*. Aut **nec iniceret**, ex acri super, care
+de durior pallorque _viderat_. Aut **nec iniceret**, ex acri super, care
 Parthenopen. Bracchia mundi. Mixta et fraude vittis, excidit duobus, mensis
 subponunt glandes; innata vis inde faciente.
 
@@ -43,7 +43,7 @@ faciemque quod, non si **non frugum num** nomina atque utque terrae, sic magna
 vulnera! Rictus [armi](http://iugalibusmortalia.net/est.html), germanamque caeli
 dabitur tum denique flores, et. Cedere cecidisse imagine; visa sic audax Pyramus
 caput fuit vertunt nostra verba umerus videtque. Mentisque aetheriae sua, quod
-in fama praeside *cervum*.
+in fama praeside _cervum_.
 
 Venit nihil quin numine cervus sit vitiumque nexus lyraeque pronusque
 [murram](http://www.cycnum-alto.com/) et ambiguis cepit? Felix mihi positoris

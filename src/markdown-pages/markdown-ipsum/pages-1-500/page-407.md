@@ -14,7 +14,7 @@ cetera.
 Gemmas manu texebas fertur est adductis tutum, haerebat iuvat atque Neritiaeque
 patet. Et Colchide legem lacrimis inbutam inicere quid [modus et
 volenti](http://molis.com/)! Pittheia ovis minantia, bello flector et
-exsaturanda morsibus cuius Salamis: *aerii erat forma*, idem Pallas! Curis non
+exsaturanda morsibus cuius Salamis: _aerii erat forma_, idem Pallas! Curis non
 studio et dixere, et **ultra**, comitique: Iunone.
 
 - Prosilit tandem pondere quid
@@ -52,5 +52,5 @@ caudice.
 Eandem Frigus cum deceptaque sine armatosque matris correptaque **adhuc animavit
 magnumque** qualiacumque taurum et tempore sanguineae tridente. Idque erroribus
 ligno vulnere fugit consternantur volui inplevere miscuit nefandas ternis est
-silet possunt. Modo alimentaque ab diversa etiam, partus *inerti*, hospes
+silet possunt. Modo alimentaque ab diversa etiam, partus _inerti_, hospes
 velocibus, contigerant radiosque.

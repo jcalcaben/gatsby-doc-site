@@ -3,7 +3,7 @@
 ## Futuri dum laudat sumit
 
 Lorem markdownum domum animo cum ex nosces Nise ignorat sunt spatio, tactumque
-ipsam iniustaque invida *exululatque*. Valuisse exigere Iuno, cum mihi sua hic
+ipsam iniustaque invida _exululatque_. Valuisse exigere Iuno, cum mihi sua hic
 vincta copia dedere omnes est suo frondibus matris Cynthia. Cinerem retinacula
 suisque. Requiescit invisi praelatus rerum flebile pigra laboribus et
 [huius](http://www.non-fere.com/triones-pater) Thetidi fraudate partes tellus,
@@ -26,15 +26,15 @@ saucius** a solet trahunt: partes nostra causa, Themi suis laniata.
 
 ## Vera pedum umquam illius finemque enim satus
 
-Verbis ipse *gigantas*: laudis exspatiemur enixa properas adhaesit ad quos
+Verbis ipse _gigantas_: laudis exspatiemur enixa properas adhaesit ad quos
 flebile. Vult quod de virgineos terribili dixere, est, ritu. Mensas est nec,
-atque sonantem; di quos, mihi. Illuc movit vocavit in *delubra* siquis Procnes
-cannis, scilicet imperet diligit. *Fortis* tibi, adpropera terras facere meas
+atque sonantem; di quos, mihi. Illuc movit vocavit in _delubra_ siquis Procnes
+cannis, scilicet imperet diligit. _Fortis_ tibi, adpropera terras facere meas
 clara solum miseram, est idem, omne.
 
 ## Sua qua diversaeque levis tamen
 
-Comas fertur cerebrum iuvenalia et sucos, tactis Circes *extemplo* huic est
+Comas fertur cerebrum iuvenalia et sucos, tactis Circes _extemplo_ huic est
 longum nostri. Nuper carmina armis quas deum ferunt, balatus locum, nudo. Rector
 gremio colentes ut illis, palato deum silentia sororum classe nobiscum
 loqueretur, comitate. Pharetram **pampineae Iuppiter**, Phyleus. Pars omnes

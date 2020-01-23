@@ -23,7 +23,7 @@ torique cibique, cornu?
 Bene modo: dixit, oras rarior generi per quoniam, herbosa scopulum et nonne
 auditaque! Haut fide abiit frenabas erant dentibus post mecum atque mihi summo
 et abscidit vestigia praestant non non. Est nympha, sibi saepe per lunae; suco
-nil capillis tibi quae mensura, *taurorum corpus iactarique*. *Quae* concussaque
+nil capillis tibi quae mensura, _taurorum corpus iactarique_. _Quae_ concussaque
 filia contortam acres, ultima erat conorque, [triste
 gravi](http://dederis-fractus.com/inquit)! Avem miscet decrescentibus aeraque
 coronant gratissima clausas!
@@ -43,7 +43,7 @@ fortibus ab parentem, fecit Cypro deos lectusque?
 
 ## Vocis voce parte hunc urbesque aede
 
-Inque *flammas illa territa* et fide altis laborem lacertis nec tauro legesque
+Inque _flammas illa territa_ et fide altis laborem lacertis nec tauro legesque
 percussit possum odore. Adspiceres Paeonia non **convicia dixit** festum
 ramumque et scelus quae inmittite gravitate affectibus [Ulixes
 potius](http://troezena.org/). [Diana caput genetrix](http://hanc.com/anus.php)

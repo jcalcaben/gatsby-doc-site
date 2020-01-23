@@ -2,7 +2,7 @@
 
 ## Proles et curvi colla ictibus umeris
 
-Lorem *markdownum molitor nitidum*, sub mihi facta vivum, dixit hasta famem
+Lorem _markdownum molitor nitidum_, sub mihi facta vivum, dixit hasta famem
 quos. Notas me fit tenaci vellem per fide haec accessi, et coniuge calorem
 veniam dextera.
 
@@ -13,17 +13,17 @@ veniam dextera.
 5. Ingrate sine nunc gaudia
 6. Cum aequor at Iuno tumidi potiatur Hyadasque
 
-Valuere eripis: hic parte *qua fecerat Priamidenque* demens. Iunguntur Iuno Itys
-Procri *nec nec*, tibi quatenus suos Perseus; cedere iniectis flores generis
+Valuere eripis: hic parte _qua fecerat Priamidenque_ demens. Iunguntur Iuno Itys
+Procri _nec nec_, tibi quatenus suos Perseus; cedere iniectis flores generis
 inimicos ritus! Pisces vento deae qui ait dignissima fraterni factis. Artus
-carina superi *Androgeique egisse*; fert lumina sui Lyncus hunc sed quaterque
+carina superi _Androgeique egisse_; fert lumina sui Lyncus hunc sed quaterque
 ventura inemptum.
 
 ## Declinet et opem murum nomen vincta aselli
 
 Caesosque campus catenis quos per diesque sereno Claros; si radicibus pennas
 diffugiunt, aura erat fretaque non lambentem tamen. [Caedibus sedem
-nec](http://www.metu-iuvenem.io/lupi): magni visam *clamore patriae flet*, in
+nec](http://www.metu-iuvenem.io/lupi): magni visam _clamore patriae flet_, in
 Typhoea cecropia mixtaque exsaturanda. Quid mei, fas erat dictis cauda?
 
     if (2) {

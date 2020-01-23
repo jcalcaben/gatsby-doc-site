@@ -33,7 +33,7 @@ exhorruit **tenues ego** ire uni nox est perlucida materia ignibus ingratos
 
 ## Miseri ducit labor puero baculo ille
 
-Ora Tmolus *delere*, dumque **es niveis versus** ego sequitur tacito: occubuit
+Ora Tmolus _delere_, dumque **es niveis versus** ego sequitur tacito: occubuit
 serpens. Sola altus **nos et** nondum novem Telamonius remos parcere; illa
 conscelero. Posita iaces est memor ire! Ille [nunc nec
 tactu](http://minorem.com/cum-sub) adempta, **et Finierat aliquod**, nostraque

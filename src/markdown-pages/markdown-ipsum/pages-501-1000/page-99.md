@@ -12,14 +12,14 @@ coniunx, clarissimus evadere alis cupido videre.
 Ora et Ityosque cristis non illa guttas advena est venit mea in per! Romulus
 lorisque radice, cinctaque [Peleusque](http://voluitalibus.org/vivaque), has,
 primis voces: alias caecis Philomela numero animae **magni** verba, et. Origine
-tectis multum *membra magis*! Contagia bonis, acta agmina levis; sit magno.
+tectis multum _membra magis_! Contagia bonis, acta agmina levis; sit magno.
 
 ## Tot libet colonus sopita si illa
 
 Demens es recusem equum: anhelis, utque puppimque pudorem erunt
-[residunt](http://veros.org/timido) altis *pavefacta*? Nece esse que in, hunc
+[residunt](http://veros.org/timido) altis _pavefacta_? Nece esse que in, hunc
 certe [coiere cadit](http://remansit.org/foliis-se.php) sumit soliti, cum. Inque
-tam nil unum natus saepe *hac poenam longas* prodis mentem exuritque toto. Edere
+tam nil unum natus saepe _hac poenam longas_ prodis mentem exuritque toto. Edere
 tantum et homo Laertiadaeque parum se ventis dixit relictis habet est. Dives
 alto modo quae, quam **ille erat** pictas.
 
@@ -50,7 +50,7 @@ ruricolam tantummodo corde ferro medeatur Camenis frater in
 ## Stat foedus tenet
 
 Plenissima membris contenta patulos inrequieta Marathon stabat neque, est movere
-*auctore* mandata premente Avernales quae. Volenti facta Veneris; hic pater
+_auctore_ mandata premente Avernales quae. Volenti facta Veneris; hic pater
 fidis operum: laetitiam radiantis tegit, in loca porrigit, sub damnatque pecus.
 Votisque manu, est bis et Hennaeis ignibus bucera ut **datum horrifer
 nullaque**, scelus misero, gurgitis terruit.

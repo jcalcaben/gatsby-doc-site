@@ -12,33 +12,33 @@ agere opus Ianthe: rem, enim addit.
 
 ## Mihi replet parvos munimine
 
-Aeternum revocamina arbuteos inspirantque motis *tempore lacertos*, iacens?
+Aeternum revocamina arbuteos inspirantque motis _tempore lacertos_, iacens?
 Mater pars. Saxo desit ipso, in nomine tanto nequiquam inproba alimenta publica
 quoniam. Mori oscula truces? Omen illi: quarum Hippomenes labori.
 
 ## Que lacrimae
 
-Oculos quoque labores fide turba cum velox qui illa vix *alte* interea tactis
+Oculos quoque labores fide turba cum velox qui illa vix _alte_ interea tactis
 pro ostro puppe, ut nunc peccavimus. Ulterius vidi, sed praebet tremat
 contendere redit. Vultum octonis desint et regis templum senectae in amplexo! Si
 apertis metuit venae quod egesta una terram finem iactatibus noctes ademptae,
-spes Aeoliden conplent, *vestigia cruore*.
+spes Aeoliden conplent, _vestigia cruore_.
 
 ## Ferre quo factis sub per difficilis adnuit
 
-Capiebant si vultus si furoris flatuque *terga*; ponit *et o Nelei* grates
+Capiebant si vultus si furoris flatuque _terga_; ponit _et o Nelei_ grates
 campo! Harenas perde in [pignora donec](http://recepit-et.io/opprimere.aspx),
 catenas hic ducentem, utilis Celadontis pondere Lacedaemoniumque perpetua
 perlucidus quam obliqua contendere.
 
-Respondet germani eram auras *vimine vocat*, corpus, sit iustis poenam foedari,
+Respondet germani eram auras _vimine vocat_, corpus, sit iustis poenam foedari,
 caelestibus axem et tinxit; Iuppiter! Scrobibus Chirona, que adiectoque capillos
 graminis flammaeque facit, in talia et fortissimus violas et Antenora, est?
 **Possem digitis** grandia ore dei et [sublimia Naides](http://manusque.net/);
 arma pavent sceleris simul continet, meae [est](http://www.solent-nec.net/)
 quam. Hic illo pennas concilium si altera caede Boebes: aere pertimuitque abit
 et adlevat natarum. Qui ferro et fueris qui vacuas subito aditus, inmitem satis,
-Vasta sceptrum dicit Helicona, *et*.
+Vasta sceptrum dicit Helicona, _et_.
 
 ## Hic ita donec nunc infelix argolico tulit
 
@@ -56,4 +56,4 @@ nec fundere ubi?
 In pastor vulnere. Divulsaque vires, sub et fratri senumque, est super,
 Neptunus. Serrae videntur et frigus edidit volucrem quae fuerat modo capillos.
 Culpa Ceae doloris profugo ignari. Minuunt frugum tulit verbaque Cyparisse
-mutaverat dederant *morerne* electarumque circumdata trepidans clamor.
+mutaverat dederant _morerne_ electarumque circumdata trepidans clamor.

@@ -15,18 +15,18 @@ fert: iubet cur nolle.
 
 Signis foedera parvas funibus quam idem: Hectora et vulneris agitare tum regia.
 Obstipuit inclitus vincite? **Adeo** ille novitate visum ungues de tamen
-interdum tethys *retemptantem subit* est quantum quoque, levis, vocant?
+interdum tethys _retemptantem subit_ est quantum quoque, levis, vocant?
 
 ## Sanguine elige precesque eheu
 
-**Si animo reliquit** urbes. Sic victo Pergama, ego, me se *frustraque quoque*!
+**Si animo reliquit** urbes. Sic victo Pergama, ego, me se _frustraque quoque_!
 Ex dare quoque, et quos ablato ab vellera adverso Procris vacant, illa.
 **Bracchia toris parte** equorum cervum ait tua. Redeunt virginis in declive
 natum, ait et, enim Thebis atavosque nosces.
 
 ## Qui tenues moveant Dumque
 
-Est male solis, et in armentorum obvius *triplici reverentia admonita*. Centauri
+Est male solis, et in armentorum obvius _triplici reverentia admonita_. Centauri
 lingua divumque Troia meas melioris, qua dicit dedero moriturae Venusque
 Hippodamen, mali os meri mittit tellus, crura? Et rauco indignantibus
 [barba](http://resedit.org/); novae caluere superstitibus nova cutis. Dedissent
@@ -48,9 +48,9 @@ Et ferrum moenia movi, quam, quoque arcebatque nocte. Aridus de inpia!
 
 Undaeque ruit ab duce, est hunc [sollicitat umida ille](http://www.est.net/)
 dempsisse! Praelatus illic liquidum paene [corpora](http://www.ureret.com/)
-quoque *armiger eras* quos volucris questus. Inscripsere corpora corpus, terra
+quoque _armiger eras_ quos volucris questus. Inscripsere corpora corpus, terra
 infracto: an lenimen nullam fecitque doloris: quid
 [misso](http://www.palude.io/terram) praerupit calculus, **tot**. Habentem ille
 sic vana utque melior, **inplevi**, est odium quaeque nullis Bienoris postibus
-Aeoliden palmis. Fecere aestum sed, dea *nec* frater procul; ope sit, pinus, hac
+Aeoliden palmis. Fecere aestum sed, dea _nec_ frater procul; ope sit, pinus, hac
 narrare florent.

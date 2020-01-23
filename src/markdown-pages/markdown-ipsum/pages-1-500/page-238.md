@@ -6,8 +6,8 @@ Lorem markdownum ferebat statuistis timeto vulnifico portans: innumeris citraque
 furor garrula monumentis ille infausto relinquit sonum, ille. Vocem puerilem
 clamore, me ut Phoebus omnia illa tamen. Est animoque velante.
 
-> Vocis isdem sinuataque cornua est dedit, ora meis radiorum aspera decerpta *An
-> molli*, et. Bene est *fluxit*. Dixit mater est spectat solus corpore conataque
+> Vocis isdem sinuataque cornua est dedit, ora meis radiorum aspera decerpta _An
+> molli_, et. Bene est _fluxit_. Dixit mater est spectat solus corpore conataque
 > partu.
 
 ## Volucrumque dixit fortiter retexitur Cleonae
@@ -44,7 +44,7 @@ suasit scelerum.
 
 Relevare revulsum sanae superest viveret. Ventis ab nymphis traditque adest
 triformis formam pectus ora! Vellem decus certa, sic super mercede in populus
-nempe: titulum flet. Adparuit in ipsaque tertia. *Sed verbaque posuit*.
+nempe: titulum flet. Adparuit in ipsaque tertia. _Sed verbaque posuit_.
 
 Et sponte [dignos flesse quod](http://fecit-actaea.com/ruit) duplici tamen
 [luridus est](http://est.com/officium.php) grandiaque movit quaerenti undas si

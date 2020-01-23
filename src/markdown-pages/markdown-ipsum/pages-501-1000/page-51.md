@@ -18,14 +18,14 @@ epulasque ut fuit **ardua** amplexa Dictaei longaeva morantia.
 **Saecula caesa**. Quid alti submersum explorat: iam ductum et passis aede
 violave manus in inritus rabie. Maternas potest hinc!
 
-> Memor erat umbrae. Sors habet petiit *undas fulget effugit* noscoque, te, urit
+> Memor erat umbrae. Sors habet petiit _undas fulget effugit_ noscoque, te, urit
 > fretum supplex, agmine: in pluma. Facinus factus Tyrrhena patulosque potest
 > ignara tabellis indignave nominis talibus murmure.
 
 ## Ad usque Laertaque confusaque putes occupat quamvis
 
 Rogata bella nova pudori nullum concubitus laedere dicemur viribus, glandes.
-*Creatus habent sequantur* neque: cetera edidit se abiit contingere poenas
+_Creatus habent sequantur_ neque: cetera edidit se abiit contingere poenas
 conplerunt equos, erat temptamina praefert.
 
 1. Precaria natalis
@@ -37,9 +37,9 @@ conplerunt equos, erat temptamina praefert.
 
 ## Fecere consuerant putaret contento quod
 
-Non est **dolore ictu** Cycneia aras *adiere sed* simul potest carmina nam enim
+Non est **dolore ictu** Cycneia aras _adiere sed_ simul potest carmina nam enim
 repetit, bellis lucos. Squamae ore urget votorum sepulcris socios gratia duxere
-*solidam circuiere sis* arduus inquit. Sumptis odium *poma* non in fontesque
+_solidam circuiere sis_ arduus inquit. Sumptis odium _poma_ non in fontesque
 vocant!
 
 ## Potest fama
@@ -48,7 +48,7 @@ vocant!
 nuper factum minores teneraque, adfectas exspiravit fuisses caluere Olympi
 contingere [foedabis virgaque](http://iuvenem.org/)! Collo mare pressus exsangui
 ut inquit in daret, et subsedit, vias quam, aquas tori procul et. Longa corpore
-Acheronta carinae, taurorum colla quondam? In pigris *a menti creatus*!
+Acheronta carinae, taurorum colla quondam? In pigris _a menti creatus_!
 
 Corripiens admonitu Latialis parva non auris est venerisque iurabat non duo
 prosiluit sollicita ingemuit commenta Marte igni, ne. Recto Priamo arma missi

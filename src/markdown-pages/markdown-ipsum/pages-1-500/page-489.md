@@ -54,7 +54,7 @@ ferinae subduxit arbor, ipse adhuc viri fingant perdam capitque ponti: pictam.
 Gradus iam, cum victus ore, arvaque, Aesonis. Achelous timetur Aethionque mente;
 qua odores tangit fugit egit quam mentis, quam cuspide exuit caeloque annisque
 si annos. Corpora has solumque quam: omne corpus animans, est quoniam inque,
-vitibus es anguis simul, *qua*.
+vitibus es anguis simul, _qua_.
 
 - Iunxit dictis at cum quoque hostem Phoebus
 - At Euboicus capillos circumvolat fluunt colla cornua

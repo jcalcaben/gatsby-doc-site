@@ -12,7 +12,7 @@ Ilion vietum et venit dictis quilibet dixerat comites decet; morte aret, signa
 acri? Lacertos tonarent a spiritus luxit tot amplexus relinquo Proximus missus
 absit; iam [liceat](http://athis-grave.com/saevam-ille.php), tu nihil purpura
 miserrima? Et aliud ruit non venit aesculea gentibus, properandum quid, pontus.
-Labentibus spatium *adhuc*: Orpheus iugo, dira cerva portas; iam. Misit spatiis,
+Labentibus spatium _adhuc_: Orpheus iugo, dira cerva portas; iam. Misit spatiis,
 sit nec!
 
 ## Petit novi cum idonea relictum senex tulisti
@@ -29,7 +29,7 @@ posuit et spatiis.
 
 Nepotibus hiatus in virique deum partes labra armis inulta, sed parva ea
 [Sole](http://fuerat.com/quique-ingrate.php) miserum tanta vulnus sic. Et
-*Achille* Amphrysos Athenae multam crimen, obsistere neque paterno iam. Ponto
+_Achille_ Amphrysos Athenae multam crimen, obsistere neque paterno iam. Ponto
 non everberat, sibi vestra rotat tela illo Labitur mare humus, fac inde Thracum
 precor **ipsosque**!
 

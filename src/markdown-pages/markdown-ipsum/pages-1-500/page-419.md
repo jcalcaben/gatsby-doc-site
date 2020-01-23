@@ -19,7 +19,7 @@ mora, ter falce et nubes pater.
 Mota gemmis tempora igitur! Pandos cui Delos matura non es pellor captaeque
 [flumina septem](http://ab.com/indedemas) disci; iugulo semper pavet. Pedibus
 populo curva propior dictas, gurgite ictu mihi ponto prudens pudor intellege
-quoque? Annua Indis *conticuit pellitis* mare, ut telluris bracchia ad neque
+quoque? Annua Indis _conticuit pellitis_ mare, ut telluris bracchia ad neque
 **quisquis omnes timui** zonae rudente.
 
 ## Mittit telluris furor
@@ -28,7 +28,7 @@ Delubra **innumeras certius** morbi: temptamenta saepe magno suis corpora multos
 fuerat. O poenas, iamdudum lassatis solio Bacchi, Venerem sed quem tantosque
 graves iungat; qui corpus. Aerias trahunt mediis, sub amnis, non caelum
 virginis, nam quarum. Et aethera **esto**; ursi condidit quae; Atridae,
-detorquet. Epulas *ardere perceperat cunctas* virtus qui color, orbem magnum
+detorquet. Epulas _ardere perceperat cunctas_ virtus qui color, orbem magnum
 liquentibus.
 
 > Visum illa iuvenem. Faces procurrunt ipso rapiunt quod prohibebat

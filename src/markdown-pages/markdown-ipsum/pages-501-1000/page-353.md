@@ -33,7 +33,7 @@ Tabuerint speluncae quae, sanguinis aliis tulit dumque recentes magna revelli.
 
 ## Senecta nata Sabinae
 
-Factisque *faventibus* auras licet irata cavo quamvis lapsis, ruricolasque
+Factisque _faventibus_ auras licet irata cavo quamvis lapsis, ruricolasque
 **lassata abiit** cultoribus Scylla. Cum arida nec. Rigori te regis nulloque,
 tune est rupisset cur peperisse herbas prima postque mihi [decoram
 plumis](http://www.poena-alterno.io/cum).

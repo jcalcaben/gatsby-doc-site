@@ -3,7 +3,7 @@
 ## Pervenit ambitione se herbis quem
 
 Lorem markdownum cernimus dextra: [visa ait](http://dei-tantos.org/moles.html)
-indeploratum montes mille, res acuto sit haec. *Sed Cypro* facit longa? Non nec
+indeploratum montes mille, res acuto sit haec. _Sed Cypro_ facit longa? Non nec
 iam nunc, et colunt, flammamque pronus.
 
     if (portDrive - tcp) {
@@ -20,7 +20,7 @@ iam nunc, et colunt, flammamque pronus.
 
 ## Ismenides parte
 
-In parentem gramen. Thisbe Laomedonta secus comes, di spernimus arma *serasque*
+In parentem gramen. Thisbe Laomedonta secus comes, di spernimus arma _serasque_
 pontus vires te miserae, nam.
 
 Sub una factas aures uvis ille nocte, dum pictis.
@@ -55,7 +55,7 @@ pericli coactis velocibus saepe te Bacchum cervicibus notam. Corythumque tellus
 valens vertere omnia edax non solumque gemino, est non oraque, in.
 
 Favete ne mea oleaster defuit clarissimus virum tristis non heros specie
-senserit mille *memori maris ut* iubet sacra age; est. Arctos vultu ingenium
+senserit mille _memori maris ut_ iubet sacra age; est. Arctos vultu ingenium
 restatque nobis et profuit Martius ac solet verborum cognovi. Loco patrio arge
 cognoscere gratata et morsibus homo adsuetudine perluit qua quem superesse.
 Tenera cacumine pars crinem, Tereus non quisque inque divino exclamant nostri,

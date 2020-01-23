@@ -2,7 +2,7 @@
 
 ## Pelates et longam a miratur quoque restabat
 
-Lorem markdownum deum! Sub *sub* horrida in repulsa mutastis custodemque omnes
+Lorem markdownum deum! Sub _sub_ horrida in repulsa mutastis custodemque omnes
 volucres horrida cum. Annoso sacrata sine: [et arcu](http://oblita.io/) verterit
 meos, mentem, coeptas licet et ibat Veneris nihil.
 
@@ -37,7 +37,7 @@ percussit. Nec in sanguine iusto, ramos pars rexerit partim festis imitetur
 frustra, limina. Morbis Gorgonis ne toroque amissae torsit armamentis **idem
 Tartara**.
 
-Hominis ad cura, non gravitas Hac, vestigia dixi, *sanguine multaeque*. Lacrimas
+Hominis ad cura, non gravitas Hac, vestigia dixi, _sanguine multaeque_. Lacrimas
 sine. Blandita ducebat quater diversa violentus, umeris terribilem etiam
 trepident nepotem **exuit** inritare, tela ipsa haec.
 
@@ -59,5 +59,5 @@ illis](http://etfabula.net/) intellectumque muneris digessit.
     }
     var ieee_san = troubleshooting_bin(ole);
 
-Nunc *fluit*, refringit vastator requirit sceptra praebentem utque. Vulnera
+Nunc _fluit_, refringit vastator requirit sceptra praebentem utque. Vulnera
 limine.

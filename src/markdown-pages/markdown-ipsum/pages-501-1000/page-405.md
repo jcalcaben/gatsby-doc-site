@@ -18,8 +18,8 @@ Sed adhuc texitur placet quartusque viam castra: suum lingua arduus relictum,
 vite. Ore quod et quae!
 
 Genuit annosam Phaethon de neque eademque? Artus deus [sternebat
-supplex](http://cum.com/cecidisse-carpebat.html) anima potest *nosterque vidi*
-verba, *aurigam*. Texta sic cervix magniloquo luctuque Paeonia totum sucos
+supplex](http://cum.com/cecidisse-carpebat.html) anima potest _nosterque vidi_
+verba, _aurigam_. Texta sic cervix magniloquo luctuque Paeonia totum sucos
 prosiliunt interdixit pedem, et Byblis Insula promissaque operata facies.
 
 ## Hic virginibus eque licebit

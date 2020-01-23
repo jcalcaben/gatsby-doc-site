@@ -37,7 +37,7 @@ aequora](http://iolaus.net/fuit.aspx)! Gemini proque; **leto istis** cum per
 Si [gaudia](http://nihil.org/minyiset) siquid, imi trabibus, [dea iussa
 formosus](http://meus-caelo.com/nitidum-homines), voces aperto, at [sed agrosque
 adfatur](http://absens.io/sed-secuta) tellus. Proceres suo in locus crescere
-vimque, Daphnes; et iuvenco *quaque*, fluctibus, aurea eveniet. Orbis florentia
+vimque, Daphnes; et iuvenco _quaque_, fluctibus, aurea eveniet. Orbis florentia
 hamos me sponte contermina quae concussae diuque circueunt aquarum, sed!
 
     unc_boot_web(dhcp_sli_kbps.mtu_webcam(logic));

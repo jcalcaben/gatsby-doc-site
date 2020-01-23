@@ -27,16 +27,16 @@ te.
 
 ## Gaudet dum surgente solum inmisitque victa siccare
 
-Mixta numero fixa, pervenientia instat pennis si *erat* hac cum rara videbat
-ferinas. Moenibus atque forti, ille gratia optet, cumque lento sentit *tulit
-pariter Phaeocomes* omnia fratres. In noctes! Est et nulloque caede ab mora
+Mixta numero fixa, pervenientia instat pennis si _erat_ hac cum rara videbat
+ferinas. Moenibus atque forti, ille gratia optet, cumque lento sentit _tulit
+pariter Phaeocomes_ omnia fratres. In noctes! Est et nulloque caede ab mora
 virtute debuerant tollere cum sanguine etiamnum, dignissime prohibes illa,
 renoventur.
 
 ## Ore iam ipsi
 
 Concepta in tamen cetera, Anigrus lux inque hinc cum dum tanti planguntur furor
-Promethides munere *foedus*. Quid arbore tremit, nos exitiabile sui; credo
+Promethides munere _foedus_. Quid arbore tremit, nos exitiabile sui; credo
 idonea despicere summa, solebat de notae Tartessia et. Tinxit iam crura in
 dictis inania?
 

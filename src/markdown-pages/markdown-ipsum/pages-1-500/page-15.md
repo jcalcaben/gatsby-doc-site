@@ -2,7 +2,7 @@
 
 ## Quod Pelopeiadesque vultu
 
-Lorem markdownum *deprensa* consequitur edidit. Cephalus inque, tenens manus,
+Lorem markdownum _deprensa_ consequitur edidit. Cephalus inque, tenens manus,
 tapetibus ensem et tantum fugias saturatos.
 
 Ciconum Anchises lacus mirantur iniuria videre: lupos triplicesque flamina
@@ -12,7 +12,7 @@ vobis moventur litora.
 ## Carens est merere dicere malo quove laudatis
 
 Phrygiaeque iram tela fontem; aurum quam Iovem, utile mare iamque. Erat fuerit
-concordi *ne* rimas evocet fluentia nec litore Athamanas factura est cuncta sit
+concordi _ne_ rimas evocet fluentia nec litore Athamanas factura est cuncta sit
 vita orba aera **recentes haeret**, protinus!
 
     google(-5 + 65, wave_memory_white(tutorial + isdn, archieOpenAlert(disk,
@@ -36,7 +36,7 @@ vita orba aera **recentes haeret**, protinus!
 ## Fecere summa contigit cortice ornat se foret
 
 Summis in genuere perpetiar pulsa Cressa, sed lumina, equarum. Te gerebam
-cognoscere nec *firmat nomine perdidit* tenens ridet vix didicit, Neptune ad a
+cognoscere nec _firmat nomine perdidit_ tenens ridet vix didicit, Neptune ad a
 arbor errore mente. Dimovit Cebrenida atque: Sardibus ad herbis lusisse non
 Murmura, sit dic. Moles et vestris labori longius, et animum duobus silet
 iterata atque Hippotades visis placuit, adfuit.
@@ -67,6 +67,6 @@ alite quod biformis nomen. Operi modo ianua procorum.
 
 In verba malum semper nomen [erat ituros](http://nepheleidos.net/) proxima
 rutilis sit fata veteres. Amans bello agant deficiunt viri tumidus acutae Aeacon
-**saxum** quo bracchia doleam si levat resedit. Volumina infantemque et *nec*
+**saxum** quo bracchia doleam si levat resedit. Volumina infantemque et _nec_
 calido pereat, lumina brevis, e magnasque cape et Cernis se quaecumque. Soror
 [patrem](http://postquam.net/stagna-truncoque.html): si album.

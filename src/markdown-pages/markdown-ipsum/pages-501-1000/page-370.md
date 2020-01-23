@@ -2,12 +2,12 @@
 
 ## Multae pronaque vimen
 
-Lorem markdownum mitisque sine nube velle pectora, in ubique *nitenti*
+Lorem markdownum mitisque sine nube velle pectora, in ubique _nitenti_
 aequoreis, tu pronus et. Quippe albentibus gemino **inter**: iam Anigrus hic
-virgo *ab* animae flammiferis perque prospiciunt velle; lati vixque
+virgo _ab_ animae flammiferis perque prospiciunt velle; lati vixque
 duplicataque. Vana pedibus aut iubeas; Venerem, tribuisse ignibus setius. Ad
 pallidus, nate atque caput fit senemque vectabantur quae caelo adorat vagitque
-nubigenas postque terrae *arma*.
+nubigenas postque terrae _arma_.
 
 ## In venit clausere inmittam sidera movetur et
 
@@ -27,7 +27,7 @@ amantes.
 Longa calcataque parte, discordia discedite torta, dubitor fide unius sustinet,
 natorum mora dum quamquam. Genitor initis est coniunx dum perosa quorum omni:
 perque in generi, quod tamen omnes extulerat gaudere. Saepius mandentemque
-dubioque voces. *Celant positis quinque* Palameden crudus precatur, et quam
+dubioque voces. _Celant positis quinque_ Palameden crudus precatur, et quam
 honesta quoque gelidoque torquet super facio huius.
 
     balance_control_goodput.usGoogle = -3;
@@ -38,15 +38,15 @@ honesta quoque gelidoque torquet super facio huius.
 ## Ranas vota proxima
 
 Si fortes aversa inmixtaque dixit ne ostro Scyrumve cultus audis viribus
-stirpis. Enim saevoque, tenebant, mentisque datur, *latebat utque amare* Peleu
+stirpis. Enim saevoque, tenebant, mentisque datur, _latebat utque amare_ Peleu
 bracchia iuves, amicitiae ubi est cera! Vincere et plenoque fluit percussis
 angues et **sedet** pedibus, [iungi](http://facieshis.net/). Ei decidit bracchia
 artus moenibus fuissem Peleus Tartara.
 
 Vellera illa cum prohibebar iacet, et temeraria dixisse eversam cunctos
-admisitque iussit colloque Clymeni dum et *solis*. Sua erat, missi. Versus quod
+admisitque iussit colloque Clymeni dum et _solis_. Sua erat, missi. Versus quod
 nomine ordine, increpat, iungitur perculit sensit, dei aliquis.
 
-Pugno modo iano quae Priamum paelex *atque* non meliora salutat mollesque, et.
+Pugno modo iano quae Priamum paelex _atque_ non meliora salutat mollesque, et.
 Medentes coepere si cervix, ea iusto Idalien litore aspera. Mandasset praelata
 Danaam pennis. Facti voce parentis: erit voto; litore, diu coniuge!

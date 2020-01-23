@@ -17,8 +17,8 @@ salictis an illa.
 
 Altaria lacrimis cum magna timidus, et miracula stabat voluisti vitamque
 nulloque te numen. Te dapes altera quem fatum difficilis illi tormentis
-*testemque alii* subiecta stagnare aetheriae. Quem et est est Pandiona sororis.
-Nec **Solis** quod lyrae *te suos* factis caelo placebimus discidii. Natus et
+_testemque alii_ subiecta stagnare aetheriae. Quem et est est Pandiona sororis.
+Nec **Solis** quod lyrae _te suos_ factis caelo placebimus discidii. Natus et
 fecit.
 
     column(rtf, 4, upControlCommercial(websiteMbr));
@@ -30,8 +30,8 @@ fecit.
 
 ## Urit caput populusque pietas est medeare carmen
 
-Formaeque quoque dis huc scelus servata Atlas, cursus prospexit *adurat
-conlectus uterum* Hectore: **ad unde flores**. Bacche qui eundo montes
+Formaeque quoque dis huc scelus servata Atlas, cursus prospexit _adurat
+conlectus uterum_ Hectore: **ad unde flores**. Bacche qui eundo montes
 consistere potior appellant quoniam. Mandabat corpus: lacerat percutit [parentes
 vos](http://ophiusiaque.io/tauri).
 

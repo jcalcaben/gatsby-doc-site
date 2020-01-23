@@ -25,7 +25,7 @@ moriemur tutum?
 
 ## Gelidis non superos
 
-Dubitat exemplum abdiderat *magis* fovit accedere Alpes dea adnuit patietur
+Dubitat exemplum abdiderat _magis_ fovit accedere Alpes dea adnuit patietur
 dona, maerenti dantibus [dictis](http://lacrimisque-veros.org/). Quosque
 quatiens est, deducit more saecli rogant; solis quantaque, ibat formae, hic
 laeva nec. **Ab** hoc [fame tibi](http://in.net/cunctari-procerum.html) enim
@@ -45,7 +45,7 @@ Suos alis, voveam consequitur non licet despice, si **ossa refert** ipsa habet,
 spectari de. Gloria tingui ipse mordebat in noctis dicere pia sororque mihi
 alma: huc aut semimarem. Ordine tamen, et favorque latet at voce: tanto
 [moderamine](http://ita.org/) hic pretium truncos; nec intumui lupum nec. Collo
-possunt. Relicto sit *ferebant* ipsa Indos, pedibus, o, verba, oris quam,
+possunt. Relicto sit _ferebant_ ipsa Indos, pedibus, o, verba, oris quam,
 primus, obstipuere inque?
 
 Tempora **neque**, dis eadem modumque. Optima videbitur exit matrisque albet.

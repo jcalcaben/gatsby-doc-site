@@ -3,8 +3,8 @@
 ## Ventos cinximus natam longius discite
 
 Lorem markdownum colle, inclitus adhuc est, es omnia
-[cepere](http://colunt-quibus.io/equos-quo). *Luna* quotiens, erit vagus quo
-**fauces per** equorum *orbem*, rursus laterumque tota insistit facias vox
+[cepere](http://colunt-quibus.io/equos-quo). _Luna_ quotiens, erit vagus quo
+**fauces per** equorum _orbem_, rursus laterumque tota insistit facias vox
 Myrrha. Aurora Tisiphone Paeonia **solita pensa**. Proelia ut axem ibat, mortale
 concresse fatorum elementa sua sonant facere. Suprema dimovit ferebat, Minos
 habitasse nubibus.
@@ -15,7 +15,7 @@ habitasse nubibus.
 - Trita praecordia dentibus dea
 - Vipereasque siqua quid oculos clamat re differt
 
-Corpora fuderat. Quas petita rabies arbor ore saevit soletur nocti; *quod*. Veri
+Corpora fuderat. Quas petita rabies arbor ore saevit soletur nocti; _quod_. Veri
 stupuit nostris. Est laeva loquendi inmania reliquit et sonum nodosque, toto
 excipit coloris sua?
 
@@ -35,7 +35,7 @@ quidem, bellum non; hac. Viri amans, gravis.
 - Funere minora sine femina invidiosus solvi
 - Ut ignem lucis
 
-Thalamoque bracchia prima nata *imagine*. Septem sacra, quam reor Aeacide et
+Thalamoque bracchia prima nata _imagine_. Septem sacra, quam reor Aeacide et
 atria pectora iuncti quam. Tum caput quid vidit herbas coruscant florebat
 capiat, quia pro; est numen. Arbore et natas Nam pavet suum, ab antris perde
 diva, in, montibus in.

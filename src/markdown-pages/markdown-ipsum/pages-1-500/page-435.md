@@ -3,10 +3,10 @@
 ## Tamen nunc aulam quartusque cadensve
 
 Lorem markdownum quoque [ora](http://saxo.io/) oras vertice, caput quae, ora
-quarto, litem sitim dedit vestri. Quidem illo *Caras* et refert, violem miracula
+quarto, litem sitim dedit vestri. Quidem illo _Caras_ et refert, violem miracula
 herba Credulitas venit. Abit causas simulat, potiere dicere medios quod Myscelus
 removit ratione demittere adulter, voce rata quamvis. Sub et retro pertulit
-tamen, se eodem *tu* semper aetas. Nec *et tibi*, Herculeis trepidoque plenos.
+tamen, se eodem _tu_ semper aetas. Nec _et tibi_, Herculeis trepidoque plenos.
 
 - Auro et tibi utinam
 - Lycii altis Phoebi magna quae pignora fecundaque
@@ -46,13 +46,13 @@ studioque quisquis.
 ## Paulatim crede Aurora et satis
 
 Requiras aque. Columnae et quo Philomela: nam est longa plures frena, solent
-quos. *Ima dumque* loqui tu toto vacantem: vidit verum caraeque,
+quos. _Ima dumque_ loqui tu toto vacantem: vidit verum caraeque,
 [fovit](http://ira-corpora.io/).
 
 Arbor tacui, quoque rutilis ille ibi erat sorsque, sociorum inhospita una
-conscia feremus adiecerit falsoque. Si viva Iason *vitiato*: artificem instat,
+conscia feremus adiecerit falsoque. Si viva Iason _vitiato_: artificem instat,
 ut a. Petiit concepit paries elidunt ausae Acrisio hominis: o, tum ait! Vigilat
-quia cum, vestibus *ferenti venitque ferat* orant aethere.
+quia cum, vestibus _ferenti venitque ferat_ orant aethere.
 
 Iam ignes unusque fratrem. Cum animis insigne cava, subit si ovantem in sumit
 adspexit recessit invadunt ignibus. Receptus est idem **presso**!

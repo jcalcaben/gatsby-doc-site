@@ -16,12 +16,12 @@ ipsa caede a utque multumque.
 
 Dimittere lusibus lascivaque feminea. Quoque gradieris iamque frena exanimesque
 inpar. Nobis motis antris non ulla hanc caducas, et unius in annos aliqua ad
-[volentem](http://www.sanguine-ex.org/) alias est est *quater cerae*.
+[volentem](http://www.sanguine-ex.org/) alias est est _quater cerae_.
 
 ## Ira caeli euntis moderatus velimus invita
 
 Politen usa atque nuper sonantem florem Pellaeus et matrem! Locus sit Rhoeti,
-*cum nec* age [sinistro Haemus](http://est.org/). Nimbis cautes adhibet et, vota
+_cum nec_ age [sinistro Haemus](http://est.org/). Nimbis cautes adhibet et, vota
 crepuscula adamas se culpa fulgore illis Athenae, sensim.
 
 - Pia profugaque vulnera matrum fare cornum Quid

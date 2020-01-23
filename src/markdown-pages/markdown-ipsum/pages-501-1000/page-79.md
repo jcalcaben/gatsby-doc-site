@@ -7,14 +7,14 @@ Mediis illa? Qui ille. Est moram membra succidit auro; vultumque inquit, mento
 quod sanguinis in rursus qui quoniam inmitis? Herbas est ferarum vaporem scelus
 oscula parat saxificos horrore spectant.
 
-Accipit utque *umoris auro* cum cognoscere Austro, tenentem rotatis te volucres
+Accipit utque _umoris auro_ cum cognoscere Austro, tenentem rotatis te volucres
 castaque fusus. Potest vate! Esse mota figuram lino terrebat; nec in Maenalon
 Helles.
 
 > Est pariter naides fauce adii membris ubi unus accessit. Non terraeque hic,
-> sua sublatus Athon instrumenta: ubi spoliis inclinarat armat, ligno *Aeson*?
+> sua sublatus Athon instrumenta: ubi spoliis inclinarat armat, ligno _Aeson_?
 > Inulti tympanaque misit et e socii est numina repetebam forte facit quae aut
-> corpus? *Ad fortis dixere* pennae, secernit cetera advertite dixit sua.
+> corpus? _Ad fortis dixere_ pennae, secernit cetera advertite dixit sua.
 
 ## Erat post Romana
 
@@ -48,7 +48,7 @@ forma opem iam scelerata nemorum, sede. Est integer vulnere dilectus; exitus
 timuit nisi animosus est esse leonibus!
 
 Nigris ad promissaque vocat labentibus auctor, **et palmae rustice** monitisque
-Helenum aer Pana siccare Odrysius, tellus paterque patuit. Coniecto de *qui*
+Helenum aer Pana siccare Odrysius, tellus paterque patuit. Coniecto de _qui_
 pariente iras rura sorores Andraemon misit voluptas sanctae stipite Haemoniam
 mox inque? **Habebis nefando nec** funera excutit celas recessit; quantum
 perstas, omnem dis [flagrant](http://ego-animumque.io/decimo), lacrimas. Tangere

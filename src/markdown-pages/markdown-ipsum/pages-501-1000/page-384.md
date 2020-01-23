@@ -5,7 +5,7 @@
 Lorem markdownum bacchae; [summo dum](http://saxa.net/ferre), pensandum super.
 Quem [precor quam](http://www.corniger.com/tamen.html), nec putria conata
 sparsisque licuit, non monet oculis! Veterem torum: Hebrum formam quoque,
-Liternum Beroe in. Iuvenis rauco dum Veneris: exquirere *heres multis*, videt,
+Liternum Beroe in. Iuvenis rauco dum Veneris: exquirere _heres multis_, videt,
 plausis ubi nymphas moenia navita!
 
 - Tardata moveri
@@ -54,7 +54,7 @@ Non sum ut nolet, mihi aderat enim, sua opes! Nimium dubie?
 
 Dixere ima? Lac aut ver haut flamma avara, regnum est quae et magna et solis
 optari. Et ventus esse undas carmina faciem **exilium**: candida certamine
-*tristes rore*? Iungere uti periture, certe mare taurum ossa sit?
+_tristes rore_? Iungere uti periture, certe mare taurum ossa sit?
 
 Terrae visa vero voluit fertis doliturus ferarum foedaque palmae, in sim Ultima,
 et tristis oracla. Ubi sitim a visae, o degeneras agimus Pithecusas soleo

@@ -11,7 +11,7 @@ aerias.
 ## Est non aetas ferre
 
 Cacumine semina cum. Membris tota fasque simul inplerant vocem: linguam non
-terra quam. Cur arcus membrana facitote aberat temptat inplet *cacumina in*
+terra quam. Cur arcus membrana facitote aberat temptat inplet _cacumina in_
 carinam **forsitan**, est.
 
     exifHit.irq_netiquette_shareware.alignment(busMediaMarkup, markup(5, 65,
@@ -23,7 +23,7 @@ carinam **forsitan**, est.
 
 ## Orionis inde tradunt rogavit inrupit linguisque Theseos
 
-Arma *suadeat* ingenua. Una per pinetis caeli numerum, vasto ferre genitor
+Arma _suadeat_ ingenua. Una per pinetis caeli numerum, vasto ferre genitor
 nostri, corona illa.
 
 ## Et poscit expalluit spargitque caedem
@@ -32,7 +32,7 @@ Vetat et parte figitque, ad nec amborum ille Saturnius Leucothoeque tibi. Tua
 mihi contra uno favet aere, **abrupta** secabant in reddat terrae numero simulat
 tibi, est nunc [ingemuit](http://avis.com/), sexta. Toto
 [omne](http://agros-humilem.io/) includit cadme, telum feres curvo sacra ignea
-moderatus. Quondam saxumque *Andraemon* subitis in; **aemula sumptam**.
+moderatus. Quondam saxumque _Andraemon_ subitis in; **aemula sumptam**.
 
 - Crescit plus incola
 - Priami crimen constitit taurum te rursus nox

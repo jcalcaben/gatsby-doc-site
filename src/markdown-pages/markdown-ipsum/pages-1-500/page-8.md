@@ -16,7 +16,7 @@ caelicolae lapis duabus. Virgis solidumve extis esse praeside inimica bracchia.
 
 A auro in, scopuloque **et aera** per [pedibus
 datura](http://www.et.org/me.php); qui donec mea, fugae. Honorem **vidit**. Nunc
-quae *faciemque factis facundia* vestro ad manus, tecta ipsos. Terras tibia,
+quae _faciemque factis facundia_ vestro ad manus, tecta ipsos. Terras tibia,
 animos descendat stravit. Tristitiam inplet pennas palmas levis repetam non
 Ciconum: hoc venas [ultimus](http://incumbenscorpora.com/sinevisura.php) praeter
 medio cum, invitique, oscula?

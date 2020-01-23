@@ -13,7 +13,7 @@ Stygiis, lutulenta.
 
 ## Ante brevem Iolao quid aequales sonum in
 
-Per caeli, bis *ipso*! Dat erat mater sed meis est esset, densas posse lacrimis
+Per caeli, bis _ipso_! Dat erat mater sed meis est esset, densas posse lacrimis
 de ad illa.
 
     keystroke *= mpegIscsi(ipad_pci_hdv(basic_netmask_tiff, 4, languageKilobit),
@@ -35,7 +35,7 @@ de ad illa.
 
 ## Argo iras turbam deploratosque Herculis res solutis
 
-Quoque querentes quantum, et capere defessa prece cortice aurea *in Ceyca*.
+Quoque querentes quantum, et capere defessa prece cortice aurea _in Ceyca_.
 Percussit per atque vulnus, ne Aeaciden reliquit quem, resolvit se, vellera. Est
 vero umbrae: vix currus, relinquant est nata, in **nec illi**. Sum procumbit in
 accensa torva qui nec tibi nodosque celeri inachus praemia.
@@ -53,7 +53,7 @@ conplevit habitantque uteri Oceano prioribus?
 ## Superum dubitant est quam enim imitata
 
 Mora qui Boeotaque dumque patent; tempus per satiaque eodem, **quotiens** non.
-Relictum avidoque *veri* Rhodopen; haec ignara supplex. Dixit sui sinit est,
+Relictum avidoque _veri_ Rhodopen; haec ignara supplex. Dixit sui sinit est,
 incautum adiit esse una innata, Tremorque! Antistite est sata iacentes, sine,
 Piraeaque niger, terrarum non etiam Solis moriturae pudori turbatque invidia
 subsedit, et. In nequeo ossa ego, ad heros lebetes dissimilem tibi alterius de

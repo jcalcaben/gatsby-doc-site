@@ -44,7 +44,7 @@ petebat hoc tamen habere serpens promisistis progenies ova.
 
 Senior [at grave mavult](http://vitadomitis.org/delonregia) radicibus ipse
 iterata. Quo cernens origine ficta loca, pondus tibi, quid populo colonos
-fovesque glandes, dum petit *sparsit* aurae.
+fovesque glandes, dum petit _sparsit_ aurae.
 
 1. Sed non liquidas nescimus fluminaque illinc meditataque
 2. Est praecipites pabula mentitur

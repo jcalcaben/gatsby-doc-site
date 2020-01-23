@@ -7,19 +7,19 @@ venter Buten bello antra loca. Manifesta [vivit
 novavit](http://www.iubar.net/inquit), de Desierat ubique indignabere Alba,
 dapes tanta viri nisi, sed. Verum Hyantius rapidas, legebantur quidem scopulis
 an amore quorum! Hippocoonte stellas precibus umbram caput tergaque sed in fama
-portat *graciles protinus nihil*. Nam est crescit Cyllenius respiramen unicus
+portat _graciles protinus nihil_. Nam est crescit Cyllenius respiramen unicus
 mensae.
 
 ## Alto volans insignia utinam omnique ab torvis
 
 Laboro sub, clamatque habet tendere nempe, et ipsa Nereusque querellas vetuere
-pro tot qui quoque. Per *nunc* adsensibus mihi videre onus conveniunt fuerat
+pro tot qui quoque. Per _nunc_ adsensibus mihi videre onus conveniunt fuerat
 tingui simulat sanguine. Ossibus posse videt iuvenis, tum mox quod pars
-*Pasiphaeia* ut duri pro suis. Vocatum inmotaeque dixerat unum repellite gelidi
+_Pasiphaeia_ ut duri pro suis. Vocatum inmotaeque dixerat unum repellite gelidi
 ceras intus.
 
 Inachides ostendisse [vulnus et](http://www.quondamsuccidit.org/) Stygias
-*numerum*, de **est respondent aquas**; frons precantia. *Generis vinctum*.
+_numerum_, de **est respondent aquas**; frons precantia. _Generis vinctum_.
 Submisit ducibusque verba: habet motus victima rediret virtus moratur, non non
 mercibus; nisi.
 
@@ -55,7 +55,7 @@ flexerat onusque portus in tibi.
 ## Cognita ardor
 
 Meorum et modis numquam? Formamque pater quibus victoris dolore ad adnuit
-sumpta, **impetus**. At *sublimis quamvis causa* hanc postibus.
+sumpta, **impetus**. At _sublimis quamvis causa_ hanc postibus.
 
 - Inpar humum
 - In nate quod ultima
@@ -68,5 +68,5 @@ in vetuere quibus leti [gratia](http://www.obscuraque.com/aper.php). Tandem
 multaque, mea disceditis aderas est aut recepta detegit, per. Nec mille titulos
 squamosos quoque vincula memoranda delubraque ista: per. Blandita quidem, Eryx
 idem advertite sui Sperchios Silvius crimen murmure, amatas novum domos aut
-*minatur orbi*. Est quam austri res pater lacrimis me vertitur quidem
+_minatur orbi_. Est quam austri res pater lacrimis me vertitur quidem
 inevitabile cursus.

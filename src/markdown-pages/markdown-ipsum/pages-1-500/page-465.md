@@ -2,9 +2,9 @@
 
 ## Cumque iecur curvarent non gramen
 
-Lorem markdownum **a inpune** est ad *anili verbere digitosque* fera, est.
+Lorem markdownum **a inpune** est ad _anili verbere digitosque_ fera, est.
 Felixque iubet rogantum et recurvis tractare. Viminis cacumina, non vero tela
-ubere ex alas genu labor, tacetve dixit Sicaniam Lichae de. Ineamus *forma*, c
+ubere ex alas genu labor, tacetve dixit Sicaniam Lichae de. Ineamus _forma_, c
 deum nepos, offensane stant ad tendit metuenda semifer levitate lactis. Natorum
 esse numina moribundo fetu, moribundum paludem colla artus ipsa Osiris.
 
@@ -49,7 +49,7 @@ obvertere.
 
 ## Antiquus abibo
 
-Est mora nunc, atque. *Dum tinxit* pectore laetus a Romane laudat Phoebus
+Est mora nunc, atque. _Dum tinxit_ pectore laetus a Romane laudat Phoebus
 pennis; te sentit **sacras**!
 
 ## Provida vacca
@@ -65,9 +65,9 @@ ambrosiam veniam.
 > misit squamigeris peregrina; voluit. Crepuscula et culta horum aquae
 > clamoribus Iovis simulavimus hoc non aequoris.
 
-Hippotades iterum et dubita similisque novissima hunc. Incedit quae, fuit *erat
-territa*, nec telum paverunt cornu. Pro grande [quem nullaque
+Hippotades iterum et dubita similisque novissima hunc. Incedit quae, fuit _erat
+territa_, nec telum paverunt cornu. Pro grande [quem nullaque
 quam](http://placabat.io/ab-si) meorum progenuit primum concilium tunc; nunc
-clavae oculorum precibus undas cornua parte obsceno! Utque sedesque *ergo* quas;
+clavae oculorum precibus undas cornua parte obsceno! Utque sedesque _ergo_ quas;
 licet eodem non; est tamen admovet Iuppiter ubi tribusque inmissa crudelia nec
 [omnis](http://www.thalamos.org/).

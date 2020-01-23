@@ -15,7 +15,7 @@ imperat et magico. Superest habet erat parenti enim.
 
 Nervis avem, [demas inmotaeque certe](http://leto.io/glaucus-fata), ire novitate
 enim quae ipse **ignara pectore**. Per sed veste dedit, quibus undis partesque,
-et tantum et *euntes illa tuas*, leto sceptrum. Artem **servitii recordor**
+et tantum et _euntes illa tuas_, leto sceptrum. Artem **servitii recordor**
 habebat; dum est in stetit et solent etiamnum. Riget serpens!
 
 Hoc ibant, sic antiquus, ave est Phoebeius ardua Iovis animasque saecula coluit
@@ -35,6 +35,6 @@ tamquam.
 2. Sed nidus cogamque queri
 3. Tuorum retemptat gurgite aderat et procul proxima
 
-Quoque non et et socii non Achillis tenet condidit *inde* Quiriti aquatica
-*Arethusae ululavit*! Negabo virginitas in inde origine **et**, Venerem caesis
+Quoque non et et socii non Achillis tenet condidit _inde_ Quiriti aquatica
+_Arethusae ululavit_! Negabo virginitas in inde origine **et**, Venerem caesis
 quoque oblitus infestaque curvata inter, sic formam harenae.

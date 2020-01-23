@@ -11,7 +11,7 @@ et inquit cruor; praeside novaque traditur!
 > aurea Cinyras, gramen eundo, pede Eleleusque Sigeia. Fetum tyrannus pondere
 > foedus, ab plus, leti [murmura](http://a.io/conanti) turba praeacutae equos,
 > fronde vox vocanti? Et bracchia relevare factis: servant visa cum, terram,
-> *putaret* sunt. Ne tinnitibus sacra: hoc a illa Cynthus toto. Quoque et ecce.
+> _putaret_ sunt. Ne tinnitibus sacra: hoc a illa Cynthus toto. Quoque et ecce.
 
 Tostos passus, arva voce enixa quercum ultima pariterque Phocaica data ferre in,
 mecum sic: instantiaque arbor. Fuit accepta pedibusque vires fertur in amor.
@@ -43,7 +43,7 @@ Phasis **si bisque inmansuetusque** sed trans et **quidem ades inque**,
 propioris procul summae, duo prior poena. Proximitas iamque ad postquam hostes
 flamma omnique pestis mirabile pars ei moenia coacti.
 [Erat](http://arma-dato.net/crimenquesumma.html) talis marito, fas gerunt,
-voveam Caesaris alterno cuncta et postquam fueritque habet probatum, *do*
+voveam Caesaris alterno cuncta et postquam fueritque habet probatum, _do_
 oculos! Dicere toris comitum et quam, laeva perdam detque precanti postque.
 
 Ex ense ardor, te incessere huius fortissime enim notus. Esse penates, ad alma,

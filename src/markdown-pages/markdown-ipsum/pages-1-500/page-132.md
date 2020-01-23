@@ -14,7 +14,7 @@ profitemur Caras. Matri ait non absens.
 ## Erant iram non statque at obstem me
 
 Fortiter similis sua quid cane, uno quaque pereat humo inridet, ora tamen non
-cum. Vectus est ira reddebat crine, eadem illa habenas petunt, *est erat*
+cum. Vectus est ira reddebat crine, eadem illa habenas petunt, _est erat_
 paritura victarum vertit. Agmina erat nomen, foedataque [ablata
 ter](http://sunt.net/non) iam quid enim vallis cavernis ambobus currusque, aut.
 Primo montanis, Morpheus bracchia, morte verba lumine, aevum.
@@ -27,7 +27,7 @@ Primo montanis, Morpheus bracchia, morte verba lumine, aevum.
 
 ## Sua lunae mota ore sub littera mota
 
-Iunonis Apollineas [et](http://et-unum.com/) teli *et mille audent* uteroque
+Iunonis Apollineas [et](http://et-unum.com/) teli _et mille audent_ uteroque
 sanguinis non et vilibus aliquis: ego superi inane. Adsuetam ille o subitam
 fores et gratia labori, tenentibus in quid **pinetis est**! Prodit in manes
 caducum. Enim ad novis transitus corpore, nec ignis prohibente fitque te illam.
@@ -41,5 +41,5 @@ tot credetis annua pro Latonae.
 
 Rebus quamvis potentem parte tibi Maeandrius tunc, flexit sede vellere: supponas
 huius. Summis sulco album magnum hunc similis, [nec fines](http://miserere.org/)
-Solis *inpius bene profundi* cuique, [Tenedos lacrimare
+Solis _inpius bene profundi_ cuique, [Tenedos lacrimare
 fervoribus](http://lactisregimen.com/praepes.html) moenia, quas!

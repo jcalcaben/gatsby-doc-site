@@ -3,8 +3,8 @@
 ## Adhuc Phoebum
 
 Lorem [markdownum tibi ne](http://qua.org/centum) arbore quid mundo, memoremque
-*poterat fovet*, desertaque. Excusat mox omnes fuit, sagittis requievit *celatus
-cupidine*, omnia culpa *admotum*, Caystros. Auras madentes animae cara cuspis!
+_poterat fovet_, desertaque. Excusat mox omnes fuit, sagittis requievit _celatus
+cupidine_, omnia culpa _admotum_, Caystros. Auras madentes animae cara cuspis!
 Fortis legit unum relevare, gemino iam ducere mentem,
 [pontum](http://aeris.net/ego.aspx) quadripedis.
 
@@ -16,7 +16,7 @@ Fortis legit unum relevare, gemino iam ducere mentem,
 ## Nisi retices Hesioneque aliquis animos nobis apulus
 
 Anili mihi alto, amore visa, hunc vero quatit: deus prisco Procnen! Virgo esse,
-umquam; phoenica *nitidis astra natus*, terrificam illis
+umquam; phoenica _nitidis astra natus_, terrificam illis
 [alimenta](http://modo-longa.net/) celanda pedum **est victor**.
 
 - Inter nec inguine gratia turaque

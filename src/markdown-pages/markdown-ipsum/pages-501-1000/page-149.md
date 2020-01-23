@@ -57,4 +57,4 @@ tempora, succumbere turba tribuisse quidem.
 et ultra, invidiae agricolis et invocat, undas tutela revertebar aderam Themis.
 Bellica tamen iam graves proelia, oculos, mox suo mons, quid ignavos. Referam
 omnes potiora caligine Italis, quia illam timorem ab. In nocentius, te iam
-*sollicitata*, et vola crescentesque loquentis.
+_sollicitata_, et vola crescentesque loquentis.

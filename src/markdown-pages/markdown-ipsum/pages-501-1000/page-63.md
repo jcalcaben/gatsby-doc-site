@@ -2,10 +2,10 @@
 
 ## Atque metuit alii motus deum
 
-*Lorem markdownum habet* cum movisse, nec et vestigia nympha! Tenuerunt
+_Lorem markdownum habet_ cum movisse, nec et vestigia nympha! Tenuerunt
 adspicit: in esse pariter, corpore, **sibila** luce ludit osse. E rigido clausit
 in nequit manus mortalem litora, in habebit occidit, [vix
-inter](http://bacis.net/) declivis raras. Hosti ait totum; ira *ille dederat re*
+inter](http://bacis.net/) declivis raras. Hosti ait totum; ira _ille dederat re_
 gemit incinctus paventque tremendos? Dentibus ulvam gentes.
 
 > Regunt illa dis, Hippocoon si mortis aliter sed faciem sim. Casusve regna
@@ -29,20 +29,20 @@ mergum consistere **ligavit** alter ore veste vultus ritus, fatetur illis.
 
 ## Per volui dedecus
 
-Coloni quae cum *scitetur*, aliisque capellae nitido, animata hoc, usa sors
+Coloni quae cum _scitetur_, aliisque capellae nitido, animata hoc, usa sors
 solvunt. Vestem quantum [quoque](http://www.capenon.net/). Mihi sensit
 adapertaque comas, inde sub. Solidum ferro operis has, non simulacraque argento
 tumuerunt carmen potuisse.
 
-Corporis genetrix *cum* illum derepta terras Vulcania quare; alter pars manus,
-*non figitque tenentis*! Victa multorum illas velit; legeret fuit sic mentisque
-iam molis, non. Inritat pectore e *omnia* commune deos
+Corporis genetrix _cum_ illum derepta terras Vulcania quare; alter pars manus,
+_non figitque tenentis_! Victa multorum illas velit; legeret fuit sic mentisque
+iam molis, non. Inritat pectore e _omnia_ commune deos
 [retro](http://dotein.com/) ut merui creditis tetigere vultus. Niger referam
-invenit exta, vetus puer adempto caput, dixit, ad crimine canor *enim* vitiatur.
+invenit exta, vetus puer adempto caput, dixit, ad crimine canor _enim_ vitiatur.
 Ardescit iusta medio tanti iacent ferat adulterium robora qui viro, suam quid
 silva, moderere adpellavere quae: qui.
 
-Spiritus videt, quoque, cum pueri vulgus munus *recepit* Indus. **Non velut** de
+Spiritus videt, quoque, cum pueri vulgus munus _recepit_ Indus. **Non velut** de
 ut superis effuge celanda et sperne spectans meo.
 
 - Vocant vincat de timoris praecutiunt salutem cupit

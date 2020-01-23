@@ -5,7 +5,7 @@
 Lorem markdownum concussaque ecquid paulatimque parens cum tempus legem:
 spatiosum fiet iniquae aequo. Rostroque in Thybridis corpus idque memor soceri
 plenissima celatos videbis plena. Ipsa modo, oscula ceditis intellege parte
-inpune, freto momentaque! Metuendus minari inscriptum multiplicique *dubitat*
+inpune, freto momentaque! Metuendus minari inscriptum multiplicique _dubitat_
 Eurynomes, Iuppiter stat non suo qui serta natorumque vecte.
 
     horse_unfriend.wins -= 1;
@@ -48,6 +48,6 @@ concutiensque detegit cursus; est erat vires maenala alta, nec.
 > legunt segetes regionis superbia origo et subito?
 
 Dolorque timori. Fuit putat leonis [precaris](http://ait.io/) silentia auro dura
-qua Perseus hiemsque Tritona mediusque, *Hypaepis sua et* qua ripa parabat.
+qua Perseus hiemsque Tritona mediusque, _Hypaepis sua et_ qua ripa parabat.
 Conubia miserae in me mitia obstruat bis horridus nimiumque nostros **quicquam
 oculis**.

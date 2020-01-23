@@ -5,7 +5,7 @@
 Lorem markdownum quicquam morte futura crimine te rogaberis lasso curat ab
 relicta cibos referebat. Cuspide Invidiam, nudum condiderant recessit nepotibus
 clausit, Alcide doluisse inter, in mille sui. Via dixit pensandum [oculi
-torva](http://ambo.net/feras), nostros, traxit; ut *ipso* caelo, est.
+torva](http://ambo.net/feras), nostros, traxit; ut _ipso_ caelo, est.
 
 1. Aestuat sperando
 2. Quod non
@@ -15,7 +15,7 @@ torva](http://ambo.net/feras), nostros, traxit; ut *ipso* caelo, est.
 ## Nec indigno penitusque protegit tertia dedi obiecit
 
 Terga **et magna et** tibi fratrum iam rogum Dulichiae in. Numero latens
-creditur tegitur. Arva alvo *qui Aside sit* Ceyx vocem multorumque labore
+creditur tegitur. Arva alvo _qui Aside sit_ Ceyx vocem multorumque labore
 plagas. Sanguine classe [foribusque](http://parva.org/), portenditur ilia, longo
 unco lepus.
 
@@ -37,4 +37,4 @@ in freta tu dividit praestent dum insultavere busto vulnera oculos.
 Cum pallor flentes poposcit faciesque sororis, [ore
 Ulixem](http://www.crearat.org/). Tuos frena cum, peragat promittis
 [genetrix](http://www.nontibi.net/tandem.php), ira candore ibat dixit dubium,
-deus tamen *sumit percussit* momordi.
+deus tamen _sumit percussit_ momordi.

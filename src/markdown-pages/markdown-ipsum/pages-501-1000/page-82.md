@@ -2,9 +2,9 @@
 
 ## Per quae minus causa satelles
 
-Lorem markdownum ictu, quod suamque *est*; parvae peteretur iungit numina,
-rectorque vulnera gratia. Vota *et* Euboicas mordetur consequitur equos
-satiatur, insomni murmure, Nereaque. Fugat *est levi et* fecit modo aere
+Lorem markdownum ictu, quod suamque _est_; parvae peteretur iungit numina,
+rectorque vulnera gratia. Vota _et_ Euboicas mordetur consequitur equos
+satiatur, insomni murmure, Nereaque. Fugat _est levi et_ fecit modo aere
 evolvere longa lacrimis corymbis antris sub: forma [hic
 alite](http://moventur.org/)? Satis iuvenesque et silva fuerat, abscidit
 pecorumque eo satis habet **aequor secundi**.
@@ -17,9 +17,9 @@ Cervus quas rogabat. Tua ponti.
 
 Deos ultima, soli liquefacta pontus Coronida ut convulsaque ut quam nymphae.
 Ulla **ales suisque**. Herbarum de vulnus aconita munimine annosque litora
-eminus. Boeotiaque *parens cervi* cruor ibi generis pulveris Diomede tetigit,
+eminus. Boeotiaque _parens cervi_ cruor ibi generis pulveris Diomede tetigit,
 **et**. Parum dum coniuge Pirithoi nitidumque in dedit decipit putant nullamque
-thalamis *tecti Sicanias tandem*?
+thalamis _tecti Sicanias tandem_?
 
 - Saevarum sanguine alte molli positaeque negate freta
 - Illa profunda si huius formam
@@ -27,7 +27,7 @@ thalamis *tecti Sicanias tandem*?
 
 ## Sumptumque curru certius
 
-*Saxo maximus*. Enim illa aerias saxificos esse Helenus. Alta turba, illa ora
+_Saxo maximus_. Enim illa aerias saxificos esse Helenus. Alta turba, illa ora
 oculos domus. Mittit est et iuro est udis hi aera umidus prodere tua mihi levata
 his idcirco [dignabitur lumina](http://ardua.io/victima); seu. Nomenque illa
 audax poenaque posuit caede ulvae tulit procul quo coniunx tellusAndros iugis.

@@ -17,12 +17,12 @@ movet dolorque vocari pulsoque natamque
 Adest quicquam, [Aeacideia tristis](http://www.plus-tollensque.org/), et meque
 pondere fulvas. Non Polypemonis, oblita ubicumque annos, profecturas illis cum
 stetit abditus missa. Sequitur timebant veros; admotam correctis tenet inductas
-virtute tuus que facies alioque, quis omnis, ecce satis; Lemnos. Et *fama
-accedit aquis*; potuit frena, *molior Pergus*.
+virtute tuus que facies alioque, quis omnis, ecce satis; Lemnos. Et _fama
+accedit aquis_; potuit frena, _molior Pergus_.
 
 ## Extentum funeribus
 
-*Vagas recepit pallae* lacus dicitur tempore. Non quam; ait octavo potentia
+_Vagas recepit pallae_ lacus dicitur tempore. Non quam; ait octavo potentia
 populi incommendataque consulat: nunc. Parentis nervo! Harenas saepe lumina
 regni pallidaque Proserpina enectum gratia! Fiet accusasse ferrum, in Licha
 submovit abstrahere ceciderat morientia.

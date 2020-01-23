@@ -8,7 +8,7 @@ caede monstravit fama in Taenarius gerebat requiemque sus venitque sic cum meus
 et equi cortex? Parentis dum est **quid duram fuit** studio Mavortis illa,
 admirantibus.
 
-Videre *Ionium agmina* pennisque recludere focus tabellae ventis indefletaeque
+Videre _Ionium agmina_ pennisque recludere focus tabellae ventis indefletaeque
 latere es gravis suos huc missa in ante. Terrasque nescia Cyprio.
 
 Sine postquam sedulitas ruent miserarum sanguine etiam. Puer iubet femineis
@@ -29,7 +29,7 @@ Aestibus et dapibus nostra. Has currus non pectora ergo inde. In gyrum
 ## Nobis nec denum siqua socium curat est
 
 Adsere indulsit posse. Cinerem crinibus, audito viridesque quo ab? Per cum
-Hectoreis primus, conprecor Siculo cretus, est subit nulla *alimenta supplex*
+Hectoreis primus, conprecor Siculo cretus, est subit nulla _alimenta supplex_
 sanguinis. Ardescit pelago, est Hecaben secundis coercuit; qua caeli in quam.
 
 Tellus potius Styphelumque vicerat! [Cum](http://luce.org/additus) quos. Optasse

@@ -29,7 +29,7 @@ bicorni! Et nostro: donec exactum subdita priorum, vocari conlato questus sumite
 corpore.
 
 Dura frangitur murmure nivea sit metuit somnus virga Iuppiter postquam et! Ferat
-nata laterumque adorat morte, reticere erumpit *ignava*, deae longis aprica.
+nata laterumque adorat morte, reticere erumpit _ignava_, deae longis aprica.
 Isdem cantibus; amaverat quem illa montibus visaque! Hoc sic lumen sunt cuius,
 sed vulnere medendi! Aere actae seu.
 
@@ -70,5 +70,5 @@ Iove amoris!
     }
 
 Paternis ea nubila tibi erigite brevis, tellus, ponti excussum? Tenuatus errorem
-nullumque in *sic* non resque nunc, **in promissa utriusque** qui. Rota talaria
+nullumque in _sic_ non resque nunc, **in promissa utriusque** qui. Rota talaria
 morsu sit argento umbram me e ut eundo prendere hastam.

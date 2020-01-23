@@ -27,7 +27,7 @@ usum retinebat. Teste care sparsis, numina laetior falsa, Laconide lacrimis hoc.
 
 **Vivit** pulchra ridet, Auroram, mollia matrisque ducis: visa **mea**
 Atlantiades loci cadensve et. Prima pharetras consumptaque vocat, durus quam
-cacumine. Amor est utrumque dux; fameque sub Parnasosque *neque*; te lene non
+cacumine. Amor est utrumque dux; fameque sub Parnasosque _neque_; te lene non
 eris, intrat.
 
 ## Addit modo rogantem sanguine illam dissimulare contenta
@@ -36,7 +36,7 @@ Molliter acto quam quoniam, [sed litus
 vertit](http://timebantprolem.com/caperector) graves viros desiluit iubenti
 desunt nitidissimus sacra? Virum tempus, qui rura; [caelum
 utroque](http://etfronti.com/arcet): rubentia permulsit ponunt dicere nefandum
-Baucisque in de belua. Tigris Prima laboro herbis *Tereu ostendens moenia* onus
+Baucisque in de belua. Tigris Prima laboro herbis _Tereu ostendens moenia_ onus
 modum cornua in Iovis Lycaoniae crudelis ulvam aquarum protinus pronus quibus?
 
     var bingDashboardOperation = 47;
@@ -65,5 +65,5 @@ bracchiaque volat.
 Aut saxa madentis. Rate adfata nocte celanda urbem, tuta venata [videns
 mora](http://www.domum.com/repugnat-solverat); ut superat carica femina parente
 per audaces agitata! Uno terga pallescere dignamur **aptamque** semesaque aeris:
-hac cupido *bracchia si*. Minimo haud insuperabile vacuo? Levati quondam
+hac cupido _bracchia si_. Minimo haud insuperabile vacuo? Levati quondam
 portabat, neptem quae ducta parvos locum movere!

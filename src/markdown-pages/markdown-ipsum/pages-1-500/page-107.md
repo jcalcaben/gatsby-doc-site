@@ -12,10 +12,10 @@ postquam currus ut?
 
 Prima fuit oculos fuit [est resolvent](http://suis-verso.com/excarina) avidis
 Molossa Achilles palmis indigenis tibi, amore. Veluti temptem credimus ecquis
-praevitiat, tenuit fugisse **sinit pulcherrima** et non *nec* exitioque brevi
+praevitiat, tenuit fugisse **sinit pulcherrima** et non _nec_ exitioque brevi
 abstrahere clarus [atque](http://que.org/in-generis.html): te. Femineae ira
 citius. Nece acta illi [vestes illa](http://nos.com/flammas), postquam
-Palaestina: utque. Sine equarum *in una gravis* classis parens: moror nisi aut
+Palaestina: utque. Sine equarum _in una gravis_ classis parens: moror nisi aut
 quae petentes nitere dique alto, iam genus.
 
 1. Auctorem redito
@@ -50,10 +50,10 @@ tot at ut, delicuit.
 
 ## Praeposuisse adeo et saturae erat
 
-Velint meo tutum regalemque inpensaque mei de labaret in *rebello* decipienda e
+Velint meo tutum regalemque inpensaque mei de labaret in _rebello_ decipienda e
 Helenum, quam deducit stetit discordibus almus caput. Corpora in iram nubila.
 Animalia recensent habuit, praeceps [nata](http://tolerare.net/) super saepe,
-ferre Hippomenen adfectasse haberi. *Et rapidi*, sive, omnes sexque adsuetus,
+ferre Hippomenen adfectasse haberi. _Et rapidi_, sive, omnes sexque adsuetus,
 unda freta. Non Quiriti labens et tempora!
 
 Stantis aeriaeque comis noctes proximus nihil pharetras curarum. Dies haec

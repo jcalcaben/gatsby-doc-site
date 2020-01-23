@@ -4,8 +4,8 @@
 
 Lorem markdownum, plantis o lumine animas tumor iussere culpae. Visa comas
 externum, illa hae sequerere pondere virisque Lavinia silentia verbis rictus? Ab
-muneris summis discedite in fata misereri? Chiae fallitque tempore *solidissima
-mihi Phlegon* putat heu de laqueoque coepit saxum *nocendi ceperit*.
+muneris summis discedite in fata misereri? Chiae fallitque tempore _solidissima
+mihi Phlegon_ putat heu de laqueoque coepit saxum _nocendi ceperit_.
 
 ## Latices silet
 
@@ -27,7 +27,7 @@ Volenti caenumque Diam. Est pollue quae fuit!
 
 Hordea despicitur fugias caesariem [tremula
 multifidasque](http://www.se-hunc.net/) fluctibus quocumque caput et, mare age
-atque in placidis, et. Dum nec rediit natis maribus indignave *quaerunt*: aliquo
+atque in placidis, et. Dum nec rediit natis maribus indignave _quaerunt_: aliquo
 ille numina inprobat misit; nec. Nemorosis sinuosa est nec qua extemplo nomen,
 natando infecere poterit. Decurrere ubi nec, maiores dea visae duas ardentior
 tuos.
@@ -46,7 +46,7 @@ saxificos noctisque Alcithoe Hyperione! More fuga hoc; motus montibus tumidus
 obicit hector metu: velatus nec per exspectare viscere tenentibus stantemque
 fuerat, seque.
 
-Hamata sedem exacta: urebant *fugiensque* pendens ante dum dolosas. Spreta
+Hamata sedem exacta: urebant _fugiensque_ pendens ante dum dolosas. Spreta
 duraeque ultimus undas iuvencae in freta. Vires caesariem alter adhuc graves
 armatur, cum est! Nileus aere, et abiit, nunc an cumque libro fer quoque, Solem,
 tumulo praetereo. Non dente illi oscula sed agit: cum munera **aequore** fuerant

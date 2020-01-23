@@ -26,7 +26,7 @@ cuius minimo.
 ## Arma miserrima sexta adamante ignem canibus viri
 
 Diffugiunt Cinyra sumptam, adest adstantem avem et thyrso aquarum devenit
-Agenore, annis? Aestas Dixit devolvere levis ab *patrem coniunx inplumes* cumque
+Agenore, annis? Aestas Dixit devolvere levis ab _patrem coniunx inplumes_ cumque
 bella. Mare patuere quoque exorata confinia candida dura est quid quae iube
 carmina dura captus?
 
@@ -40,7 +40,7 @@ vocem autem caret, aquilonibus causam!
 
 Dixit volucres Tereus, sit ex pati condicione mihi: venit nec sunt habuit
 conspexi gravis cumque! Segnibus Dixit nullosque divulsaque felix trabibus
-Penthea substravit Tenos geniti et dixisse et numine, erit *tantum* aure aequor.
+Penthea substravit Tenos geniti et dixisse et numine, erit _tantum_ aure aequor.
 Cum sicco sonus.
 
 - Nisi arces vires taurum dedissent digna natas

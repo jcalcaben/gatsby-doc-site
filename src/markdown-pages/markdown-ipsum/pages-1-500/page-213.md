@@ -3,7 +3,7 @@
 ## Unda sit et equi clauserat saepe Cereris
 
 Lorem markdownum. Lacertis aequora servat. Umbras redeunt, magnos dira coluber
-*serae* est murmure admissa. Nec et Haec vetuere tamen illo solutis huc falsus
+_serae_ est murmure admissa. Nec et Haec vetuere tamen illo solutis huc falsus
 dum proxima nubibus locus!
 
     var ivr_real_bitmap = win_keyboard_dvr.prebindingDropRj(flat);
@@ -25,7 +25,7 @@ dum proxima nubibus locus!
 
 Vobis circumfusa omnes Pergama, cruore nec residens adhuc, de eras! Et forti,
 parte **temeraria** sed pectora lacertosi ab nemus in fabricata. Simili ita
-sonum novissima Arcadis nihil, *haustus pristina*, eurytus me dixit, nam aurum
+sonum novissima Arcadis nihil, _haustus pristina_, eurytus me dixit, nam aurum
 ad Caune? Fiducia aut, est ait, erat, ilia, saxa quondam!
 
 - Inguina patitur

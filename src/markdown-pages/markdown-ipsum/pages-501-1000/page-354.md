@@ -4,7 +4,7 @@
 
 Lorem markdownum arbore **conplexus tantaque sacra** immaduisse actis refers, et
 perfunditur animam; clade qui! Titan tum Hercule avis cremabit nigra urbis tibi
-*suspicor*, amore patrem electro.
+_suspicor_, amore patrem electro.
 
 1. Coma ferro
 2. Morsibus accessit quem
@@ -19,7 +19,7 @@ visa hic modo secus. Incognita vacuis Theseus pondere materno ademptae interea.
 ## Audiat summo
 
 Nec caeleste mihi postes aristas, an et, Iris. Intrepidum falsi. Vertuntur cum
-par pectusque *est venis* vincere partu dicunt stantem, ad vastat amissi primum
+par pectusque _est venis_ vincere partu dicunt stantem, ad vastat amissi primum
 tumulati ultra, parte. Ullos corpore, et forti pes prius visus, et aestu
 effugiunt dicta iaculum versasque inde?
 
@@ -34,9 +34,9 @@ effugiunt dicta iaculum versasque inde?
     interpreter += balancingVlogKilobyte * direct_character_status(insertion);
 
 Vidi illi Tagus. Illic noctes suis ter praecutiunt loqui aequora vero puer,
-tollere spreto, *lacrimis*.
+tollere spreto, _lacrimis_.
 
-Enim facta *si* non, [orbem nutrix](http://inhibere-cacumine.com/quoque.php)
+Enim facta _si_ non, [orbem nutrix](http://inhibere-cacumine.com/quoque.php)
 vimque quas, virum hortator? Dies parentibus torvae sumite ossa vivaque, nec sua
 valetque, Cyclopum semine alas. Leto tubicen dis, quoniam mansit locuta, et
 vultus! Magnas mortis armis posituro rursus Lapitharum utraque redit in cantibus

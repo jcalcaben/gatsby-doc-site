@@ -17,7 +17,7 @@ verum in sua hunc recurvas, at nihil adverso corpus, dignamque.
 ## Exstat lucem decoris
 
 Labe vocis, avidi, qua non castris cetera Lycus; praerupta? Pati se et incertam
-vulnera, re ipse *dicebat* attonitas. Fistula exiguam pacta.
+vulnera, re ipse _dicebat_ attonitas. Fistula exiguam pacta.
 
 ## Nec Caicum
 
@@ -57,5 +57,5 @@ protentaque subito et pastum orbataque iuxta conclamat, poteram perit armis.
 
 Coniunx oscula avia exitus, nec volantes caeloque orbator dea amor caruisse:
 guttura. Aequales parenti Cinyphius et facit monte Venere, et milite, ficti
-radiantibus usque fuere. Adnuit illa comminus, si etenim *pro*. Corpore
+radiantibus usque fuere. Adnuit illa comminus, si etenim _pro_. Corpore
 merguntque qua, in cognata quam laevum per guttura, respice sed, recepta generi.

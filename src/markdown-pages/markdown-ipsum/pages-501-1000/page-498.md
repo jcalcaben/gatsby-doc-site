@@ -10,7 +10,7 @@ Lorem markdownum incidit magis ulla **pro**. Inarata gere est uterum, faveas?
 4. Aquae velociter
 
 Manu an pressistis labor Graiae lenius laeva Herculis quaerit; uno? Languentique
-*et bisulco* feroci hostem colla et [mihi despicit
+_et bisulco_ feroci hostem colla et [mihi despicit
 Tartara](http://ipsis.net/nec.html); tellure caducas amissos ululatus? Non mihi?
 Ira et utilis sacrum. I prodigio veste sed furtum sua valles odores fallitur et
 ille; superi domo; tam natas.
@@ -18,12 +18,12 @@ ille; superi domo; tam natas.
 ## Incommendataque deieci postquam si cumque dixit nec
 
 In dolorem vinctum, nexis volitat conripimus, esse **rapis patruelibus corpore**
-poterant magnosque *flatibus*, vitamque, quo croceum. Furit sarcina [Syron
+poterant magnosque _flatibus_, vitamque, quo croceum. Furit sarcina [Syron
 Ossa](http://proferreeodem.com/) dignamur vocat; sic aequora Melanchaetes erat
-humum inquit et iuvenis fata: tibi *nostraque*. Investigata quin, revulsum ferox
-albentibus esse nuntia possum sit, *maris*. Et ignorans ramis iuvenes moventem,
+humum inquit et iuvenis fata: tibi _nostraque_. Investigata quin, revulsum ferox
+albentibus esse nuntia possum sit, _maris_. Et ignorans ramis iuvenes moventem,
 fortuna est magis sceptroque effugiam. Hic cultu Aesonis sum parte contra
-lacerum oculos putares *Tantalus compescuit enim* viribus pars.
+lacerum oculos putares _Tantalus compescuit enim_ viribus pars.
 
 Germana iam virentem morte dique aequora quid: Veneris paenitet te diruit
 ululatibus [fila](http://artus.io/removequa.php). Et moenia corpore pulsavit
@@ -35,7 +35,7 @@ alta duxit iamque capillos ubi altera. Altera et in **caeli tacitos sed** dum
 petebat Cipus.
 
 > Fas caelum meriti saepe redolent, quam falsi Ithaco cervum gravi sed, mox
-> *deae*? Adversos est plus canes conscia, et pectora auguris si faciente parte
+> _deae_? Adversos est plus canes conscia, et pectora auguris si faciente parte
 > consequitur certe piscosamque ipse femineae, quo. Amara in ferroque sonum,
 > tenebat gentis ferae generis excute fatorum dempto. Cerno et humo agresti,
 > doluit numen mens aequoreae digni. Paelice induitur confer et nec adpropera

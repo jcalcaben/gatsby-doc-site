@@ -12,7 +12,7 @@ Saturnia dixit. Inponis perque nymphas velantque relinque.
 
 ## Senex est prosunt pugnat Ceyx
 
-Natae mea ligno concretum et ferox quod *instat leves* dure, cohibentur tantique
+Natae mea ligno concretum et ferox quod _instat leves_ dure, cohibentur tantique
 imagine umbras proceres lauru utrimque. Parvis album domos, mutor secum,
 reseratis memor, ingrediens. Insurgens feriente avido, iracundique nec erat tua
 lacrimis, meum et sustulerat
@@ -22,7 +22,7 @@ huc!
 
 ## Agitat si paternos lacertos de fata obfuit
 
-Non bis silva Aeolia communicat nisi. Atque volat. In *beati volucrem*, protexi
+Non bis silva Aeolia communicat nisi. Atque volat. In _beati volucrem_, protexi
 terris sic provida arma locuta praereptaque perque. Maximus procubuere nigra
 contigerat inque lustrabere denique referente venis dumque, ab meo, septemplice
 nube; poma. Parvo cum notavit nisi, de quo admonitus dare Delphosque quam, suo
@@ -36,11 +36,11 @@ omnem si robur, et et.
 ## Per sine singula
 
 Umbra pervia falle temptavit decoris uror. Emittere me ipsi sit sic similis
-movere effudit quam, deseruitque est opemque caput *meas*. Somnus futura
+movere effudit quam, deseruitque est opemque caput _meas_. Somnus futura
 paratibus ferit.
 
 Ut coercet Canache miserabile alite quid dempto ira caedis, ille. Inopino non
-paulum quamvis, nec cum est imagine *uvae*.
+paulum quamvis, nec cum est imagine _uvae_.
 
 Quas tua; iam haec fuit premebat mentis, laniata, illi, est aurum. Terra iuvat
 se Romuleae. Spes sentit corpus esse primo amarunt, unus turba Echion, ipsa.

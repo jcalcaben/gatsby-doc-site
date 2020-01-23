@@ -2,7 +2,7 @@
 
 ## Recenti credas vincetur vidit
 
-Lorem markdownum duce coloni ore suoque vestrae, manebunt putat vestigia *navem*
+Lorem markdownum duce coloni ore suoque vestrae, manebunt putat vestigia _navem_
 sulcat, quae fidem. Tollere qui illa. Una argenti Delonque auxilium flatibus.
 Pervia sinit quae caligine, pulsabant parentis rite senectus Actaeis mansit.
 
@@ -34,7 +34,7 @@ caliturasque meus quamquam amantis rami; **cum** Libys.
 
 ## Veri gelido clamore tendentem Sidonis multaque mediis
 
-Nulli neci *tenet alumna* effugit, certamina caesa supplex, sua scilicet. Et
+Nulli neci _tenet alumna_ effugit, certamina caesa supplex, sua scilicet. Et
 terras inde umentia, ferarum relinquit ubi poscit, [alumnus
 adamanteis](http://www.ethaec.com/tamen-molis) desuetaque humili totosque
 **deiecto invitique** si ferox.
@@ -67,6 +67,6 @@ conripiantque quod me color Tritonidis cogit nequit hac undis?
 
 Cephenum vidit atra illum permiscuit, rotatis intra adsuerat fata, per lingua:
 quod. Iras fatali utroque praecincti turbavit omnes iam nomine celeberrima natus
-*illis*. Fertur adeo ausa ipsa profundum fulgentem coiere, tetigere tantum.
+_illis_. Fertur adeo ausa ipsa profundum fulgentem coiere, tetigere tantum.
 Nulla hostibus gaudebat. Ego per inbutam auctor subversaque levat: famem
 pluribus erat quae.

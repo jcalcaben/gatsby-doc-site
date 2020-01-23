@@ -31,8 +31,8 @@ lanas visi ubi.
 
 Quam terga quis motibus freta guttae taedia ex adolentur ferrum illa? Est inde
 est videt haberet vesci omnibus: nostris sed reges. Docta ardor? Ab ignes
-**vestis** recentes filia poteram, cum nefas *quicquam*. Leni montes; quibus
-iuppiter vocem, inopem receptus quanta nitentem Neleius ultima in *quae*,
+**vestis** recentes filia poteram, cum nefas _quicquam_. Leni montes; quibus
+iuppiter vocem, inopem receptus quanta nitentem Neleius ultima in _quae_,
 digitis?
 
 Cephalus iugulati memor flexere perdiderat viderem obscena, sidus nonne luctuque

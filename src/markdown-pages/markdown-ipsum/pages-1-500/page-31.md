@@ -3,7 +3,7 @@
 ## Fauces longe suum his oramus facta discite
 
 Lorem markdownum, haec velox egi exturbare Apolline in **classis**, certamine
-pronas, stamen stravit in mollit desere adpellare. *Indignos mittentis* iuvenis.
+pronas, stamen stravit in mollit desere adpellare. _Indignos mittentis_ iuvenis.
 Toto morte dictis te votoque huic, non **arvum** figuras, aera, prius age
 serpentis.
 
@@ -16,12 +16,12 @@ serpentis.
 ## Cuspide inquit aberat capite
 
 Membra tu, cernentem pro loca accedere quibus prior! Infausto **sacrificos
-stupet**, in scire! Sternitur virgo *spatioso bibit*, pharetramque Titania sint;
+stupet**, in scire! Sternitur virgo _spatioso bibit_, pharetramque Titania sint;
 per lanae lutulenta, specie adulterium maestaeque aere!
 
 ## Virginea fecunda forsitan ubera tamen arcuit enim
 
-Sum telum et accede lacerata si *desilit operire ne* inopem ut [cum
+Sum telum et accede lacerata si _desilit operire ne_ inopem ut [cum
 rapienda](http://nec-virgo.com/lucifer), parentque tamen. Veluti umbra, corpora
 flammaeque: concidit, toto inde. Comitesque sit tempore Iphide cunctos supplex
 ait ultor solvi est sanguine unde. Littera Aegyptia in utrique **semimarem

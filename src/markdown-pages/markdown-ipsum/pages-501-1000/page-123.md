@@ -7,7 +7,7 @@ liquescunt, lympha saxum; Minos non et? Suo nomine, non mixta; Danai et fit
 patientia.
 
 Est quae sit percussit capite Tagus flesse trabesque Aeoliden: falsi
-ferventisque regebat fores est *incessere*. Quas par per magna repetit ambit
+ferventisque regebat fores est _incessere_. Quas par per magna repetit ambit
 intabescitque parentes texit quoniam cur, erat. **Sunt Ceyx** dubites iactura
 intrepidos fertur, lugent, tulerit trepidante auctor; patria, ait. Prima
 senemque nimbos; **non Arcas**, liquentibus, casside persequar obvertit saltuque
@@ -38,9 +38,9 @@ sua ullos Philemona rutilis iaculum promissa, esse. Inde humus.
 ## Mittit egressa celer et ista munus scopulo
 
 Voce ore. Et urbis rebus praetentaque: aetate scindunt educat formae fugaverat
-posita, quia rura, fert. Turpe *videre* aede: casa petita voverat conubia
+posita, quia rura, fert. Turpe _videre_ aede: casa petita voverat conubia
 membris tantum Oriente sidereis, nam amictu cessit ite Myconon intrare.
-*Vellera* saepes versa, hac sub quam revulsos.
+_Vellera_ saepes versa, hac sub quam revulsos.
 
 Nec carens hydrae est. Frontem flebile, in cultosque dare lumine **teneat**
 equus fratrum, a turbamque est dura fusus cruentum aves, vale. Sunt vidit

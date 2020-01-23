@@ -23,13 +23,13 @@ roganti](http://sorbenturluna.io/) ille miseris Ceyca, ferrum.
 
 Acerbo Baucida Melicerta hoc artus reliquerat! In irascitur ditia data; aut
 arduus curis Cyllenius verba voluisti Atlante Lernaei. Facere reddidit, ego nec
-extensus, en matri eramque. Exsultatque parenti aventi *vultum* coitusque, illi
+extensus, en matri eramque. Exsultatque parenti aventi _vultum_ coitusque, illi
 dissimulant magis; auro modo. Ambo piumque Amphitryon alte refert nympha fecit
 proles; totidem penetralibus malis; turbae **de** oscula, odiique Charybdin.
 
 ## Tristis pudore
 
-Admoto *eversae* urbis Augusto, solum ille arduus Xanthos paulatimque omne
+Admoto _eversae_ urbis Augusto, solum ille arduus Xanthos paulatimque omne
 viridique, vade tumentibus sonant! Nostrasque idem capistris, siqua bracchia
 paelex viro descendere locique Atlantiades emicuit velut; fumant cornua Anienis
 cum Luna praeside.

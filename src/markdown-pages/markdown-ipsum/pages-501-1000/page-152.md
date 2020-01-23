@@ -2,7 +2,7 @@
 
 ## Clauditur carpebam
 
-Lorem markdownum *Echo et* faciesque essent constitit manu iuncisque, ad caeli
+Lorem markdownum _Echo et_ faciesque essent constitit manu iuncisque, ad caeli
 Rhamnusidis omnes. Et patrem tempora quos, illa ferre, dei ferox, temploque
 fecit, forte misso.
 
@@ -21,7 +21,7 @@ fecit, forte misso.
 
 Suis Polydore: erat sacra, quamcumque crinem multamque epulas, altera cantusque
 fere densumque ordine turpe, me te. Inque hinc iniustaque vixque digessit et, si
-meritum metuenda multi, in non cervicis *balatus in musco*. Aut dolorque
+meritum metuenda multi, in non cervicis _balatus in musco_. Aut dolorque
 germanam sorores hoste non perdidimus, limina in ferre insidias properas colla,
 dominae.
 
@@ -35,22 +35,22 @@ Rosave Pyramus: sum nupta, iterum rapta illas ferebat lumen, viscera! Tantum
 parte deperderet, nemus inania talia rexit cunctatus suum. Sacer furit metum si
 miratur scitabere adspiciens nuda, modo! Mos tamen, Capitolia **in frustra
 quod** moverat siqua, Mnemonidas cladis. Prensam sacra mitissimus protectum
-tantus exibit et *cruorem iuvenis* aestibus opus, servor hoc eram corpora; una
+tantus exibit et _cruorem iuvenis_ aestibus opus, servor hoc eram corpora; una
 tamen.
 
 Hoc iungi sed spectans flagrantem vario Rhesi, consequitur temperat albentibus
 quid; foedari. Ipse uti addenda est inlaesas, lacertos semper damnandus inlisit
 longoque concussaque retia visus sagitta. Exitus conclamat patrios [fatentur me
 ferrum](http://quemquam-mihi.net/ferunt.html) serpens locorum Phocaico eminet.
-Sui dura rapuere, genusque, nos timidissime, *conantemque quam* invecta communia
-homines *vetito poenas tenebris* numquam; non. Ac ecce *verba* ait cetera ante
+Sui dura rapuere, genusque, nos timidissime, _conantemque quam_ invecta communia
+homines _vetito poenas tenebris_ numquam; non. Ac ecce _verba_ ait cetera ante
 visus copia Ancaei tingui genitor.
 
 ## Nemus dolore tibi volat sinistra passim totidemque
 
 Et interdum Delum! Aliquis recentibus sit Marte mota Antiphates verus percutit a
-exstabat caputque. Notasti pereuntem faciam verbaque, et sibi properata *Orphne
-damni*, femineo. Quem pro medio quisquis conditur sui est discedite Prochytenque
+exstabat caputque. Notasti pereuntem faciam verbaque, et sibi properata _Orphne
+damni_, femineo. Quem pro medio quisquis conditur sui est discedite Prochytenque
 lumina fameque proxima Eumenidum ignota si et.
 
 - Antemnas ut altera neganda pectore semideique erubui

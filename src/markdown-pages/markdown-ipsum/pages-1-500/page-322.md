@@ -4,10 +4,10 @@
 
 Lorem markdownum minor mutabitur adductaque, pulcherrima inritare nunc, nate
 comas, temerarius extremos saltem; istis. Inque ave sequeretur optima quaerit
-sua puer pignus *terram*. Sola aurum harpen rustica sanguine? Suum spernentem
+sua puer pignus _terram_. Sola aurum harpen rustica sanguine? Suum spernentem
 autem; trepidans aries quidem.
 
-> Quidem columbae, mille numina albis *is* quaeritis namque. Flere regis
+> Quidem columbae, mille numina albis _is_ quaeritis namque. Flere regis
 > dilapsum a resque rostro: sui tellus et debes. Meis suo; pomis Solem Minervae
 > incomitata est ingenium totidem temptabat tergo manet, terraque.
 

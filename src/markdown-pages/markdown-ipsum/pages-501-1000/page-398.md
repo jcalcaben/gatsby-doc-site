@@ -9,7 +9,7 @@ mitia iamque erant putaret ferum primoque laevaque. Traxit exstincta cinxisse
 spargit nec parabat vestibus refert, pice. Redditur et accepta armiferos
 admoveam Midae excessere Sarpedonis redde fronti!
 
-Talia fit vi [vir](http://auctor.org/saturnius) et divellite *Cilix*. Tonitrua
+Talia fit vi [vir](http://auctor.org/saturnius) et divellite _Cilix_. Tonitrua
 movitque contraria vaccae Threicius plausu, cornua orbes quod quamvis maligne,
 retractat sine.
 
@@ -54,10 +54,10 @@ omnis facit visaeque ille satis Iunone!
 ## Restabat desit
 
 Ense sed concitat ira interea in quam praelata mundus palladias liquefacta undas
-expetit? Vita *et* ore sonant tabellae plagis, ad petiit lumine: me fronte
+expetit? Vita _et_ ore sonant tabellae plagis, ad petiit lumine: me fronte
 moderamen, nec. Iniustum umquam caligine veniet expositum defrenato per inque,
 tot fuit consistere curru qui invidet pulchra flamma. Est mare
-[gutture](http://www.suos.org/) vertet rediere tamen. Torvos *est* numine
+[gutture](http://www.suos.org/) vertet rediere tamen. Torvos _est_ numine
 foedataque turba iuvat possunt permansit et comites errat; manebo mutaverat
 regnat quod tyranni abibo.
 

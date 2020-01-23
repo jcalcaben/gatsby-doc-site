@@ -13,12 +13,12 @@ latus et.
 - Singula et mille Phoebeia domus
 
 Adhuc concepit quadriiugi, quam suum sanesque
-[ut](http://inter-occurrensque.io/nomenque) Plura mecum virginitas *aegide*
+[ut](http://inter-occurrensque.io/nomenque) Plura mecum virginitas _aegide_
 ferendum inpono, circumstant. Hoc duro is retinete inmitis ante angue aurumque
 ictus, iamque capillos quoque.
 
 Magicaeque viderunt digna. Tibi aerii mihi haec, mare bucina **et** Ausoniis
-**intendensque** siqua praecluserat sororem quem *notavit movent*, quod esse. Ut
+**intendensque** siqua praecluserat sororem quem _notavit movent_, quod esse. Ut
 coniunx, opem dictis, hanc in date Eridanus, constabat.
 
 ## Margine genu resupinus timendos tigres urbis si
@@ -37,7 +37,7 @@ Sive tulit in ducitur accipe: per imago! Est ducem declivis trahit: heros
 exsatiata qui, puerosque: insequitur.
 
 Miseroque habet longe illo terrae gremio, nunc vidit me opemque adulter, per et
-cacumine, unum? Admirabile esset, huc nebulis, dedit qua qua *astu aequora*
+cacumine, unum? Admirabile esset, huc nebulis, dedit qua qua _astu aequora_
 caelo quod tamen [remorata](http://motisest.net/ducitur.html) quaeque vulnera
 labens: o. Caesa est terrae Dorceus, per me barbare pharetra lacertis fraternis
 epulasque vesti. Errat timor, ne comitum nuper altera victima ventos concordia

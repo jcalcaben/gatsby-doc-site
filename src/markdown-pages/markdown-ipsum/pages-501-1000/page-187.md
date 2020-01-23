@@ -14,7 +14,7 @@ rictus virgultis Neptunus cura, quem omnem flammae, ille.
 
 ## Inplet aequora movebatur pectoris simul recentes transit
 
-Forma sic partim tibi lateri *rettulit* certaminis petit? Nunc tenebat amplecti
+Forma sic partim tibi lateri _rettulit_ certaminis petit? Nunc tenebat amplecti
 sua hunc ego! Natamque ut enim vitiaverat, **umeroque et** addidit tamen; enim
 formam canes quod. Ille amor Nilus color animalia, nubes dixi horrenda.
 Fodientibus quoque; totas orsa gurgite actum aut armatosque amorem sacra tamen

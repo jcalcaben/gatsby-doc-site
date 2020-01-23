@@ -3,8 +3,8 @@
 ## Inmixtaque invida rogant
 
 Lorem markdownum, offensamque molli lenius, moriens an solo frementis tenet
-Rhodopeius inquit, vitae. Hos tellus Numam facite, lacrimasque *talia*, sitim
-rapitur ego: ut arma defecta stemus, habendam reperta. Qualia *ita liquidis*,
+Rhodopeius inquit, vitae. Hos tellus Numam facite, lacrimasque _talia_, sitim
+rapitur ego: ut arma defecta stemus, habendam reperta. Qualia _ita liquidis_,
 simillimus Tydiden, Alcyonen anhelanti corpora **urbes animum**.
 
 - Lauro contribuere nefas
@@ -40,8 +40,8 @@ promissis tepido adflat inpatiensque faciem, membra sanguine conubia illis.
 Igitur ore tuo cumque ex nec miracula locorum solitumque tinguit si est
 primaque, non. Fas cupidine undis dirimant; sibi, os aspicit tepidum.
 
-Oculos lugebisque anteit quorum *erigitur crimen Monychus* at tenues placido et
-Sabinis. Conferre opus petit *requiris* te narrat bella, petisses *intellegat
-spectare* pugnat maxima; deque viro Alcyone. Pariter in inventa effodit in
+Oculos lugebisque anteit quorum _erigitur crimen Monychus_ at tenues placido et
+Sabinis. Conferre opus petit _requiris_ te narrat bella, petisses _intellegat
+spectare_ pugnat maxima; deque viro Alcyone. Pariter in inventa effodit in
 anguis aequora coniuge, hic quae iocos, caecaque illo. Dure colla notamque quid
 dedit coniungere obvia Ethemon.

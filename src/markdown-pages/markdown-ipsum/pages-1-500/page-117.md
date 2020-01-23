@@ -3,7 +3,7 @@
 ## Nec concubiturus lucem lanas venientique corpora cingentia
 
 Lorem **markdownum** mulcendaque recentes retemptat calcata. Hic patrem spatio
-vos *recalfecit* modo saepe: cuncta illi: Adoni replent haurit artus et
+vos _recalfecit_ modo saepe: cuncta illi: Adoni replent haurit artus et
 urgeturque: aequore.
 
 Dentibus vento, et quae. Et coniuge tumere croceo nefasque,
@@ -36,7 +36,7 @@ Et Iunone **et madidis** pariterque dedissent diversa tamen, in, dare temptat
 armat rursus! Detectique e dixit vipereos postquam illa noctis, molliaque
 seducta satis.
 
-Thyoneus sustinet curvos proles carentia habet rerum, *quam nam* quidem eiectas,
+Thyoneus sustinet curvos proles carentia habet rerum, _quam nam_ quidem eiectas,
 quo sororis munera. Coniugis Pyramus, et lecti conexis tristis saxoque est quod
 contenta quam os nunc. Responsura fuit pro excutior infelix **et** segetem
 animas Caystro positisque prius.

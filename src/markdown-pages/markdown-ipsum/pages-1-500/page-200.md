@@ -3,8 +3,8 @@
 ## Hos in plangoris populos factis
 
 Lorem markdownum quorum, dotem Tmolo curvamine iacentes: lapidosas? Vertere
-mensis ipsa, quamquam, **praecipuum** hausto, sum simul adhaesit *Cereris
-pudibundaque* tergo. Praeterque rogant testatum, illa, olim iter lumina
+mensis ipsa, quamquam, **praecipuum** hausto, sum simul adhaesit _Cereris
+pudibundaque_ tergo. Praeterque rogant testatum, illa, olim iter lumina
 haerebat; bimarem licet.
 
 - Tuentibus positi quid
@@ -21,13 +21,13 @@ requiescere huius.
 
 Stirpes taciturnus manente: annum regia Hebe pro crinales haud cum nubes, et.
 Inguina docendam et tunc, Iulo non, quo erat robore? Quae promissaque patriumque
-Eridanus trepidantia ferro virgaque currere tetigisse *reddebat*. Niveum moenia
-et inpune quaerit *Tenos*, est non tibi, nati toto aetas.
+Eridanus trepidantia ferro virgaque currere tetigisse _reddebat_. Niveum moenia
+et inpune quaerit _Tenos_, est non tibi, nati toto aetas.
 
 ## Saevit fecit et religarat erit prensoque virga
 
 Donec admonuisse **navita** visis non altis iam me interritus sponte conticuere
-quos, deae de quoque! Sacra *at carmine nomine* quidem Scyrum exstinguite tigno
+quos, deae de quoque! Sacra _at carmine nomine_ quidem Scyrum exstinguite tigno
 caelestibus et caerula, deae. Sed canna aequora flexisque equorum expulit ordine
 hordea silvae nam nova, et **poenas iurgia habet** per.
 
@@ -44,11 +44,11 @@ hordea silvae nam nova, et **poenas iurgia habet** per.
     gateway = dvdWhitelist + adsl;
 
 Illud colorum etsi sciret laudemur risit circumfusaeque **catenas** ille.
-Inplevi ab *lumina de virgo* iactabimur Hectoris fieri, perenni citus hamata cur
+Inplevi ab _lumina de virgo_ iactabimur Hectoris fieri, perenni citus hamata cur
 sudataque lingua spatio extremo! Oscula fames quoquam est exit, quod torvi,
 deserat illis; attonitus? Euntis primum ea lassatis credulitas clamato
 consistere **hic** Delius praedaeque olim! Fugato errans, amatos et voluit
 totidem: tantaeque frena cur primae potero adulterium.
 
-Dabat ex cortice notae! Pyramus *ruinas ferro* adveniens magni dignas, meae tibi
+Dabat ex cortice notae! Pyramus _ruinas ferro_ adveniens magni dignas, meae tibi
 **umerosque furenti flavescere** ipse iacens.

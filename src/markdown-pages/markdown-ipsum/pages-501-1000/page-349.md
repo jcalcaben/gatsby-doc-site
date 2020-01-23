@@ -22,7 +22,7 @@ pavet spoliare. Reperto in tale Mendesius, promissis decus!
     unitRecursionSoft.facebookProgram -= gigabyteBlog(queue + toolbar,
             download.driveMips(processor_panel_sata));
 
-Ea oculos reparabat ut tota montibus *detulit*. Est facis pererrato, tecta mecum
+Ea oculos reparabat ut tota montibus _detulit_. Est facis pererrato, tecta mecum
 ab enim deprendit Nessus trabibus.
 
 ## Frustra et Gratia consitaque procul pennas

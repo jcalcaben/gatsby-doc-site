@@ -2,12 +2,12 @@
 
 ## Ostendens corporis claviger feres
 
-Lorem markdownum, admissumque quasi. *Abas tuam nec*; trabemque ferox: *pars
-huius magna* est movisse. Ludit Iunonigenaeque eluditque superiniecit.
+Lorem markdownum, admissumque quasi. _Abas tuam nec_; trabemque ferox: _pars
+huius magna_ est movisse. Ludit Iunonigenaeque eluditque superiniecit.
 **Fluitque latura**, roseo dei illa ait clipeus armigerae sumptus. Aere utere,
 nocte suos oculosque amantem queri ante fecisse.
 
-> Sedit *pondere* pomaque passim neque dextram rursus, ablata portaque; per
+> Sedit _pondere_ pomaque passim neque dextram rursus, ablata portaque; per
 > secum sic regis. Lacertosi anxia, quod iuris imperet, quid rictus, tales.
 > Interius tabularia adeo priscosque longis nutanti sinu indicat vocis, de.
 
@@ -25,10 +25,10 @@ faciendus, faciemque sincera superis!
 
 ## Dat solus odit coepi perdiderim locum
 
-Qua clavae magno, in Tyrium, redigar *effluxere fumo*. In manus Tartara Iliades
+Qua clavae magno, in Tyrium, redigar _effluxere fumo_. In manus Tartara Iliades
 ire iram sententia anili dicta avidas loquendi daulida pallentemque pudorque?
 Stygio Cybeleia et vidit conreptus glacialis deceant geruntur, trepidantes,
-*fila glaebis*, dumque.
+_fila glaebis_, dumque.
 
     abendFile /= osiApiSoa(read_variable, ddrDtdReimage(30, system_webcam, 2),
             87);
@@ -62,10 +62,10 @@ corporis inultos foret mox, sceptro vox inscius est. Videres inquit inludens
 Amphiona. Sectamque cum coortis visae aquarum, spumisque leones trunco sine
 consternatique super.
 
-Illi ne capit: agmine, non cibo Pallas decent *moenia vestro* nescit: conversa!
+Illi ne capit: agmine, non cibo Pallas decent _moenia vestro_ nescit: conversa!
 Isse dea: exponimur visum rapida valuit extemplo puerique exploratis parentis
 foret fatis adest: ipsa. Et summa Prochytenque navibus dies.
 
 Deam incedere auras. At elegit erat; nec visaque illi aeacides tepebat lacrimans
-quamvis *credas ullo summo* quoque. Celebrant torvae, **Iovi nec** confinia
+quamvis _credas ullo summo_ quoque. Celebrant torvae, **Iovi nec** confinia
 cortice amplius; **Palilibus amictus** freta Calliroe, penetralia.

@@ -24,7 +24,7 @@ his](http://tamen-aequare.org/) inque vincant, quod venisse Haec, quin.
 ## Ilex decus tamen aeternum Acheloe quoque datur
 
 Profanus terraeque Hectoris lugenti, ipsa quam altius vestros iecur pater ipse
-unde thyrsos *duros*: via. Inde ora, et erat summa silet venae ripae Peleus.
+unde thyrsos _duros_: via. Inde ora, et erat summa silet venae ripae Peleus.
 
 ## Pennis senumque pharetram incidit inque
 

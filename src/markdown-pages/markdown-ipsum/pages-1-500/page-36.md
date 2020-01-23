@@ -27,7 +27,7 @@ veteremque complexa. Temptat aqua esset non omnibus tinctam voce.
 
 Vocantem nec nota Dulichium vultus metit tibi tamen Poemenis inde. Preces et
 dextra laborum ut [ipsa habebat](http://www.et.com/), non umbram contigit
-haerentem. Globos terras longus cum petunt virtute vertitur; iam *requiescere*:
+haerentem. Globos terras longus cum petunt virtute vertitur; iam _requiescere_:
 dum flamma capit pittheam corpus imitata quae? Non Aeolii mori redeunt neci
 vulnera? Modo quoque utrumque furore Cerealia **memoraverat quid sed** Elateia
 hic acerris uni genus aurea, [ecce](http://invitishaeret.net/adultera).
@@ -38,9 +38,9 @@ Quaesitique frena morte iuvencae avidis longo impete crudelis iubet obortis,
 fuit, maturuit et repetit ruunt stagna. Ore per fides postquam puerile: locis
 arbitrium cingebant rubetis cives concipis petunt venit tulit conferat ignoto
 ultima. Prius quo quaeque; ita petit mariti duobus **crimen plumbo busta**
-Liber, *proles ite Iuno* vultum. **Nonus visus** laboris canis qua tot iuventa
+Liber, _proles ite Iuno_ vultum. **Nonus visus** laboris canis qua tot iuventa
 qui, in insula Troiae. Ait aera perstant iamque, sed urbes aliqua coniunctis
-*sine miserata liquida* et tandem imagine vicinia metuit.
+_sine miserata liquida_ et tandem imagine vicinia metuit.
 
 Fors est ab cruentior: ubi vidi accepta, et robur domino nota manemus orbem [non
 vobisque](http://ardeat.net/), quos edidit! Inputet temptasse foliis noctis

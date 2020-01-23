@@ -46,5 +46,5 @@ venit convaluit se. Mando est Venus ad divorum genitas.
 6. Vacat sonitu et male utilibus mirum
 
 Isto est equique Phineus conplectitur gelidas. Arma capiti, opus onus belua
-laudare se *magno cum* passura; meae fores, ululatibus! Fontibus favete fata
+laudare se _magno cum_ passura; meae fores, ululatibus! Fontibus favete fata
 frondibus omen duae dies aetas quantoque efflant deiectuque, Parthaone relevare!

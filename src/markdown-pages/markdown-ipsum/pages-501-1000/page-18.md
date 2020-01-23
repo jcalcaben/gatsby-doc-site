@@ -2,7 +2,7 @@
 
 ## Mare iugum aeris socerum hic pacis
 
-*Lorem markdownum*, Ionium perstant stagnum, peto audacem arma, sinistra canos
+_Lorem markdownum_, Ionium perstant stagnum, peto audacem arma, sinistra canos
 sedibus quod armis ventis, frustra. Tibi salva mors et mihi sua quoque nervo
 suadet Didymeque Titan commentaque futuri? Amplexa ex fuge.
 
@@ -42,15 +42,15 @@ vacuaque et duobus aditus.
 Membris foret natus pennatis, meas amnes laudavit Ennomon Achillis comitique
 ipsaque. Ex quis fores, iners summae per, volui et moenibus poenas. Colat tanti:
 rostro lacertos, nec dea dummodo incipit Stymphalide nec, iam exhortor festinat
-*pumice*; bis.
+_pumice_; bis.
 
 Cum at animos fontes loquebatur passim ab deceperat ora audentes milite
 adsuetasque! Causa inclusas in ambit, caedisque et coniuge agitat, praestantior
 probat creditus anima sic. Et aut revulsum, mea malae indignis exsangue moenia
 Acrisioneas auras. [Quas caeli haud](http://notas.org/) veluti conplevit fluens,
-gratia formae ira *tuo concipis* utroque boves, manu quod.
+gratia formae ira _tuo concipis_ utroque boves, manu quod.
 
-Inmotae crista est mercede cultu et certat venturis factura ita *felici* lecto
+Inmotae crista est mercede cultu et certat venturis factura ita _felici_ lecto
 hiscere viroque nos eveniunt genus [ante](http://cognataque.com/ratis.html)
 dedit. Tardus inploravere reor! Data praetereunt quam tuentur longaque et
 excedit summoque ignis Minervae et semel caesoque periture in homines. Magnum

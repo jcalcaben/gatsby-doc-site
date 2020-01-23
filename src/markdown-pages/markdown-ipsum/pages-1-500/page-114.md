@@ -18,7 +18,7 @@ non, tui habuit populis currum. Quaedam figuras sub.
 ## Ad putat faciente ne picum
 
 Nova [tamquam](http://www.fecere.org/dei.php), volenti repetitum factum herbis
-*in* inpiger virque. Mixtaeque crinis alte pater sua non, referri possidet
+_in_ inpiger virque. Mixtaeque crinis alte pater sua non, referri possidet
 concurreret dolor.
 
 Et harenam signorum rudis reddunt petitos esse, primique quod. Ire et aestibus,
@@ -48,8 +48,8 @@ hinc non iram terret domum cuncta.
     web_program_frozen.maximize_thread(nuiBookmark - typeLocalhost -
             remoteSoftware);
 
-Sed denique *aliud*, mixtos [fata](http://ero.net/remisnec), modo sorori pictis.
+Sed denique _aliud_, mixtos [fata](http://ero.net/remisnec), modo sorori pictis.
 Et fert turbatque iussis dapes currusque; ferinis singula ulla? Seque validos,
-aetas circumdata, nunc suo, suae Syrtis, porrigit rigorem *spatium*. Lege Liber,
-nec et silvis horror volant omnes spectarat bipennis gramen *numina*, illiusque,
+aetas circumdata, nunc suo, suae Syrtis, porrigit rigorem _spatium_. Lege Liber,
+nec et silvis horror volant omnes spectarat bipennis gramen _numina_, illiusque,
 inani!

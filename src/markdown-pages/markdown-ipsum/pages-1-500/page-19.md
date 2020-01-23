@@ -20,9 +20,9 @@ Elei per.
 
 ## Fiducia fronti inde
 
-Hasta quam *cum faciendo* maternos dolens, et **tamen demittite cornibus**?
+Hasta quam _cum faciendo_ maternos dolens, et **tamen demittite cornibus**?
 Edidit Eumenides pectora! Suis [est](http://necis.com/), cum animus sunt ore
-*instruxere* crimenque fronde.
+_instruxere_ crimenque fronde.
 
 ## Ait Iri
 

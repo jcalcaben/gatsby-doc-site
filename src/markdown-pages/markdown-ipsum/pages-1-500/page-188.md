@@ -5,9 +5,9 @@
 Lorem markdownum ducat, procul, Macareida cernis **fugiens** de Atlantis nefas
 at per praedaeque. Respicit **molles cunasque Telamon**, trahat si contingere
 matrem faciebant moram canosque, neve Ceae terraeque. Alto dubitati
-*tellusAndros Latiis* ictus coniunx aestus secernunt devoveas fidemque. Pererrat
+_tellusAndros Latiis_ ictus coniunx aestus secernunt devoveas fidemque. Pererrat
 gravem cum turba deterritus regna et [tellure fatum
-quatiens](http://proxima.com/) clavigeram aestu *ignemque concipit* lusus
+quatiens](http://proxima.com/) clavigeram aestu _ignemque concipit_ lusus
 cernentem Thracis.
 
     if (-5) {
@@ -27,7 +27,7 @@ cernentem Thracis.
 
 ## Et nos cum ora
 
-Hic invidiam dent pactus? Oris *regem*, miseros has Libycas viros, paludibus
+Hic invidiam dent pactus? Oris _regem_, miseros has Libycas viros, paludibus
 preces altis tamen.
 
 ## Per Eoo Cyprio
@@ -50,8 +50,8 @@ pectusque.
 ## Hyadasque et terrarum tempus dumque
 
 Ulla terrae, magnum praetenta dedisses quaterque egreditur colla. Modo illa
-vocat, tuta tua *dixi quicquam*, dic quos. Flamine tradita montani accessi
-laborat medium se Iphis est per hoc resupinus parva *est*. Orba
+vocat, tuta tua _dixi quicquam_, dic quos. Flamine tradita montani accessi
+laborat medium se Iphis est per hoc resupinus parva _est_. Orba
 [iam](http://non.io/ordine.html), Rhexenore deae capillos totis timebam
 sistrorum, [nec tecum quae](http://namqueper.com/diti) Iliaden euntes.
 

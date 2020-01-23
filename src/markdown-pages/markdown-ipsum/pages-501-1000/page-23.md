@@ -4,11 +4,11 @@
 
 Lorem markdownum gladio exstat voluit luctataque si ignorat plura, memorantur
 lugebere novandi! Dominum [non movet](http://omnia.org/plangoremquecapitum.aspx)
-Asopidos cecidit ferali, *in* domo feros hos, rapiunt longa. Curru resupinus
+Asopidos cecidit ferali, _in_ domo feros hos, rapiunt longa. Curru resupinus
 saepe, inconstantia pluma, mitem et domum. Videndi longam paelex promittuntque
 bustum infantibus deae novissima, ad revertentes amanti cupido!
 
-Felix sui idem etsi natando commota, tuque illa satiata *hominum rescindere*
+Felix sui idem etsi natando commota, tuque illa satiata _hominum rescindere_
 dotibus. Sine sublimia dedit idem pelle sed Ne tori Emathii primus; sed mactati
 pestiferaque nocebant in iacet: venerat.
 
@@ -38,7 +38,7 @@ Intravit audaci morte sed arboris inmotas violata fertilis etiam tenerum.
 ## Frenis timendi munere exhalarunt Euboica se omen
 
 Onus sed Orchomenosque sedebat pennisque modo proculcat ille. Cupidine adducere;
-nec fama *erat per habebat* salutis suoque exacta. Dum est. Ignes suae
+nec fama _erat per habebat_ salutis suoque exacta. Dum est. Ignes suae
 hospitibus Niseia ut multorum genitum facundia quinque vincis et quod.
 
 Deberi tibi umet visum ut suis corpus gaudebat capiam fugaeque novercae. [Sub
@@ -46,7 +46,7 @@ sola](http://suis.io/animosque-in.html) veneno inspirat, aut aequor, ille tam.
 
 > Quae et in, dent **Icare ne Bybli** meum inrita, nec positis nostro. Graium
 > culmine Rhodiae quae exactus translata caede? Flores motisque concipit,
-> *impelli et spinae* tumulum, feremus in dextra et, vara tempora adspergine
+> _impelli et spinae_ tumulum, feremus in dextra et, vara tempora adspergine
 > quidem.
 
 Duxere pudori, tela iuventus [super fugarant](http://etconprensus.com/) de illa

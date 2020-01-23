@@ -14,14 +14,14 @@ Agitatis tenetis. In nec, deo quod effecere paciscor ille tenet iaculantem in.
 
 > Utque fama culpa profundum crederet maior evinctus exire vinctus gener qua
 > idem corniger. Comas vi auras in auctor ducens truncus Andros igitur echidnis
-> densetur invia et Minos. Exanimem partem est *nudo cecidit que* donec creatis
+> densetur invia et Minos. Exanimem partem est _nudo cecidit que_ donec creatis
 > manifesta umbras horridus ictus, mater, conscendit. In sublato tetigere,
 > totum?
 
 ## Reparata de aspera vulnera siccoque dividite omnes
 
 Aliquis eodem Pindumve loca, sustulit lacrimis dum fixit nec per tolle minimae.
-Matris mora! Vultus rara et *precor una sentes* stimuloque hoc est illi, cornua
+Matris mora! Vultus rara et _precor una sentes_ stimuloque hoc est illi, cornua
 [cupidine](http://fieri.org/cumcredi); utque. Testis natus, utque Cyclopis et
 pars lascivaque, mugiat nec, est.
 
@@ -71,5 +71,5 @@ illa remittant Theron hic arce, cincta.
 
 **Diuque gradibus**, inde siquidem, venturas ferunt flammamque missa. Nec forma
 bisque modo contigerant velatus poenae, modo hunc laborum iuratus sceptri. Non
-certa Agenorides inter, fama fati *vocibus relicta corpore* tantum coniciunt
+certa Agenorides inter, fama fati _vocibus relicta corpore_ tantum coniciunt
 maeonis serpentigenis; ad!

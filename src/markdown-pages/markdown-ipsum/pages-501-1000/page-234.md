@@ -50,10 +50,10 @@ dixit tamquam genetrix Hypsipyles iacent vates. Caelestia casuraque Erinys.
 
 ## Temperat Idaei
 
-Prima supplentur quin quosque; poma crimen siccam fecerat amantes protinus *ut*
+Prima supplentur quin quosque; poma crimen siccam fecerat amantes protinus _ut_
 nomen discedite nisi. Regis trabes, Colchide, genua perdere tulerunt venatu,
 semper Ciris. Responsa volentem hac faciat Salmacis terque, Cimoli undas:
-*trahit ab* Ephyre accensum recens lassaque ut maximus turis.
+_trahit ab_ Ephyre accensum recens lassaque ut maximus turis.
 
 - Dabat texta
 - Accedere esse ore est rumpo paelicis forsitan

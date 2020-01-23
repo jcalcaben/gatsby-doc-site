@@ -36,7 +36,7 @@ Caruisse distinctas levibus quam. Te vota crinem, ait! Provolat dulces, iam
 inopino lucent: letum, fulgore quod facinus troia ardescunt. Longius attulit
 quanto dubites diruta: male victricemque tribus ut isdem Rhodon, nymphe.
 
-> Per tum fudit cum sit *phocae cupit* tradere regis aevum ignem membra,
+> Per tum fudit cum sit _phocae cupit_ tradere regis aevum ignem membra,
 > Inachidas longaeva. Meoque sororem Aegides ora urguet et incubuit adfata
 > somno, tuetur: acto potes fontesque luctus.
 
