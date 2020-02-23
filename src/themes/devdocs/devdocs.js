@@ -4,6 +4,7 @@ import { DataProvider } from '../../components/Data'
 import GlobalSpectrumProvider from '../../components/GlobalSpectrumProvider'
 
 import Header from './Header';
+import Content from './Content';
 
 import styles from './devdocs.module.css';
 
@@ -21,8 +22,8 @@ const DevDocsTheme = props => {
             <GlobalSpectrumProvider size="medium" theme="light">
 
                 <div className={styles.root}>
-                    <Header slug={slug}/>
-                    <section>{children}</section>
+                    <Header slug={slug} />
+                    <Content>{children}</Content>
                     <footer></footer>
                     <nav></nav>
                     <div id="modal"></div>
