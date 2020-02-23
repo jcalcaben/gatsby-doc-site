@@ -5,6 +5,7 @@ import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from "@mdx-js/react"
 
 import App from "../../components/App"
+import DevDocs from '../../themes/devdocs'
 import SEO from "../../components/seo"
 
 import Callout from "../../doc-components/Callout"
@@ -38,7 +39,7 @@ const MdxLayout = props => {
   return (
     <>
       <SEO title={mdx.frontmatter.title} />
-      <App
+      <DevDocs
         title={mdx.frontmatter.title}
         slug={mdx.fields.slug}
         currentPageContents={mdx.tableOfContents.items}
@@ -46,7 +47,7 @@ const MdxLayout = props => {
         <MDXProvider components={componentsMapping}>
           <MDXRenderer>{mdx.body}</MDXRenderer>
         </MDXProvider>
-      </App>
+      </DevDocs>
     </>
   )
 }

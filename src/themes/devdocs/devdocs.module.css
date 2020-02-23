@@ -1,0 +1,7 @@
+.root {
+    display: grid;
+    grid-template-rows: 60px auto min-content; 
+    align-items: stretch;
+    justify-items: stretch;
+    min-height: 100vh;
+}
