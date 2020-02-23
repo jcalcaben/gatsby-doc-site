@@ -6,4 +6,14 @@
     justify-items: left;
     align-items: center;
     grid-template-columns: [logo] 60px [siteName] auto [search] 40px [appMenu] 40px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.waffle {
+  display: flex;
+  justify-content: flex-end;
+  align-content: flex-end;
+  width: 32px;
 }

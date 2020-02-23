@@ -1,0 +1,38 @@
+.root {
+    width: 100%;
+    display: grid;
+    position: absolute;
+    top: 0px;
+    background: inherit;
+    grid-template-columns: auto 40px;
+    grid-template-rows: auto;
+    grid-template-areas:
+        "form close"
+        "results results";
+
+}
+
+.form {
+    justify-self: right;
+    grid-area: form;
+    height: 60px;
+    display: grid;
+    width: 80%;
+}
+
+input {
+    border: none;
+    align-self: center;
+    font-size: 20px;
+    height: 100%;
+}
+
+.close {
+    background: inherit;
+    border: none;
+    grid-area: close;
+}
+
+.results {
+    grid-area: results;
+}

@@ -1,6 +1,8 @@
 import React from 'react';
 
 import TabNavigation from '../../../components/TabNavigation'
+import WaffleNavigation from '../../../components/WaffleNavigation'
+import Search from '../Search'
 
 import Brand from './brand';
 
@@ -8,13 +10,13 @@ import styles from './header.module.css';
 
 const Header = props => {
 
-    const {siteTitle, slug} = props;
+    const { siteTitle, slug } = props;
     return (
         <header className={styles.root}>
-            <Brand classes={styles.brand}/>
+            <Brand classes={styles.brand} />
             <TabNavigation slug={slug} />
-            <div id="waffle">Waffle</div>
-            <div id="search">Search</div>
+            <WaffleNavigation overrideClasses={{ root: styles.waffle }} />
+            <Search />
         </header>
     )
 

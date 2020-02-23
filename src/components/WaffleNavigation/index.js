@@ -5,11 +5,15 @@ import { useData } from "../Data"
 import "@spectrum-css/menu"
 import "@spectrum-css/popover"
 import "@spectrum-css/link"
-import classes from "./waffleNavigation.module.css"
+import defaultClasses from "./waffleNavigation.module.css"
 
 import Apps from "@adobe/spectrum-css-workflow-icons/dist/24/Apps.svg"
 
 const WaffleNavigation = props => {
+  const { overrideClasses } = props;
+
+  const classes = Object.assign([], defaultClasses, overrideClasses);
+
   const { externalPages } = useData()
 
   const [open, setOpen] = useState(false)

@@ -1,0 +1,27 @@
+.root {}
+
+.form {
+    position: absolute;
+    top: 0px;
+    width: 100px;
+    display: grid; 
+}
+
+.button {
+    margin: 0px;
+    padding: 0px;
+    width: 40px;
+    height: 25px;
+    justify-self: center;
+    align-self: center;
+    cursor: pointer;
+    background: inherit;
+    border: none;
+}
+
+.magnifier {
+    width: 18px;
+    height: 16px;
+    margin: 0px;
+    padding: 2px;
+}
