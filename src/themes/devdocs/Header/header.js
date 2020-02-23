@@ -1,26 +1,23 @@
-import React from 'react';
+import React from "react"
 
-import TabNavigation from '../../../components/TabNavigation'
-import WaffleNavigation from '../../../components/WaffleNavigation'
-import Search from '../Search'
+import TabNavigation from "../../../components/TabNavigation"
+import WaffleNavigation from "../../../components/WaffleNavigation"
+import Search from "../Search"
 
-import Brand from './brand';
+import Brand from "./brand"
 
-import styles from './header.module.css';
+import styles from "./header.module.css"
 
 const Header = props => {
-
-    const { siteTitle, slug } = props;
-    return (
-        <header className={styles.root}>
-            <Brand classes={styles.brand} />
-            <TabNavigation slug={slug} />
-            <WaffleNavigation overrideClasses={{ root: styles.waffle }} />
-            <Search />
-        </header>
-    )
-
+  const { siteTitle, slug } = props
+  return (
+    <header className={styles.root}>
+      <Brand classes={styles.brand} />
+      <TabNavigation slug={slug} />
+      <WaffleNavigation overrideClasses={{ root: styles.waffle }} />
+      <Search />
+    </header>
+  )
 }
 
-export default Header;
-
+export default Header

@@ -5,7 +5,7 @@ import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from "@mdx-js/react"
 
 import App from "../../components/App"
-import DevDocs from '../../themes/devdocs'
+import DevDocs from "../../themes/devdocs"
 import SEO from "../../components/seo"
 
 import Callout from "../../doc-components/Callout"

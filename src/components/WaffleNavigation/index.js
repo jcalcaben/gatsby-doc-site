@@ -10,9 +10,9 @@ import defaultClasses from "./waffleNavigation.module.css"
 import Apps from "@adobe/spectrum-css-workflow-icons/dist/24/Apps.svg"
 
 const WaffleNavigation = props => {
-  const { overrideClasses } = props;
+  const { overrideClasses } = props
 
-  const classes = Object.assign([], defaultClasses, overrideClasses);
+  const classes = Object.assign([], defaultClasses, overrideClasses)
 
   const { externalPages } = useData()
 

@@ -1,1 +1,1 @@
-export {default} from './devdocs';
+export { default } from "./devdocs"

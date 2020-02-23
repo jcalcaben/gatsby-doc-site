@@ -1,1 +1,1 @@
-export {default as useSiteTitle} from './useSiteTitle';
+export { default as useSiteTitle } from "./useSiteTitle"
