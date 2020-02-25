@@ -1,6 +1,6 @@
 import React from "react"
 
-import TreeNavigation from '../TreeNavigation'
+import TreeNavigation from "../TreeNavigation"
 
 import classes from "./content.module.css"
 

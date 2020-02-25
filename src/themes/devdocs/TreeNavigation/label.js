@@ -1,6 +1,6 @@
 import React from "react"
 
-import classes from './label.module.css';
+import classes from "./label.module.css"
 
 const Label = props => {
   const { url, label, open, toggleAction } = props
@@ -8,7 +8,9 @@ const Label = props => {
   const toggleContent = open ? "-" : "+"
 
   const toggleButton = toggleAction ? (
-    <button className={classes.button} onClick={toggleAction}>{toggleContent}</button>
+    <button className={classes.button} onClick={toggleAction}>
+      {toggleContent}
+    </button>
   ) : (
     undefined
   )
