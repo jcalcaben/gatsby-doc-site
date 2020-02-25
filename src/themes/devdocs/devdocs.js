@@ -22,7 +22,7 @@ const DevDocsTheme = props => {
       <GlobalSpectrumProvider size="medium" theme="light">
         <div className={styles.root}>
           <Header slug={slug} />
-          <Content>{children}</Content>
+          <Content slug={slug}>{children}</Content>
           <footer></footer>
           <nav></nav>
           <div id="modal"></div>
