@@ -20,7 +20,7 @@ const TreeNavigation = props => {
   return (
     <nav className={classes.root}>
       <h4 className={classes.title}>{title}</h4>
-      <Branch branch={group} depth={depth} expanded={true} />
+      <Branch branch={group} depth={depth} slug={slug} expanded={true} />
     </nav>
   )
 }

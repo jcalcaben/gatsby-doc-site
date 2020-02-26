@@ -1,10 +1,25 @@
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 
 import { contains, remove } from "../../../lib/util"
 
 import Item from "./item"
 
 import classes from "./branch.module.css"
+
+const treeContains = (tree, url) => {
+  if (tree) {
+    let found = tree.url === url
+
+    if (tree.pages) {
+      tree.pages.forEach(subTree => {
+        found = found || treeContains(subTree, url)
+      })
+    }
+
+    return found
+  }
+  return false
+}
 
 const Branch = props => {
   const [openItems, setOpenItems] = useState([])
@@ -18,9 +33,17 @@ const Branch = props => {
       }
     }
   }
-  const { branch, depth, expanded = false } = props
+  const { branch, depth, slug, expanded = false } = props
 
   const { pages } = branch
+
+  useEffect(() => {
+    pages.forEach(tree => {
+      if (treeContains(tree, slug)) {
+        setOpenItems(openItems.concat([tree.title]))
+      }
+    })
+  }, [])
 
   const rootClasses = expanded ? classes.expanded : classes.hidden
 
@@ -30,7 +53,12 @@ const Branch = props => {
     const branchExpanded = contains(openItems, title)
 
     const listItems = page.pages ? (
-      <Branch branch={page} depth={depth + 1} expanded={branchExpanded} />
+      <Branch
+        branch={page}
+        depth={depth + 1}
+        slug={slug}
+        expanded={branchExpanded}
+      />
     ) : (
       undefined
     )
