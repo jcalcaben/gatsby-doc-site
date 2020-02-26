@@ -24,3 +24,14 @@
   composes: label;
   color: #737676;
 }
+
+.toggle {
+}
+
+.open {
+  composes: toggle;
+}
+
+.close {
+  composes: toggle;
+}
