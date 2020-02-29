@@ -1,9 +1,14 @@
 .root {
   display: grid;
-  grid-template-columns: 270px 1fr 200px;
+  grid-template-columns: 270px calc(100vw - 470px) 200px;
   background-color: #ffffff;
 }
 
 .main {
   padding: 0px 30px;
+}
+
+.toc {
+  position: sticky;
+  top: 60px;
 }

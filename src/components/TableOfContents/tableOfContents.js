@@ -1,22 +1,23 @@
 import React from "react"
 
 import "@spectrum-css/sidenav"
-import classes from "./tableOfContents.module.css"
+import defaultClasses from "./tableOfContents.module.css"
 
 const TableOfContents = props => {
-  const { data } = props
+  const { classOverrides, data } = props
+
+  const classes = Object.assign({}, defaultClasses, classOverrides)
 
   const toItem = section => {
     const subSections = section.items ? (
       <ul className="spectrum-SideNav">{section.items.map(toItem)}</ul>
     ) : null
 
+    const keyValue = `${section.title}${section.url}`
+
     // TODO: Apply isSelected logic/css "is-selected"
     return (
-      <li
-        className="spectrum-SideNav-item"
-        key={`${section.title}${section.url}`}
-      >
+      <li className="spectrum-SideNav-item" key={keyValue}>
         <a
           href={section.url}
           className="spectrum-SideNav-itemLink"
