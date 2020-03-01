@@ -24,7 +24,7 @@ const Footer = props => {
     <footer className={classes.root}>
       <ul className={classes.links}>{linksContent}</ul>
       <span className={classes.copyright}>
-       &copy; {copyrightYear} Magento. All rights reserved.
+        &copy; {copyrightYear} Magento. All rights reserved.
       </span>
     </footer>
   )
