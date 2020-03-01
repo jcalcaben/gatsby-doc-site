@@ -5,6 +5,7 @@ import GlobalSpectrumProvider from "../../components/GlobalSpectrumProvider"
 
 import Header from "./Header"
 import Content from "./Content"
+import Footer from "./Footer"
 
 import styles from "./devdocs.module.css"
 
@@ -25,7 +26,7 @@ const DevDocsTheme = props => {
           <Content currentPageContents={currentPageContents} slug={slug}>
             {children}
           </Content>
-          <footer></footer>
+          <Footer />
           <nav></nav>
           <div id="modal"></div>
         </div>
