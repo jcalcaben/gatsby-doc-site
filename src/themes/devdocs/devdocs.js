@@ -10,7 +10,6 @@ import Footer from "./Footer"
 import styles from "./devdocs.module.css"
 
 const DevDocsTheme = props => {
-
   const { currentPageContents, slug, children } = props
 
   return (
