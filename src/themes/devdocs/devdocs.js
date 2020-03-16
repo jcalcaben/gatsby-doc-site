@@ -9,14 +9,9 @@ import Footer from "./Footer"
 
 import styles from "./devdocs.module.css"
 
-import { useSiteTitle } from "../../lib/hooks"
-
 const DevDocsTheme = props => {
-  const data = useSiteTitle()
 
-  const { currentPageContents, title, slug, children } = props
-
-  const siteTitle = title || data.site.siteMetadata.title
+  const { currentPageContents, slug, children } = props
 
   return (
     <DataProvider>

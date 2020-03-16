@@ -9,7 +9,7 @@ import Brand from "./brand"
 import styles from "./header.module.css"
 
 const Header = props => {
-  const { siteTitle, slug } = props
+  const { slug } = props
   return (
     <header className={styles.root}>
       <Brand classes={styles.brand} />

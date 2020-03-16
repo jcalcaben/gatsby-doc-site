@@ -8,7 +8,7 @@ import Branch from "./branch"
 import classes from "./treeNavigation.module.css"
 
 const TreeNavigation = props => {
-  const { pages, slug } = props
+  const { slug } = props
 
   const { pageGroups } = useData()
 
