@@ -39,7 +39,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   posts.forEach(({ node }, index) => {
     const urlPath = node.fields.slug
 
-    if (!urlPath.includes("_includes")) {
+    if (urlPath.startsWith("/markdown")&&!urlPath.includes("_includes")) {
       createPage({
         path: urlPath,
         context: { id: node.id },
