@@ -1,37 +1,47 @@
 /**
  * A script to initialize the development environment specified in a .env file
  */
-let fs = require("fs")
+let fsPromises = require("fs").promises
 let path = require("path")
+
+let validateProjectStructure = require("./util/validateProjectStructure")
 
 require("dotenv").config({
   path: `.env`,
 })
 
-//console.log(process.env.LOCAL_PROJECT_DIRECTORY)
+const config = {
+  baseuri: process.env.LOCAL_PROJECT_DIRECTORY,
+}
 
-let markdownDir = path.join(
-  process.env.LOCAL_PROJECT_DIRECTORY,
-  "src/markdown"
-)
-let markdownLinkDir = path.join(
-  path.dirname(__dirname),
-  "src/external/markdown"
-)
+// Validate external project structure
+validateProjectStructure(config)
+  .then(result => {
+    const externalDir = path.join(path.dirname(__dirname), "src/external")
 
-let dataDir = path.join(
-  process.env.LOCAL_PROJECT_DIRECTORY,
-  "src/data"
-)
-let dataLinkDir = path.join(path.dirname(__dirname), "src/external/data")
+    const { markdownDir, dataDir } = result
 
-//console.log(markdownLinkDir)
-//console.log(markdownDir)
-
-// Create directory and create symbolic link
-fs.mkdir(path.dirname(markdownLinkDir),{recursive:true},err=>{
-    if(err) throw err;
-
-    fs.symlinkSync(markdownDir, markdownLinkDir, 'dir');
-    fs.symlinkSync(dataDir, dataLinkDir, 'dir');
-})
+    // Link directories to this project
+    fsPromises
+      .mkdir(externalDir)
+      .then(() => {
+        const markdownLinkDir = path.join(
+          path.dirname(__dirname),
+          "src/external/markdown"
+        )
+        return fsPromises.symlink(markdownDir, markdownLinkDir, "dir")
+      })
+      .then(() => {
+        const dataLinkDir = path.join(
+          path.dirname(__dirname),
+          "src/external/data"
+        )
+        return fsPromises.symlink(dataDir, dataLinkDir, "dir")
+      })
+      .catch(error => {
+        console.log(error)
+      })
+  })
+  .catch(error => {
+    console.log(error)
+  })
