@@ -72,5 +72,6 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-# Misc files
-external
+# External files
+external/
+!external/.gitkeep
