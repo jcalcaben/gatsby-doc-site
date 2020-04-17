@@ -64,7 +64,7 @@ module.exports = {
             resolve: `gatsby-remark-prismjs`,
           },
           {
-            resolve: `gatsby-remark-grid-tables`
+            resolve: `gatsby-remark-grid-tables`,
           },
         ],
         plugins: ["gatsby-remark-images", "gatsby-remark-grid-tables"],
@@ -94,6 +94,15 @@ module.exports = {
       options: {
         name: "posts",
         path: `${__dirname}/src/external`,
+      },
+    },
+    {
+      resolve: "gatsby-source-git",
+      options: {
+        name: 'production',
+        remote: 'https://github.com/jcalcaben/external-markdown-content.git',
+        branch: "master",
+        patterns: 'src/**',
       },
     },
   ],

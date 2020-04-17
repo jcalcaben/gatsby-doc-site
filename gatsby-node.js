@@ -37,9 +37,12 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const posts = result.data.allMdx.edges
 
   posts.forEach(({ node }, index) => {
-    const urlPath = node.fields.slug
+    const slug = node.fields.slug
 
-    if (urlPath.startsWith("/markdown")&&!urlPath.includes("_includes")) {
+    if (slug.startsWith("/markdown")&&!slug.includes("_includes")) {
+
+      const urlPath = path.relative('/markdown',slug);
+
       createPage({
         path: urlPath,
         context: { id: node.id },

@@ -17,20 +17,16 @@ const config = {
 // Validate external project structure
 validateProjectStructure(config)
   .then(result => {
-    const externalDir = path.join(path.dirname(__dirname), "src/external")
+    const markdownLinkDir = path.join(
+      path.dirname(__dirname),
+      "src/external/markdown"
+    )
 
     const { markdownDir, dataDir } = result
 
     // Link directories to this project
     fsPromises
-      .mkdir(externalDir)
-      .then(() => {
-        const markdownLinkDir = path.join(
-          path.dirname(__dirname),
-          "src/external/markdown"
-        )
-        return fsPromises.symlink(markdownDir, markdownLinkDir, "dir")
-      })
+      .symlink(markdownDir, markdownLinkDir, "dir")
       .then(() => {
         const dataLinkDir = path.join(
           path.dirname(__dirname),
