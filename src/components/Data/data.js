@@ -45,6 +45,14 @@ const DataProvider = props => {
           url
         }
       }
+      variables: allVariablesYaml {
+        nodes {
+          variables {
+            name
+            value
+          }
+        }
+      }
     }
   `)
 
