@@ -15,7 +15,7 @@ import("../../external/data/variables.yml")
 const GlobalVariable = props => {
   const { name, children } = props
 
-  const data = Object.assign(globalData, localData);
+  const data = Object.assign(globalData, localData)
 
   const value = data[name] || data[children] || name || children
 
