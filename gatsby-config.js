@@ -1,7 +1,7 @@
 const configs = require('./configs');
 
 require("dotenv").config({
-  path: `.env.${process.env.NODE_ENV}`,
+  path: `.env`,
 })
 
 const environment = process.env.NODE_ENV || "development";

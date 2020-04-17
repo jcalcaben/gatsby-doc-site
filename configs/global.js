@@ -94,12 +94,5 @@ module.exports = {
       },
     },
     `gatsby-transformer-gitinfo`,
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "posts",
-        path: `${projectRootDir}/src/external`,
-      },
-    },
   ],
 }
