@@ -51,7 +51,8 @@
   "devDependencies": {
     "husky": "^4.0.0-beta.5",
     "prettier": "^1.19.1",
-    "pretty-quick": "^2.0.1"
+    "pretty-quick": "^2.0.1",
+    "rimraf": "^3.0.2"
   },
   "keywords": [
     "gatsby",
@@ -66,6 +67,7 @@
     "init:dev": "node scripts/devInit.js",
     "prettier": "prettier --write \"src/**/*.{js,jsx,json,md,mdx}\"",
     "prettier:check": "prettier --check \"src/**/*.{js,jsx,json,md,mdx}\"",
+    "reset": "rimraf src/external",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "yarn prettier:check"
