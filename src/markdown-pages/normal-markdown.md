@@ -4,7 +4,7 @@ _This is an example of a normal markdown page._
 
 Global variables work across the site, even in normal markdown. The following sentence uses global variables:
 
-This is version <GlobalVariable name='version'/> of a Doc site created by <GlobalVariable name='hackTeam'/> Hackathon team!
+This is version <Variable name='version'/> of a Doc site created by <Variable name='hackTeam'/> Hackathon team!
 
 ## Example table:
 

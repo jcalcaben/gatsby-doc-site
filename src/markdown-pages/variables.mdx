@@ -4,7 +4,7 @@ title: Setup global variables
 
 ## Define global variables
 
-Setting a global variable saves global search and replaces later. Declare global variables in the `/src/data/globalVariables.yml` file using the following syntax:
+Setting a global variable saves global search and replaces later. Declare global variables in the `/src/data/Variables.yml` file using the following syntax:
 
 ```yaml
 <variable-name>: <variable-value>
@@ -12,9 +12,9 @@ Setting a global variable saves global search and replaces later. Declare global
 
 **To use a global variable in a topic:**
 
-1. Declare or choose a variable in the `globalVariables.yml` file.
+1. Declare or choose a variable in the `Variables.yml` file.
 
-   > /src/data/globalVariables.yml
+   > /src/data/Variables.yml
 
    ```yaml
    version: 1.0
@@ -25,11 +25,11 @@ Setting a global variable saves global search and replaces later. Declare global
 1. Use the variable inline within your topic content. This example contains two variables.
 
    ```
-   This is version <GlobalVariable name='version'/> of a Doc site created by <GlobalVariable name='hackTeam'/> Hackathon team!
+   This is version <Variable name='version'/> of a Doc site created by <Variable name='hackTeam'/> Hackathon team!
    ```
 
    Sample response:
 
-   This is version <GlobalVariable name='version'/> of a Doc site created by <GlobalVariable name='hackTeam'/> Hackathon team!
+   This is version <Variable name='version'/> of a Doc site created by <Variable name='hackTeam'/> Hackathon team!
 
 <!-- link definitions -->
