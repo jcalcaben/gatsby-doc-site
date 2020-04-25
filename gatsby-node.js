@@ -74,6 +74,7 @@ exports.onCreateWebpackConfig = ({
       alias: {
         DocComponents: path.resolve(__dirname, "src/doc-components/"),
       },
+      symlinks: false,
     },
   })
 }
