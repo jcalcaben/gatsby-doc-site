@@ -65,7 +65,6 @@
     "build:production": "yarn clean && gatsby build --prefix-paths",
     "clean": "yarn reset && gatsby clean",
     "develop": "gatsby develop",
-    "init:dev": "yarn reset && node scripts/devInit.js",
     "prettier": "prettier --write \"src/**/*.{js,jsx,json,md,mdx}\"",
     "prettier:check": "prettier --check \"src/**/*.{js,jsx,json,md,mdx}\"",
     "reset": "rimraf src/external/*",
