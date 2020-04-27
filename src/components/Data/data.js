@@ -7,7 +7,7 @@ const DataContext = React.createContext()
 const DataProvider = props => {
   const data = useStaticQuery(graphql`
     query {
-      pageGroups: allPageGroupsYaml {
+      pageGroups: allPageGroupsYaml(filter: { order: { gt: 0 } }) {
         nodes {
           order
           title
