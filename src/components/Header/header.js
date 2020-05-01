@@ -1,8 +1,8 @@
 import PropTypes from "prop-types"
 import React from "react"
 
-import TabNavigation from "../TabNavigation"
-import WaffleNavigation from "../WaffleNavigation"
+import Navigation from "./navigation"
+import Logo from './logo'
 
 import defaultStyles from "./header.module.css"
 
@@ -10,8 +10,10 @@ const Header = ({ siteTitle, slug }) => {
   const classNames = [defaultStyles.root, "spectrum--light"]
   return (
     <header className={classNames.join(" ")}>
-      <TabNavigation slug={slug} />
-      <WaffleNavigation />
+      <div className={defaultStyles.container}>
+        <Logo to={"/"} title={"Adobe"}/>
+        <Navigation slug={slug} />
+      </div>
     </header>
   )
 }
