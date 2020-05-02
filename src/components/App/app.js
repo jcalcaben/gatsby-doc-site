@@ -34,7 +34,6 @@ const App = props => {
           <Header siteTitle={siteTitle} slug={slug} />
           <div className={defaultStyles.content}>
             <section className={defaultStyles.leftSidebar}>
-              <Search />
               <TreeNavigation slug={slug} />
             </section>
             <div className={defaultStyles.topicContent}>
