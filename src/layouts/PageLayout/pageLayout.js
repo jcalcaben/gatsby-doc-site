@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-import App from "../../components/App"
+import DevDocs from "../../themes/devdocs"
 import SEO from "../../components/seo"
 
 import "../global.css"
@@ -12,9 +12,9 @@ const PageLayout = props => {
   return (
     <>
       <SEO title={title} />
-      <App title={title} slug={slug}>
+      <DevDocs title={title} slug={slug}>
         {children}
-      </App>
+      </DevDocs>
     </>
   )
 }

@@ -13,16 +13,10 @@ import defaultStyles from "./app.module.css"
 import TreeNavigation from "../TreeNavigation"
 import TableOfContents from "../TableOfContents"
 
+import { useSiteTitle } from "../../lib/hooks"
+
 const App = props => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
+  const data = useSiteTitle()
 
   const { currentPageContents, title, slug, children } = props
 

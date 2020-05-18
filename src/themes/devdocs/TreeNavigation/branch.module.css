@@ -1,0 +1,14 @@
+.root {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.expanded {
+  composes: root;
+}
+
+.hidden {
+  composes: root;
+  display: none;
+}

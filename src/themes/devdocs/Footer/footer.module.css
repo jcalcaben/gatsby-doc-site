@@ -1,0 +1,32 @@
+.root,
+.link {
+  font-size: 13px;
+  color: rgb(166, 171, 176);
+  background: rgb(49, 48, 43);
+  text-decoration: none;
+}
+
+.root {
+  padding: 10px;
+  text-align: center;
+}
+
+.links {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px;
+  padding-bottom: 10px;
+}
+
+.linkEntry {
+  display: inline;
+  margin: 5px 10px;
+}
+
+@media (max-width: 768px) {
+  .root {
+    margin: 0px;
+  }
+}
